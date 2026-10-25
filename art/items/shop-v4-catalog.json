@@ -1,0 +1,1746 @@
+{
+  "version": 4,
+  "groups": [
+    {
+      "kind": "sword",
+      "slot": "w",
+      "count": 6,
+      "ids": [
+        "ring_sword",
+        "trilobed_sword",
+        "steel_sword",
+        "red_ring_blade",
+        "silver_leaf_blade",
+        "phoenix_blade"
+      ]
+    },
+    {
+      "kind": "spear",
+      "slot": "w",
+      "count": 6,
+      "ids": [
+        "long_spear",
+        "cav_lance",
+        "red_tassel_spear",
+        "hook_spear",
+        "bronze_spear",
+        "heavy_lance"
+      ]
+    },
+    {
+      "kind": "bow",
+      "slot": "w",
+      "count": 6,
+      "ids": [
+        "maek_bow",
+        "gold_bow",
+        "crossbow",
+        "dark_horn_bow",
+        "bronze_crossbow",
+        "heavy_crossbow"
+      ]
+    },
+    {
+      "kind": "book",
+      "slot": "w",
+      "count": 6,
+      "ids": [
+        "war_book",
+        "gilt_bamboo",
+        "taigong",
+        "march_codex",
+        "formation_scroll",
+        "celestial_codex"
+      ]
+    },
+    {
+      "kind": "talisman",
+      "slot": "w",
+      "count": 6,
+      "ids": [
+        "jade_talisman",
+        "golden_talisman",
+        "sun_talisman",
+        "rain_talisman",
+        "wind_talisman",
+        "star_talisman"
+      ]
+    },
+    {
+      "kind": "siege",
+      "slot": "w",
+      "count": 6,
+      "ids": [
+        "reinforced_catapult",
+        "bronze_catapult",
+        "light_catapult",
+        "torsion_catapult",
+        "traction_catapult",
+        "armored_catapult"
+      ]
+    },
+    {
+      "kind": "armor",
+      "slot": "a",
+      "count": 12,
+      "ids": [
+        "leather_lamellar",
+        "scale_armor",
+        "plate_armor",
+        "bright_armor",
+        "black_iron_armor",
+        "gilt_armor",
+        "bronze_lamellar",
+        "ring_mail",
+        "black_scale",
+        "red_lamellar",
+        "silver_plate",
+        "gold_general_armor"
+      ]
+    },
+    {
+      "kind": "robe",
+      "slot": "a",
+      "count": 12,
+      "ids": [
+        "quilted_coat",
+        "silk_robe",
+        "blue_battle_robe",
+        "embroidered_coat",
+        "crane_robe",
+        "hemp_robe",
+        "green_scholar_robe",
+        "navy_tao_robe",
+        "white_silk_coat",
+        "purple_coat",
+        "crimson_brocade",
+        "gold_ceremonial_robe"
+      ]
+    },
+    {
+      "kind": "mount",
+      "slot": "m",
+      "count": 12,
+      "ids": [
+        "armored_horse",
+        "swift_horse",
+        "breeze_horse",
+        "guardian_horse",
+        "chestnut_mount",
+        "bay_mount",
+        "dun_mount",
+        "dapple_mount",
+        "black_cloud_mount",
+        "palomino_mount",
+        "roan_mount",
+        "silver_mount"
+      ]
+    },
+    {
+      "kind": "ring",
+      "slot": "x",
+      "count": 6,
+      "ids": [
+        "blue_jade_ring",
+        "bronze_ring",
+        "silver_ring",
+        "amber_ring",
+        "garnet_ring",
+        "onyx_ring"
+      ]
+    },
+    {
+      "kind": "necklace",
+      "slot": "x",
+      "count": 6,
+      "ids": [
+        "bronze_necklace",
+        "crescent_necklace",
+        "amber_necklace",
+        "garnet_necklace",
+        "jade_necklace",
+        "sun_necklace"
+      ]
+    },
+    {
+      "kind": "earring",
+      "slot": "x",
+      "count": 6,
+      "ids": [
+        "bronze_hoop_earrings",
+        "silver_moon_earrings",
+        "amber_drop_earrings",
+        "garnet_flower_earrings",
+        "jade_curve_earrings",
+        "gold_sun_earrings"
+      ]
+    },
+    {
+      "kind": "norigae",
+      "slot": "x",
+      "count": 6,
+      "ids": [
+        "knotted_pendant",
+        "butterfly_norigae",
+        "jade_norigae",
+        "amber_norigae",
+        "flower_norigae",
+        "bell_norigae"
+      ]
+    },
+    {
+      "kind": "bracelet",
+      "slot": "x",
+      "count": 6,
+      "ids": [
+        "bronze_band_bracelet",
+        "silver_vine_bracelet",
+        "amber_bead_bracelet",
+        "garnet_bead_bracelet",
+        "jade_bangle_bracelet",
+        "gold_dragon_bracelet"
+      ]
+    }
+  ],
+  "additions": {
+    "red_ring_blade": {
+      "name": "적환도",
+      "slot": "w",
+      "kind": "sword",
+      "price": 390,
+      "b": {
+        "atk": 13
+      },
+      "desc": "적환도 장인이 다듬은 장비. 공격 +13.",
+      "grade": "common",
+      "shopEligible": true
+    },
+    "silver_leaf_blade": {
+      "name": "은엽검",
+      "slot": "w",
+      "kind": "sword",
+      "price": 580,
+      "b": {
+        "atk": 16
+      },
+      "desc": "은엽검 장인이 다듬은 장비. 공격 +16.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "phoenix_blade": {
+      "name": "봉황대도",
+      "slot": "w",
+      "kind": "sword",
+      "price": 770,
+      "b": {
+        "atk": 19,
+        "agi": 3
+      },
+      "desc": "봉황대도 장인이 다듬은 장비. 공격 +19 · 순발 +3.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "red_tassel_spear": {
+      "name": "홍영창",
+      "slot": "w",
+      "kind": "spear",
+      "price": 390,
+      "b": {
+        "atk": 13
+      },
+      "desc": "홍영창 장인이 다듬은 장비. 공격 +13.",
+      "grade": "common",
+      "shopEligible": true
+    },
+    "hook_spear": {
+      "name": "갈고리창",
+      "slot": "w",
+      "kind": "spear",
+      "price": 580,
+      "b": {
+        "atk": 16
+      },
+      "desc": "갈고리창 장인이 다듬은 장비. 공격 +16.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "bronze_spear": {
+      "name": "청동광두창",
+      "slot": "w",
+      "kind": "spear",
+      "price": 770,
+      "b": {
+        "atk": 19,
+        "agi": 3
+      },
+      "desc": "청동광두창 장인이 다듬은 장비. 공격 +19 · 순발 +3.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "heavy_lance": {
+      "name": "철갑장창",
+      "slot": "w",
+      "kind": "spear",
+      "price": 960,
+      "b": {
+        "atk": 22,
+        "agi": 4
+      },
+      "desc": "철갑장창 장인이 다듬은 장비. 공격 +22 · 순발 +4.",
+      "grade": "rare",
+      "shopEligible": true
+    },
+    "dark_horn_bow": {
+      "name": "흑각궁",
+      "slot": "w",
+      "kind": "bow",
+      "price": 390,
+      "b": {
+        "atk": 13
+      },
+      "desc": "흑각궁 장인이 다듬은 장비. 공격 +13.",
+      "grade": "common",
+      "shopEligible": true,
+      "equipLines": [
+        "arc"
+      ]
+    },
+    "bronze_crossbow": {
+      "name": "청동쇠뇌",
+      "slot": "w",
+      "kind": "bow",
+      "price": 580,
+      "b": {
+        "atk": 16
+      },
+      "desc": "청동쇠뇌 장인이 다듬은 장비. 공격 +16.",
+      "grade": "uncommon",
+      "shopEligible": true,
+      "equipLines": [
+        "hcav"
+      ]
+    },
+    "heavy_crossbow": {
+      "name": "금강쇠뇌",
+      "slot": "w",
+      "kind": "bow",
+      "price": 770,
+      "b": {
+        "atk": 19,
+        "agi": 3
+      },
+      "desc": "금강쇠뇌 장인이 다듬은 장비. 공격 +19 · 순발 +3.",
+      "grade": "uncommon",
+      "shopEligible": true,
+      "equipLines": [
+        "hcav"
+      ]
+    },
+    "march_codex": {
+      "name": "행군요결",
+      "slot": "w",
+      "kind": "book",
+      "price": 390,
+      "b": {
+        "spi": 13
+      },
+      "desc": "행군요결 장인이 다듬은 장비. 정신력 +13.",
+      "grade": "common",
+      "shopEligible": true
+    },
+    "formation_scroll": {
+      "name": "진법죽간",
+      "slot": "w",
+      "kind": "book",
+      "price": 580,
+      "b": {
+        "spi": 16
+      },
+      "desc": "진법죽간 장인이 다듬은 장비. 정신력 +16.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "celestial_codex": {
+      "name": "천문병서",
+      "slot": "w",
+      "kind": "book",
+      "price": 770,
+      "b": {
+        "spi": 19,
+        "mor": 3
+      },
+      "desc": "천문병서 장인이 다듬은 장비. 정신력 +19 · 사기 +3.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "sun_talisman": {
+      "name": "일광부",
+      "slot": "w",
+      "kind": "talisman",
+      "price": 390,
+      "b": {
+        "spi": 13
+      },
+      "desc": "일광부 장인이 다듬은 장비. 정신력 +13.",
+      "grade": "common",
+      "shopEligible": true
+    },
+    "rain_talisman": {
+      "name": "청우부",
+      "slot": "w",
+      "kind": "talisman",
+      "price": 580,
+      "b": {
+        "spi": 16
+      },
+      "desc": "청우부 장인이 다듬은 장비. 정신력 +16.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "wind_talisman": {
+      "name": "옥풍부",
+      "slot": "w",
+      "kind": "talisman",
+      "price": 770,
+      "b": {
+        "spi": 19,
+        "agi": 3
+      },
+      "desc": "옥풍부 장인이 다듬은 장비. 정신력 +19 · 순발 +3.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "star_talisman": {
+      "name": "성진부",
+      "slot": "w",
+      "kind": "talisman",
+      "price": 960,
+      "b": {
+        "spi": 22,
+        "agi": 4
+      },
+      "desc": "성진부 장인이 다듬은 장비. 정신력 +22 · 순발 +4.",
+      "grade": "rare",
+      "shopEligible": true
+    },
+    "light_catapult": {
+      "name": "경량투석기",
+      "slot": "w",
+      "kind": "siege",
+      "price": 390,
+      "b": {
+        "atk": 13
+      },
+      "desc": "경량투석기 장인이 다듬은 장비. 공격 +13.",
+      "grade": "common",
+      "shopEligible": true
+    },
+    "torsion_catapult": {
+      "name": "강화비틀림포",
+      "slot": "w",
+      "kind": "siege",
+      "price": 580,
+      "b": {
+        "atk": 16
+      },
+      "desc": "강화비틀림포 장인이 다듬은 장비. 공격 +16.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "traction_catapult": {
+      "name": "철제견인포",
+      "slot": "w",
+      "kind": "siege",
+      "price": 770,
+      "b": {
+        "atk": 19,
+        "agi": 3
+      },
+      "desc": "철제견인포 장인이 다듬은 장비. 공격 +19 · 순발 +3.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "armored_catapult": {
+      "name": "금장중포차",
+      "slot": "w",
+      "kind": "siege",
+      "price": 960,
+      "b": {
+        "atk": 22,
+        "agi": 4
+      },
+      "desc": "금장중포차 장인이 다듬은 장비. 공격 +22 · 순발 +4.",
+      "grade": "rare",
+      "shopEligible": true
+    },
+    "bronze_lamellar": {
+      "name": "청동찰갑",
+      "slot": "a",
+      "kind": "armor",
+      "price": 390,
+      "b": {
+        "def": 8
+      },
+      "desc": "청동찰갑 장인이 다듬은 장비. 방어 +8.",
+      "grade": "common",
+      "shopEligible": true
+    },
+    "ring_mail": {
+      "name": "철환갑",
+      "slot": "a",
+      "kind": "armor",
+      "price": 580,
+      "b": {
+        "def": 10
+      },
+      "desc": "철환갑 장인이 다듬은 장비. 방어 +10.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "black_scale": {
+      "name": "흑린갑",
+      "slot": "a",
+      "kind": "armor",
+      "price": 770,
+      "b": {
+        "def": 12,
+        "mor": 3
+      },
+      "desc": "흑린갑 장인이 다듬은 장비. 방어 +12 · 사기 +3.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "red_lamellar": {
+      "name": "홍피찰갑",
+      "slot": "a",
+      "kind": "armor",
+      "price": 960,
+      "b": {
+        "def": 14,
+        "mor": 4
+      },
+      "desc": "홍피찰갑 장인이 다듬은 장비. 방어 +14 · 사기 +4.",
+      "grade": "rare",
+      "shopEligible": true
+    },
+    "silver_plate": {
+      "name": "은판갑",
+      "slot": "a",
+      "kind": "armor",
+      "price": 1150,
+      "b": {
+        "def": 16,
+        "mor": 5
+      },
+      "desc": "은판갑 장인이 다듬은 장비. 방어 +16 · 사기 +5.",
+      "grade": "rare",
+      "shopEligible": true
+    },
+    "gold_general_armor": {
+      "name": "금문대장갑",
+      "slot": "a",
+      "kind": "armor",
+      "price": 1340,
+      "b": {
+        "def": 18,
+        "mor": 6
+      },
+      "desc": "금문대장갑 장인이 다듬은 장비. 방어 +18 · 사기 +6.",
+      "grade": "rare",
+      "shopEligible": true
+    },
+    "hemp_robe": {
+      "name": "삼베도포",
+      "slot": "a",
+      "kind": "robe",
+      "price": 390,
+      "b": {
+        "def": 8,
+        "spi": 6
+      },
+      "desc": "삼베도포 장인이 다듬은 장비. 방어 +8 · 정신력 +6.",
+      "grade": "common",
+      "shopEligible": true
+    },
+    "green_scholar_robe": {
+      "name": "녹의학포",
+      "slot": "a",
+      "kind": "robe",
+      "price": 580,
+      "b": {
+        "def": 10,
+        "spi": 8
+      },
+      "desc": "녹의학포 장인이 다듬은 장비. 방어 +10 · 정신력 +8.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "navy_tao_robe": {
+      "name": "현청도복",
+      "slot": "a",
+      "kind": "robe",
+      "price": 770,
+      "b": {
+        "def": 12,
+        "spi": 10
+      },
+      "desc": "현청도복 장인이 다듬은 장비. 방어 +12 · 정신력 +10.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "white_silk_coat": {
+      "name": "백견포",
+      "slot": "a",
+      "kind": "robe",
+      "price": 960,
+      "b": {
+        "def": 14,
+        "spi": 12
+      },
+      "desc": "백견포 장인이 다듬은 장비. 방어 +14 · 정신력 +12.",
+      "grade": "rare",
+      "shopEligible": true
+    },
+    "purple_coat": {
+      "name": "자문포",
+      "slot": "a",
+      "kind": "robe",
+      "price": 1150,
+      "b": {
+        "def": 16,
+        "spi": 14
+      },
+      "desc": "자문포 장인이 다듬은 장비. 방어 +16 · 정신력 +14.",
+      "grade": "rare",
+      "shopEligible": true
+    },
+    "crimson_brocade": {
+      "name": "홍금전포",
+      "slot": "a",
+      "kind": "robe",
+      "price": 1340,
+      "b": {
+        "def": 18,
+        "spi": 16
+      },
+      "desc": "홍금전포 장인이 다듬은 장비. 방어 +18 · 정신력 +16.",
+      "grade": "rare",
+      "shopEligible": true
+    },
+    "gold_ceremonial_robe": {
+      "name": "금수예복",
+      "slot": "a",
+      "kind": "robe",
+      "price": 1530,
+      "b": {
+        "def": 20,
+        "spi": 18
+      },
+      "desc": "금수예복 장인이 다듬은 장비. 방어 +20 · 정신력 +18.",
+      "grade": "rare",
+      "shopEligible": true
+    },
+    "chestnut_mount": {
+      "name": "적갈마",
+      "slot": "m",
+      "kind": "mount",
+      "price": 550,
+      "b": {
+        "mov": 1,
+        "agi": 3
+      },
+      "desc": "적갈마 장인이 다듬은 장비. 이동력 +1 · 순발 +3.",
+      "grade": "common",
+      "shopEligible": true,
+      "equipLines": [
+        "lord",
+        "cav",
+        "hcav"
+      ]
+    },
+    "bay_mount": {
+      "name": "녹안마",
+      "slot": "m",
+      "kind": "mount",
+      "price": 750,
+      "b": {
+        "mov": 1,
+        "agi": 4
+      },
+      "desc": "녹안마 장인이 다듬은 장비. 이동력 +1 · 순발 +4.",
+      "grade": "uncommon",
+      "shopEligible": true,
+      "equipLines": [
+        "lord",
+        "cav",
+        "hcav"
+      ]
+    },
+    "dun_mount": {
+      "name": "황토마",
+      "slot": "m",
+      "kind": "mount",
+      "price": 950,
+      "b": {
+        "mov": 1,
+        "agi": 5
+      },
+      "desc": "황토마 장인이 다듬은 장비. 이동력 +1 · 순발 +5.",
+      "grade": "uncommon",
+      "shopEligible": true,
+      "equipLines": [
+        "lord",
+        "cav",
+        "hcav"
+      ]
+    },
+    "dapple_mount": {
+      "name": "청안총마",
+      "slot": "m",
+      "kind": "mount",
+      "price": 1150,
+      "b": {
+        "mov": 1,
+        "agi": 6
+      },
+      "desc": "청안총마 장인이 다듬은 장비. 이동력 +1 · 순발 +6.",
+      "grade": "rare",
+      "shopEligible": true,
+      "equipLines": [
+        "lord",
+        "cav",
+        "hcav"
+      ]
+    },
+    "black_cloud_mount": {
+      "name": "흑운마",
+      "slot": "m",
+      "kind": "mount",
+      "price": 1350,
+      "b": {
+        "mov": 2,
+        "agi": 7,
+        "def": 3
+      },
+      "desc": "흑운마 장인이 다듬은 장비. 이동력 +2 · 순발 +7 · 방어 +3.",
+      "grade": "rare",
+      "shopEligible": true,
+      "equipLines": [
+        "lord",
+        "cav",
+        "hcav"
+      ]
+    },
+    "palomino_mount": {
+      "name": "금갈마",
+      "slot": "m",
+      "kind": "mount",
+      "price": 1550,
+      "b": {
+        "mov": 2,
+        "agi": 8,
+        "def": 4
+      },
+      "desc": "금갈마 장인이 다듬은 장비. 이동력 +2 · 순발 +8 · 방어 +4.",
+      "grade": "rare",
+      "shopEligible": true,
+      "equipLines": [
+        "lord",
+        "cav",
+        "hcav"
+      ]
+    },
+    "roan_mount": {
+      "name": "적총갑마",
+      "slot": "m",
+      "kind": "mount",
+      "price": 1750,
+      "b": {
+        "mov": 2,
+        "agi": 9,
+        "def": 5
+      },
+      "desc": "적총갑마 장인이 다듬은 장비. 이동력 +2 · 순발 +9 · 방어 +5.",
+      "grade": "rare",
+      "shopEligible": true,
+      "equipLines": [
+        "lord",
+        "cav",
+        "hcav"
+      ]
+    },
+    "silver_mount": {
+      "name": "은총준마",
+      "slot": "m",
+      "kind": "mount",
+      "price": 1950,
+      "b": {
+        "mov": 2,
+        "agi": 10,
+        "def": 6
+      },
+      "desc": "은총준마 장인이 다듬은 장비. 이동력 +2 · 순발 +10 · 방어 +6.",
+      "grade": "rare",
+      "shopEligible": true,
+      "equipLines": [
+        "lord",
+        "cav",
+        "hcav"
+      ]
+    },
+    "bronze_ring": {
+      "name": "청동반지",
+      "slot": "x",
+      "kind": "ring",
+      "price": 230,
+      "b": {
+        "spi": 5
+      },
+      "desc": "청동반지 장인이 다듬은 장비. 정신력 +5.",
+      "grade": "common",
+      "shopEligible": true
+    },
+    "silver_ring": {
+      "name": "은문반지",
+      "slot": "x",
+      "kind": "ring",
+      "price": 360,
+      "b": {
+        "spi": 7
+      },
+      "desc": "은문반지 장인이 다듬은 장비. 정신력 +7.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "amber_ring": {
+      "name": "호박반지",
+      "slot": "x",
+      "kind": "ring",
+      "price": 490,
+      "b": {
+        "spi": 9,
+        "agi": 3
+      },
+      "desc": "호박반지 장인이 다듬은 장비. 정신력 +9 · 순발 +3.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "garnet_ring": {
+      "name": "홍석반지",
+      "slot": "x",
+      "kind": "ring",
+      "price": 620,
+      "b": {
+        "spi": 11,
+        "agi": 4
+      },
+      "desc": "홍석반지 장인이 다듬은 장비. 정신력 +11 · 순발 +4.",
+      "grade": "rare",
+      "shopEligible": true
+    },
+    "onyx_ring": {
+      "name": "흑요반지",
+      "slot": "x",
+      "kind": "ring",
+      "price": 750,
+      "b": {
+        "spi": 13,
+        "agi": 5
+      },
+      "desc": "흑요반지 장인이 다듬은 장비. 정신력 +13 · 순발 +5.",
+      "grade": "rare",
+      "shopEligible": true
+    },
+    "bronze_necklace": {
+      "name": "청동원패목걸이",
+      "slot": "x",
+      "kind": "necklace",
+      "price": 230,
+      "b": {
+        "def": 5
+      },
+      "desc": "청동원패목걸이 장인이 다듬은 장비. 방어 +5.",
+      "grade": "common",
+      "shopEligible": true
+    },
+    "crescent_necklace": {
+      "name": "은월목걸이",
+      "slot": "x",
+      "kind": "necklace",
+      "price": 360,
+      "b": {
+        "def": 7
+      },
+      "desc": "은월목걸이 장인이 다듬은 장비. 방어 +7.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "amber_necklace": {
+      "name": "호박구슬목걸이",
+      "slot": "x",
+      "kind": "necklace",
+      "price": 490,
+      "b": {
+        "def": 9,
+        "spi": 3
+      },
+      "desc": "호박구슬목걸이 장인이 다듬은 장비. 방어 +9 · 정신력 +3.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "garnet_necklace": {
+      "name": "홍옥목걸이",
+      "slot": "x",
+      "kind": "necklace",
+      "price": 620,
+      "b": {
+        "def": 11,
+        "spi": 4
+      },
+      "desc": "홍옥목걸이 장인이 다듬은 장비. 방어 +11 · 정신력 +4.",
+      "grade": "rare",
+      "shopEligible": true
+    },
+    "jade_necklace": {
+      "name": "비취목걸이",
+      "slot": "x",
+      "kind": "necklace",
+      "price": 750,
+      "b": {
+        "def": 13,
+        "spi": 5
+      },
+      "desc": "비취목걸이 장인이 다듬은 장비. 방어 +13 · 정신력 +5.",
+      "grade": "rare",
+      "shopEligible": true
+    },
+    "sun_necklace": {
+      "name": "금일목걸이",
+      "slot": "x",
+      "kind": "necklace",
+      "price": 880,
+      "b": {
+        "def": 15,
+        "spi": 6
+      },
+      "desc": "금일목걸이 장인이 다듬은 장비. 방어 +15 · 정신력 +6.",
+      "grade": "rare",
+      "shopEligible": true
+    },
+    "butterfly_norigae": {
+      "name": "홍접노리개",
+      "slot": "x",
+      "kind": "norigae",
+      "price": 230,
+      "b": {
+        "mor": 5
+      },
+      "desc": "홍접노리개 장인이 다듬은 장비. 사기 +5.",
+      "grade": "common",
+      "shopEligible": true
+    },
+    "jade_norigae": {
+      "name": "청옥노리개",
+      "slot": "x",
+      "kind": "norigae",
+      "price": 360,
+      "b": {
+        "mor": 7
+      },
+      "desc": "청옥노리개 장인이 다듬은 장비. 사기 +7.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "amber_norigae": {
+      "name": "황박노리개",
+      "slot": "x",
+      "kind": "norigae",
+      "price": 490,
+      "b": {
+        "mor": 9,
+        "spi": 3
+      },
+      "desc": "황박노리개 장인이 다듬은 장비. 사기 +9 · 정신력 +3.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "flower_norigae": {
+      "name": "자화노리개",
+      "slot": "x",
+      "kind": "norigae",
+      "price": 620,
+      "b": {
+        "mor": 11,
+        "spi": 4
+      },
+      "desc": "자화노리개 장인이 다듬은 장비. 사기 +11 · 정신력 +4.",
+      "grade": "rare",
+      "shopEligible": true
+    },
+    "bell_norigae": {
+      "name": "금령노리개",
+      "slot": "x",
+      "kind": "norigae",
+      "price": 750,
+      "b": {
+        "mor": 13,
+        "spi": 5
+      },
+      "desc": "금령노리개 장인이 다듬은 장비. 사기 +13 · 정신력 +5.",
+      "grade": "rare",
+      "shopEligible": true
+    },
+    "bronze_hoop_earrings": {
+      "name": "청동고리 귀걸이",
+      "slot": "x",
+      "kind": "earring",
+      "price": 230,
+      "b": {
+        "agi": 4
+      },
+      "desc": "가벼운 청동 고리 한 쌍. 순발 +4.",
+      "grade": "common",
+      "shopEligible": true
+    },
+    "silver_moon_earrings": {
+      "name": "은월 귀걸이",
+      "slot": "x",
+      "kind": "earring",
+      "price": 360,
+      "b": {
+        "agi": 6
+      },
+      "desc": "초승달 은 장식을 단 귀걸이. 순발 +6.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "amber_drop_earrings": {
+      "name": "호박방울 귀걸이",
+      "slot": "x",
+      "kind": "earring",
+      "price": 490,
+      "b": {
+        "agi": 8,
+        "spi": 2
+      },
+      "desc": "호박 방울이 흔들리는 귀걸이. 순발 +8 · 정신력 +2.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "garnet_flower_earrings": {
+      "name": "홍옥꽃 귀걸이",
+      "slot": "x",
+      "kind": "earring",
+      "price": 620,
+      "b": {
+        "agi": 10,
+        "spi": 3
+      },
+      "desc": "홍옥 꽃잎을 세공한 귀걸이. 순발 +10 · 정신력 +3.",
+      "grade": "rare",
+      "shopEligible": true
+    },
+    "jade_curve_earrings": {
+      "name": "비취곡옥 귀걸이",
+      "slot": "x",
+      "kind": "earring",
+      "price": 750,
+      "b": {
+        "agi": 12,
+        "spi": 4
+      },
+      "desc": "푸른 곡옥을 매단 귀걸이. 순발 +12 · 정신력 +4.",
+      "grade": "rare",
+      "shopEligible": true
+    },
+    "gold_sun_earrings": {
+      "name": "금일 귀걸이",
+      "slot": "x",
+      "kind": "earring",
+      "price": 880,
+      "b": {
+        "agi": 14,
+        "spi": 5
+      },
+      "desc": "해 문양과 짧은 금사슬을 단 귀걸이. 순발 +14 · 정신력 +5.",
+      "grade": "rare",
+      "shopEligible": true
+    },
+    "bronze_band_bracelet": {
+      "name": "청동문 팔찌",
+      "slot": "x",
+      "kind": "bracelet",
+      "price": 230,
+      "b": {
+        "def": 4
+      },
+      "desc": "잔무늬를 새긴 청동 고리 팔찌. 방어 +4.",
+      "grade": "common",
+      "shopEligible": true
+    },
+    "silver_vine_bracelet": {
+      "name": "은덩굴 팔찌",
+      "slot": "x",
+      "kind": "bracelet",
+      "price": 360,
+      "b": {
+        "def": 6
+      },
+      "desc": "덩굴 무늬가 이어지는 은팔찌. 방어 +6.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "amber_bead_bracelet": {
+      "name": "호박구슬 팔찌",
+      "slot": "x",
+      "kind": "bracelet",
+      "price": 490,
+      "b": {
+        "def": 8,
+        "mor": 2
+      },
+      "desc": "따뜻한 빛의 호박 구슬을 꿴 팔찌. 방어 +8 · 사기 +2.",
+      "grade": "uncommon",
+      "shopEligible": true
+    },
+    "garnet_bead_bracelet": {
+      "name": "홍옥구슬 팔찌",
+      "slot": "x",
+      "kind": "bracelet",
+      "price": 620,
+      "b": {
+        "def": 10,
+        "mor": 3
+      },
+      "desc": "홍옥 구슬 사이에 금 장식을 넣은 팔찌. 방어 +10 · 사기 +3.",
+      "grade": "rare",
+      "shopEligible": true
+    },
+    "jade_bangle_bracelet": {
+      "name": "비취환 팔찌",
+      "slot": "x",
+      "kind": "bracelet",
+      "price": 750,
+      "b": {
+        "def": 12,
+        "mor": 4
+      },
+      "desc": "매끈한 비취 고리에 금 테를 두른 팔찌. 방어 +12 · 사기 +4.",
+      "grade": "rare",
+      "shopEligible": true
+    },
+    "gold_dragon_bracelet": {
+      "name": "금룡문 팔찌",
+      "slot": "x",
+      "kind": "bracelet",
+      "price": 880,
+      "b": {
+        "def": 14,
+        "mor": 5
+      },
+      "desc": "마주 보는 용 무늬를 새긴 금팔찌. 방어 +14 · 사기 +5.",
+      "grade": "rare",
+      "shopEligible": true
+    }
+  },
+  "art": [
+    {
+      "id": "red_ring_blade",
+      "kind": "sword",
+      "index": 0,
+      "file": "shop-v4-sword.png",
+      "columns": 2,
+      "rows": 2
+    },
+    {
+      "id": "silver_leaf_blade",
+      "kind": "sword",
+      "index": 1,
+      "file": "shop-v4-sword.png",
+      "columns": 2,
+      "rows": 2
+    },
+    {
+      "id": "phoenix_blade",
+      "kind": "sword",
+      "index": 2,
+      "file": "shop-v4-sword.png",
+      "columns": 2,
+      "rows": 2
+    },
+    {
+      "id": "red_tassel_spear",
+      "kind": "spear",
+      "index": 0,
+      "file": "shop-v4-spear.png",
+      "columns": 2,
+      "rows": 2
+    },
+    {
+      "id": "hook_spear",
+      "kind": "spear",
+      "index": 1,
+      "file": "shop-v4-spear.png",
+      "columns": 2,
+      "rows": 2
+    },
+    {
+      "id": "bronze_spear",
+      "kind": "spear",
+      "index": 2,
+      "file": "shop-v4-spear.png",
+      "columns": 2,
+      "rows": 2
+    },
+    {
+      "id": "heavy_lance",
+      "kind": "spear",
+      "index": 3,
+      "file": "shop-v4-spear.png",
+      "columns": 2,
+      "rows": 2
+    },
+    {
+      "id": "dark_horn_bow",
+      "kind": "bow",
+      "index": 0,
+      "file": "shop-v4-bow.png",
+      "columns": 2,
+      "rows": 2
+    },
+    {
+      "id": "bronze_crossbow",
+      "kind": "bow",
+      "index": 1,
+      "file": "shop-v4-bow.png",
+      "columns": 2,
+      "rows": 2
+    },
+    {
+      "id": "heavy_crossbow",
+      "kind": "bow",
+      "index": 2,
+      "file": "shop-v4-bow.png",
+      "columns": 2,
+      "rows": 2
+    },
+    {
+      "id": "march_codex",
+      "kind": "book",
+      "index": 0,
+      "file": "shop-v4-book.png",
+      "columns": 2,
+      "rows": 2
+    },
+    {
+      "id": "formation_scroll",
+      "kind": "book",
+      "index": 1,
+      "file": "shop-v4-book.png",
+      "columns": 2,
+      "rows": 2
+    },
+    {
+      "id": "celestial_codex",
+      "kind": "book",
+      "index": 2,
+      "file": "shop-v4-book.png",
+      "columns": 2,
+      "rows": 2
+    },
+    {
+      "id": "sun_talisman",
+      "kind": "talisman",
+      "index": 0,
+      "file": "shop-v4-talisman.png",
+      "columns": 2,
+      "rows": 2
+    },
+    {
+      "id": "rain_talisman",
+      "kind": "talisman",
+      "index": 1,
+      "file": "shop-v4-talisman.png",
+      "columns": 2,
+      "rows": 2
+    },
+    {
+      "id": "wind_talisman",
+      "kind": "talisman",
+      "index": 2,
+      "file": "shop-v4-talisman.png",
+      "columns": 2,
+      "rows": 2
+    },
+    {
+      "id": "star_talisman",
+      "kind": "talisman",
+      "index": 3,
+      "file": "shop-v4-talisman.png",
+      "columns": 2,
+      "rows": 2
+    },
+    {
+      "id": "light_catapult",
+      "kind": "siege",
+      "index": 0,
+      "file": "shop-v4-siege.png",
+      "columns": 2,
+      "rows": 2
+    },
+    {
+      "id": "torsion_catapult",
+      "kind": "siege",
+      "index": 1,
+      "file": "shop-v4-siege.png",
+      "columns": 2,
+      "rows": 2
+    },
+    {
+      "id": "traction_catapult",
+      "kind": "siege",
+      "index": 2,
+      "file": "shop-v4-siege.png",
+      "columns": 2,
+      "rows": 2
+    },
+    {
+      "id": "armored_catapult",
+      "kind": "siege",
+      "index": 3,
+      "file": "shop-v4-siege.png",
+      "columns": 2,
+      "rows": 2
+    },
+    {
+      "id": "bronze_lamellar",
+      "kind": "armor",
+      "index": 0,
+      "file": "shop-v4-armor.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "ring_mail",
+      "kind": "armor",
+      "index": 1,
+      "file": "shop-v4-armor.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "black_scale",
+      "kind": "armor",
+      "index": 2,
+      "file": "shop-v4-armor.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "red_lamellar",
+      "kind": "armor",
+      "index": 3,
+      "file": "shop-v4-armor.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "silver_plate",
+      "kind": "armor",
+      "index": 4,
+      "file": "shop-v4-armor.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "gold_general_armor",
+      "kind": "armor",
+      "index": 5,
+      "file": "shop-v4-armor.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "hemp_robe",
+      "kind": "robe",
+      "index": 0,
+      "file": "shop-v4-robe.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "green_scholar_robe",
+      "kind": "robe",
+      "index": 1,
+      "file": "shop-v4-robe.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "navy_tao_robe",
+      "kind": "robe",
+      "index": 2,
+      "file": "shop-v4-robe.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "white_silk_coat",
+      "kind": "robe",
+      "index": 3,
+      "file": "shop-v4-robe.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "purple_coat",
+      "kind": "robe",
+      "index": 4,
+      "file": "shop-v4-robe.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "crimson_brocade",
+      "kind": "robe",
+      "index": 5,
+      "file": "shop-v4-robe.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "gold_ceremonial_robe",
+      "kind": "robe",
+      "index": 6,
+      "file": "shop-v4-robe.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "chestnut_mount",
+      "kind": "mount",
+      "index": 0,
+      "file": "shop-v4-mount.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "bay_mount",
+      "kind": "mount",
+      "index": 1,
+      "file": "shop-v4-mount.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "dun_mount",
+      "kind": "mount",
+      "index": 2,
+      "file": "shop-v4-mount.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "dapple_mount",
+      "kind": "mount",
+      "index": 3,
+      "file": "shop-v4-mount.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "black_cloud_mount",
+      "kind": "mount",
+      "index": 4,
+      "file": "shop-v4-mount.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "palomino_mount",
+      "kind": "mount",
+      "index": 5,
+      "file": "shop-v4-mount.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "roan_mount",
+      "kind": "mount",
+      "index": 6,
+      "file": "shop-v4-mount.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "silver_mount",
+      "kind": "mount",
+      "index": 7,
+      "file": "shop-v4-mount.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "bronze_ring",
+      "kind": "ring",
+      "index": 0,
+      "file": "shop-v4-ring.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "silver_ring",
+      "kind": "ring",
+      "index": 1,
+      "file": "shop-v4-ring.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "amber_ring",
+      "kind": "ring",
+      "index": 2,
+      "file": "shop-v4-ring.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "garnet_ring",
+      "kind": "ring",
+      "index": 3,
+      "file": "shop-v4-ring.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "onyx_ring",
+      "kind": "ring",
+      "index": 4,
+      "file": "shop-v4-ring.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "bronze_necklace",
+      "kind": "necklace",
+      "index": 0,
+      "file": "shop-v4-necklace.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "crescent_necklace",
+      "kind": "necklace",
+      "index": 1,
+      "file": "shop-v4-necklace.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "amber_necklace",
+      "kind": "necklace",
+      "index": 2,
+      "file": "shop-v4-necklace.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "garnet_necklace",
+      "kind": "necklace",
+      "index": 3,
+      "file": "shop-v4-necklace.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "jade_necklace",
+      "kind": "necklace",
+      "index": 4,
+      "file": "shop-v4-necklace.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "sun_necklace",
+      "kind": "necklace",
+      "index": 5,
+      "file": "shop-v4-necklace.png",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "butterfly_norigae",
+      "kind": "norigae",
+      "index": 0,
+      "file": "shop-v4-norigae.png",
+      "columns": 5,
+      "rows": 1
+    },
+    {
+      "id": "jade_norigae",
+      "kind": "norigae",
+      "index": 1,
+      "file": "shop-v4-norigae.png",
+      "columns": 5,
+      "rows": 1
+    },
+    {
+      "id": "amber_norigae",
+      "kind": "norigae",
+      "index": 2,
+      "file": "shop-v4-norigae.png",
+      "columns": 5,
+      "rows": 1
+    },
+    {
+      "id": "flower_norigae",
+      "kind": "norigae",
+      "index": 3,
+      "file": "shop-v4-norigae.png",
+      "columns": 5,
+      "rows": 1
+    },
+    {
+      "id": "bell_norigae",
+      "kind": "norigae",
+      "index": 4,
+      "file": "shop-v4-norigae.png",
+      "columns": 5,
+      "rows": 1
+    }
+  ],
+  "shopIds": [
+    "ring_sword",
+    "trilobed_sword",
+    "steel_sword",
+    "red_ring_blade",
+    "silver_leaf_blade",
+    "phoenix_blade",
+    "long_spear",
+    "cav_lance",
+    "red_tassel_spear",
+    "hook_spear",
+    "bronze_spear",
+    "heavy_lance",
+    "maek_bow",
+    "gold_bow",
+    "crossbow",
+    "dark_horn_bow",
+    "bronze_crossbow",
+    "heavy_crossbow",
+    "war_book",
+    "gilt_bamboo",
+    "taigong",
+    "march_codex",
+    "formation_scroll",
+    "celestial_codex",
+    "jade_talisman",
+    "golden_talisman",
+    "sun_talisman",
+    "rain_talisman",
+    "wind_talisman",
+    "star_talisman",
+    "reinforced_catapult",
+    "bronze_catapult",
+    "light_catapult",
+    "torsion_catapult",
+    "traction_catapult",
+    "armored_catapult",
+    "leather_lamellar",
+    "scale_armor",
+    "plate_armor",
+    "bright_armor",
+    "black_iron_armor",
+    "gilt_armor",
+    "bronze_lamellar",
+    "ring_mail",
+    "black_scale",
+    "red_lamellar",
+    "silver_plate",
+    "gold_general_armor",
+    "quilted_coat",
+    "silk_robe",
+    "blue_battle_robe",
+    "embroidered_coat",
+    "crane_robe",
+    "hemp_robe",
+    "green_scholar_robe",
+    "navy_tao_robe",
+    "white_silk_coat",
+    "purple_coat",
+    "crimson_brocade",
+    "gold_ceremonial_robe",
+    "armored_horse",
+    "swift_horse",
+    "breeze_horse",
+    "guardian_horse",
+    "chestnut_mount",
+    "bay_mount",
+    "dun_mount",
+    "dapple_mount",
+    "black_cloud_mount",
+    "palomino_mount",
+    "roan_mount",
+    "silver_mount",
+    "blue_jade_ring",
+    "bronze_ring",
+    "silver_ring",
+    "amber_ring",
+    "garnet_ring",
+    "onyx_ring",
+    "bronze_necklace",
+    "crescent_necklace",
+    "amber_necklace",
+    "garnet_necklace",
+    "jade_necklace",
+    "sun_necklace",
+    "bronze_hoop_earrings",
+    "silver_moon_earrings",
+    "amber_drop_earrings",
+    "garnet_flower_earrings",
+    "jade_curve_earrings",
+    "gold_sun_earrings",
+    "knotted_pendant",
+    "butterfly_norigae",
+    "jade_norigae",
+    "amber_norigae",
+    "flower_norigae",
+    "bell_norigae",
+    "bronze_band_bracelet",
+    "silver_vine_bracelet",
+    "amber_bead_bracelet",
+    "garnet_bead_bracelet",
+    "jade_bangle_bracelet",
+    "gold_dragon_bracelet",
+    "bakkasu",
+    "candy",
+    "rice_ball",
+    "foxtail_rice",
+    "millet_rice",
+    "ration_cake",
+    "dried_meat",
+    "honey_preserves",
+    "scorched_rice_water",
+    "barley_tea",
+    "omija_drink",
+    "jujube_tea",
+    "ginger_tea",
+    "mugwort_broth",
+    "bean",
+    "oat_porridge",
+    "barley_rice",
+    "white_rice",
+    "herb",
+    "ginseng",
+    "ginseng_elixir",
+    "wine",
+    "honey",
+    "antidote",
+    "chestnut_pouch",
+    "dried_jujubes",
+    "lotus_rice",
+    "pine_tea",
+    "plum_syrup",
+    "mugwort_steam"
+  ]
+}

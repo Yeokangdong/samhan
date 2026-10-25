@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "generator": "built-in image_gen.imagegen",
+  "reference": "user-reference.png",
+  "assets": [
+    {
+      "id": "range-background",
+      "refs": [
+        "D:/99.Work/Samhan_Girls/art/minigames/archery-play-v1/user-reference.png"
+      ],
+      "transparent": false,
+      "prompt": "Game asset for the existing Korean Three Kingdoms girl heroes. Reference 1 is a UI composition and hand-painted style reference ONLY. Other reference is exact character facial/hair identity. Warm clean brown outlines, detailed hand-painted anime coloring, adorable 3-head-tall SD proportions, ornate ancient Korean equipment. No lettering, captions, panels, HUD, logos, watermarks, pixel art, photorealism or 3D. Create ONLY the background environment of this reference, a wide panoramic 2:1 ancient Korean fortress archery training arena. Keep the stage empty of characters and targets. Traditional tiled castle walls, green mountains and blue cloudy sky at middle-upper distance, canvas camp tents and timber fence in middle distance at 55% image height, large flat sandy training ground across lower 40%. Pavilion timber posts frame the extreme left and right 4%, elegant red fabric canopy frames top 5%, blurred timber railings only at extreme bottom 5%. Bright warm afternoon. Empty visual space at top-left/top-center for live UI; UI is NOT part of this artwork. No targets, no arrows, no people, no horse, no emblems or writing on the sparse plain colored banners. Detailed anime painterly background, entire canvas filled.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-71f771d6-0c44-48c6-adbc-afdae1dc2358.png",
+      "file": "range-background.png"
+    },
+    {
+      "id": "kim-archer",
+      "refs": [
+        "D:/99.Work/Samhan_Girls/art/minigames/archery-play-v1/user-reference.png",
+        "D:/99.Work/Samhan_Girls/art/ui/hero-identity-v4/samhan_kim-reference.png"
+      ],
+      "transparent": true,
+      "prompt": "Game asset for the existing Korean Three Kingdoms girl heroes. Reference 1 is a UI composition and hand-painted style reference ONLY. Other reference is exact character facial/hair identity. Warm clean brown outlines, detailed hand-painted anime coloring, adorable 3-head-tall SD proportions, ornate ancient Korean equipment. No lettering, captions, panels, HUD, logos, watermarks, pixel art, photorealism or 3D. Transparent-background cutout sprite, only ONE complete rider and ONE complete pure WHITE horse with white mane/tail. Kim Yushin with amber eyes, chestnut high ponytail, branching golden flower head ornament, golden lamellar armor, ivory sleeves and yellow cape. Show side-view three-quarter profile, horse galloping to the RIGHT, rider sitting firmly in saddle, aiming a traditional curved bow horizontally RIGHT with left arm extended and right hand drawing string at cheek, arrow shaft points RIGHT. Rider and horse seen from left side; face clearly visible looking right, not a front-facing formation pose. BOTH hands correctly hold bow and string. No sword or shield in hands. Entire horse ears, mane, hooves, flowing tail, rider's ponytail/braids/cape and bow contained with 8% transparent padding. Compact readable silhouette for game sprite, landscape 4:3. No ground, cast shadow, scenery, objects, particles or other characters. This is a new minigame pose only; preserve character identity from exact portrait reference. Genuine alpha transparency, no checkerboard.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-eae1f624-93c7-4bfe-9a3f-351755f0bb70.png",
+      "file": "kim-archer.png"
+    },
+    {
+      "id": "gye-archer",
+      "refs": [
+        "D:/99.Work/Samhan_Girls/art/minigames/archery-play-v1/user-reference.png",
+        "D:/99.Work/Samhan_Girls/art/ui/hero-identity-v4/samhan_gye-reference.png"
+      ],
+      "transparent": true,
+      "prompt": "Game asset for the existing Korean Three Kingdoms girl heroes. Reference 1 is a UI composition and hand-painted style reference ONLY. Other reference is exact character facial/hair identity. Warm clean brown outlines, detailed hand-painted anime coloring, adorable 3-head-tall SD proportions, ornate ancient Korean equipment. No lettering, captions, panels, HUD, logos, watermarks, pixel art, photorealism or 3D. Transparent-background cutout sprite, only ONE complete rider and ONE complete pure WHITE horse with white mane/tail. Gyebaek with violet eyes, dark navy-purple TWO LONG BRAIDS, blue bows and gold lotus hairpins, blue-gold lamellar armor and ivory sleeves. Show side-view three-quarter profile, horse galloping to the RIGHT, rider sitting firmly in saddle, aiming a traditional curved bow horizontally RIGHT with left arm extended and right hand drawing string at cheek, arrow shaft points RIGHT. Rider and horse seen from left side; face clearly visible looking right, not a front-facing formation pose. BOTH hands correctly hold bow and string. No sword or shield in hands. Entire horse ears, mane, hooves, flowing tail, rider's ponytail/braids/cape and bow contained with 8% transparent padding. Compact readable silhouette for game sprite, landscape 4:3. No ground, cast shadow, scenery, objects, particles or other characters. This is a new minigame pose only; preserve character identity from exact portrait reference. Genuine alpha transparency, no checkerboard.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-4121d298-a07a-41ab-9f98-215b927b4550.png",
+      "file": "gye-archer.png"
+    },
+    {
+      "id": "yeon-archer",
+      "refs": [
+        "D:/99.Work/Samhan_Girls/art/minigames/archery-play-v1/user-reference.png",
+        "D:/99.Work/Samhan_Girls/art/ui/hero-identity-v4/samhan_yeon-reference.png"
+      ],
+      "transparent": true,
+      "prompt": "Game asset for the existing Korean Three Kingdoms girl heroes. Reference 1 is a UI composition and hand-painted style reference ONLY. Other reference is exact character facial/hair identity. Warm clean brown outlines, detailed hand-painted anime coloring, adorable 3-head-tall SD proportions, ornate ancient Korean equipment. No lettering, captions, panels, HUD, logos, watermarks, pixel art, photorealism or 3D. Transparent-background cutout sprite, only ONE complete rider and ONE complete pure WHITE horse with white mane/tail. Yeon Gaesomun with red eyes, SHORT JET BLACK BLUNT BOB, gold bird hairpin and red ribbon, crimson black gold armor and ivory sleeves. Show side-view three-quarter profile, horse galloping to the RIGHT, rider sitting firmly in saddle, aiming a traditional curved bow horizontally RIGHT with left arm extended and right hand drawing string at cheek, arrow shaft points RIGHT. Rider and horse seen from left side; face clearly visible looking right, not a front-facing formation pose. BOTH hands correctly hold bow and string. No sword or shield in hands. Entire horse ears, mane, hooves, flowing tail, rider's ponytail/braids/cape and bow contained with 8% transparent padding. Compact readable silhouette for game sprite, landscape 4:3. No ground, cast shadow, scenery, objects, particles or other characters. This is a new minigame pose only; preserve character identity from exact portrait reference. Genuine alpha transparency, no checkerboard.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-23be52c3-3a10-4c41-bde0-93b777eaeea5.png",
+      "file": "yeon-archer.png"
+    }
+  ]
+}

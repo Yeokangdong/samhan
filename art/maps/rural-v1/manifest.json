@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "generator": "pipeline/blender/build_rural_visuals.py",
+  "projection": "orthographic 2:1",
+  "visualOnly": true,
+  "assets": [
+    {
+      "id": "farm-grain-a",
+      "file": "farm-grain-a.png",
+      "source": "assets/blender/rural-v1/farm-grain-a.blend",
+      "axis": 0,
+      "kind": "farm"
+    },
+    {
+      "id": "farm-grain-b",
+      "file": "farm-grain-b.png",
+      "source": "assets/blender/rural-v1/farm-grain-b.blend",
+      "axis": 1,
+      "kind": "farm"
+    },
+    {
+      "id": "farm-garden-a",
+      "file": "farm-garden-a.png",
+      "source": "assets/blender/rural-v1/farm-garden-a.blend",
+      "axis": 0,
+      "kind": "farm"
+    },
+    {
+      "id": "farm-garden-b",
+      "file": "farm-garden-b.png",
+      "source": "assets/blender/rural-v1/farm-garden-b.blend",
+      "axis": 1,
+      "kind": "farm"
+    },
+    {
+      "id": "bridge-a",
+      "file": "bridge-a.png",
+      "source": "assets/blender/rural-v1/bridge-a.blend",
+      "axis": 0,
+      "kind": "bridge"
+    },
+    {
+      "id": "bridge-b",
+      "file": "bridge-b.png",
+      "source": "assets/blender/rural-v1/bridge-b.blend",
+      "axis": 1,
+      "kind": "bridge"
+    },
+    {
+      "id": "crop-barley",
+      "file": "crop-barley.png",
+      "source": "assets/blender/rural-v1/crop-barley.blend",
+      "axis": 0,
+      "kind": "crop"
+    },
+    {
+      "id": "crop-millet",
+      "file": "crop-millet.png",
+      "source": "assets/blender/rural-v1/crop-millet.blend",
+      "axis": 0,
+      "kind": "crop"
+    },
+    {
+      "id": "crop-bean",
+      "file": "crop-bean.png",
+      "source": "assets/blender/rural-v1/crop-bean.blend",
+      "axis": 0,
+      "kind": "crop"
+    },
+    {
+      "id": "crop-vegetable",
+      "file": "crop-vegetable.png",
+      "source": "assets/blender/rural-v1/crop-vegetable.blend",
+      "axis": 0,
+      "kind": "crop"
+    },
+    {
+      "id": "low-fence-a",
+      "file": "low-fence-a.png",
+      "source": "assets/blender/rural-v1/low-fence-a.blend",
+      "axis": 0,
+      "kind": "fence"
+    },
+    {
+      "id": "low-fence-b",
+      "file": "low-fence-b.png",
+      "source": "assets/blender/rural-v1/low-fence-b.blend",
+      "axis": 1,
+      "kind": "fence"
+    },
+    {
+      "id": "farm-tools",
+      "file": "farm-tools.png",
+      "source": "assets/blender/rural-v1/farm-tools.blend",
+      "axis": 0,
+      "kind": "decor"
+    }
+  ],
+  "fencePostScale": 0.6,
+  "bridgePostsPerSide": 4,
+  "bridgeReferencePostsPerSide": 6
+}

@@ -1,0 +1,7 @@
+{
+  "mode": "built-in image_gen",
+  "input": "art/items/weapons-v1.png",
+  "output": "art/items/weapons-sword-shield-v1.png",
+  "transparentBackground": true,
+  "prompt": "Edit this exact existing 4-column x 2-row transparent RPG item atlas. Change ONLY the first two cells in the top row: turn each sword into a SWORD AND ROUND SHIELD SET. First top-left cell: keep the plain straight iron sword, position it diagonally behind/alongside a readable round dark wood and bronze-rim shield with simple central bronze boss. Second top-row cell: keep the ring-pommel sword with its distinctive circular ring hilt visibly readable, add a slightly more ornate round dark shield with bronze/gold rim and central floral bronze boss. Both sword and shield must be visible within each individual cell, arranged as one coherent inventory set, neither cut off, no overlaps between cells, allow at least 8 percent cell padding. Preserve the exact atlas 4x2 layout and 2:1 aspect ratio. STRICT INVARIANTS: top-row cells 3 and 4 are existing spears unchanged; all four bottom-row objects (two bows, bamboo scroll, blue book) remain exactly as shown unchanged. Match original crisp brown contours, warm bronze accents, anime cel shading and detailed hand-painted materials. Real transparent alpha background, no backdrop, no checkerboard, no text, no labels, no characters. Do not add any shield outside first two cells."
+}

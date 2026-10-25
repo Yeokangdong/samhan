@@ -1,0 +1,27 @@
+{
+  "mode": "built-in image_gen",
+  "reference": "art/items/equipment-v1.png",
+  "items": [
+    {
+      "id": "simple_knot",
+      "name": "소박한 매듭끈",
+      "file": "simple-knot-v1.png",
+      "subject": "one very humble handmade lucky knot bracelet, faded rusty red cotton cord tied in a small simple Korean decorative knot, slightly frayed thread ends, no gold, no gem, clearly a cheap beginner trinket, single complete item centered",
+      "prompt": "Use case: stylized-concept. Single inventory item for Samhan Korean fantasy strategy RPG. Style reference only: match the reference's warm dark brown ink contours, detailed hand-painted anime shading and textured materials, but make this a humble inexpensive starter accessory with fewer ornaments. Subject: one very humble handmade lucky knot bracelet, faded rusty red cotton cord tied in a small simple Korean decorative knot, slightly frayed thread ends, no gold, no gem, clearly a cheap beginner trinket, single complete item centered. Entire silhouette within a square with 15% padding, isolated on genuinely transparent background. No scene, no gradient backdrop, no text, no UI, no frame, no watermark. Not photorealistic, not 3D, not pixel art, not flat vector."
+    },
+    {
+      "id": "feather_loop",
+      "name": "깃털 고리",
+      "file": "feather-loop-v1.png",
+      "subject": "one very humble beginner trinket, a small plain brown cord loop holding a single short pale brown feather and one tiny unfinished wooden bead, simple hand tied string, slightly worn, no gold, no silver, no expensive jewelry, single complete item centered",
+      "prompt": "Use case: stylized-concept. Single inventory item for Samhan Korean fantasy strategy RPG. Style reference only: match the reference's warm dark brown ink contours, detailed hand-painted anime shading and textured materials, but make this a humble inexpensive starter accessory with fewer ornaments. Subject: one very humble beginner trinket, a small plain brown cord loop holding a single short pale brown feather and one tiny unfinished wooden bead, simple hand tied string, slightly worn, no gold, no silver, no expensive jewelry, single complete item centered. Entire silhouette within a square with 15% padding, isolated on genuinely transparent background. No scene, no gradient backdrop, no text, no UI, no frame, no watermark. Not photorealistic, not 3D, not pixel art, not flat vector."
+    },
+    {
+      "id": "stone_bead_bracelet",
+      "name": "돌구슬 팔찌",
+      "file": "stone-bead-bracelet-v1.png",
+      "subject": "one very humble beginner bracelet made of several irregular matte grey river stone beads threaded on a simple dark brown cotton string with a plain knot closure, slight wear and rough stone textures, no translucent precious gems, no jade, no gold, no silver, single complete item centered",
+      "prompt": "Use case: stylized-concept. Single inventory item for Samhan Korean fantasy strategy RPG. Style reference only: match the reference's warm dark brown ink contours, detailed hand-painted anime shading and textured materials, but make this a humble inexpensive starter accessory with fewer ornaments. Subject: one very humble beginner bracelet made of several irregular matte grey river stone beads threaded on a simple dark brown cotton string with a plain knot closure, slight wear and rough stone textures, no translucent precious gems, no jade, no gold, no silver, single complete item centered. Entire silhouette within a square with 15% padding, isolated on genuinely transparent background. No scene, no gradient backdrop, no text, no UI, no frame, no watermark. Not photorealistic, not 3D, not pixel art, not flat vector."
+    }
+  ]
+}

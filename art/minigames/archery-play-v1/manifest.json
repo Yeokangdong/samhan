@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "date": "2026-10-24",
+  "scope": "기마 궁술 플레이 화면 전용. 배경1장과 세 영웅의 투명 기마 사격 원화3장. 기존 초상·출진·정보 전신은 보존한다.",
+  "reference": "user-reference.png",
+  "generator": "built-in image_gen.imagegen",
+  "prompts": "PROMPTS.json",
+  "assets": [
+    {
+      "id": "range-background",
+      "file": "range-background.png",
+      "size": [
+        1774,
+        887
+      ],
+      "mode": "RGB",
+      "alphaExtrema": null,
+      "alphaBounds": null,
+      "sha256": "870268e61f403e08ce55f1b33893edf3d7971ca80571e5bd00ec8f328700ae90",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-71f771d6-0c44-48c6-adbc-afdae1dc2358.png"
+    },
+    {
+      "id": "kim-archer",
+      "file": "kim-archer.png",
+      "size": [
+        1448,
+        1086
+      ],
+      "mode": "RGBA",
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        0,
+        13,
+        1407,
+        1086
+      ],
+      "sha256": "9fc4584cac57a530bafabad999a98d57c2648b2238a3f4d26715eea7f99046ea",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-eae1f624-93c7-4bfe-9a3f-351755f0bb70.png"
+    },
+    {
+      "id": "gye-archer",
+      "file": "gye-archer.png",
+      "size": [
+        1448,
+        1086
+      ],
+      "mode": "RGBA",
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        1422,
+        1086
+      ],
+      "sha256": "bf381490dac468a996f132c89318ad031fe7b5860a8208d816dd30f293688138",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-4121d298-a07a-41ab-9f98-215b927b4550.png"
+    },
+    {
+      "id": "yeon-archer",
+      "file": "yeon-archer.png",
+      "size": [
+        1448,
+        1086
+      ],
+      "mode": "RGBA",
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        0,
+        13,
+        1435,
+        1086
+      ],
+      "sha256": "0a23a79a694805eea2f0485eadab8d4192e8664cd103bb9689bf302ccf269589",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-23be52c3-3a10-4c41-bde0-93b777eaeea5.png"
+    }
+  ],
+  "implementation": [
+    "src/archery_play_view.js",
+    "src/ui/archery-play.css",
+    "src/minigames.js"
+  ],
+  "preview": "output/concepts/소희_기마궁술_UI_v1_실제플레이.png"
+}

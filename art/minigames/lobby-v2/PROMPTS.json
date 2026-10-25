@@ -1,0 +1,80 @@
+{
+  "version": 2,
+  "date": "2026-10-24",
+  "generator": "built-in image_gen.imagegen",
+  "userReference": "user-reference.png",
+  "sixthCard": "삼국 주인공 세 명 단체 원화 — 사용자 선택",
+  "assets": [
+    {
+      "id": "courtyard",
+      "paths": [
+        "D:/99.Work/Samhan_Girls/art/minigames/lobby-v2/user-reference.png"
+      ],
+      "prompt": "Create ONLY a wide 16:9 environment background for this UI: beautiful ancient Korean fortress courtyard and festive military training grounds, tiled palace roofs across middle distance, timber pavilion pillars framing far edges, hanging lanterns, stone paving and wooden training fences, peach blossoms at corners, warm late afternoon light, painterly detailed anime fantasy illustration like the reference. No characters, no panels, no text, no emblems, no modern objects. Center is open stone courtyard with depth. Not a screenshot of a menu. Broad panorama, landscape.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-21fd627b-1062-44cf-8026-ac18321da602.png",
+      "file": "courtyard.png"
+    },
+    {
+      "id": "archery-kim",
+      "paths": [
+        "D:/99.Work/Samhan_Girls/art/minigames/lobby-v2/user-reference.png",
+        "D:/99.Work/Samhan_Girls/art/ui/hero-identity-v4/samhan_kim-reference.png"
+      ],
+      "prompt": "Production illustration asset for an existing Korean Three Kingdoms chibi girl-generals game. Reference 1 is a UI mood/composition reference only, NOT an edit target. Do not reproduce its UI, letters, menus, frames, flags or text. Remaining references are exact character identity references. Rich illustrated anime coloring, warm brown ink outlines, intricate gold armor details, hand-painted textures, adorable 3-head-tall SD proportions, warm sunlight and clear expressive faces. No photorealism, pixel art, 3D rendering, writing, logos, borders or watermarks. Draw a complete new scene, landscape 4:3 composition, characters large and centered, keep face and hands within central 75 percent for responsive cropping. Background must fill the entire frame. Subject: Kim Yushin, reference 2, female bright amber eyes, chestnut HIGH PONYTAIL and branching gold flower hair ornament, golden lamellar armor and ivory sleeves, yellow cloak. Dynamic horseback archery: rides a pure white horse with white mane, draws and aims a traditional bow at a distant wooden target. BOTH hands properly hold bow and drawstring, no sword in hands. Complete rider and white horse with strong graceful running pose. Korean fortress archery grounds, warm gold atmosphere.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-6fa71112-f5ff-44f6-a69c-73b80b6ee488.png",
+      "file": "archery-kim.png"
+    },
+    {
+      "id": "race-gye",
+      "paths": [
+        "D:/99.Work/Samhan_Girls/art/minigames/lobby-v2/user-reference.png",
+        "D:/99.Work/Samhan_Girls/art/ui/hero-identity-v4/samhan_gye-reference.png"
+      ],
+      "prompt": "Production illustration asset for an existing Korean Three Kingdoms chibi girl-generals game. Reference 1 is a UI mood/composition reference only, NOT an edit target. Do not reproduce its UI, letters, menus, frames, flags or text. Remaining references are exact character identity references. Rich illustrated anime coloring, warm brown ink outlines, intricate gold armor details, hand-painted textures, adorable 3-head-tall SD proportions, warm sunlight and clear expressive faces. No photorealism, pixel art, 3D rendering, writing, logos, borders or watermarks. Draw a complete new scene, landscape 4:3 composition, characters large and centered, keep face and hands within central 75 percent for responsive cropping. Background must fill the entire frame. Subject: Gyebaek, reference 2, gentle round face, violet eyes, navy-purple TWO LONG BRAIDS with blue bows and gold LOTUS ornament, blue and gold armor, ivory sleeves. Racing excitedly on a PURE WHITE HORSE with white mane, holding reins, leaning forward slightly, dynamic running action. Blue pennants around an ancient Korean horse-racing dirt track. No bow or sword held. Show large rider and horse, lively dust and motion, friendly competition.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-7984693f-7443-46d7-99a5-f0711d95ccc2.png",
+      "file": "race-gye.png"
+    },
+    {
+      "id": "zombies-yeon",
+      "paths": [
+        "D:/99.Work/Samhan_Girls/art/minigames/lobby-v2/user-reference.png",
+        "D:/99.Work/Samhan_Girls/art/ui/hero-identity-v4/samhan_yeon-reference.png"
+      ],
+      "prompt": "Production illustration asset for an existing Korean Three Kingdoms chibi girl-generals game. Reference 1 is a UI mood/composition reference only, NOT an edit target. Do not reproduce its UI, letters, menus, frames, flags or text. Remaining references are exact character identity references. Rich illustrated anime coloring, warm brown ink outlines, intricate gold armor details, hand-painted textures, adorable 3-head-tall SD proportions, warm sunlight and clear expressive faces. No photorealism, pixel art, 3D rendering, writing, logos, borders or watermarks. Draw a complete new scene, landscape 4:3 composition, characters large and centered, keep face and hands within central 75 percent for responsive cropping. Background must fill the entire frame. Subject: Yeon Gaesomun, reference 2, red almond eyes, sleek short JET BLACK BLUNT BOB (not a ponytail, not long hair), gold bird hairpin, crimson black gold lamellar armor and ivory sleeves and red cape. Runs ON FOOT through an ancient fortress gate, looks confidently over shoulder, holds her sheathed sword securely at waist. Several comical small green zombie soldiers chase far behind, no gore, no blood, funny adventure tone. Red and amber lighting, large full character in foreground, readable face.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-49282751-df33-49aa-b9ab-10ab3958eba0.png",
+      "file": "zombies-yeon.png"
+    },
+    {
+      "id": "tetris-trio",
+      "paths": [
+        "D:/99.Work/Samhan_Girls/art/minigames/lobby-v2/user-reference.png",
+        "D:/99.Work/Samhan_Girls/art/ui/hero-identity-v4/samhan_kim-reference.png",
+        "D:/99.Work/Samhan_Girls/art/ui/hero-identity-v4/samhan_gye-reference.png",
+        "D:/99.Work/Samhan_Girls/art/ui/hero-identity-v4/samhan_yeon-reference.png"
+      ],
+      "prompt": "Production illustration asset for an existing Korean Three Kingdoms chibi girl-generals game. Reference 1 is a UI mood/composition reference only, NOT an edit target. Do not reproduce its UI, letters, menus, frames, flags or text. Remaining references are exact character identity references. Rich illustrated anime coloring, warm brown ink outlines, intricate gold armor details, hand-painted textures, adorable 3-head-tall SD proportions, warm sunlight and clear expressive faces. No photorealism, pixel art, 3D rendering, writing, logos, borders or watermarks. Draw a complete new scene, landscape 4:3 composition, characters large and centered, keep face and hands within central 75 percent for responsive cropping. Background must fill the entire frame. Exactly THREE main characters together, all same importance, all faces visible, group art. Reference 2 Kim Yushin chestnut HIGH PONYTAIL amber eyes golden ivory armor; reference 3 Gyebaek navy TWO LONG BRAIDS violet eyes blue gold armor; reference 4 Yeon Gaesomun SHORT BLACK BLUNT BOB red eyes red black gold armor. Three girls playfully compete by stacking colorful wooden polyomino blocks on a low wooden game table in a Korean courtyard. Put Kim on left, Gye in middle and Yeon right. Some interlocking block towers, absolutely NO writing or block glyphs. Friendly expressions, all three upper bodies/hands visible, illustrative gold border-free atmosphere.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-e1879406-06fe-46ae-9852-7c69173934c4.png",
+      "file": "tetris-trio.png"
+    },
+    {
+      "id": "tuho-xuerengui",
+      "paths": [
+        "D:/99.Work/Samhan_Girls/art/minigames/lobby-v2/user-reference.png",
+        "D:/99.Work/Samhan_Girls/art/characters/information-v3/individual/xuerengui.png"
+      ],
+      "prompt": "Production illustration asset for an existing Korean Three Kingdoms chibi girl-generals game. Reference 1 is a UI mood/composition reference only, NOT an edit target. Do not reproduce its UI, letters, menus, frames, flags or text. Remaining references are exact character identity references. Rich illustrated anime coloring, warm brown ink outlines, intricate gold armor details, hand-painted textures, adorable 3-head-tall SD proportions, warm sunlight and clear expressive faces. No photorealism, pixel art, 3D rendering, writing, logos, borders or watermarks. Draw a complete new scene, landscape 4:3 composition, characters large and centered, keep face and hands within central 75 percent for responsive cropping. Background must fill the entire frame. Subject: Xue Rengui, reference 2, female youthful pointed heart-shaped face, long SILVER WHITE HIGH PONYTAIL, elaborate white-silver helmet and pale silver armor. Preserve hairstyle and facial identity from reference; use forest-green cloth and green accents instead of blue for Tang country theme, pale green eye highlights. Dismounted ON FOOT, concentrating as she tosses ONE thin wooden blunt arrow into a dark bronze narrow-necked TUHO JAR with two handles. Clear throwing hand, arrow visible in air, warm Korean military courtyard, quiet concentration. No horse, no spear, no bow, no modern object, no lettering. Character left-middle and jar right-middle both inside frame.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-29cec826-893b-490b-bdbd-5f09663d6b4e.png",
+      "file": "tuho-xuerengui.png"
+    },
+    {
+      "id": "ssireum-abe",
+      "paths": [
+        "D:/99.Work/Samhan_Girls/art/minigames/lobby-v2/user-reference.png",
+        "D:/99.Work/Samhan_Girls/art/characters/wa-allies-v1/abe-hirafu-clean.png"
+      ],
+      "prompt": "Production illustration asset for an existing Korean Three Kingdoms chibi girl-generals game. Reference 1 is a UI mood/composition reference only, NOT an edit target. Do not reproduce its UI, letters, menus, frames, flags or text. Remaining references are exact character identity references. Rich illustrated anime coloring, warm brown ink outlines, intricate gold armor details, hand-painted textures, adorable 3-head-tall SD proportions, warm sunlight and clear expressive faces. No photorealism, pixel art, 3D rendering, writing, logos, borders or watermarks. Draw a complete new scene, landscape 4:3 composition, characters large and centered, keep face and hands within central 75 percent for responsive cropping. Background must fill the entire frame. Subject: Abe no Hirafu, reference 2, female mischievous youthful face, short WAVY BOB with tousled forelock, golden shell-shaped hairpin and orange cord tassels. Preserve hair silhouette and face, use dark violet hair highlights, violet eyes and purple/indigo short training robe with orange knotwork and ivory underlayer for Wa faction. NO armor, NO weapons, NO shield, NO horse. Friendly Korean ssireum wrestling practice on a sandy circular ring: Abe leans forward gripping opponent's cloth waist sash; opponent is a generic female practice partner in muted ochre training robe, shown partially from rear so Abe is unmistakable main character. Arms and waist sashes clearly connected, light sand puff, smiling exertion, traditional timber training pavilion behind. Safe playful competition.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-606fa654-602f-42d7-a540-b327deb16700.png",
+      "file": "ssireum-abe.png"
+    }
+  ]
+}

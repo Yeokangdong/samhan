@@ -1,0 +1,609 @@
+{
+  "version": 5,
+  "groups": [
+    {
+      "key": "sword",
+      "cols": 3,
+      "rows": 2,
+      "ids": [
+        "ring_sword",
+        "trilobed_sword",
+        "steel_sword",
+        "red_ring_blade",
+        "silver_leaf_blade",
+        "phoenix_blade"
+      ]
+    },
+    {
+      "key": "spear",
+      "cols": 3,
+      "rows": 2,
+      "ids": [
+        "long_spear",
+        "cav_lance",
+        "red_tassel_spear",
+        "hook_spear",
+        "bronze_spear",
+        "heavy_lance"
+      ]
+    },
+    {
+      "key": "bow",
+      "cols": 3,
+      "rows": 2,
+      "ids": [
+        "maek_bow",
+        "gold_bow",
+        "crossbow",
+        "dark_horn_bow",
+        "bronze_crossbow",
+        "heavy_crossbow"
+      ]
+    },
+    {
+      "key": "book",
+      "cols": 3,
+      "rows": 2,
+      "ids": [
+        "war_book",
+        "gilt_bamboo",
+        "taigong",
+        "march_codex",
+        "formation_scroll",
+        "celestial_codex"
+      ]
+    },
+    {
+      "key": "talisman",
+      "cols": 3,
+      "rows": 2,
+      "ids": [
+        "jade_talisman",
+        "golden_talisman",
+        "sun_talisman",
+        "rain_talisman",
+        "wind_talisman",
+        "star_talisman"
+      ]
+    },
+    {
+      "key": "siege",
+      "cols": 3,
+      "rows": 2,
+      "ids": [
+        "reinforced_catapult",
+        "bronze_catapult",
+        "light_catapult",
+        "torsion_catapult",
+        "traction_catapult",
+        "armored_catapult"
+      ]
+    },
+    {
+      "key": "armor",
+      "cols": 4,
+      "rows": 3,
+      "ids": [
+        "leather_lamellar",
+        "scale_armor",
+        "plate_armor",
+        "bright_armor",
+        "black_iron_armor",
+        "gilt_armor",
+        "bronze_lamellar",
+        "ring_mail",
+        "black_scale",
+        "red_lamellar",
+        "silver_plate",
+        "gold_general_armor"
+      ]
+    },
+    {
+      "key": "robe",
+      "cols": 4,
+      "rows": 3,
+      "ids": [
+        "quilted_coat",
+        "silk_robe",
+        "blue_battle_robe",
+        "embroidered_coat",
+        "crane_robe",
+        "hemp_robe",
+        "green_scholar_robe",
+        "navy_tao_robe",
+        "white_silk_coat",
+        "purple_coat",
+        "crimson_brocade",
+        "gold_ceremonial_robe"
+      ]
+    },
+    {
+      "key": "mount",
+      "cols": 4,
+      "rows": 4,
+      "ids": [
+        "fast_horse",
+        "war_horse",
+        "white_horse",
+        "swift_horse",
+        "armored_horse",
+        "breeze_horse",
+        "guardian_horse",
+        "chestnut_mount",
+        "bay_mount",
+        "dun_mount",
+        "dapple_mount",
+        "black_cloud_mount",
+        "palomino_mount",
+        "roan_mount",
+        "silver_mount"
+      ]
+    },
+    {
+      "key": "elixir",
+      "cols": 1,
+      "rows": 1,
+      "ids": [
+        "ginseng_elixir"
+      ]
+    }
+  ],
+  "entries": {
+    "ring_sword": {
+      "file": "shop-v5/sword.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 0
+    },
+    "trilobed_sword": {
+      "file": "shop-v5/sword.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 1
+    },
+    "steel_sword": {
+      "file": "shop-v5/sword.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 2
+    },
+    "red_ring_blade": {
+      "file": "shop-v5/sword.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 3
+    },
+    "silver_leaf_blade": {
+      "file": "shop-v5/sword.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 4
+    },
+    "phoenix_blade": {
+      "file": "shop-v5/sword.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 5
+    },
+    "long_spear": {
+      "file": "shop-v5/spear.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 0
+    },
+    "cav_lance": {
+      "file": "shop-v5/spear.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 1
+    },
+    "red_tassel_spear": {
+      "file": "shop-v5/spear.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 2
+    },
+    "hook_spear": {
+      "file": "shop-v5/spear.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 3
+    },
+    "bronze_spear": {
+      "file": "shop-v5/spear.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 4
+    },
+    "heavy_lance": {
+      "file": "shop-v5/spear.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 5
+    },
+    "maek_bow": {
+      "file": "shop-v5/bow.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 0
+    },
+    "gold_bow": {
+      "file": "shop-v5/bow.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 1
+    },
+    "crossbow": {
+      "file": "shop-v5/bow.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 2
+    },
+    "dark_horn_bow": {
+      "file": "shop-v5/bow.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 3
+    },
+    "bronze_crossbow": {
+      "file": "shop-v5/bow.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 4
+    },
+    "heavy_crossbow": {
+      "file": "shop-v5/bow.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 5
+    },
+    "war_book": {
+      "file": "shop-v5/book.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 0
+    },
+    "gilt_bamboo": {
+      "file": "shop-v5/book.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 1
+    },
+    "taigong": {
+      "file": "shop-v5/book.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 2
+    },
+    "march_codex": {
+      "file": "shop-v5/book.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 3
+    },
+    "formation_scroll": {
+      "file": "shop-v5/book.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 4
+    },
+    "celestial_codex": {
+      "file": "shop-v5/book.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 5
+    },
+    "jade_talisman": {
+      "file": "shop-v5/talisman.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 0
+    },
+    "golden_talisman": {
+      "file": "shop-v5/talisman.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 1
+    },
+    "sun_talisman": {
+      "file": "shop-v5/talisman.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 2
+    },
+    "rain_talisman": {
+      "file": "shop-v5/talisman.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 3
+    },
+    "wind_talisman": {
+      "file": "shop-v5/talisman.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 4
+    },
+    "star_talisman": {
+      "file": "shop-v5/talisman.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 5
+    },
+    "reinforced_catapult": {
+      "file": "shop-v5/siege.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 0
+    },
+    "bronze_catapult": {
+      "file": "shop-v5/siege.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 1
+    },
+    "light_catapult": {
+      "file": "shop-v5/siege.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 2
+    },
+    "torsion_catapult": {
+      "file": "shop-v5/siege.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 3
+    },
+    "traction_catapult": {
+      "file": "shop-v5/siege.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 4
+    },
+    "armored_catapult": {
+      "file": "shop-v5/siege.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 5
+    },
+    "leather_lamellar": {
+      "file": "shop-v5/armor.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 0
+    },
+    "scale_armor": {
+      "file": "shop-v5/armor.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 1
+    },
+    "plate_armor": {
+      "file": "shop-v5/armor.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 2
+    },
+    "bright_armor": {
+      "file": "shop-v5/armor.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 3
+    },
+    "black_iron_armor": {
+      "file": "shop-v5/armor.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 4
+    },
+    "gilt_armor": {
+      "file": "shop-v5/armor.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 5
+    },
+    "bronze_lamellar": {
+      "file": "shop-v5/armor.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 6
+    },
+    "ring_mail": {
+      "file": "shop-v5/armor.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 7
+    },
+    "black_scale": {
+      "file": "shop-v5/armor.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 8
+    },
+    "red_lamellar": {
+      "file": "shop-v5/armor.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 9
+    },
+    "silver_plate": {
+      "file": "shop-v5/armor.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 10
+    },
+    "gold_general_armor": {
+      "file": "shop-v5/armor.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 11
+    },
+    "quilted_coat": {
+      "file": "shop-v5/robe.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 0
+    },
+    "silk_robe": {
+      "file": "shop-v5/robe.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 1
+    },
+    "blue_battle_robe": {
+      "file": "shop-v5/robe.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 2
+    },
+    "embroidered_coat": {
+      "file": "shop-v5/robe.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 3
+    },
+    "crane_robe": {
+      "file": "shop-v5/robe.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 4
+    },
+    "hemp_robe": {
+      "file": "shop-v5/robe.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 5
+    },
+    "green_scholar_robe": {
+      "file": "shop-v5/robe.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 6
+    },
+    "navy_tao_robe": {
+      "file": "shop-v5/robe.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 7
+    },
+    "white_silk_coat": {
+      "file": "shop-v5/robe.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 8
+    },
+    "purple_coat": {
+      "file": "shop-v5/robe.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 9
+    },
+    "crimson_brocade": {
+      "file": "shop-v5/robe.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 10
+    },
+    "gold_ceremonial_robe": {
+      "file": "shop-v5/robe.png",
+      "cols": 4,
+      "rows": 3,
+      "index": 11
+    },
+    "fast_horse": {
+      "file": "shop-v5/mount.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 0
+    },
+    "war_horse": {
+      "file": "shop-v5/mount.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 1
+    },
+    "white_horse": {
+      "file": "shop-v5/mount.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 2
+    },
+    "swift_horse": {
+      "file": "shop-v5/mount.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 3
+    },
+    "armored_horse": {
+      "file": "shop-v5/mount.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 4
+    },
+    "breeze_horse": {
+      "file": "shop-v5/mount.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 5
+    },
+    "guardian_horse": {
+      "file": "shop-v5/mount.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 6
+    },
+    "chestnut_mount": {
+      "file": "shop-v5/mount.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 7
+    },
+    "bay_mount": {
+      "file": "shop-v5/mount.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 8
+    },
+    "dun_mount": {
+      "file": "shop-v5/mount.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 9
+    },
+    "dapple_mount": {
+      "file": "shop-v5/mount.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 10
+    },
+    "black_cloud_mount": {
+      "file": "shop-v5/mount.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 11
+    },
+    "palomino_mount": {
+      "file": "shop-v5/mount.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 12
+    },
+    "roan_mount": {
+      "file": "shop-v5/mount.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 13
+    },
+    "silver_mount": {
+      "file": "shop-v5/mount.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 14
+    },
+    "ginseng_elixir": {
+      "file": "shop-v5/elixir.png",
+      "cols": 1,
+      "rows": 1,
+      "index": 0
+    }
+  }
+}

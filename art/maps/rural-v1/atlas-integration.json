@@ -1,0 +1,134 @@
+{
+  "visualOnly": true,
+  "unchangedAtlasDimensions": true,
+  "unchangedSpriteRectangles": true,
+  "unrelatedPixelsPreserved": true,
+  "entries": [
+    {
+      "atlas": "art/maps/iso-objects-v2/clean/town-a.png",
+      "index": 9,
+      "asset": "farm-grain-a",
+      "rectangle": [
+        585,
+        1134,
+        950,
+        1425
+      ],
+      "beforeAlpha": [
+        0,
+        0,
+        365,
+        291
+      ],
+      "afterSize": [
+        365,
+        245
+      ]
+    },
+    {
+      "atlas": "art/maps/iso-objects-v2/clean/town-b.png",
+      "index": 9,
+      "asset": "farm-grain-b",
+      "rectangle": [
+        574,
+        1142,
+        961,
+        1418
+      ],
+      "beforeAlpha": [
+        0,
+        0,
+        387,
+        276
+      ],
+      "afterSize": [
+        387,
+        260
+      ]
+    },
+    {
+      "atlas": "art/maps/iso-objects-v2/clean/scenery-a.png",
+      "index": 15,
+      "asset": "farm-garden-a",
+      "rectangle": [
+        1640,
+        1666,
+        1943,
+        1918
+      ],
+      "beforeAlpha": [
+        0,
+        0,
+        303,
+        252
+      ],
+      "afterSize": [
+        303,
+        203
+      ]
+    },
+    {
+      "atlas": "art/maps/iso-objects-v2/clean/scenery-b.png",
+      "index": 15,
+      "asset": "farm-garden-b",
+      "rectangle": [
+        1622,
+        1656,
+        1961,
+        1928
+      ],
+      "beforeAlpha": [
+        0,
+        0,
+        339,
+        272
+      ],
+      "afterSize": [
+        339,
+        227
+      ]
+    },
+    {
+      "atlas": "art/maps/iso-objects-v2/clean/camp.png",
+      "index": 12,
+      "asset": "bridge-a",
+      "rectangle": [
+        108,
+        1656,
+        404,
+        1928
+      ],
+      "beforeAlpha": [
+        0,
+        0,
+        296,
+        272
+      ],
+      "afterSize": [
+        296,
+        222
+      ]
+    },
+    {
+      "atlas": "art/maps/iso-objects-v2/clean/camp.png",
+      "index": 13,
+      "asset": "bridge-b",
+      "rectangle": [
+        624,
+        1656,
+        912,
+        1928
+      ],
+      "beforeAlpha": [
+        0,
+        0,
+        288,
+        272
+      ],
+      "afterSize": [
+        288,
+        216
+      ]
+    }
+  ]
+}

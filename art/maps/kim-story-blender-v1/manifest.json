@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "source": "src/stories/kim.json",
+  "authoring": "Blender 5.2.3 LTS",
+  "scope": "김유신 1막 10장 · 실제 전투 배경과 입체 지도",
+  "maps": [
+    {
+      "number": 1,
+      "title": "낭비성, 첫 번째 발걸음",
+      "place": "낭비성 앞 신라 진영",
+      "objective": "위축된 아군을 모아 전진 경로를 확보한다.",
+      "theme": "nangbi",
+      "grid": [
+        96,
+        64
+      ],
+      "iso": "kim-01-iso.png",
+      "top": "kim-01-top.png"
+    },
+    {
+      "number": 2,
+      "title": "돌아온 깃발의 무게",
+      "place": "낭비성 귀환길",
+      "objective": "후송대와 귀환 병사를 함께 왕경으로 데려온다.",
+      "theme": "return",
+      "grid": [
+        48,
+        32
+      ],
+      "iso": "kim-02-iso.png",
+      "top": "kim-02-top.png"
+    },
+    {
+      "number": 3,
+      "title": "두 장의 명령서",
+      "place": "서라벌 군의청",
+      "objective": "이중 명령의 경위를 밝히고 공동 군령 절차를 만든다.",
+      "theme": "council",
+      "grid": [
+        48,
+        32
+      ],
+      "iso": "kim-03-iso.png",
+      "top": "kim-03-top.png"
+    },
+    {
+      "number": 4,
+      "title": "진흙 위의 약속",
+      "place": "죽령 남쪽 길",
+      "objective": "피난 수레를 통과시키고 군량을 지킨다.",
+      "theme": "mud-pass",
+      "grid": [
+        48,
+        32
+      ],
+      "iso": "kim-04-iso.png",
+      "top": "kim-04-top.png"
+    },
+    {
+      "number": 5,
+      "title": "왕이 세운 빈 솥",
+      "place": "진평왕의 야전 진영",
+      "objective": "군량 부정을 조사하고 진평왕의 첫 야전 지휘를 보좌한다.",
+      "theme": "royal-camp",
+      "grid": [
+        48,
+        32
+      ],
+      "iso": "kim-05-iso.png",
+      "top": "kim-05-top.png"
+    },
+    {
+      "number": 6,
+      "title": "꺼진 봉화의 답장",
+      "place": "한강 상류 봉수대",
+      "objective": "봉수대와 본진을 함께 지키고 정찰 보고를 대조한다.",
+      "theme": "beacons",
+      "grid": [
+        48,
+        32
+      ],
+      "iso": "kim-06-iso.png",
+      "top": "kim-06-top.png"
+    },
+    {
+      "number": 7,
+      "title": "언니의 빈 일정표",
+      "place": "산성 보급소",
+      "objective": "교대 지휘를 나누고 보급소의 과로를 해소한다.",
+      "theme": "supply-fort",
+      "grid": [
+        48,
+        32
+      ],
+      "iso": "kim-07-iso.png",
+      "top": "kim-07-top.png"
+    },
+    {
+      "number": 8,
+      "title": "지워지지 않는 패전",
+      "place": "서쪽 변경 산성",
+      "objective": "유인전을 빠져나와 패전 원인을 공개한다.",
+      "theme": "withdrawal",
+      "grid": [
+        48,
+        32
+      ],
+      "iso": "kim-08-iso.png",
+      "top": "kim-08-top.png"
+    },
+    {
+      "number": 9,
+      "title": "새 왕의 오래된 빚",
+      "place": "서라벌 의정청",
+      "objective": "군비와 세금의 한계를 정하고 국경 사절을 보낸다.",
+      "theme": "assembly",
+      "grid": [
+        48,
+        32
+      ],
+      "iso": "kim-09-iso.png",
+      "top": "kim-09-top.png"
+    },
+    {
+      "number": 10,
+      "title": "장군들끼리의 전투",
+      "place": "대야성 외곽",
+      "objective": "공동 신호를 정하고 국경전의 피해를 줄인다.",
+      "theme": "daeya",
+      "grid": [
+        48,
+        32
+      ],
+      "iso": "kim-10-iso.png",
+      "top": "kim-10-top.png"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "version": 2,
+  "date": "2026-10-24",
+  "scope": "미니게임 선택 메뉴 전용 배경과 카드 삽화. 플레이용 캐릭터 원화·출진·정보·초상을 덮어쓰지 않는다.",
+  "generator": "built-in image_gen.imagegen",
+  "userReference": "user-reference.png",
+  "prompts": "PROMPTS.json",
+  "assets": [
+    {
+      "id": "courtyard",
+      "file": "courtyard.png",
+      "size": [
+        1672,
+        941
+      ],
+      "bytes": 3070652,
+      "sha256": "051f17dd2fd0b56d12eb7a1e057bde6e8fdb4cfdee086197e929fdbe920c5c97",
+      "generationSource": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-21fd627b-1062-44cf-8026-ac18321da602.png"
+    },
+    {
+      "id": "archery-kim",
+      "file": "archery-kim.png",
+      "size": [
+        1448,
+        1086
+      ],
+      "bytes": 2823764,
+      "sha256": "5ecba7a75fe83e6e1528824f6c38704d392a92323910a832d850bbdbe0b4590b",
+      "generationSource": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-6fa71112-f5ff-44f6-a69c-73b80b6ee488.png"
+    },
+    {
+      "id": "race-gye",
+      "file": "race-gye.png",
+      "size": [
+        1448,
+        1086
+      ],
+      "bytes": 2868727,
+      "sha256": "7905ba8d70214344469d767be63e2c9b9fe3fe279a43b5a0f1216e43ecd49296",
+      "generationSource": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-7984693f-7443-46d7-99a5-f0711d95ccc2.png"
+    },
+    {
+      "id": "zombies-yeon",
+      "file": "zombies-yeon.png",
+      "size": [
+        1448,
+        1086
+      ],
+      "bytes": 2849074,
+      "sha256": "61e7754ca51656ecc24b20ef4ab08382e7c2468d3c8b8b5673f2b31cf9bd350f",
+      "generationSource": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-49282751-df33-49aa-b9ab-10ab3958eba0.png"
+    },
+    {
+      "id": "tetris-trio",
+      "file": "tetris-trio.png",
+      "size": [
+        1448,
+        1086
+      ],
+      "bytes": 2876554,
+      "sha256": "f4661698ab260d321ff8990972c8d7f896e9059fa54486638343b67a3b832ae8",
+      "generationSource": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-e1879406-06fe-46ae-9852-7c69173934c4.png"
+    },
+    {
+      "id": "tuho-xuerengui",
+      "file": "tuho-xuerengui.png",
+      "size": [
+        1448,
+        1086
+      ],
+      "bytes": 2847251,
+      "sha256": "c919de9743323967459859286b3a4305746552f85581d173dfb032e9bf5aadfb",
+      "generationSource": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-29cec826-893b-490b-bdbd-5f09663d6b4e.png"
+    },
+    {
+      "id": "ssireum-abe",
+      "file": "ssireum-abe.png",
+      "size": [
+        1448,
+        1086
+      ],
+      "bytes": 2740465,
+      "sha256": "a09e2f57b6cf20917d67f9caa29821429b8cbab982da82432eb8adddea1aa00f",
+      "generationSource": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-606fa654-602f-42d7-a540-b327deb16700.png"
+    }
+  ],
+  "cards": [
+    {
+      "game": "archery",
+      "cast": [
+        "김유신"
+      ],
+      "nation": "신라",
+      "emblems": [
+        "art/emblems/silla-horse-v1.png"
+      ],
+      "file": "archery-kim.png"
+    },
+    {
+      "game": "race",
+      "cast": [
+        "계백"
+      ],
+      "nation": "백제",
+      "emblems": [
+        "art/emblems/baekje-lotus-v1.png"
+      ],
+      "file": "race-gye.png"
+    },
+    {
+      "game": "zombies",
+      "cast": [
+        "연개소문"
+      ],
+      "nation": "고구려",
+      "emblems": [
+        "art/emblems/goguryeo-bird-v1.png"
+      ],
+      "file": "zombies-yeon.png"
+    },
+    {
+      "game": "tetris",
+      "cast": [
+        "김유신",
+        "계백",
+        "연개소문"
+      ],
+      "nation": "삼국",
+      "emblems": [
+        "art/emblems/silla-horse-v1.png",
+        "art/emblems/baekje-lotus-v1.png",
+        "art/emblems/goguryeo-bird-v1.png"
+      ],
+      "file": "tetris-trio.png"
+    },
+    {
+      "game": "tuho",
+      "cast": [
+        "설인귀"
+      ],
+      "nation": "당나라",
+      "emblems": [
+        "art/emblems/tang-dragon-v1.png"
+      ],
+      "file": "tuho-xuerengui.png"
+    },
+    {
+      "game": "ssireum",
+      "cast": [
+        "아베노 히라후"
+      ],
+      "nation": "왜",
+      "emblems": [
+        "art/emblems/wa-sakura-v1.png"
+      ],
+      "file": "ssireum-abe.png"
+    }
+  ]
+}

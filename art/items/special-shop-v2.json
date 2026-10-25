@@ -1,0 +1,42 @@
+{
+  "mode": "built-in image_gen",
+  "version": 2,
+  "status": "art_ready_gameplay_pending",
+  "weapons": {
+    "file": "weapons-special-sword-shield-v1.png",
+    "columns": 4,
+    "rows": 2,
+    "names": [
+      "금문 정강검",
+      "용봉 환두대도",
+      "은엽 장인창",
+      "적영 기창",
+      "금각 단궁",
+      "비조 맥궁",
+      "옥결 병법죽간",
+      "금장 진법서"
+    ],
+    "prompt": "Use case: stylized-concept. Asset type: production RPG inventory sprite atlas, single sheet, exactly 4 equal columns by 2 equal rows, landscape 2:1 aspect. Primary request: newly drawn eight premium crafted shop weapons for a Korean Three Kingdoms cute 2D tactical RPG. Reference images are STYLE ONLY; make visibly more special and luxurious silhouettes than ordinary starter gear. Warm clean dark brown outlines, hand-painted anime shading, rich material texture, readable at 76px, restrained polished gold and silver fittings, jade inlay, red silk knots, period-inspired Korean craftsmanship, no supernatural effects. Each object entirely inside its cell with generous 12% empty margin, centered, no overlap or crossing cell boundaries. Transparent background throughout, no panels, no ground, no gradients, no labels, no text, no watermark, no humans. Exact row-major subjects: row1 col1 premium straight sword with silver blade, gold wave-etched guard and dark red leather grip; row1 col2 majestic straight ring-pommel sword with dragon-and-phoenix inspired gold ring fitting, jade cabochon, red tassel; row1 col3 refined broad leaf spear with silver etched socket, dark lacquer shaft, jade binding; row1 col4 commanding long cavalry lance with long ridged steel head, gold collars and crimson horsehair tassel. Row2 col1 compact deluxe recurved horn bow with black horn limbs, gold tips and tightly wrapped red grip; row2 col2 elaborate powerful recurved bow with silver-and-gold limb plates, teal silk bindings and feather motif; row2 col3 precious rolled bamboo strategy slips with dark bamboo, gilt end caps, jade toggle and scarlet ties, open enough to read silhouette but NO writing; row2 col4 prestigious closed navy strategy codex with ornate gold corner guards, jade clasp, red silk bookmark, blank cover. Crisp isolated item cutouts. Entire sheet evenly spaced grid. No European crossguards, no oversized fantasy spikes. This is one atlas asset.",
+    "previousFile": "weapons-v2.png",
+    "setIllustrations": [
+      "금문 정강검·방패 세트",
+      "용봉 환두대도·방패 세트"
+    ],
+    "shieldEditPrompt": "PREMIUM_SWORD_SHIELD_PROMPT.json"
+  },
+  "equipment": {
+    "file": "equipment-v2.png",
+    "columns": 3,
+    "rows": 2,
+    "names": [
+      "금문 강화피갑",
+      "흑금 찰갑",
+      "운문 비단전포",
+      "금사 비취곡옥",
+      "봉익 금귀걸이",
+      null
+    ],
+    "prompt": "Use case: stylized-concept. Asset type: one production RPG inventory sprite atlas. Exactly 3 equal columns by 2 equal rows, landscape 3:2 aspect ratio, transparent background. Newly draw five premium Korean Three Kingdoms shop equipment items for cute 2D tactical RPG. Same warm brown clean outlines, hand-painted anime shading and detailed leather, gold, silk, jade textures as existing art/items/equipment-v1.png style. Visibly luxurious master-crafted equipment rather than plain starter equipment. Each item centered ENTIRELY within its cell, generous 12% transparent margins, no overlap, identical scale and view, no humans or mannequins, no panels, no glow or background vignette, no text, no watermark. Row1 col1: exquisite dark oxblood hardened-leather cuirass with reinforced layered shoulder guards, riveted gold-edged plates, embossed swirling feather motif, jade buckle, red cords. Row1 col2: premium blackened-steel lamellar armor with broad layered shoulder plates, beautiful brushed silver and gold borders, crimson silk lacing, sculpted gilt sun buckle, sturdy elegant Korean silhouette. Row1 col3: luxurious ivory-and-deep-teal scholar war robe with beautiful embroidered gold cloud patterns, reinforced woven silk, red belt and jade fastening, wide crossed collar, dignified volume. Row2 col1: large polished deep emerald comma-shaped jade pendant with carved swirling relief, ornate gold cap, braided scarlet cord and small gold beads, subtle translucency. Row2 col2: matching pair of elaborate gold dangling earrings with floral rosettes, openwork phoenix-feather shaped pendants, tiny jade drops, clear readable silhouette. Row2 col3 MUST be entirely empty transparent unused cell. All objects isolated cutouts, each bold silhouette legible at 76px. No European medieval elements, no fantasy magic. This is one atlas asset."
+  },
+  "notes": "상점 전용 신규 ID 배정 후 사용. 기본 장비의 v1 매핑과 소비품은 유지. 이름·수치·가격은 기획 초안."
+}

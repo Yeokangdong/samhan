@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-24",
+  "tool": "built-in image_gen",
+  "entries": [
+    {
+      "key": "flag-kim",
+      "emblem": "silla-horse-v1.png",
+      "name": "SILLA",
+      "symbol": "winged heavenly horse",
+      "cloth": "ivory cream silk with deep golden yellow border and dark brown accents",
+      "prompt": "Use case: stylized-concept. Production transparent 2.5D hand-painted Korean historical strategy game sprite pair. Draw EXACTLY TWO complete freestanding military standard banners, side by side. Image1 is the EXACT faction emblem reference to embroider on both flags. Image2 is the style reference: warm brown ink linework, richly painted silk, ornate gold finial and tassels, carved wood pole, small diamond stone base. Nation SILLA; emblem must clearly be the winged heavenly horse from image1, never any other symbol, NO writing, NO letters. Cloth ivory cream silk with deep golden yellow border and dark brown accents. Emblem occupies most of flag cloth, readable small, preserve the reference icon silhouette. Orthographic 2:1 isometric camera, visible top of diamond base, consistent 30 degree elevation. LEFT sprite: cloth plane extends toward LOWER LEFT diagonal; RIGHT sprite physically turned90 around vertical pole so cloth plane extends toward LOWER RIGHT diagonal. Pole stays vertical. A genuine pair of two different facing directions. Each complete flag stands in its own half, with 20% transparent outer padding on every side and a very wide fully transparent gap between them. Absolutely no fragments of a third object, no sheet cells or crop lines, no text or labels. Real transparent alpha background, full tip, cloth, tassels and base in frame. Polished hand-drawn anime illustration, no low poly or photorealism.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16830-eed3-72e3-ae29-f2bbad973ec3\\exec-d06d3454-c45a-42cb-8855-d6235cd4a620.png",
+      "file": "art/maps/iso-objects-v2/flag-kim.png"
+    },
+    {
+      "key": "flag-gye",
+      "emblem": "baekje-lotus-v1.png",
+      "name": "BAEKJE",
+      "symbol": "golden lotus flower",
+      "cloth": "deep royal blue silk, gold border",
+      "prompt": "Use case: stylized-concept. Production transparent 2.5D hand-painted Korean historical strategy game sprite pair. Draw EXACTLY TWO complete freestanding military standard banners, side by side. Image1 is the EXACT faction emblem reference to embroider on both flags. Image2 is the style reference: warm brown ink linework, richly painted silk, ornate gold finial and tassels, carved wood pole, small diamond stone base. Nation BAEKJE; emblem must clearly be the golden lotus flower from image1, never any other symbol, NO writing, NO letters. Cloth deep royal blue silk, gold border. Emblem occupies most of flag cloth, readable small, preserve the reference icon silhouette. Orthographic 2:1 isometric camera, visible top of diamond base, consistent 30 degree elevation. LEFT sprite: cloth plane extends toward LOWER LEFT diagonal; RIGHT sprite physically turned90 around vertical pole so cloth plane extends toward LOWER RIGHT diagonal. Pole stays vertical. A genuine pair of two different facing directions. Each complete flag stands in its own half, with 20% transparent outer padding on every side and a very wide fully transparent gap between them. Absolutely no fragments of a third object, no sheet cells or crop lines, no text or labels. Real transparent alpha background, full tip, cloth, tassels and base in frame. Polished hand-drawn anime illustration, no low poly or photorealism.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16830-eed3-72e3-ae29-f2bbad973ec3\\exec-b39fb24c-d170-414e-97c4-dc18a2caf2eb.png",
+      "file": "art/maps/iso-objects-v2/flag-gye.png"
+    },
+    {
+      "key": "flag-yeon",
+      "emblem": "goguryeo-bird-v1.png",
+      "name": "GOGURYEO",
+      "symbol": "golden three-legged sun crow/bird",
+      "cloth": "deep crimson red silk, gold border",
+      "prompt": "Use case: stylized-concept. Production transparent 2.5D hand-painted Korean historical strategy game sprite pair. Draw EXACTLY TWO complete freestanding military standard banners, side by side. Image1 is the EXACT faction emblem reference to embroider on both flags. Image2 is the style reference: warm brown ink linework, richly painted silk, ornate gold finial and tassels, carved wood pole, small diamond stone base. Nation GOGURYEO; emblem must clearly be the golden three-legged sun crow/bird from image1, never any other symbol, NO writing, NO letters. Cloth deep crimson red silk, gold border. Emblem occupies most of flag cloth, readable small, preserve the reference icon silhouette. Orthographic 2:1 isometric camera, visible top of diamond base, consistent 30 degree elevation. LEFT sprite: cloth plane extends toward LOWER LEFT diagonal; RIGHT sprite physically turned90 around vertical pole so cloth plane extends toward LOWER RIGHT diagonal. Pole stays vertical. A genuine pair of two different facing directions. Each complete flag stands in its own half, with 20% transparent outer padding on every side and a very wide fully transparent gap between them. Absolutely no fragments of a third object, no sheet cells or crop lines, no text or labels. Real transparent alpha background, full tip, cloth, tassels and base in frame. Polished hand-drawn anime illustration, no low poly or photorealism.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16830-eed3-72e3-ae29-f2bbad973ec3\\exec-84e5d658-d7da-4801-b05d-5668b46ff1d3.png",
+      "file": "art/maps/iso-objects-v2/flag-yeon.png"
+    },
+    {
+      "key": "flag-tang",
+      "emblem": "tang-dragon-v1.png",
+      "name": "TANG",
+      "symbol": "coiled golden dragon",
+      "cloth": "deep imperial purple silk, gold border",
+      "prompt": "Use case: stylized-concept. Production transparent 2.5D hand-painted Korean historical strategy game sprite pair. Draw EXACTLY TWO complete freestanding military standard banners, side by side. Image1 is the EXACT faction emblem reference to embroider on both flags. Image2 is the style reference: warm brown ink linework, richly painted silk, ornate gold finial and tassels, carved wood pole, small diamond stone base. Nation TANG; emblem must clearly be the coiled golden dragon from image1, never any other symbol, NO writing, NO letters. Cloth deep imperial purple silk, gold border. Emblem occupies most of flag cloth, readable small, preserve the reference icon silhouette. Orthographic 2:1 isometric camera, visible top of diamond base, consistent 30 degree elevation. LEFT sprite: cloth plane extends toward LOWER LEFT diagonal; RIGHT sprite physically turned90 around vertical pole so cloth plane extends toward LOWER RIGHT diagonal. Pole stays vertical. A genuine pair of two different facing directions. Each complete flag stands in its own half, with 20% transparent outer padding on every side and a very wide fully transparent gap between them. Absolutely no fragments of a third object, no sheet cells or crop lines, no text or labels. Real transparent alpha background, full tip, cloth, tassels and base in frame. Polished hand-drawn anime illustration, no low poly or photorealism.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16830-eed3-72e3-ae29-f2bbad973ec3\\exec-77b7dbcf-46f4-413b-9823-c669640b3b5d.png",
+      "file": "art/maps/iso-objects-v2/flag-tang.png"
+    },
+    {
+      "key": "flag-wa",
+      "emblem": "wa-sakura-v1.png",
+      "name": "WA",
+      "symbol": "five-petal golden cherry blossom",
+      "cloth": "dark rose pink silk, cream-and-gold border",
+      "prompt": "Use case: stylized-concept. Production transparent 2.5D hand-painted Korean historical strategy game sprite pair. Draw EXACTLY TWO complete freestanding military standard banners, side by side. Image1 is the EXACT faction emblem reference to embroider on both flags. Image2 is the style reference: warm brown ink linework, richly painted silk, ornate gold finial and tassels, carved wood pole, small diamond stone base. Nation WA; emblem must clearly be the five-petal golden cherry blossom from image1, never any other symbol, NO writing, NO letters. Cloth dark rose pink silk, cream-and-gold border. Emblem occupies most of flag cloth, readable small, preserve the reference icon silhouette. Orthographic 2:1 isometric camera, visible top of diamond base, consistent 30 degree elevation. LEFT sprite: cloth plane extends toward LOWER LEFT diagonal; RIGHT sprite physically turned90 around vertical pole so cloth plane extends toward LOWER RIGHT diagonal. Pole stays vertical. A genuine pair of two different facing directions. Each complete flag stands in its own half, with 20% transparent outer padding on every side and a very wide fully transparent gap between them. Absolutely no fragments of a third object, no sheet cells or crop lines, no text or labels. Real transparent alpha background, full tip, cloth, tassels and base in frame. Polished hand-drawn anime illustration, no low poly or photorealism.",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16830-eed3-72e3-ae29-f2bbad973ec3\\exec-aa4418f0-8cbe-4571-a141-c5caf06ec7ba.png",
+      "file": "art/maps/iso-objects-v2/flag-wa.png"
+    }
+  ]
+}

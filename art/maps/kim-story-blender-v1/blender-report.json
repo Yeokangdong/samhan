@@ -1,0 +1,14 @@
+[
+  {
+    "number": 10,
+    "battle_first": false,
+    "grid": [
+      48,
+      32
+    ],
+    "objects": 100,
+    "models": 33,
+    "story": "src/stories/kim.json",
+    "blend": "D:\\99.Work\\Samhan_Girls\\assets\\blender\\kim-story-v1\\kim-10.blend"
+  }
+]

@@ -1,0 +1,2356 @@
+{
+  "emblems": {
+    "kim": {
+      "file": "art/emblems/silla-horse-v1.png",
+      "width": 1448,
+      "height": 1086,
+      "x": 0,
+      "y": 8,
+      "w": 1416,
+      "h": 1078
+    },
+    "gye": {
+      "file": "art/emblems/baekje-lotus-v1.png",
+      "width": 1584,
+      "height": 993,
+      "x": 0,
+      "y": 17,
+      "w": 1451,
+      "h": 954
+    },
+    "yeon": {
+      "file": "art/emblems/goguryeo-bird-v1.png",
+      "width": 1273,
+      "height": 1236,
+      "x": 55,
+      "y": 17,
+      "w": 1170,
+      "h": 1207
+    },
+    "tang": {
+      "file": "art/emblems/tang-dragon-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "x": 0,
+      "y": 23,
+      "w": 1207,
+      "h": 1231
+    },
+    "wa": {
+      "file": "art/emblems/wa-sakura-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "x": 49,
+      "y": 19,
+      "w": 1165,
+      "h": 1235
+    }
+  },
+  "version": 3,
+  "projection": "2:1 isometric painted sprites",
+  "sourceObjectCount": 64,
+  "generatedSpriteCount": 150,
+  "atlases": {
+    "scenery": {
+      "file": "art/maps/iso-objects-v2/clean/scenery-a.png",
+      "width": 2048,
+      "height": 2048,
+      "cells": [
+        {
+          "x": 107,
+          "y": 116,
+          "w": 297,
+          "h": 279,
+          "pixels": 52332
+        },
+        {
+          "x": 626,
+          "y": 124,
+          "w": 284,
+          "h": 264,
+          "pixels": 51630
+        },
+        {
+          "x": 1138,
+          "y": 115,
+          "w": 284,
+          "h": 282,
+          "pixels": 48854
+        },
+        {
+          "x": 1641,
+          "y": 121,
+          "w": 302,
+          "h": 270,
+          "pixels": 49000
+        },
+        {
+          "x": 113,
+          "y": 621,
+          "w": 286,
+          "h": 293,
+          "pixels": 52183
+        },
+        {
+          "x": 610,
+          "y": 614,
+          "w": 315,
+          "h": 308,
+          "pixels": 63010
+        },
+        {
+          "x": 1134,
+          "y": 648,
+          "w": 291,
+          "h": 239,
+          "pixels": 44861
+        },
+        {
+          "x": 1645,
+          "y": 627,
+          "w": 293,
+          "h": 281,
+          "pixels": 53660
+        },
+        {
+          "x": 98,
+          "y": 1129,
+          "w": 315,
+          "h": 301,
+          "pixels": 63601
+        },
+        {
+          "x": 628,
+          "y": 1133,
+          "w": 280,
+          "h": 294,
+          "pixels": 48675
+        },
+        {
+          "x": 1129,
+          "y": 1130,
+          "w": 301,
+          "h": 299,
+          "pixels": 59483
+        },
+        {
+          "x": 1640,
+          "y": 1126,
+          "w": 304,
+          "h": 307,
+          "pixels": 52347
+        },
+        {
+          "x": 100,
+          "y": 1649,
+          "w": 312,
+          "h": 286,
+          "pixels": 61237
+        },
+        {
+          "x": 627,
+          "y": 1669,
+          "w": 281,
+          "h": 245,
+          "pixels": 47638
+        },
+        {
+          "x": 1135,
+          "y": 1653,
+          "w": 289,
+          "h": 278,
+          "pixels": 59884
+        },
+        {
+          "x": 1640,
+          "y": 1666,
+          "w": 303,
+          "h": 252,
+          "pixels": 44385
+        }
+      ]
+    },
+    "sceneryB": {
+      "file": "art/maps/iso-objects-v2/clean/scenery-b.png",
+      "width": 2048,
+      "height": 2048,
+      "cells": [
+        {
+          "x": 96,
+          "y": 100,
+          "w": 319,
+          "h": 312,
+          "pixels": 60043
+        },
+        {
+          "x": 620,
+          "y": 103,
+          "w": 296,
+          "h": 305,
+          "pixels": 57149
+        },
+        {
+          "x": 1137,
+          "y": 100,
+          "w": 285,
+          "h": 311,
+          "pixels": 51040
+        },
+        {
+          "x": 1628,
+          "y": 98,
+          "w": 327,
+          "h": 316,
+          "pixels": 60164
+        },
+        {
+          "x": 118,
+          "y": 626,
+          "w": 276,
+          "h": 284,
+          "pixels": 49637
+        },
+        {
+          "x": 602,
+          "y": 615,
+          "w": 331,
+          "h": 305,
+          "pixels": 63952
+        },
+        {
+          "x": 1136,
+          "y": 647,
+          "w": 288,
+          "h": 241,
+          "pixels": 44822
+        },
+        {
+          "x": 1638,
+          "y": 617,
+          "w": 308,
+          "h": 302,
+          "pixels": 56867
+        },
+        {
+          "x": 88,
+          "y": 1113,
+          "w": 336,
+          "h": 333,
+          "pixels": 69079
+        },
+        {
+          "x": 626,
+          "y": 1114,
+          "w": 284,
+          "h": 331,
+          "pixels": 50748
+        },
+        {
+          "x": 1123,
+          "y": 1111,
+          "w": 314,
+          "h": 338,
+          "pixels": 66388
+        },
+        {
+          "x": 1639,
+          "y": 1119,
+          "w": 306,
+          "h": 321,
+          "pixels": 51159
+        },
+        {
+          "x": 86,
+          "y": 1633,
+          "w": 339,
+          "h": 318,
+          "pixels": 69964
+        },
+        {
+          "x": 615,
+          "y": 1657,
+          "w": 306,
+          "h": 270,
+          "pixels": 56055
+        },
+        {
+          "x": 1134,
+          "y": 1631,
+          "w": 291,
+          "h": 322,
+          "pixels": 59755
+        },
+        {
+          "x": 1622,
+          "y": 1656,
+          "w": 339,
+          "h": 272,
+          "pixels": 51276
+        }
+      ]
+    },
+    "town": {
+      "file": "art/maps/iso-objects-v2/clean/town-a.png",
+      "width": 2048,
+      "height": 2048,
+      "cells": [
+        {
+          "x": 105,
+          "y": 99,
+          "w": 302,
+          "h": 314,
+          "pixels": 61740
+        },
+        {
+          "x": 616,
+          "y": 104,
+          "w": 303,
+          "h": 303,
+          "pixels": 58430
+        },
+        {
+          "x": 1126,
+          "y": 102,
+          "w": 308,
+          "h": 308,
+          "pixels": 64638
+        },
+        {
+          "x": 1645,
+          "y": 93,
+          "w": 293,
+          "h": 325,
+          "pixels": 59557
+        },
+        {
+          "x": 103,
+          "y": 602,
+          "w": 305,
+          "h": 332,
+          "pixels": 65251
+        },
+        {
+          "x": 608,
+          "y": 615,
+          "w": 320,
+          "h": 306,
+          "pixels": 62068
+        },
+        {
+          "x": 1146,
+          "y": 622,
+          "w": 267,
+          "h": 291,
+          "pixels": 47320
+        },
+        {
+          "x": 1640,
+          "y": 616,
+          "w": 303,
+          "h": 303,
+          "pixels": 57614
+        },
+        {
+          "x": 109,
+          "y": 1152,
+          "w": 294,
+          "h": 255,
+          "pixels": 43265
+        },
+        {
+          "x": 585,
+          "y": 1134,
+          "w": 365,
+          "h": 291,
+          "pixels": 58273
+        },
+        {
+          "x": 1139,
+          "y": 1164,
+          "w": 281,
+          "h": 232,
+          "pixels": 45011
+        },
+        {
+          "x": 1650,
+          "y": 1142,
+          "w": 283,
+          "h": 275,
+          "pixels": 51566
+        },
+        {
+          "x": 117,
+          "y": 1648,
+          "w": 277,
+          "h": 288,
+          "pixels": 53352
+        },
+        {
+          "x": 652,
+          "y": 1666,
+          "w": 231,
+          "h": 251,
+          "pixels": 31246
+        },
+        {
+          "x": 1119,
+          "y": 1683,
+          "w": 321,
+          "h": 217,
+          "pixels": 37552
+        },
+        {
+          "x": 1655,
+          "y": 1664,
+          "w": 273,
+          "h": 255,
+          "pixels": 41453
+        }
+      ]
+    },
+    "townB": {
+      "file": "art/maps/iso-objects-v2/clean/town-b.png",
+      "width": 2048,
+      "height": 2048,
+      "cells": [
+        {
+          "x": 111,
+          "y": 99,
+          "w": 289,
+          "h": 313,
+          "pixels": 57290
+        },
+        {
+          "x": 618,
+          "y": 104,
+          "w": 300,
+          "h": 304,
+          "pixels": 56601
+        },
+        {
+          "x": 1124,
+          "y": 88,
+          "w": 312,
+          "h": 335,
+          "pixels": 67296
+        },
+        {
+          "x": 1634,
+          "y": 96,
+          "w": 315,
+          "h": 319,
+          "pixels": 60919
+        },
+        {
+          "x": 105,
+          "y": 601,
+          "w": 302,
+          "h": 334,
+          "pixels": 64290
+        },
+        {
+          "x": 601,
+          "y": 602,
+          "w": 333,
+          "h": 331,
+          "pixels": 68182
+        },
+        {
+          "x": 1136,
+          "y": 616,
+          "w": 288,
+          "h": 304,
+          "pixels": 45975
+        },
+        {
+          "x": 1632,
+          "y": 606,
+          "w": 320,
+          "h": 324,
+          "pixels": 60229
+        },
+        {
+          "x": 112,
+          "y": 1150,
+          "w": 287,
+          "h": 260,
+          "pixels": 42880
+        },
+        {
+          "x": 574,
+          "y": 1142,
+          "w": 387,
+          "h": 276,
+          "pixels": 64626
+        },
+        {
+          "x": 1139,
+          "y": 1162,
+          "w": 281,
+          "h": 235,
+          "pixels": 43757
+        },
+        {
+          "x": 1648,
+          "y": 1141,
+          "w": 288,
+          "h": 278,
+          "pixels": 50027
+        },
+        {
+          "x": 121,
+          "y": 1643,
+          "w": 270,
+          "h": 297,
+          "pixels": 51920
+        },
+        {
+          "x": 634,
+          "y": 1656,
+          "w": 268,
+          "h": 271,
+          "pixels": 35504
+        },
+        {
+          "x": 1106,
+          "y": 1656,
+          "w": 348,
+          "h": 271,
+          "pixels": 42965
+        },
+        {
+          "x": 1654,
+          "y": 1655,
+          "w": 275,
+          "h": 273,
+          "pixels": 41869
+        }
+      ]
+    },
+    "supplement": {
+      "file": "art/maps/iso-objects-v2/clean/supplement-a.png",
+      "width": 2048,
+      "height": 2048,
+      "cells": [
+        {
+          "x": 102,
+          "y": 105,
+          "w": 307,
+          "h": 301,
+          "pixels": 46667
+        },
+        {
+          "x": 619,
+          "y": 105,
+          "w": 297,
+          "h": 302,
+          "pixels": 43594
+        },
+        {
+          "x": 1141,
+          "y": 128,
+          "w": 277,
+          "h": 256,
+          "pixels": 40246
+        },
+        {
+          "x": 1660,
+          "y": 131,
+          "w": 263,
+          "h": 250,
+          "pixels": 28611
+        },
+        {
+          "x": 104,
+          "y": 607,
+          "w": 303,
+          "h": 322,
+          "pixels": 60695
+        },
+        {
+          "x": 621,
+          "y": 614,
+          "w": 294,
+          "h": 308,
+          "pixels": 58161
+        },
+        {
+          "x": 1105,
+          "y": 586,
+          "w": 349,
+          "h": 364,
+          "pixels": 78872
+        },
+        {
+          "x": 1641,
+          "y": 598,
+          "w": 301,
+          "h": 340,
+          "pixels": 61996
+        },
+        {
+          "x": 90,
+          "y": 1140,
+          "w": 331,
+          "h": 279,
+          "pixels": 45467
+        },
+        {
+          "x": 633,
+          "y": 1145,
+          "w": 269,
+          "h": 269,
+          "pixels": 33651
+        },
+        {
+          "x": 1135,
+          "y": 1171,
+          "w": 290,
+          "h": 218,
+          "pixels": 43254
+        },
+        {
+          "x": 1636,
+          "y": 1156,
+          "w": 311,
+          "h": 248,
+          "pixels": 45548
+        },
+        {
+          "x": 100,
+          "y": 1645,
+          "w": 312,
+          "h": 294,
+          "pixels": 53820
+        },
+        {
+          "x": 622,
+          "y": 1669,
+          "w": 291,
+          "h": 245,
+          "pixels": 49074
+        },
+        {
+          "x": 1119,
+          "y": 1634,
+          "w": 321,
+          "h": 315,
+          "pixels": 68392
+        },
+        {
+          "x": 1695,
+          "y": 1636,
+          "w": 194,
+          "h": 312,
+          "pixels": 35735
+        }
+      ]
+    },
+    "supplementB": {
+      "file": "art/maps/iso-objects-v2/clean/supplement-b.png",
+      "width": 2048,
+      "height": 2048,
+      "cells": [
+        {
+          "x": 112,
+          "y": 115,
+          "w": 287,
+          "h": 282,
+          "pixels": 40893
+        },
+        {
+          "x": 629,
+          "y": 114,
+          "w": 277,
+          "h": 284,
+          "pixels": 40392
+        },
+        {
+          "x": 1134,
+          "y": 134,
+          "w": 292,
+          "h": 243,
+          "pixels": 40615
+        },
+        {
+          "x": 1650,
+          "y": 139,
+          "w": 284,
+          "h": 233,
+          "pixels": 30447
+        },
+        {
+          "x": 108,
+          "y": 618,
+          "w": 296,
+          "h": 299,
+          "pixels": 55262
+        },
+        {
+          "x": 615,
+          "y": 630,
+          "w": 305,
+          "h": 276,
+          "pixels": 58921
+        },
+        {
+          "x": 1121,
+          "y": 600,
+          "w": 317,
+          "h": 335,
+          "pixels": 69287
+        },
+        {
+          "x": 1646,
+          "y": 617,
+          "w": 292,
+          "h": 301,
+          "pixels": 55728
+        },
+        {
+          "x": 105,
+          "y": 1142,
+          "w": 302,
+          "h": 276,
+          "pixels": 40826
+        },
+        {
+          "x": 639,
+          "y": 1147,
+          "w": 257,
+          "h": 265,
+          "pixels": 32150
+        },
+        {
+          "x": 1143,
+          "y": 1177,
+          "w": 274,
+          "h": 205,
+          "pixels": 38004
+        },
+        {
+          "x": 1640,
+          "y": 1164,
+          "w": 303,
+          "h": 232,
+          "pixels": 39596
+        },
+        {
+          "x": 111,
+          "y": 1655,
+          "w": 289,
+          "h": 273,
+          "pixels": 41627
+        },
+        {
+          "x": 628,
+          "y": 1678,
+          "w": 279,
+          "h": 228,
+          "pixels": 42412
+        },
+        {
+          "x": 1136,
+          "y": 1641,
+          "w": 287,
+          "h": 302,
+          "pixels": 57048
+        },
+        {
+          "x": 1700,
+          "y": 1642,
+          "w": 183,
+          "h": 299,
+          "pixels": 32166
+        }
+      ]
+    },
+    "nature": {
+      "file": "art/maps/iso-objects-v2/clean/nature-a.png",
+      "width": 2048,
+      "height": 2048,
+      "cells": [
+        {
+          "x": 101,
+          "y": 104,
+          "w": 310,
+          "h": 303,
+          "pixels": 61528
+        },
+        {
+          "x": 617,
+          "y": 109,
+          "w": 301,
+          "h": 294,
+          "pixels": 51105
+        },
+        {
+          "x": 1131,
+          "y": 98,
+          "w": 298,
+          "h": 316,
+          "pixels": 57155
+        },
+        {
+          "x": 1646,
+          "y": 102,
+          "w": 291,
+          "h": 307,
+          "pixels": 49345
+        },
+        {
+          "x": 97,
+          "y": 629,
+          "w": 317,
+          "h": 278,
+          "pixels": 65362
+        },
+        {
+          "x": 618,
+          "y": 620,
+          "w": 300,
+          "h": 295,
+          "pixels": 61477
+        },
+        {
+          "x": 1125,
+          "y": 626,
+          "w": 310,
+          "h": 283,
+          "pixels": 51487
+        },
+        {
+          "x": 1636,
+          "y": 625,
+          "w": 311,
+          "h": 285,
+          "pixels": 58326
+        },
+        {
+          "x": 89,
+          "y": 1117,
+          "w": 334,
+          "h": 326,
+          "pixels": 68394
+        },
+        {
+          "x": 622,
+          "y": 1139,
+          "w": 292,
+          "h": 281,
+          "pixels": 56063
+        },
+        {
+          "x": 1117,
+          "y": 1125,
+          "w": 325,
+          "h": 310,
+          "pixels": 65329
+        },
+        {
+          "x": 1654,
+          "y": 1133,
+          "w": 275,
+          "h": 294,
+          "pixels": 41428
+        },
+        {
+          "x": 97,
+          "y": 1659,
+          "w": 317,
+          "h": 265,
+          "pixels": 46063
+        },
+        {
+          "x": 600,
+          "y": 1691,
+          "w": 336,
+          "h": 202,
+          "pixels": 39554
+        },
+        {
+          "x": 1142,
+          "y": 1661,
+          "w": 275,
+          "h": 262,
+          "pixels": 40992
+        },
+        {
+          "x": 1640,
+          "y": 1648,
+          "w": 304,
+          "h": 287,
+          "pixels": 58303
+        }
+      ]
+    },
+    "natureB": {
+      "file": "art/maps/iso-objects-v2/clean/nature-b.png",
+      "width": 2048,
+      "height": 2048,
+      "cells": [
+        {
+          "x": 107,
+          "y": 110,
+          "w": 297,
+          "h": 292,
+          "pixels": 54904
+        },
+        {
+          "x": 615,
+          "y": 109,
+          "w": 305,
+          "h": 294,
+          "pixels": 51123
+        },
+        {
+          "x": 1133,
+          "y": 104,
+          "w": 294,
+          "h": 303,
+          "pixels": 55139
+        },
+        {
+          "x": 1646,
+          "y": 115,
+          "w": 292,
+          "h": 282,
+          "pixels": 45443
+        },
+        {
+          "x": 100,
+          "y": 640,
+          "w": 312,
+          "h": 256,
+          "pixels": 57404
+        },
+        {
+          "x": 621,
+          "y": 636,
+          "w": 294,
+          "h": 263,
+          "pixels": 50365
+        },
+        {
+          "x": 1135,
+          "y": 645,
+          "w": 290,
+          "h": 245,
+          "pixels": 42169
+        },
+        {
+          "x": 1644,
+          "y": 638,
+          "w": 296,
+          "h": 260,
+          "pixels": 50456
+        },
+        {
+          "x": 109,
+          "y": 1131,
+          "w": 293,
+          "h": 298,
+          "pixels": 53371
+        },
+        {
+          "x": 623,
+          "y": 1151,
+          "w": 290,
+          "h": 257,
+          "pixels": 48409
+        },
+        {
+          "x": 1120,
+          "y": 1136,
+          "w": 319,
+          "h": 288,
+          "pixels": 60258
+        },
+        {
+          "x": 1660,
+          "y": 1135,
+          "w": 263,
+          "h": 290,
+          "pixels": 39116
+        },
+        {
+          "x": 84,
+          "y": 1646,
+          "w": 344,
+          "h": 292,
+          "pixels": 55343
+        },
+        {
+          "x": 620,
+          "y": 1673,
+          "w": 296,
+          "h": 237,
+          "pixels": 39719
+        },
+        {
+          "x": 1136,
+          "y": 1665,
+          "w": 288,
+          "h": 254,
+          "pixels": 43547
+        },
+        {
+          "x": 1643,
+          "y": 1643,
+          "w": 297,
+          "h": 297,
+          "pixels": 54628
+        }
+      ]
+    },
+    "camp": {
+      "file": "art/maps/iso-objects-v2/clean/camp.png",
+      "width": 2048,
+      "height": 2048,
+      "cells": [
+        {
+          "x": 99,
+          "y": 112,
+          "w": 313,
+          "h": 287,
+          "pixels": 47774
+        },
+        {
+          "x": 622,
+          "y": 114,
+          "w": 292,
+          "h": 284,
+          "pixels": 47491
+        },
+        {
+          "x": 1156,
+          "y": 128,
+          "w": 248,
+          "h": 255,
+          "pixels": 38158
+        },
+        {
+          "x": 1664,
+          "y": 130,
+          "w": 256,
+          "h": 252,
+          "pixels": 38327
+        },
+        {
+          "x": 146,
+          "y": 611,
+          "w": 219,
+          "h": 314,
+          "pixels": 27250
+        },
+        {
+          "x": 662,
+          "y": 612,
+          "w": 212,
+          "h": 311,
+          "pixels": 25515
+        },
+        {
+          "x": 1169,
+          "y": 612,
+          "w": 222,
+          "h": 311,
+          "pixels": 27737
+        },
+        {
+          "x": 1688,
+          "y": 611,
+          "w": 208,
+          "h": 313,
+          "pixels": 25851
+        },
+        {
+          "x": 148,
+          "y": 1120,
+          "w": 216,
+          "h": 320,
+          "pixels": 44751
+        },
+        {
+          "x": 663,
+          "y": 1122,
+          "w": 209,
+          "h": 316,
+          "pixels": 42633
+        },
+        {
+          "x": 1125,
+          "y": 1124,
+          "w": 310,
+          "h": 312,
+          "pixels": 61976
+        },
+        {
+          "x": 1650,
+          "y": 1126,
+          "w": 283,
+          "h": 307,
+          "pixels": 54416
+        },
+        {
+          "x": 108,
+          "y": 1656,
+          "w": 296,
+          "h": 272,
+          "pixels": 36523
+        },
+        {
+          "x": 624,
+          "y": 1656,
+          "w": 288,
+          "h": 272,
+          "pixels": 35344
+        },
+        {
+          "x": 1127,
+          "y": 1653,
+          "w": 306,
+          "h": 277,
+          "pixels": 38385
+        },
+        {
+          "x": 1653,
+          "y": 1662,
+          "w": 277,
+          "h": 259,
+          "pixels": 35530
+        }
+      ]
+    },
+    "flag-kim": {
+      "file": "art/maps/iso-objects-v2/clean/flag-kim.png",
+      "width": 2048,
+      "height": 1024,
+      "cells": [
+        {
+          "x": 174,
+          "y": 100,
+          "w": 675,
+          "h": 824,
+          "pixels": 238292
+        },
+        {
+          "x": 1196,
+          "y": 100,
+          "w": 680,
+          "h": 824,
+          "pixels": 239714
+        }
+      ]
+    },
+    "flag-gye": {
+      "file": "art/maps/iso-objects-v2/clean/flag-gye.png",
+      "width": 2048,
+      "height": 1024,
+      "cells": [
+        {
+          "x": 195,
+          "y": 93,
+          "w": 634,
+          "h": 838,
+          "pixels": 217087
+        },
+        {
+          "x": 1218,
+          "y": 91,
+          "w": 636,
+          "h": 841,
+          "pixels": 218398
+        }
+      ]
+    },
+    "flag-yeon": {
+      "file": "art/maps/iso-objects-v2/clean/flag-yeon.png",
+      "width": 2048,
+      "height": 1024,
+      "cells": [
+        {
+          "x": 186,
+          "y": 92,
+          "w": 652,
+          "h": 840,
+          "pixels": 238620
+        },
+        {
+          "x": 1211,
+          "y": 92,
+          "w": 649,
+          "h": 840,
+          "pixels": 241210
+        }
+      ]
+    },
+    "flag-tang": {
+      "file": "art/maps/iso-objects-v2/clean/flag-tang.png",
+      "width": 2048,
+      "height": 1024,
+      "cells": [
+        {
+          "x": 170,
+          "y": 84,
+          "w": 683,
+          "h": 856,
+          "pixels": 235456
+        },
+        {
+          "x": 1182,
+          "y": 84,
+          "w": 707,
+          "h": 856,
+          "pixels": 245257
+        }
+      ]
+    },
+    "flag-wa": {
+      "file": "art/maps/iso-objects-v2/clean/flag-wa.png",
+      "width": 2048,
+      "height": 1024,
+      "cells": [
+        {
+          "x": 172,
+          "y": 110,
+          "w": 679,
+          "h": 804,
+          "pixels": 232398
+        },
+        {
+          "x": 1197,
+          "y": 108,
+          "w": 678,
+          "h": 807,
+          "pixels": 232739
+        }
+      ]
+    },
+    "fort": {
+      "file": "art/maps/iso-objects-v2/clean/fort.png",
+      "width": 2048,
+      "height": 2048,
+      "cells": [
+        {
+          "x": 286,
+          "y": 206,
+          "w": 451,
+          "h": 611,
+          "pixels": 171743
+        },
+        {
+          "x": 1311,
+          "y": 207,
+          "w": 450,
+          "h": 610,
+          "pixels": 172049
+        },
+        {
+          "x": 208,
+          "y": 1244,
+          "w": 607,
+          "h": 584,
+          "pixels": 220266
+        },
+        {
+          "x": 1232,
+          "y": 1244,
+          "w": 608,
+          "h": 584,
+          "pixels": 220508
+        }
+      ]
+    }
+  },
+  "entries": [
+    {
+      "id": "scenery:0",
+      "name": "기와 민가",
+      "category": "건축·생활",
+      "source": "scenery",
+      "index": 0,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-scenery.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 97,
+        "y": 134,
+        "w": 318,
+        "h": 243,
+        "pixels": 58302
+      }
+    },
+    {
+      "id": "scenery:1",
+      "name": "초가 민가",
+      "category": "건축·생활",
+      "source": "scenery",
+      "index": 1,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-scenery.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 630,
+        "y": 124,
+        "w": 275,
+        "h": 264,
+        "pixels": 56548
+      }
+    },
+    {
+      "id": "scenery:2",
+      "name": "목조 창고",
+      "category": "건축·생활",
+      "source": "scenery",
+      "index": 2,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-scenery.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1136,
+        "y": 130,
+        "w": 287,
+        "h": 251,
+        "pixels": 54115
+      }
+    },
+    {
+      "id": "scenery:3",
+      "name": "긴 기와 창고",
+      "category": "건축·생활",
+      "source": "scenery",
+      "index": 3,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-scenery.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1627,
+        "y": 142,
+        "w": 330,
+        "h": 228,
+        "pixels": 59722
+      }
+    },
+    {
+      "id": "scenery:4",
+      "name": "채소 가판",
+      "category": "건축·생활",
+      "source": "scenery",
+      "index": 4,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-scenery.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 109,
+        "y": 645,
+        "w": 293,
+        "h": 245,
+        "pixels": 52377
+      }
+    },
+    {
+      "id": "scenery:5",
+      "name": "담장 안 민가",
+      "category": "건축·생활",
+      "source": "scenery",
+      "index": 5,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-scenery.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 608,
+        "y": 633,
+        "w": 319,
+        "h": 270,
+        "pixels": 71890
+      }
+    },
+    {
+      "id": "scenery:6",
+      "name": "옹기 가마",
+      "category": "건축·생활",
+      "source": "scenery",
+      "index": 6,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-scenery.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1130,
+        "y": 649,
+        "w": 299,
+        "h": 237,
+        "pixels": 44424
+      }
+    },
+    {
+      "id": "scenery:7",
+      "name": "작은 사당",
+      "category": "건축·생활",
+      "source": "scenery",
+      "index": 7,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-scenery.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1652,
+        "y": 633,
+        "w": 280,
+        "h": 269,
+        "pixels": 46484
+      }
+    },
+    {
+      "id": "scenery:8",
+      "name": "활엽수",
+      "category": "자연",
+      "source": "scenery",
+      "index": 8,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-scenery.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 80,
+        "y": 1113,
+        "w": 352,
+        "h": 333,
+        "pixels": 74486
+      }
+    },
+    {
+      "id": "scenery:9",
+      "name": "황금 자작나무",
+      "category": "자연",
+      "source": "scenery",
+      "index": 9,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-scenery.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 628,
+        "y": 1124,
+        "w": 279,
+        "h": 312,
+        "pixels": 49051
+      }
+    },
+    {
+      "id": "scenery:10",
+      "name": "단풍나무",
+      "category": "자연",
+      "source": "scenery",
+      "index": 10,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-scenery.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1121,
+        "y": 1119,
+        "w": 317,
+        "h": 321,
+        "pixels": 62567
+      }
+    },
+    {
+      "id": "scenery:11",
+      "name": "노송",
+      "category": "자연",
+      "source": "scenery",
+      "index": 11,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-scenery.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1641,
+        "y": 1115,
+        "w": 301,
+        "h": 330,
+        "pixels": 49302
+      }
+    },
+    {
+      "id": "scenery:12",
+      "name": "화강암 봉우리",
+      "category": "자연",
+      "source": "scenery",
+      "index": 12,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-scenery.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 80,
+        "y": 1650,
+        "w": 351,
+        "h": 283,
+        "pixels": 69073
+      }
+    },
+    {
+      "id": "scenery:13",
+      "name": "이끼 바위와 통나무",
+      "category": "자연",
+      "source": "scenery",
+      "index": 13,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-scenery.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 636,
+        "y": 1677,
+        "w": 263,
+        "h": 230,
+        "pixels": 43795
+      }
+    },
+    {
+      "id": "scenery:14",
+      "name": "강버들과 갈대",
+      "category": "자연",
+      "source": "scenery",
+      "index": 14,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-scenery.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1129,
+        "y": 1647,
+        "w": 301,
+        "h": 290,
+        "pixels": 48421
+      }
+    },
+    {
+      "id": "scenery:15",
+      "name": "울타리 텃밭",
+      "category": "건축·생활",
+      "source": "scenery",
+      "index": 15,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-scenery.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1646,
+        "y": 1703,
+        "w": 291,
+        "h": 178,
+        "pixels": 41142
+      }
+    },
+    {
+      "id": "town:0",
+      "name": "대장간",
+      "category": "건축·생활",
+      "source": "town",
+      "index": 0,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-town.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 105,
+        "y": 113,
+        "w": 301,
+        "h": 286,
+        "pixels": 62612
+      }
+    },
+    {
+      "id": "town:1",
+      "name": "목공소",
+      "category": "건축·생활",
+      "source": "town",
+      "index": 1,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-town.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 614,
+        "y": 132,
+        "w": 308,
+        "h": 248,
+        "pixels": 60192
+      }
+    },
+    {
+      "id": "town:2",
+      "name": "푸른 기와 민가",
+      "category": "건축·생활",
+      "source": "town",
+      "index": 2,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-town.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1130,
+        "y": 118,
+        "w": 300,
+        "h": 276,
+        "pixels": 64089
+      }
+    },
+    {
+      "id": "town:3",
+      "name": "야전 부엌",
+      "category": "건축·생활",
+      "source": "town",
+      "index": 3,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-town.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1634,
+        "y": 111,
+        "w": 316,
+        "h": 289,
+        "pixels": 55865
+      }
+    },
+    {
+      "id": "town:4",
+      "name": "고상식 곡물 창고",
+      "category": "건축·생활",
+      "source": "town",
+      "index": 4,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-town.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 111,
+        "y": 628,
+        "w": 289,
+        "h": 280,
+        "pixels": 62945
+      }
+    },
+    {
+      "id": "town:5",
+      "name": "도예 공방",
+      "category": "건축·생활",
+      "source": "town",
+      "index": 5,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-town.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 600,
+        "y": 640,
+        "w": 336,
+        "h": 255,
+        "pixels": 70604
+      }
+    },
+    {
+      "id": "town:6",
+      "name": "정자",
+      "category": "건축·생활",
+      "source": "town",
+      "index": 6,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-town.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1145,
+        "y": 631,
+        "w": 269,
+        "h": 274,
+        "pixels": 38254
+      }
+    },
+    {
+      "id": "town:7",
+      "name": "외양간",
+      "category": "건축·생활",
+      "source": "town",
+      "index": 7,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-town.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1629,
+        "y": 644,
+        "w": 326,
+        "h": 248,
+        "pixels": 61188
+      }
+    },
+    {
+      "id": "town:8",
+      "name": "볏짚 더미",
+      "category": "건축·생활",
+      "source": "town",
+      "index": 8,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-town.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 102,
+        "y": 1167,
+        "w": 307,
+        "h": 226,
+        "pixels": 40401
+      }
+    },
+    {
+      "id": "town:9",
+      "name": "관개 밭",
+      "category": "건축·생활",
+      "source": "town",
+      "index": 9,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-town.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 604,
+        "y": 1160,
+        "w": 327,
+        "h": 239,
+        "pixels": 65405
+      }
+    },
+    {
+      "id": "town:10",
+      "name": "맷돌과 곡물",
+      "category": "건축·생활",
+      "source": "town",
+      "index": 10,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-town.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1131,
+        "y": 1158,
+        "w": 298,
+        "h": 244,
+        "pixels": 47927
+      }
+    },
+    {
+      "id": "town:11",
+      "name": "장작 창고",
+      "category": "건축·생활",
+      "source": "town",
+      "index": 11,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-town.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1640,
+        "y": 1160,
+        "w": 304,
+        "h": 239,
+        "pixels": 50726
+      }
+    },
+    {
+      "id": "town:12",
+      "name": "지붕 우물",
+      "category": "건축·생활",
+      "source": "town",
+      "index": 12,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-town.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 114,
+        "y": 1654,
+        "w": 283,
+        "h": 275,
+        "pixels": 53940
+      }
+    },
+    {
+      "id": "town:13",
+      "name": "석등",
+      "category": "건축·생활",
+      "source": "town",
+      "index": 13,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-town.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 656,
+        "y": 1668,
+        "w": 224,
+        "h": 247,
+        "pixels": 28066
+      }
+    },
+    {
+      "id": "town:14",
+      "name": "짐수레",
+      "category": "건축·생활",
+      "source": "town",
+      "index": 14,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-town.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1110,
+        "y": 1680,
+        "w": 339,
+        "h": 223,
+        "pixels": 39388
+      }
+    },
+    {
+      "id": "town:15",
+      "name": "입석",
+      "category": "건축·생활",
+      "source": "town",
+      "index": 15,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-town.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1659,
+        "y": 1672,
+        "w": 266,
+        "h": 240,
+        "pixels": 34613
+      }
+    },
+    {
+      "id": "supplement:0",
+      "name": "강둑 안쪽",
+      "category": "지형 시설",
+      "source": "supplement",
+      "index": 0,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-supplement.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 168,
+        "y": 99,
+        "w": 175,
+        "h": 313,
+        "pixels": 44549
+      }
+    },
+    {
+      "id": "supplement:1",
+      "name": "강둑 바깥쪽",
+      "category": "지형 시설",
+      "source": "supplement",
+      "index": 1,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-supplement.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 681,
+        "y": 99,
+        "w": 173,
+        "h": 313,
+        "pixels": 44248
+      }
+    },
+    {
+      "id": "supplement:2",
+      "name": "강가 돌계단",
+      "category": "지형 시설",
+      "source": "supplement",
+      "index": 2,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-supplement.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1122,
+        "y": 154,
+        "w": 315,
+        "h": 204,
+        "pixels": 44282
+      }
+    },
+    {
+      "id": "supplement:3",
+      "name": "나루 선착장",
+      "category": "지형 시설",
+      "source": "supplement",
+      "index": 3,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-supplement.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1648,
+        "y": 171,
+        "w": 287,
+        "h": 169,
+        "pixels": 29703
+      }
+    },
+    {
+      "id": "supplement:4",
+      "name": "기와 장터",
+      "category": "건축·생활",
+      "source": "supplement",
+      "index": 4,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-supplement.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 97,
+        "y": 632,
+        "w": 317,
+        "h": 271,
+        "pixels": 71590
+      }
+    },
+    {
+      "id": "supplement:5",
+      "name": "초가 두 채",
+      "category": "건축·생활",
+      "source": "supplement",
+      "index": 5,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-supplement.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 612,
+        "y": 640,
+        "w": 311,
+        "h": 256,
+        "pixels": 59758
+      }
+    },
+    {
+      "id": "supplement:6",
+      "name": "담장 정원",
+      "category": "건축·생활",
+      "source": "supplement",
+      "index": 6,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-supplement.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1127,
+        "y": 619,
+        "w": 306,
+        "h": 297,
+        "pixels": 78589
+      }
+    },
+    {
+      "id": "supplement:7",
+      "name": "말먹이 외양간",
+      "category": "건축·생활",
+      "source": "supplement",
+      "index": 7,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-supplement.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1631,
+        "y": 628,
+        "w": 322,
+        "h": 279,
+        "pixels": 72661
+      }
+    },
+    {
+      "id": "supplement:8",
+      "name": "기와 담장 문",
+      "category": "건축·생활",
+      "source": "supplement",
+      "index": 8,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-supplement.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 63,
+        "y": 1201,
+        "w": 385,
+        "h": 157,
+        "pixels": 44635
+      }
+    },
+    {
+      "id": "supplement:9",
+      "name": "기와 담장",
+      "category": "건축·생활",
+      "source": "supplement",
+      "index": 9,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-supplement.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 717,
+        "y": 1142,
+        "w": 101,
+        "h": 276,
+        "pixels": 18012
+      }
+    },
+    {
+      "id": "supplement:10",
+      "name": "항아리와 광주리",
+      "category": "건축·생활",
+      "source": "supplement",
+      "index": 10,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-supplement.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1137,
+        "y": 1176,
+        "w": 285,
+        "h": 208,
+        "pixels": 41800
+      }
+    },
+    {
+      "id": "supplement:11",
+      "name": "군량 수레",
+      "category": "건축·생활",
+      "source": "supplement",
+      "index": 11,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-supplement.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1633,
+        "y": 1165,
+        "w": 317,
+        "h": 229,
+        "pixels": 43541
+      }
+    },
+    {
+      "id": "supplement:12",
+      "name": "갈대 바위",
+      "category": "자연",
+      "source": "supplement",
+      "index": 12,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-supplement.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 101,
+        "y": 1670,
+        "w": 309,
+        "h": 243,
+        "pixels": 49522
+      }
+    },
+    {
+      "id": "supplement:13",
+      "name": "둥근 바위",
+      "category": "자연",
+      "source": "supplement",
+      "index": 13,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-supplement.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 620,
+        "y": 1674,
+        "w": 295,
+        "h": 235,
+        "pixels": 43946
+      }
+    },
+    {
+      "id": "supplement:14",
+      "name": "갈대 버드나무",
+      "category": "자연",
+      "source": "supplement",
+      "index": 14,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-supplement.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1100,
+        "y": 1634,
+        "w": 359,
+        "h": 316,
+        "pixels": 70361
+      }
+    },
+    {
+      "id": "supplement:15",
+      "name": "목조 망루",
+      "category": "건축·생활",
+      "source": "supplement",
+      "index": 15,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-supplement.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1700,
+        "y": 1635,
+        "w": 184,
+        "h": 313,
+        "pixels": 33698
+      }
+    },
+    {
+      "id": "nature:0",
+      "name": "푸른 활엽수",
+      "category": "자연",
+      "source": "nature",
+      "index": 0,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-nature.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 89,
+        "y": 95,
+        "w": 334,
+        "h": 321,
+        "pixels": 69965
+      }
+    },
+    {
+      "id": "nature:1",
+      "name": "굽은 소나무",
+      "category": "자연",
+      "source": "nature",
+      "index": 1,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-nature.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 594,
+        "y": 98,
+        "w": 347,
+        "h": 315,
+        "pixels": 53302
+      }
+    },
+    {
+      "id": "nature:2",
+      "name": "붉은 단풍",
+      "category": "자연",
+      "source": "nature",
+      "index": 2,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-nature.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1136,
+        "y": 100,
+        "w": 287,
+        "h": 312,
+        "pixels": 39956
+      }
+    },
+    {
+      "id": "nature:3",
+      "name": "흰 꽃나무",
+      "category": "자연",
+      "source": "nature",
+      "index": 3,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-nature.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1636,
+        "y": 93,
+        "w": 311,
+        "h": 325,
+        "pixels": 43022
+      }
+    },
+    {
+      "id": "nature:4",
+      "name": "밝은 암반",
+      "category": "자연",
+      "source": "nature",
+      "index": 4,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-nature.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 90,
+        "y": 633,
+        "w": 332,
+        "h": 269,
+        "pixels": 67635
+      }
+    },
+    {
+      "id": "nature:5",
+      "name": "검은 층리암",
+      "category": "자연",
+      "source": "nature",
+      "index": 5,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-nature.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 619,
+        "y": 618,
+        "w": 298,
+        "h": 300,
+        "pixels": 63280
+      }
+    },
+    {
+      "id": "nature:6",
+      "name": "쓰러진 고목",
+      "category": "자연",
+      "source": "nature",
+      "index": 6,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-nature.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1123,
+        "y": 633,
+        "w": 314,
+        "h": 269,
+        "pixels": 45738
+      }
+    },
+    {
+      "id": "nature:7",
+      "name": "이끼 그루터기",
+      "category": "자연",
+      "source": "nature",
+      "index": 7,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-nature.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1630,
+        "y": 628,
+        "w": 324,
+        "h": 280,
+        "pixels": 57396
+      }
+    },
+    {
+      "id": "nature:8",
+      "name": "대나무",
+      "category": "자연",
+      "source": "nature",
+      "index": 8,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-nature.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 83,
+        "y": 1103,
+        "w": 345,
+        "h": 354,
+        "pixels": 62554
+      }
+    },
+    {
+      "id": "nature:9",
+      "name": "열매 관목",
+      "category": "자연",
+      "source": "nature",
+      "index": 9,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-nature.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 618,
+        "y": 1139,
+        "w": 300,
+        "h": 281,
+        "pixels": 52958
+      }
+    },
+    {
+      "id": "nature:10",
+      "name": "갈대 군락",
+      "category": "자연",
+      "source": "nature",
+      "index": 10,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-nature.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1109,
+        "y": 1118,
+        "w": 342,
+        "h": 324,
+        "pixels": 67098
+      }
+    },
+    {
+      "id": "nature:11",
+      "name": "강가 자갈톱",
+      "category": "자연",
+      "source": "nature",
+      "index": 11,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-nature.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1665,
+        "y": 1134,
+        "w": 254,
+        "h": 291,
+        "pixels": 30970
+      }
+    },
+    {
+      "id": "nature:12",
+      "name": "목조 수문",
+      "category": "지형 시설",
+      "source": "nature",
+      "index": 12,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-nature.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 82,
+        "y": 1698,
+        "w": 347,
+        "h": 188,
+        "pixels": 40685
+      }
+    },
+    {
+      "id": "nature:13",
+      "name": "나룻배",
+      "category": "지형 시설",
+      "source": "nature",
+      "index": 13,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-nature.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 600,
+        "y": 1713,
+        "w": 336,
+        "h": 158,
+        "pixels": 33604
+      }
+    },
+    {
+      "id": "nature:14",
+      "name": "생선 건조대",
+      "category": "지형 시설",
+      "source": "nature",
+      "index": 14,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-nature.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1128,
+        "y": 1674,
+        "w": 304,
+        "h": 235,
+        "pixels": 41700
+      }
+    },
+    {
+      "id": "nature:15",
+      "name": "흙 계단",
+      "category": "지형 시설",
+      "source": "nature",
+      "index": 15,
+      "original": {
+        "file": "art/maps/iso-objects-v2/clean/original-nature.png",
+        "width": 2048,
+        "height": 2048,
+        "x": 1649,
+        "y": 1657,
+        "w": 285,
+        "h": 270,
+        "pixels": 55951
+      }
+    }
+  ]
+}
