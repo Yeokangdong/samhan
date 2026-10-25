@@ -1,0 +1,1395 @@
+{
+ "id": "tactics-lab-16",
+ "version": 1,
+ "W": 16,
+ "H": 16,
+ "tile": {
+  "w": 80,
+  "h": 40,
+  "lift": 16
+ },
+ "groundTexture": {
+  "file": "ground.png",
+  "pxPerCell": 128
+ },
+ "cliffTexture": "cliff.png",
+ "cells": [
+  "ggggwwggggnnnnnn",
+  "ggggwwggggnnnnnn",
+  "ggggwwggggnnnnnn",
+  "ggggwwwgggnnnnnn",
+  "gggggwwgggnnnnnn",
+  "gggggwwwggnnnnnn",
+  "ggggggwwgggggggg",
+  "ggggggwwgggggggg",
+  "ddddddbbdddddddd",
+  "ddddddbbbddddddd",
+  "gggdgggwwggfffff",
+  "gggdggggwwgfffff",
+  "gggdggggwwwfffff",
+  "gggdgggggwwwffff",
+  "gggdggggggwwffff",
+  "gggdggggggwwffff"
+ ],
+ "heights": [
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   1,
+   2,
+   2,
+   2,
+   2
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   1,
+   2,
+   2,
+   2,
+   2
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   1,
+   2,
+   2,
+   2,
+   2
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "blocked": [
+  [
+   false,
+   false,
+   false,
+   false,
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   true,
+   true,
+   false,
+   false,
+   false,
+   true,
+   false,
+   true,
+   false,
+   true,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   true,
+   false,
+   true,
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   false
+  ],
+  [
+   false,
+   true,
+   false,
+   false,
+   false,
+   true,
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   true,
+   true,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   true,
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   true
+  ],
+  [
+   true,
+   true,
+   false,
+   false,
+   true,
+   true,
+   false,
+   false,
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   true,
+   false
+  ],
+  [
+   true,
+   true,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   true,
+   true,
+   true,
+   true,
+   false,
+   false,
+   false,
+   false
+  ],
+  [
+   false,
+   true,
+   false,
+   false,
+   true,
+   true,
+   false,
+   false,
+   true,
+   true,
+   true,
+   true,
+   false,
+   true,
+   false,
+   false
+  ],
+  [
+   true,
+   true,
+   true,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true,
+   false,
+   false,
+   false,
+   true
+  ],
+  [
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true,
+   true,
+   false,
+   true,
+   false
+  ]
+ ],
+ "moveCost": {
+  "g": 1,
+  "d": 1,
+  "b": 1,
+  "n": 1,
+  "f": 2,
+  "w": 99
+ },
+ "objects": [
+  {
+   "id": "house-tile",
+   "x": 0,
+   "y": 11,
+   "w": 2,
+   "h": 2,
+   "art": {
+    "atlas": "scenery",
+    "index": 0,
+    "mirror": false,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/scenery-a.png",
+     "x": 107,
+     "y": 116,
+     "w": 297,
+     "h": 279
+    }
+   },
+   "kind": "house",
+   "solid": true,
+   "size": 1.0
+  },
+  {
+   "id": "house-thatch",
+   "x": 0,
+   "y": 14,
+   "w": 2,
+   "h": 2,
+   "art": {
+    "atlas": "sceneryB",
+    "index": 1,
+    "mirror": false,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/scenery-b.png",
+     "x": 620,
+     "y": 103,
+     "w": 296,
+     "h": 305
+    }
+   },
+   "kind": "house",
+   "solid": true,
+   "size": 0.96
+  },
+  {
+   "id": "storehouse",
+   "x": 4,
+   "y": 11,
+   "w": 2,
+   "h": 1,
+   "art": {
+    "atlas": "town",
+    "index": 4,
+    "mirror": false,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/town-a.png",
+     "x": 103,
+     "y": 602,
+     "w": 305,
+     "h": 332
+    }
+   },
+   "kind": "house",
+   "solid": true,
+   "size": 1.0
+  },
+  {
+   "id": "well",
+   "x": 2,
+   "y": 14,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "atlas": "town",
+    "index": 12,
+    "mirror": false,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/town-a.png",
+     "x": 117,
+     "y": 1648,
+     "w": 277,
+     "h": 288
+    }
+   },
+   "kind": "decor",
+   "solid": true,
+   "size": 1.05
+  },
+  {
+   "id": "haystack",
+   "x": 1,
+   "y": 13,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "atlas": "town",
+    "index": 8,
+    "mirror": false,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/town-a.png",
+     "x": 109,
+     "y": 1152,
+     "w": 294,
+     "h": 255
+    }
+   },
+   "kind": "decor",
+   "solid": true,
+   "size": 0.9
+  },
+  {
+   "id": "jars",
+   "x": 4,
+   "y": 13,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "atlas": "supplement",
+    "index": 10,
+    "mirror": false,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/supplement-a.png",
+     "x": 1135,
+     "y": 1171,
+     "w": 290,
+     "h": 218
+    }
+   },
+   "kind": "decor",
+   "solid": true,
+   "size": 0.9
+  },
+  {
+   "id": "palisade-11",
+   "x": 5,
+   "y": 11,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "file": "palisade-y.png"
+   },
+   "kind": "palisade",
+   "solid": true,
+   "size": 1.0
+  },
+  {
+   "id": "palisade-12",
+   "x": 5,
+   "y": 12,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "file": "palisade-y.png"
+   },
+   "kind": "palisade",
+   "solid": true,
+   "size": 1.0
+  },
+  {
+   "id": "palisade-13",
+   "x": 5,
+   "y": 13,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "file": "palisade-y.png"
+   },
+   "kind": "palisade",
+   "solid": true,
+   "size": 1.0
+  },
+  {
+   "id": "palisade-14",
+   "x": 5,
+   "y": 14,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "file": "palisade-y.png"
+   },
+   "kind": "palisade",
+   "solid": true,
+   "size": 1.0
+  },
+  {
+   "id": "palisade-n0",
+   "x": 0,
+   "y": 10,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "file": "palisade-x.png"
+   },
+   "kind": "palisade",
+   "solid": true,
+   "size": 1.0
+  },
+  {
+   "id": "palisade-n1",
+   "x": 1,
+   "y": 10,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "file": "palisade-x.png"
+   },
+   "kind": "palisade",
+   "solid": true,
+   "size": 1.0
+  },
+  {
+   "id": "palisade-n2",
+   "x": 2,
+   "y": 10,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "file": "palisade-x.png"
+   },
+   "kind": "palisade",
+   "solid": true,
+   "size": 1.0
+  },
+  {
+   "id": "t-maple",
+   "x": 2,
+   "y": 3,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "atlas": "scenery",
+    "index": 10,
+    "mirror": true,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/scenery-a.png",
+     "x": 1129,
+     "y": 1130,
+     "w": 301,
+     "h": 299
+    }
+   },
+   "kind": "tree",
+   "solid": true,
+   "size": 1.15
+  },
+  {
+   "id": "t-blossom",
+   "x": 9,
+   "y": 1,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "atlas": "nature",
+    "index": 3,
+    "mirror": false,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/nature-a.png",
+     "x": 1646,
+     "y": 102,
+     "w": 291,
+     "h": 307
+    }
+   },
+   "kind": "tree",
+   "solid": true,
+   "size": 1.0
+  },
+  {
+   "id": "t-willow",
+   "x": 3,
+   "y": 6,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "atlas": "supplement",
+    "index": 14,
+    "mirror": false,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/supplement-a.png",
+     "x": 1119,
+     "y": 1634,
+     "w": 321,
+     "h": 315
+    }
+   },
+   "kind": "tree",
+   "solid": true,
+   "size": 1.0
+  },
+  {
+   "id": "t-pine-hill",
+   "x": 14,
+   "y": 4,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "atlas": "scenery",
+    "index": 11,
+    "mirror": true,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/scenery-a.png",
+     "x": 1640,
+     "y": 1126,
+     "w": 304,
+     "h": 307
+    }
+   },
+   "kind": "tree",
+   "solid": true,
+   "size": 1.1
+  },
+  {
+   "id": "t-oak-hill",
+   "x": 11,
+   "y": 1,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "atlas": "nature",
+    "index": 0,
+    "mirror": true,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/nature-a.png",
+     "x": 101,
+     "y": 104,
+     "w": 310,
+     "h": 303
+    }
+   },
+   "kind": "tree",
+   "solid": true,
+   "size": 1.05
+  },
+  {
+   "id": "f1",
+   "x": 12,
+   "y": 10,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "atlas": "scenery",
+    "index": 8,
+    "mirror": false,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/scenery-a.png",
+     "x": 98,
+     "y": 1129,
+     "w": 315,
+     "h": 301
+    }
+   },
+   "kind": "tree",
+   "solid": true,
+   "size": 1.2
+  },
+  {
+   "id": "f2",
+   "x": 14,
+   "y": 11,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "atlas": "nature",
+    "index": 2,
+    "mirror": false,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/nature-a.png",
+     "x": 1131,
+     "y": 98,
+     "w": 298,
+     "h": 316
+    }
+   },
+   "kind": "tree",
+   "solid": true,
+   "size": 1.1
+  },
+  {
+   "id": "f3",
+   "x": 11,
+   "y": 12,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "atlas": "scenery",
+    "index": 9,
+    "mirror": false,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/scenery-a.png",
+     "x": 628,
+     "y": 1133,
+     "w": 280,
+     "h": 294
+    }
+   },
+   "kind": "tree",
+   "solid": true,
+   "size": 1.1
+  },
+  {
+   "id": "f4",
+   "x": 13,
+   "y": 13,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "atlas": "nature",
+    "index": 1,
+    "mirror": true,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/nature-a.png",
+     "x": 617,
+     "y": 109,
+     "w": 301,
+     "h": 294
+    }
+   },
+   "kind": "tree",
+   "solid": true,
+   "size": 1.15
+  },
+  {
+   "id": "f5",
+   "x": 15,
+   "y": 14,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "atlas": "scenery",
+    "index": 10,
+    "mirror": true,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/scenery-a.png",
+     "x": 1129,
+     "y": 1130,
+     "w": 301,
+     "h": 299
+    }
+   },
+   "kind": "tree",
+   "solid": true,
+   "size": 1.1
+  },
+  {
+   "id": "f6",
+   "x": 12,
+   "y": 15,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "atlas": "nature",
+    "index": 0,
+    "mirror": true,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/nature-a.png",
+     "x": 101,
+     "y": 104,
+     "w": 310,
+     "h": 303
+    }
+   },
+   "kind": "tree",
+   "solid": true,
+   "size": 1.15
+  },
+  {
+   "id": "f7",
+   "x": 15,
+   "y": 10,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "atlas": "scenery",
+    "index": 11,
+    "mirror": false,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/scenery-a.png",
+     "x": 1640,
+     "y": 1126,
+     "w": 304,
+     "h": 307
+    }
+   },
+   "kind": "tree",
+   "solid": true,
+   "size": 1.05
+  },
+  {
+   "id": "f8",
+   "x": 14,
+   "y": 15,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "atlas": "nature",
+    "index": 2,
+    "mirror": false,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/nature-a.png",
+     "x": 1131,
+     "y": 98,
+     "w": 298,
+     "h": 316
+    }
+   },
+   "kind": "tree",
+   "solid": true,
+   "size": 1.0
+  },
+  {
+   "id": "t-plain",
+   "x": 8,
+   "y": 13,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "atlas": "scenery",
+    "index": 9,
+    "mirror": true,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/scenery-a.png",
+     "x": 628,
+     "y": 1133,
+     "w": 280,
+     "h": 294
+    }
+   },
+   "kind": "tree",
+   "solid": true,
+   "size": 1.0
+  },
+  {
+   "id": "rock-hill",
+   "x": 13,
+   "y": 1,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "atlas": "nature",
+    "index": 4,
+    "mirror": false,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/nature-a.png",
+     "x": 97,
+     "y": 629,
+     "w": 317,
+     "h": 278
+    }
+   },
+   "kind": "rock",
+   "solid": true,
+   "size": 1.0
+  },
+  {
+   "id": "rock-plain",
+   "x": 10,
+   "y": 6,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "atlas": "supplement",
+    "index": 13,
+    "mirror": false,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/supplement-a.png",
+     "x": 622,
+     "y": 1669,
+     "w": 291,
+     "h": 245
+    }
+   },
+   "kind": "rock",
+   "solid": true,
+   "size": 0.95
+  },
+  {
+   "id": "rock-moss",
+   "x": 1,
+   "y": 5,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "atlas": "scenery",
+    "index": 13,
+    "mirror": false,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/scenery-a.png",
+     "x": 627,
+     "y": 1669,
+     "w": 281,
+     "h": 245
+    }
+   },
+   "kind": "rock",
+   "solid": true,
+   "size": 1.0
+  },
+  {
+   "id": "reeds-a",
+   "x": 9,
+   "y": 10,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "atlas": "nature",
+    "index": 10,
+    "mirror": false,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/nature-a.png",
+     "x": 1117,
+     "y": 1125,
+     "w": 325,
+     "h": 310
+    }
+   },
+   "kind": "decor",
+   "solid": false,
+   "size": 0.85
+  },
+  {
+   "id": "reeds-b",
+   "x": 3,
+   "y": 1,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "atlas": "supplement",
+    "index": 12,
+    "mirror": false,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/supplement-a.png",
+     "x": 100,
+     "y": 1645,
+     "w": 312,
+     "h": 294
+    }
+   },
+   "kind": "decor",
+   "solid": false,
+   "size": 0.85
+  },
+  {
+   "id": "bush",
+   "x": 7,
+   "y": 14,
+   "w": 1,
+   "h": 1,
+   "art": {
+    "atlas": "nature",
+    "index": 9,
+    "mirror": false,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/nature-a.png",
+     "x": 622,
+     "y": 1139,
+     "w": 292,
+     "h": 281
+    }
+   },
+   "kind": "decor",
+   "solid": false,
+   "size": 0.8
+  },
+  {
+   "id": "bridge",
+   "x": 6,
+   "y": 8,
+   "w": 3,
+   "h": 2,
+   "art": {
+    "atlas": "camp",
+    "index": 12,
+    "mirror": false,
+    "sprite": {
+     "file": "art/maps/iso-objects-v2/clean/camp.png",
+     "x": 108,
+     "y": 1656,
+     "w": 296,
+     "h": 272
+    }
+   },
+   "kind": "bridge",
+   "solid": false,
+   "size": 1.04
+  }
+ ],
+ "units": [
+  {
+   "id": "silla-1",
+   "name": "신라 보병",
+   "side": "ally",
+   "x": 2,
+   "y": 9,
+   "dir": "SE",
+   "hp": 42,
+   "atk": 16,
+   "def": 7,
+   "move": 5
+  },
+  {
+   "id": "goguryeo-1",
+   "name": "고구려 보병",
+   "side": "enemy",
+   "x": 11,
+   "y": 8,
+   "dir": "SW",
+   "hp": 40,
+   "atk": 14,
+   "def": 6,
+   "move": 4
+  },
+  {
+   "id": "goguryeo-2",
+   "name": "고구려 척후",
+   "side": "enemy",
+   "x": 13,
+   "y": 3,
+   "dir": "SW",
+   "hp": 34,
+   "atk": 12,
+   "def": 5,
+   "move": 4
+  }
+ ],
+ "river": {
+  "center": [
+   [
+    4.6,
+    -1.0
+   ],
+   [
+    5.2,
+    2.4
+   ],
+   [
+    6.4,
+    5.2
+   ],
+   [
+    7.0,
+    7.4
+   ],
+   [
+    7.6,
+    9.6
+   ],
+   [
+    9.0,
+    11.6
+   ],
+   [
+    10.6,
+    13.4
+   ],
+   [
+    11.4,
+    17.0
+   ]
+  ],
+  "halfWidth": 1.05
+ },
+ "legend": {
+  "g": "평야",
+  "d": "흙길",
+  "b": "다리",
+  "n": "언덕",
+  "f": "숲",
+  "w": "강"
+ },
+ "objectArt": "art/maps/iso-objects-v2 (기존 2.5D 그림 재사용, KimIsoArtData 좌표)",
+ "temporary": {},
+ "palisadeArt": "art/battle/palisade-painted-v2/manifest.json"
+}

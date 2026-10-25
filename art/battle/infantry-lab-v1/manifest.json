@@ -1,0 +1,542 @@
+{
+  "unitId": "alcheon-infantry-lab-v1",
+  "reference": "art/characters/deployment-strict-front-v3/individual/alcheon.png",
+  "artMethod": "built-in imagegen, hand-painted 2D; rear views independently drawn",
+  "sourceCoreSha256": "62a35c94a9054468e68d5bf695f9e9e18d20b481ec46ec96f1d80c6df802d27a",
+  "cell": {
+    "w": 384,
+    "h": 320
+  },
+  "columns": 20,
+  "directions": [
+    "SE",
+    "SW",
+    "NE",
+    "NW"
+  ],
+  "groundAnchor": {
+    "px": [
+      192,
+      288
+    ],
+    "normalized": [
+      0.5,
+      0.9
+    ]
+  },
+  "screenHeight": 92,
+  "actions": {
+    "idle": {
+      "frames": [
+        0,
+        0
+      ],
+      "durations": [
+        650,
+        650
+      ],
+      "loop": true,
+      "breath": 1.3
+    },
+    "walk": {
+      "frames": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "durations": [
+        90,
+        90,
+        90,
+        90
+      ],
+      "loop": true
+    },
+    "run": {
+      "frames": [
+        8,
+        9
+      ],
+      "durations": [
+        105,
+        105
+      ],
+      "loop": true
+    },
+    "attack": {
+      "frames": [
+        16,
+        16,
+        17,
+        17,
+        18
+      ],
+      "durations": [
+        140,
+        100,
+        100,
+        100,
+        160
+      ],
+      "loop": false,
+      "events": [
+        {
+          "atMs": 240,
+          "name": "impact"
+        }
+      ]
+    },
+    "defend": {
+      "frames": [
+        0,
+        6,
+        6,
+        0
+      ],
+      "durations": [
+        90,
+        180,
+        330,
+        100
+      ],
+      "loop": false
+    },
+    "hit": {
+      "frames": [
+        7,
+        7,
+        0
+      ],
+      "durations": [
+        120,
+        130,
+        100
+      ],
+      "loop": false
+    },
+    "dodge": {
+      "frames": [
+        0,
+        10,
+        10,
+        0
+      ],
+      "durations": [
+        70,
+        140,
+        140,
+        100
+      ],
+      "loop": false
+    },
+    "death": {
+      "frames": [
+        7,
+        11
+      ],
+      "durations": [
+        200,
+        900
+      ],
+      "loop": false,
+      "holdLast": true
+    }
+  },
+  "sourceFrames": {
+    "SE": [
+      {
+        "sourceRect": [
+          12,
+          11,
+          196,
+          209
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          235,
+          12,
+          196,
+          208
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          465,
+          11,
+          181,
+          209
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          670,
+          1,
+          201,
+          219
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          894,
+          21,
+          252,
+          198
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          1146,
+          11,
+          172,
+          209
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          1344,
+          17,
+          198,
+          202
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          1556,
+          16,
+          207,
+          204
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      }
+    ],
+    "SW": [
+      {
+        "sourceRect": [
+          17,
+          226,
+          199,
+          215
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          236,
+          227,
+          205,
+          214
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          462,
+          229,
+          189,
+          211
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          668,
+          220,
+          203,
+          219
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          875,
+          239,
+          249,
+          200
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          1136,
+          232,
+          179,
+          210
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          1348,
+          232,
+          192,
+          209
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          1568,
+          236,
+          198,
+          205
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      }
+    ],
+    "NE": [
+      {
+        "sourceRect": [
+          15,
+          452,
+          205,
+          208
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          234,
+          454,
+          210,
+          207
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          466,
+          454,
+          198,
+          207
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          675,
+          443,
+          194,
+          215
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          886,
+          462,
+          256,
+          195
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          1146,
+          451,
+          185,
+          208
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          1357,
+          454,
+          191,
+          205
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          1563,
+          460,
+          201,
+          197
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      }
+    ],
+    "NW": [
+      {
+        "sourceRect": [
+          11,
+          671,
+          202,
+          205
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          224,
+          672,
+          219,
+          203
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          445,
+          672,
+          220,
+          203
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          686,
+          665,
+          196,
+          210
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          884,
+          679,
+          249,
+          195
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          1146,
+          670,
+          182,
+          206
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          1357,
+          669,
+          198,
+          205
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      },
+      {
+        "sourceRect": [
+          1573,
+          672,
+          191,
+          203
+        ],
+        "anchorPixel": [
+          192,
+          288
+        ]
+      }
+    ]
+  },
+  "qualityStatus": "4 authored walk poses and 3 attack poses per direction; browser visual validation required",
+  "sourceLicense": "Project-owned existing reference; generated artwork. No external asset pack."
+}

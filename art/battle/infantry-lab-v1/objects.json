@@ -1,0 +1,144 @@
+{
+  "house": {
+    "file": "house.png",
+    "source": "art/maps/iso-objects-v2/clean/scenery-a.png",
+    "sourceRect": {
+      "x": 107,
+      "y": 116,
+      "w": 297,
+      "h": 279,
+      "pixels": 52332
+    },
+    "anchorNormalized": [
+      0.5,
+      0.92
+    ],
+    "license": "existing project painting, provenance retained"
+  },
+  "hut": {
+    "file": "hut.png",
+    "source": "art/maps/iso-objects-v2/clean/scenery-a.png",
+    "sourceRect": {
+      "x": 626,
+      "y": 124,
+      "w": 284,
+      "h": 264,
+      "pixels": 51630
+    },
+    "anchorNormalized": [
+      0.5,
+      0.92
+    ],
+    "license": "existing project painting, provenance retained"
+  },
+  "tree0": {
+    "file": "tree0.png",
+    "source": "art/maps/iso-objects-v2/clean/scenery-a.png",
+    "sourceRect": {
+      "x": 98,
+      "y": 1129,
+      "w": 315,
+      "h": 301,
+      "pixels": 63601
+    },
+    "anchorNormalized": [
+      0.5,
+      0.92
+    ],
+    "license": "existing project painting, provenance retained"
+  },
+  "tree1": {
+    "file": "tree1.png",
+    "source": "art/maps/iso-objects-v2/clean/scenery-a.png",
+    "sourceRect": {
+      "x": 628,
+      "y": 1133,
+      "w": 280,
+      "h": 294,
+      "pixels": 48675
+    },
+    "anchorNormalized": [
+      0.5,
+      0.92
+    ],
+    "license": "existing project painting, provenance retained"
+  },
+  "tree2": {
+    "file": "tree2.png",
+    "source": "art/maps/iso-objects-v2/clean/scenery-a.png",
+    "sourceRect": {
+      "x": 1129,
+      "y": 1130,
+      "w": 301,
+      "h": 299,
+      "pixels": 59483
+    },
+    "anchorNormalized": [
+      0.5,
+      0.92
+    ],
+    "license": "existing project painting, provenance retained"
+  },
+  "tree3": {
+    "file": "tree3.png",
+    "source": "art/maps/iso-objects-v2/clean/scenery-a.png",
+    "sourceRect": {
+      "x": 1640,
+      "y": 1126,
+      "w": 304,
+      "h": 307,
+      "pixels": 52347
+    },
+    "anchorNormalized": [
+      0.5,
+      0.92
+    ],
+    "license": "existing project painting, provenance retained"
+  },
+  "rock": {
+    "file": "rock.png",
+    "source": "art/maps/iso-objects-v2/clean/supplement-a.png",
+    "sourceRect": {
+      "x": 622,
+      "y": 1669,
+      "w": 291,
+      "h": 245,
+      "pixels": 49074
+    },
+    "anchorNormalized": [
+      0.5,
+      0.92
+    ],
+    "license": "existing project painting, provenance retained"
+  },
+  "palisade": {
+    "file": "palisade.png",
+    "source": "source-props.png",
+    "sourceRect": [
+      0,
+      0,
+      627,
+      627
+    ],
+    "anchorNormalized": [
+      0.5,
+      0.92
+    ],
+    "license": "generated with built-in imagegen"
+  },
+  "bridge": {
+    "file": "bridge.png",
+    "source": "source-props.png",
+    "sourceRect": [
+      0,
+      627,
+      627,
+      1254
+    ],
+    "anchorNormalized": [
+      0.5,
+      0.92
+    ],
+    "license": "generated with built-in imagegen"
+  }
+}

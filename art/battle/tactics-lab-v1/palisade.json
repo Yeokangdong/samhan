@@ -1,0 +1,9 @@
+{
+ "frame": 256,
+ "pxPerScreenPx": 2,
+ "anchorPx": [
+  128.0,
+  181.9
+ ],
+ "note": "칸 중심 바닥 = anchorPx. 화면 크기 = 프레임/2. Blender 보조 제작 임시 에셋."
+}

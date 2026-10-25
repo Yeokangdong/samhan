@@ -1,0 +1,22 @@
+{
+  "generator": "built-in image_gen",
+  "date": "2026-10-25",
+  "assets": [
+    {
+      "axis": "x",
+      "prompt": "Use case: precise-object-edit. Edit target image 1 is a temporary low-detail isometric palisade module. Redraw it as premium HAND-PAINTED 2D game environment artwork, matching the painted wood texture and warm brown outlines of style reference image 2. Preserve image 1's single straight diagonal segment orientation and elevated isometric 2:1 ground projection: five to six upright thick timber stakes form a row running SCREEN UPPER LEFT to LOWER RIGHT, ground baseline slope +0.5. All posts remain vertical, tops sharpened with rough hand-cut facets, slightly varied tips and natural wood grain; two robust horizontal round timber crossbars follow the row, lashed with modest coarse rope at joints. No smooth plastic cones, no flat untextured panels, no metal nails, no green blocky stones. Same compatible module proportions and height, cropped to no part: standalone one straight segment only, not a full enclosure or corner. No ground tile, grass, rocks, people, scenery, labels or shadow outside the base; true transparent alpha background, wide empty padding around whole object. Orthographic high 30-degree isometric camera, no perspective shrinkage, richly shaded illustrated wood, soft contact shadow only.",
+      "references": [
+        "art/battle/tactics-lab-v1/palisade-x.png",
+        "art/battle/infantry-lab-v1/palisade.png"
+      ]
+    },
+    {
+      "axis": "y",
+      "prompt": "Use case: precise-object-edit. Edit target image 1 is the old opposite-direction isometric palisade. Redraw ONE matching hand-painted palisade module using image 2 as the EXACT wood/rope/line/shading style reference. Preserve image 1's opposite ground-axis orientation: the row runs SCREEN LOWER LEFT toward UPPER RIGHT (ground baseline slope -0.5 in screen pixels), 2:1 isometric orthographic projection, upright posts vertical. FIVE equally tall dense sharpened timber stakes with coarse natural bark grain, irregular hand-hewn light wood pointed tops, two sturdy timber crossbars following the straight row and rope lashings around the joints. Match image 2 material colors and age. Do NOT reproduce image 2's upper-left-to-lower-right direction; this asset must run the opposite diagonal. No corner, enclosure or perspective shrinkage. No green polygon stones, grass, ground tile, scenery, people, text, background or atmospheric glow. Entire object visible with wide transparent padding, real alpha background and small contact shadows only. Rich 2D painted Korean historical game object, warm brown outlines, not a 3D render.",
+      "references": [
+        "art/battle/tactics-lab-v1/palisade-y.png",
+        "art/battle/palisade-painted-v2/palisade-x.png"
+      ]
+    }
+  ]
+}
