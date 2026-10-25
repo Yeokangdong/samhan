@@ -1,0 +1,136 @@
+{
+  "version": 4,
+  "tool": "built-in image_gen",
+  "transparent_background": true,
+  "suffix": "reinforcement-busts-v4",
+  "sets": {
+    "silla": [
+      [
+        "sora",
+        "김정술",
+        "궁병; 먼저 듣고 정확히 쏘는 침착한 관찰가; no glasses; full shoulders"
+      ],
+      [
+        "wolryeong",
+        "박월령",
+        "경기병; 긴장을 장난으로 풀어내는 재빠른 정찰가; no glasses; full shoulders"
+      ],
+      [
+        "doyun",
+        "석도겸",
+        "책사; 답을 찾을 때까지 차분히 묻는 계산가; no glasses; full shoulders"
+      ],
+      [
+        "haesol",
+        "김무찬",
+        "보병; 웃으며 맨뒤를 지키는 든든한 보호자; no glasses; full shoulders"
+      ],
+      [
+        "arang",
+        "아랑",
+        "경기병; 지고 나면 다시 연습하는 당찬 도전자; no glasses; full shoulders"
+      ]
+    ],
+    "baekje": [
+      [
+        "seorin",
+        "백사겸",
+        "책사; 붕대와 말투를 똑같이 다듬는 꼼꼼한 치료가; no glasses; full shoulders"
+      ],
+      [
+        "garam",
+        "연덕무",
+        "경기병; 막힌 길에서도 웃음을 찾는 대범한 현장가; no glasses; full shoulders"
+      ],
+      [
+        "yeoul",
+        "목사흠",
+        "책사; 좋은 소식부터 의심하는 예리한 분석가; no glasses; full shoulders"
+      ],
+      [
+        "dallae",
+        "해진명",
+        "궁병; 작은 변화를 크게 기뻐하는 호기심 많은 궁수; no glasses; full shoulders"
+      ],
+      [
+        "soha",
+        "진소하",
+        "보병; 말은 짧아도 오래 곁을 지키는 수호자; no glasses; full shoulders"
+      ]
+    ],
+    "goguryeo": [
+      [
+        "seollan",
+        "고설란",
+        "궁병; 냉정한 표정 뒤에 호기심이 많은 사냥꾼; no glasses; full shoulders"
+      ],
+      [
+        "haryeong",
+        "을하령",
+        "경기병; 화를 먼저 내고 먼저 도와주는 돌격가; no glasses; full shoulders"
+      ],
+      [
+        "muyeong",
+        "연무영",
+        "책사; 소란 속에서도 정확히 듣는 조용한 기록가; no glasses; full shoulders"
+      ],
+      [
+        "sowol",
+        "온월",
+        "보병; 농담으로 낯선 사람을 묶는 넉넉한 고참; no glasses; full shoulders"
+      ],
+      [
+        "haeon",
+        "해문덕",
+        "책사; 걱정을 준비로 바꾸는 조심스러운 치료가; no glasses; full shoulders"
+      ]
+    ]
+  },
+  "layouts": {
+    "silla": [
+      3,
+      2
+    ],
+    "baekje": [
+      3,
+      2
+    ],
+    "goguryeo": [
+      3,
+      2
+    ]
+  },
+  "prompts": {
+    "silla": "Use case: style-transfer / stylized-concept. Create a production transparent PNG sprite atlas of EXACTLY FIVE female chibi moe comic Korean historical officer BUST PORTRAITS. Reference image 1 provides these five identities in reading order; reference image 2 is the required newly approved paint/line/SD portrait style. Redraw the five with the STYLE of reference 2: warm brown crisp hand-drawn contours, polished textured anime shading, expressive chibi faces, rich Korean historical garments. Preserve reference 1 individual hair colour, hairstyle and main ornaments, but REMOVE ALL EYEGLASSES COMPLETELY from every person. No frames, lenses or glasses temples anywhere, show clean unobstructed eyes. Make face shapes/eye shapes/brows/expressions visibly distinct. Include entire hair, ornaments, BOTH FULL SHOULDERS and upper chest/armor to below collarbone. Do not just draw necks. All have feminine adult character designs, same chibi proportions as style reference.\nLayout: landscape 3 columns x 2 rows, first row3 portraits, second row2 portraits in left and middle, bottom right EMPTY. Each portrait isolated with very WIDE transparent gaps and generous transparent outer margins. Each portrait occupies at most 68% of its own cell width and 70% cell height. Center every bust within its cell. No hair or shoulders crossing into another cell. No body parts touching canvas edges. REAL alpha transparent background with zero painted backdrop; no solid rectangles, glow, shadow, gradients, pattern or circular backing. NO TEXT, no numbers, no labels. No hands, weapons, full bodies or new people.\nSilla yellow/gold identity. Reading order:\n1 김정술 archer: dark chestnut tall half-up braided bun with long loose sides and small golden flower, composed long oval face and narrow alert amber eyes, understated closed smile, cream archer jacket with asymmetric small gold shoulder guard and yellow neck trim.\n2 박월령 light cavalry scout: silvery short tousled bob with one small side braid and golden headband, cheeky angular heart face, laughing open grin and raised brow, yellow wrapped scarf and brown leather cavalry shoulder pieces.\n3 석도겸 strategist: auburn braided low side bun, yellow braid ribbon, REMOVE ROUND GLASSES from original; long slim thoughtful face, clear narrower amber eyes, inquisitive one raised brow, ivory scholar robe with golden embroidered collar, no bulky armor.\n4 김무찬 infantry protector: brown wavy twin buns, broad round plump face, big beaming toothy smile, thicker brows, warm fur collar and heavy golden lamellar shoulders.\n5 아랑 light cavalry challenger: dark burgundy brown high ponytail with gold forehead band, compact square athletic face and determined sideways challenging smirk, gold plate shoulder guard with yellow strap and practical ochre riding jacket.",
+    "baekje": "Use case: style-transfer / stylized-concept. Create a production transparent PNG sprite atlas of EXACTLY FIVE female chibi moe comic Korean historical officer BUST PORTRAITS. Reference image 1 provides these five identities in reading order; reference image 2 is the required newly approved paint/line/SD portrait style. Redraw the five with the STYLE of reference 2: warm brown crisp hand-drawn contours, polished textured anime shading, expressive chibi faces, rich Korean historical garments. Preserve reference 1 individual hair colour, hairstyle and main ornaments, but REMOVE ALL EYEGLASSES COMPLETELY from every person. No frames, lenses or glasses temples anywhere, show clean unobstructed eyes. Make face shapes/eye shapes/brows/expressions visibly distinct. Include entire hair, ornaments, BOTH FULL SHOULDERS and upper chest/armor to below collarbone. Do not just draw necks. All have feminine adult character designs, same chibi proportions as style reference.\nLayout: landscape 3 columns x 2 rows, first row3 portraits, second row2 portraits in left and middle, bottom right EMPTY. Each portrait isolated with very WIDE transparent gaps and generous transparent outer margins. Each portrait occupies at most 68% of its own cell width and 70% cell height. Center every bust within its cell. No hair or shoulders crossing into another cell. No body parts touching canvas edges. REAL alpha transparent background with zero painted backdrop; no solid rectangles, glow, shadow, gradients, pattern or circular backing. NO TEXT, no numbers, no labels. No hands, weapons, full bodies or new people.\nBaekje blue/gold identity. Reading order:\n1 백사겸 strategist/healer: short navy bob with side braid and blue-gold flower clips, soft oval face, kindly slightly stern caring smile, blue patterned shawl over ivory healer robe, small sachet clasp.\n2 연덕무 light cavalry: chestnut voluminous braided ponytail with blue ribbon, broad athletic face, freckles and big bold toothy sideways grin, blue collar and gold-trimmed silver chainmail with leather cavalry shoulders.\n3 목사흠 strategist: long dark ash hair half tied, tall navy Korean scholar cap with gold pin and tassels, elongated pointed face and skeptical half-lidded eyes with one arched eyebrow, closed pursed lips, layered dark-blue scholarly coat and ivory embroidered inner collar, no armor.\n4 해진명 archer: black softly curled twin short ponytails with blue ribbon and little gold leaves, round face, wide excited eyes and tiny surprised O mouth, light blue sleeveless archer vest over cream padded sleeves with small fur trim.\n5 진소하 infantry: charcoal swept-back braided updo, prominent silver forelock, broad squared mature face, steady narrow eyes and stoic closed mouth, black fur collar over blue-gold scaled heavy shoulder armor.",
+    "goguryeo": "Use case: style-transfer / stylized-concept. Create a production transparent PNG sprite atlas of EXACTLY FIVE female chibi moe comic Korean historical officer BUST PORTRAITS. Reference image 1 provides these five identities in reading order; reference image 2 is the required newly approved paint/line/SD portrait style. Redraw the five with the STYLE of reference 2: warm brown crisp hand-drawn contours, polished textured anime shading, expressive chibi faces, rich Korean historical garments. Preserve reference 1 individual hair colour, hairstyle and main ornaments, but REMOVE ALL EYEGLASSES COMPLETELY from every person. No frames, lenses or glasses temples anywhere, show clean unobstructed eyes. Make face shapes/eye shapes/brows/expressions visibly distinct. Include entire hair, ornaments, BOTH FULL SHOULDERS and upper chest/armor to below collarbone. Do not just draw necks. All have feminine adult character designs, same chibi proportions as style reference.\nLayout: landscape 3 columns x 2 rows, first row3 portraits, second row2 portraits in left and middle, bottom right EMPTY. Each portrait isolated with very WIDE transparent gaps and generous transparent outer margins. Each portrait occupies at most 68% of its own cell width and 70% cell height. Center every bust within its cell. No hair or shoulders crossing into another cell. No body parts touching canvas edges. REAL alpha transparent background with zero painted backdrop; no solid rectangles, glow, shadow, gradients, pattern or circular backing. NO TEXT, no numbers, no labels. No hands, weapons, full bodies or new people.\nGoguryeo red/gold identity. Reading order:\n1 고설란 archer: silvery windswept short bob and red headband, angular heart face, cool sharp eyes and faint shy sideways smile, white fur collar over red hunter jacket with leather shoulder guard.\n2 을하령 light cavalry: long dark chestnut high ponytail with red ribbon, broad angular face, fierce raised brows and cheeky fang grin, red scarf and gold-trimmed red cavalry armor shoulders.\n3 연무영 strategist: dark teal hair in low twin braids, tall red Korean scholar cap and gold pins with paper charm at side, REMOVE ROUND GLASSES fully; long narrow face with soft downturned unobstructed eyes and a small thoughtful closed smile, red patterned scholarly robe and ivory collar, no armor.\n4 온월 infantry: warm chestnut curled bun with braided crown and red ribbon, broad rounded mature face and cheerful open laugh, hoop earrings, white fur-trimmed brown/red heavy scaled armor shoulders.\n5 해문덕 strategist/healer: dark plum wavy side ponytail and small ivory flower with red ribbons, gentle heart-shaped face, worried lifted inner brows and restrained reassuring smile, plum eyes, deep red shawl over ivory healer jacket with gold herbal-pattern trim."
+  },
+  "refs": {
+    "silla": [
+      "D:/99.Work/Samhan_Girls/art/por/samhan/silla-reinforcements-v1.png",
+      "D:/99.Work/Samhan_Girls/art/por/samhan/silla-busts-v3.png"
+    ],
+    "baekje": [
+      "D:/99.Work/Samhan_Girls/art/por/samhan/baekje-reinforcements-v1.png",
+      "D:/99.Work/Samhan_Girls/art/por/samhan/silla-busts-v3.png"
+    ],
+    "goguryeo": [
+      "D:/99.Work/Samhan_Girls/art/por/samhan/goguryeo-reinforcements-v1.png",
+      "D:/99.Work/Samhan_Girls/art/por/samhan/silla-busts-v3.png"
+    ]
+  },
+  "spacingEdit": "Edit this FIVE portrait sprite atlas. Change only spacing and framing: make EVERY portrait 60% of its current size, keeping same canvas and 3 columns x 2 rows arrangement (bottom right empty), to create MUCH WIDER TRANSPARENT gutters both horizontally and vertically, plus generous outer margins. Keep entire hair, ornaments, both rounded outer shoulders, full shoulder armor/clothing and upper chest visible on each woman; include slightly more upper chest if needed so these are genuine head-and-shoulders busts. Same five identities, hairstyles, expressions, colors, detailed warm brown line-art anime comic chibi rendering. No glasses on ANY face. All backgrounds REAL alpha transparent, not a painted glow. No text, pattern, shadows or backdrop. Do not let any portrait overlap or touch cell/canvas edges.",
+  "sources": {
+    "silla": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16807-f275-70a1-a513-ba32d1299f2b\\exec-4d8274ac-78d9-4c8f-9dfe-df2bc8c52317.png",
+    "baekje": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16807-f275-70a1-a513-ba32d1299f2b\\exec-e997ebc9-8b03-4638-9f76-8344b4ef2e02.png",
+    "goguryeo": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16807-f275-70a1-a513-ba32d1299f2b\\exec-5f1d9a21-9c53-4251-8a75-7e007d2eab89.png"
+  },
+  "revision": "User: straight lower torso baseline and head/shoulder proportions matching existing portraits",
+  "proportionAndBaseEdit": "Use case: style-transfer, precise-object-edit. EDIT IMAGE 1 (five added female officer portraits), using IMAGE 2 ONLY as the approved anatomical proportions and straight-bottom bust-framing reference. Keep EXACTLY the FIVE identities of IMAGE1 in the same 3x2 arrangement with bottom right empty. Preserve their hairstyles/colors, ornaments, faces/expressions and clothing identity. No glasses anywhere.\nMANDATORY corrections: These must match the existing image2 shoulder portraits when displayed in the same square card. REDUCE head/face size relative to shoulder width by about 15%, broaden the complete shoulders, and EXTEND clothing/armor DOWN to show MORE UPPER TORSO and chest. Head, shoulders, upper torso, not giant floating heads. Every portrait MUST END AT A PERFECTLY STRAIGHT HORIZONTAL BASELINE ACROSS ITS ENTIRE WIDTH, like image2. REMOVE the oval/rounded vignette-shaped lower boundary of image1 by DRAWING missing lower shoulder/torso garments out to the flat baseline. A rectangular chest-up crop with a flat level bottom, no bowl-shaped or arched bottom, no feathering, no mask rim. All 3 top-row busts share one level bottom; all2 bottom-row busts share another level bottom.\nUse warm brown outlines, detailed hand-painted comic moe chibi style and body/head balance of image2. Maintain wide REAL ALPHA transparent gutters at least 15% of a cell between portraits, and transparent outer margins. Keep full hair, accessories, BOTH whole shoulders. No illustrations touch or overlap. Do not fill in background. No painted background, glow, shadow, circles, text, labels, glasses, hands or extra people.",
+  "finalSpacingEdit": "Precise layout edit ONLY. Preserve the five women exactly, especially the new smaller-head/broader-shoulder proportions, upper torso, and PERFECTLY STRAIGHT HORIZONTAL bottom cut across each portrait. Make each entire portrait MUCH SMALLER on this SAME canvas: scale every whole bust to 65% of current size, then center the five mini busts in a clean 3-column 2-row grid (bottom right empty). Increase transparent gaps to at least ONE THIRD of each portrait width, both horizontally and vertically. VERY GENEROUS empty alpha margin around every mini bust. All five whole silhouettes must be well inside their individual cell. Same five people, no glasses. Do not enlarge heads or curve bottoms again. No painting or gradients in the empty area: all background truly alpha transparent. No text.",
+  "priorSources": {
+    "silla": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16807-f275-70a1-a513-ba32d1299f2b\\exec-3a057db9-f90a-43a3-99fe-b63ea3ca738d.png",
+    "baekje": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16807-f275-70a1-a513-ba32d1299f2b\\exec-f5bb3931-ae21-4625-99df-b947946dc4fc.png",
+    "goguryeo": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16807-f275-70a1-a513-ba32d1299f2b\\exec-2d33e21c-45cc-4bd4-970b-6e74f6a9b604.png"
+  }
+}

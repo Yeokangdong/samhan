@@ -1,0 +1,128 @@
+{
+  "tool": "built-in ImageGen",
+  "usage": "Three new portrait atlas assets, then transparent-background edits; one file per country.",
+  "atlasPrompt": "Create one NEW character portrait atlas asset for a Korean three kingdoms game. Attached silla-faces-v2.png is STYLE REFERENCE ONLY. Keep 2D female chibi warm brown clean outlines, softly painted anime shading, handmade texture and Korean period costume. EXACTLY FIVE distinct adult female general head-and-neck portraits on an exact 3-column by 2-row equal-cell grid. Fill upper-left, upper-center, upper-right, lower-left, lower-center. Leave lower-right empty. Landscape 3:2, square cells. No gridlines, text, UI, numbers, hands or weapons. Uniform head size, fully contained hair and ornaments, 15% transparent margins. Faction yellow / blue / red. Distinct silhouettes, faces and hairstyles. Genuine transparent alpha.",
+  "transparencyEditPrompt": "Edit this exact five-character atlas. Remove ONLY the entire brown/grey/red/black vignette background and make ALL space outside the five characters genuinely fully transparent alpha. Keep the same exact five women facial identities, colors, hairstyles, jewelry, clothes, portrait sizes, and exact 3-column by 2-row positions (lower right empty). No redesign, no added characters, no text, no checkerboard, no gradients, no glow, no cast shadows. Clean transparent cutouts of the five head-and-collar portraits.",
+  "characters": [
+    {
+      "name": "김정술",
+      "country": "silla",
+      "cell": 0,
+      "personality": "먼저 듣고 정확히 쏘는 침착한 관찰가",
+      "role": "궁병",
+      "file": "art/por/samhan/silla-reinforcements-v1.png"
+    },
+    {
+      "name": "박월령",
+      "country": "silla",
+      "cell": 1,
+      "personality": "긴장을 장난으로 풀어내는 재빠른 정찰가",
+      "role": "경기병",
+      "file": "art/por/samhan/silla-reinforcements-v1.png"
+    },
+    {
+      "name": "석도겸",
+      "country": "silla",
+      "cell": 2,
+      "personality": "답을 찾을 때까지 차분히 묻는 계산가",
+      "role": "책사",
+      "file": "art/por/samhan/silla-reinforcements-v1.png"
+    },
+    {
+      "name": "김무찬",
+      "country": "silla",
+      "cell": 3,
+      "personality": "웃으며 맨뒤를 지키는 든든한 보호자",
+      "role": "보병",
+      "file": "art/por/samhan/silla-reinforcements-v1.png"
+    },
+    {
+      "name": "아랑",
+      "country": "silla",
+      "cell": 4,
+      "personality": "지고 나면 다시 연습하는 당찬 도전자",
+      "role": "경기병",
+      "file": "art/por/samhan/silla-reinforcements-v1.png"
+    },
+    {
+      "name": "백사겸",
+      "country": "baekje",
+      "cell": 0,
+      "personality": "붕대와 말투를 똑같이 다듬는 꼼꼼한 치료가",
+      "role": "책사",
+      "file": "art/por/samhan/baekje-reinforcements-v1.png"
+    },
+    {
+      "name": "연덕무",
+      "country": "baekje",
+      "cell": 1,
+      "personality": "막힌 길에서도 웃음을 찾는 대범한 현장가",
+      "role": "경기병",
+      "file": "art/por/samhan/baekje-reinforcements-v1.png"
+    },
+    {
+      "name": "목사흠",
+      "country": "baekje",
+      "cell": 2,
+      "personality": "좋은 소식부터 의심하는 예리한 분석가",
+      "role": "책사",
+      "file": "art/por/samhan/baekje-reinforcements-v1.png"
+    },
+    {
+      "name": "해진명",
+      "country": "baekje",
+      "cell": 3,
+      "personality": "작은 변화를 크게 기뻐하는 호기심 많은 궁수",
+      "role": "궁병",
+      "file": "art/por/samhan/baekje-reinforcements-v1.png"
+    },
+    {
+      "name": "진소하",
+      "country": "baekje",
+      "cell": 4,
+      "personality": "말은 짧아도 오래 곁을 지키는 수호자",
+      "role": "보병",
+      "file": "art/por/samhan/baekje-reinforcements-v1.png"
+    },
+    {
+      "name": "고설란",
+      "country": "goguryeo",
+      "cell": 0,
+      "personality": "냉정한 표정 뒤에 호기심이 많은 사냥꾼",
+      "role": "궁병",
+      "file": "art/por/samhan/goguryeo-reinforcements-v1.png"
+    },
+    {
+      "name": "을하령",
+      "country": "goguryeo",
+      "cell": 1,
+      "personality": "화를 먼저 내고 먼저 도와주는 돌격가",
+      "role": "경기병",
+      "file": "art/por/samhan/goguryeo-reinforcements-v1.png"
+    },
+    {
+      "name": "연무영",
+      "country": "goguryeo",
+      "cell": 2,
+      "personality": "소란 속에서도 정확히 듣는 조용한 기록가",
+      "role": "책사",
+      "file": "art/por/samhan/goguryeo-reinforcements-v1.png"
+    },
+    {
+      "name": "온월",
+      "country": "goguryeo",
+      "cell": 3,
+      "personality": "농담으로 낯선 사람을 묶는 넉넉한 고참",
+      "role": "보병",
+      "file": "art/por/samhan/goguryeo-reinforcements-v1.png"
+    },
+    {
+      "name": "해문덕",
+      "country": "goguryeo",
+      "cell": 4,
+      "personality": "걱정을 준비로 바꾸는 조심스러운 치료가",
+      "role": "책사",
+      "file": "art/por/samhan/goguryeo-reinforcements-v1.png"
+    }
+  ]
+}

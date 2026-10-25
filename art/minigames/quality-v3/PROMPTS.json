@@ -1,0 +1,56 @@
+{
+  "generator": "built-in image_gen",
+  "date": "2026-10-25",
+  "assets": [
+    {
+      "id": "crate",
+      "reference": [],
+      "prompt": "Single wooden supply crate with diagonal braces obstacle sprite for a Korean historical SD anime horse racing game. Entire object visible, side view slightly from above, warm crisp brown linework and detailed hand-painted 2D shading. No people, no writing, no background, no ground plane. Transparent background with wide transparent margins.",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-3b1aa05f-f245-4ff9-a8dc-54ea15ea2f41.png"
+    },
+    {
+      "id": "barrel",
+      "reference": [],
+      "prompt": "Single stout wooden barrel with iron hoops obstacle sprite for a Korean historical SD anime horse racing game. Entire object visible, side view slightly from above, warm crisp brown linework and detailed hand-painted 2D shading. No people, no writing, no background, no ground plane. Transparent background with wide transparent margins.",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-2e1f70c5-d373-4862-bf3a-a231bcdf2509.png"
+    },
+    {
+      "id": "rocks",
+      "reference": [],
+      "prompt": "Single small cluster of three natural rounded grey rocks obstacle sprite for a Korean historical SD anime horse racing game. Entire object visible, side view slightly from above, warm crisp brown linework and detailed hand-painted 2D shading. No people, no writing, no background, no ground plane. Transparent background with wide transparent margins.",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-4eac9edc-9549-42cc-8894-6daf7f3b35ea.png"
+    },
+    {
+      "id": "heumsun-rider",
+      "reference": [
+        "D:/99.Work/Samhan_Girls/art/characters/information-v3/individual/heumsun.png"
+      ],
+      "prompt": "A single female Korean historical SD anime cavalry rider sprite, 3-head chibi proportions, short spiky brown ponytail, round athletic cheerful face and toothy grin, warm brown leather cavalry jacket and small yellow scarf, riding a BROWN horse with dark mane and tail, galloping to the RIGHT in full side view, leaning forward holding reins. No weapon, no bow. Entire rider, horse, feet, tail visible and inside canvas with padding, hand-painted 2D warm crisp brown outline rich anime shading. Transparent background, no words or scenery. Match the attached canonical character face/hair/clothes and brown horse identity. The reference is for identity, replace its pose with galloping to the right, remove weapons.",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-3cfc4c88-cebf-42fe-bdff-26a7fe7d6995.png"
+    },
+    {
+      "id": "kim-thrower",
+      "reference": [
+        "D:/99.Work/Samhan_Girls/art/minigames/play-v2/kim-thrower.png"
+      ],
+      "prompt": "Edit this transparent game sprite: REMOVE ONLY the detached flying arrow/projectile and any projectile motion streaks floating to the right of the outstretched hand. Keep exactly the same female character, face, hair, clothes, body, hands, pose, colors, shading and proportions. Her hand is empty after release. Preserve transparent background, do not add anything, whole body unchanged and fully inside the canvas. No background or glow.",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-74010a5d-d75b-4cc9-acfc-16f38001ba1a.png"
+    },
+    {
+      "id": "gye-thrower",
+      "reference": [
+        "D:/99.Work/Samhan_Girls/art/minigames/play-v2/gye-thrower.png"
+      ],
+      "prompt": "Edit this transparent game sprite: REMOVE ONLY the detached flying arrow/projectile and any projectile motion streaks floating to the right of the outstretched hand. Keep exactly the same female character, face, hair, clothes, body, hands, pose, colors, shading and proportions. Her hand is empty after release. Preserve transparent background, do not add anything, whole body unchanged and fully inside the canvas. No background or glow.",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-28f83fcf-6f08-4709-9e08-735b4f952959.png"
+    },
+    {
+      "id": "yeon-thrower",
+      "reference": [
+        "D:/99.Work/Samhan_Girls/art/minigames/play-v2/yeon-thrower.png"
+      ],
+      "prompt": "Edit this transparent game sprite: REMOVE ONLY the detached flying arrow/projectile and any projectile motion streaks floating to the right of the outstretched hand. Keep exactly the same female character, face, hair, clothes, body, hands, pose, colors, shading and proportions. Her hand is empty after release. Preserve transparent background, do not add anything, whole body unchanged and fully inside the canvas. No background or glow.",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-88a99956-be28-45e7-b9a5-d2136e00da23.png"
+    }
+  ]
+}

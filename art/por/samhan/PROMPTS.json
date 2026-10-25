@@ -1,0 +1,614 @@
+{
+  "tool": "built-in image_gen",
+  "transparent_background": true,
+  "prompts": {
+    "baekje": "Use case: stylized-concept. Asset type: ONE production-ready RPG portrait sprite atlas. Draw all characters listed below ON ONE SHEET at once, strict evenly spaced 4 columns x 4 rows grid on a genuinely transparent alpha background. Square sheet. Every cell same size, head centered, all hair/crowns and faces fully within cell with 12% transparent gutters on every edge. Head and face ONLY, tiny neck collar allowed, no shoulders, no bodies, no weapons, no scenery, no frame, no text or labels, no checkerboard painted in. Cute hand-drawn female chibi anime Korean Three Kingdoms tactical game style, bold clean ink lines, polished warm cel shading, expressive oversized eyes, individual face shapes. ALL historical figures reimagined as female characters, including monarchs and enemies, consistent with Samhan Girls project. Ensure each person visibly distinct. Each head occupies about 75% cell height and appears at same scale; no overlapping cells. Transparent space between every head. Read cells left to right then top to bottom. Empty unused final cells must remain fully transparent. Baekje blue and antique gold accents; lotus motifs.\nCell 1, row 1 column 1: 계백 — navy twin braids, violet eyes, gentle smile, gold lotus pin.\nCell 2, row 1 column 2: 윤충 — blue high ponytail, fierce blue eyes, commander brow.\nCell 3, row 1 column 3: 의자왕 — regal dark updo, Baekje gold crown with floral ornaments, elegant confident gaze.\nCell 4, row 1 column 4: 성충 — long ash blue hair, narrow wise eyes, scholar hairpiece.\nCell 5, row 2 column 1: 은상 — short navy wavy bob, broad cheeks, resolute gaze.\nCell 6, row 2 column 2: 의직 — swept blue black hair, scar on eyebrow, fiery grin.\nCell 7, row 2 column 3: 충상 — teal straight hair, archer headband, attentive eyes.\nCell 8, row 2 column 4: 상영 — dark blue low bun, square jaw, stoic eyes.\nCell 9, row 3 column 1: 흥수 — silver blue long hair, calm eyes, simple scholar cap.\nCell 10, row 3 column 2: 흑치상지 — dark skin, ink blue wild ponytail, gold eyes, confident smile.\nCell 11, row 3 column 3: 복신 — short dark indigo hair, angular face, indomitable expression.\nCell 12, row 3 column 4: 도침 — female Buddhist strategist, shaved head, peaceful expression, tiny prayer beads at collar.\nCell 13, row 4 column 1: 부여풍 — blue black long flowing hair, small Baekje gold crown, youthful royal elegance.",
+    "silla": "Use case: stylized-concept. Asset type: ONE production-ready RPG portrait sprite atlas. Draw all characters listed below ON ONE SHEET at once, strict evenly spaced 4 columns x 4 rows grid on a genuinely transparent alpha background. Square sheet. Every cell same size, head centered, all hair/crowns and faces fully within cell with 12% transparent gutters on every edge. Head and face ONLY, tiny neck collar allowed, no shoulders, no bodies, no weapons, no scenery, no frame, no text or labels, no checkerboard painted in. Cute hand-drawn female chibi anime Korean Three Kingdoms tactical game style, bold clean ink lines, polished warm cel shading, expressive oversized eyes, individual face shapes. ALL historical figures reimagined as female characters, including monarchs and enemies, consistent with Samhan Girls project. Ensure each person visibly distinct. Each head occupies about 75% cell height and appears at same scale; no overlapping cells. Transparent space between every head. Read cells left to right then top to bottom. Empty unused final cells must remain fully transparent. Silla sunny yellow and antique gold accents; branching crowns only for royal characters.\nCell 1, row 1 column 1: 김유신 — chestnut high ponytail, branching Silla gold crown, golden eyes, freckles, exuberant grin.\nCell 2, row 1 column 2: 김서현 — mature chestnut updo, golden headband, kind firm eyes.\nCell 3, row 1 column 3: 김흠순 — short brown spiky ponytail, amber eyes, bold smile.\nCell 4, row 1 column 4: 김춘추 — elegant long brown hair, splendid branching gold Silla crown, shrewd smile.\nCell 5, row 2 column 1: 김품일 — dark chestnut neat bun, stern eyebrows, broad face.\nCell 6, row 2 column 2: 알천 — silver brown swept short hair, hard battle-worn eyes, gold circlet.\nCell 7, row 2 column 3: 김인문 — silky honey brown hair, refined golden scholar headpiece, perceptive eyes.\nCell 8, row 2 column 4: 관창 — youthful round face, short auburn ponytail, bright amber eyes, brave smile.\nCell 9, row 3 column 1: 반굴 — youthful face, brown short bob, yellow forehead band, serious determination.\nCell 10, row 3 column 2: 김법민 — long chestnut hair, restrained Silla royal gold crown, calm authoritative eyes.\nCell 11, row 3 column 3: 열기 — messy sandy short hair, alert large eyes, yellow ribbon.\nCell 12, row 3 column 4: 구근 — brown braided bun, thick eyebrows, round dependable face.\nCell 13, row 4 column 1: 김원술 — auburn high ponytail, golden eyes, troubled determined brows.\nCell 14, row 4 column 2: 비담 — black brown asymmetric hair, angular gold diadem, sharp ambitious smile.",
+    "goguryeo": "Use case: stylized-concept. Asset type: ONE production-ready RPG portrait sprite atlas. Draw all characters listed below ON ONE SHEET at once, strict evenly spaced 4 columns x 4 rows grid on a genuinely transparent alpha background. Square sheet. Every cell same size, head centered, all hair/crowns and faces fully within cell with 12% transparent gutters on every edge. Head and face ONLY, tiny neck collar allowed, no shoulders, no bodies, no weapons, no scenery, no frame, no text or labels, no checkerboard painted in. Cute hand-drawn female chibi anime Korean Three Kingdoms tactical game style, bold clean ink lines, polished warm cel shading, expressive oversized eyes, individual face shapes. ALL historical figures reimagined as female characters, including monarchs and enemies, consistent with Samhan Girls project. Ensure each person visibly distinct. Each head occupies about 75% cell height and appears at same scale; no overlapping cells. Transparent space between every head. Read cells left to right then top to bottom. Empty unused final cells must remain fully transparent. Goguryeo crimson red and antique gold accents; feather or bird motifs.\nCell 1, row 1 column 1: 연개소문 — jet black blunt bob, red almond eyes, beauty mark, gold bird pin, smug smile.\nCell 2, row 1 column 2: 연정토 — black low ponytail, red cloth band, kind firm gaze.\nCell 3, row 1 column 3: 보장왕 — long black hair, Goguryeo gold feather crown, pale refined anxious face.\nCell 4, row 1 column 4: 고정의 — silver gray long hair, black scholar cap, lined wise face.\nCell 5, row 2 column 1: 고연수 — black high bun, crimson headband, proud brows.\nCell 6, row 2 column 2: 고혜진 — wine black short wavy hair, calculating narrow eyes.\nCell 7, row 2 column 3: 안시성주 — black braid over shoulder, simple red gold headband, stern protective expression.\nCell 8, row 2 column 4: 뇌음신 — spiky black short hair, red eyes, small cheek scar, fierce grin.\nCell 9, row 3 column 1: 말갈 추장 — dark brown tousled hair, fur headband with feather, bronzed skin, bold stare.\nCell 10, row 3 column 2: 연남생 — black high ponytail, cool red eyes, refined gold hair clasp, calculating expression.\nCell 11, row 3 column 3: 연남건 — short black bob with red streak ribbon, thick sharp brows, fierce protective gaze.\nCell 12, row 3 column 4: 연남산 — soft black long hair, scholar gold pin, gentle narrow red brown eyes.\nCell 13, row 4 column 1: 검모잠 — dark weathered complexion, rough black ponytail, determined eyes.\nCell 14, row 4 column 2: 안승 — silky black shoulder-length hair, small Goguryeo gold royal circlet, thoughtful young face.",
+    "tang": "Use case: stylized-concept. Asset type: ONE production-ready RPG portrait sprite atlas. Draw all characters listed below ON ONE SHEET at once, strict evenly spaced 4 columns x 4 rows grid on a genuinely transparent alpha background. Square sheet. Every cell same size, head centered, all hair/crowns and faces fully within cell with 12% transparent gutters on every edge. Head and face ONLY, tiny neck collar allowed, no shoulders, no bodies, no weapons, no scenery, no frame, no text or labels, no checkerboard painted in. Cute hand-drawn female chibi anime Korean Three Kingdoms tactical game style, bold clean ink lines, polished warm cel shading, expressive oversized eyes, individual face shapes. ALL historical figures reimagined as female characters, including monarchs and enemies, consistent with Samhan Girls project. Ensure each person visibly distinct. Each head occupies about 75% cell height and appears at same scale; no overlapping cells. Transparent space between every head. Read cells left to right then top to bottom. Empty unused final cells must remain fully transparent. Tang China dark jade, burgundy, bronze gold accents, period Chinese headgear.\nCell 1, row 1 column 1: 당 태종 이세민 — black imperial updo, Chinese imperial golden crown, imposing regal eyes.\nCell 2, row 1 column 2: 이적 — gray black high bun, dark heavy cavalry helmet with gold crest, calculating eyes.\nCell 3, row 1 column 3: 장량 — blue black topknot, Tang naval cap, stern weathered face.\nCell 4, row 1 column 4: 소정방 — black hair, dark heavy cavalry helmet red plume, cold forceful eyes.\nCell 5, row 2 column 1: 설인귀 — silver white high ponytail, white silver helmet, bright intense eyes.\nCell 6, row 2 column 2: 방효태 — brown short hair, heavy bronze helmet, broad aggressive face.\nCell 7, row 2 column 3: 유인권 — black bun, dark blue naval commander cap, long narrow face.\nCell 8, row 2 column 4: 이근행 — dark reddish brown wild hair, fur edged cavalry cap, bronze skin, confident predator gaze."
+  },
+  "entries": [
+    {
+      "id": "samhan_gye",
+      "name": "계백",
+      "faction": "baekje",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/baekje-faces-v1.png",
+      "grid": 4,
+      "cell": 0,
+      "design": "navy twin braids, violet eyes, gentle smile, gold lotus pin"
+    },
+    {
+      "id": "samhan_yunchung",
+      "name": "윤충",
+      "faction": "baekje",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/baekje-faces-v1.png",
+      "grid": 4,
+      "cell": 1,
+      "design": "blue high ponytail, fierce blue eyes, commander brow"
+    },
+    {
+      "id": "samhan_uija",
+      "name": "의자왕",
+      "faction": "baekje",
+      "royal": true,
+      "female": true,
+      "src": "art/por/samhan/baekje-faces-v1.png",
+      "grid": 4,
+      "cell": 2,
+      "design": "regal dark updo, Baekje gold crown with floral ornaments, elegant confident gaze"
+    },
+    {
+      "id": "samhan_seongchung",
+      "name": "성충",
+      "faction": "baekje",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/baekje-faces-v1.png",
+      "grid": 4,
+      "cell": 3,
+      "design": "long ash blue hair, narrow wise eyes, scholar hairpiece"
+    },
+    {
+      "id": "samhan_eunsang",
+      "name": "은상",
+      "faction": "baekje",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/baekje-faces-v1.png",
+      "grid": 4,
+      "cell": 4,
+      "design": "short navy wavy bob, broad cheeks, resolute gaze"
+    },
+    {
+      "id": "samhan_uijik",
+      "name": "의직",
+      "faction": "baekje",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/baekje-faces-v1.png",
+      "grid": 4,
+      "cell": 5,
+      "design": "swept blue black hair, scar on eyebrow, fiery grin"
+    },
+    {
+      "id": "samhan_chungsang",
+      "name": "충상",
+      "faction": "baekje",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/baekje-faces-v1.png",
+      "grid": 4,
+      "cell": 6,
+      "design": "teal straight hair, archer headband, attentive eyes"
+    },
+    {
+      "id": "samhan_sangyeong",
+      "name": "상영",
+      "faction": "baekje",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/baekje-faces-v1.png",
+      "grid": 4,
+      "cell": 7,
+      "design": "dark blue low bun, square jaw, stoic eyes"
+    },
+    {
+      "id": "samhan_heungsu",
+      "name": "흥수",
+      "faction": "baekje",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/baekje-faces-v1.png",
+      "grid": 4,
+      "cell": 8,
+      "design": "silver blue long hair, calm eyes, simple scholar cap"
+    },
+    {
+      "id": "samhan_heukchi",
+      "name": "흑치상지",
+      "faction": "baekje",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/baekje-faces-v1.png",
+      "grid": 4,
+      "cell": 9,
+      "design": "dark skin, ink blue wild ponytail, gold eyes, confident smile"
+    },
+    {
+      "id": "samhan_boksin",
+      "name": "복신",
+      "faction": "baekje",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/baekje-faces-v1.png",
+      "grid": 4,
+      "cell": 10,
+      "design": "short dark indigo hair, angular face, indomitable expression"
+    },
+    {
+      "id": "samhan_dochim",
+      "name": "도침",
+      "faction": "baekje",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/baekje-faces-v1.png",
+      "grid": 4,
+      "cell": 11,
+      "design": "female Buddhist strategist, shaved head, peaceful expression, tiny prayer beads at collar"
+    },
+    {
+      "id": "samhan_buyeopung",
+      "name": "부여풍",
+      "faction": "baekje",
+      "royal": true,
+      "female": true,
+      "src": "art/por/samhan/baekje-faces-v1.png",
+      "grid": 4,
+      "cell": 12,
+      "design": "blue black long flowing hair, small Baekje gold crown, youthful royal elegance"
+    },
+    {
+      "id": "samhan_kim",
+      "name": "김유신",
+      "faction": "silla",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/silla-faces-v1.png",
+      "grid": 4,
+      "cell": 0,
+      "design": "chestnut high ponytail, branching Silla gold crown, golden eyes, freckles, exuberant grin"
+    },
+    {
+      "id": "samhan_seohyeon",
+      "name": "김서현",
+      "faction": "silla",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/silla-faces-v1.png",
+      "grid": 4,
+      "cell": 1,
+      "design": "mature chestnut updo, golden headband, kind firm eyes"
+    },
+    {
+      "id": "samhan_heumsun",
+      "name": "김흠순",
+      "faction": "silla",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/silla-faces-v1.png",
+      "grid": 4,
+      "cell": 2,
+      "design": "short brown spiky ponytail, amber eyes, bold smile"
+    },
+    {
+      "id": "samhan_chunchu",
+      "name": "김춘추",
+      "faction": "silla",
+      "royal": true,
+      "female": true,
+      "src": "art/por/samhan/silla-faces-v1.png",
+      "grid": 4,
+      "cell": 3,
+      "design": "elegant long brown hair, splendid branching gold Silla crown, shrewd smile",
+      "aliases": [
+        "태종무열왕"
+      ]
+    },
+    {
+      "id": "samhan_pumil",
+      "name": "김품일",
+      "faction": "silla",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/silla-faces-v1.png",
+      "grid": 4,
+      "cell": 4,
+      "design": "dark chestnut neat bun, stern eyebrows, broad face"
+    },
+    {
+      "id": "samhan_alcheon",
+      "name": "알천",
+      "faction": "silla",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/silla-faces-v1.png",
+      "grid": 4,
+      "cell": 5,
+      "design": "silver brown swept short hair, hard battle-worn eyes, gold circlet"
+    },
+    {
+      "id": "samhan_inmun",
+      "name": "김인문",
+      "faction": "silla",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/silla-faces-v1.png",
+      "grid": 4,
+      "cell": 6,
+      "design": "silky honey brown hair, refined golden scholar headpiece, perceptive eyes"
+    },
+    {
+      "id": "samhan_gwanchang",
+      "name": "관창",
+      "faction": "silla",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/silla-faces-v1.png",
+      "grid": 4,
+      "cell": 7,
+      "design": "youthful round face, short auburn ponytail, bright amber eyes, brave smile"
+    },
+    {
+      "id": "samhan_bangul",
+      "name": "반굴",
+      "faction": "silla",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/silla-faces-v1.png",
+      "grid": 4,
+      "cell": 8,
+      "design": "youthful face, brown short bob, yellow forehead band, serious determination"
+    },
+    {
+      "id": "samhan_beopmin",
+      "name": "김법민",
+      "faction": "silla",
+      "royal": true,
+      "female": true,
+      "src": "art/por/samhan/silla-faces-v1.png",
+      "grid": 4,
+      "cell": 9,
+      "design": "long chestnut hair, restrained Silla royal gold crown, calm authoritative eyes",
+      "aliases": [
+        "문무왕"
+      ]
+    },
+    {
+      "id": "samhan_yeolgi",
+      "name": "열기",
+      "faction": "silla",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/silla-faces-v1.png",
+      "grid": 4,
+      "cell": 10,
+      "design": "messy sandy short hair, alert large eyes, yellow ribbon"
+    },
+    {
+      "id": "samhan_gugeun",
+      "name": "구근",
+      "faction": "silla",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/silla-faces-v1.png",
+      "grid": 4,
+      "cell": 11,
+      "design": "brown braided bun, thick eyebrows, round dependable face"
+    },
+    {
+      "id": "samhan_wonsul",
+      "name": "김원술",
+      "faction": "silla",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/silla-faces-v1.png",
+      "grid": 4,
+      "cell": 12,
+      "design": "auburn high ponytail, golden eyes, troubled determined brows"
+    },
+    {
+      "id": "samhan_bidam",
+      "name": "비담",
+      "faction": "silla",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/silla-faces-v1.png",
+      "grid": 4,
+      "cell": 13,
+      "design": "black brown asymmetric hair, angular gold diadem, sharp ambitious smile"
+    },
+    {
+      "id": "samhan_yeon",
+      "name": "연개소문",
+      "faction": "goguryeo",
+      "royal": true,
+      "female": true,
+      "src": "art/por/samhan/goguryeo-faces-v1.png",
+      "grid": 4,
+      "cell": 0,
+      "design": "jet black blunt bob, red almond eyes, beauty mark, gold bird pin, smug smile"
+    },
+    {
+      "id": "samhan_jeongto",
+      "name": "연정토",
+      "faction": "goguryeo",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/goguryeo-faces-v1.png",
+      "grid": 4,
+      "cell": 1,
+      "design": "black low ponytail, red cloth band, kind firm gaze"
+    },
+    {
+      "id": "samhan_bojang",
+      "name": "보장왕",
+      "faction": "goguryeo",
+      "royal": true,
+      "female": true,
+      "src": "art/por/samhan/goguryeo-faces-v1.png",
+      "grid": 4,
+      "cell": 2,
+      "design": "long black hair, Goguryeo gold feather crown, pale refined anxious face"
+    },
+    {
+      "id": "samhan_gojeongui",
+      "name": "고정의",
+      "faction": "goguryeo",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/goguryeo-faces-v1.png",
+      "grid": 4,
+      "cell": 3,
+      "design": "silver gray long hair, black scholar cap, lined wise face"
+    },
+    {
+      "id": "samhan_goyeonsu",
+      "name": "고연수",
+      "faction": "goguryeo",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/goguryeo-faces-v1.png",
+      "grid": 4,
+      "cell": 4,
+      "design": "black high bun, crimson headband, proud brows"
+    },
+    {
+      "id": "samhan_gohyejin",
+      "name": "고혜진",
+      "faction": "goguryeo",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/goguryeo-faces-v1.png",
+      "grid": 4,
+      "cell": 5,
+      "design": "wine black short wavy hair, calculating narrow eyes"
+    },
+    {
+      "id": "samhan_ansi",
+      "name": "안시성주",
+      "faction": "goguryeo",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/goguryeo-faces-v1.png",
+      "grid": 4,
+      "cell": 6,
+      "design": "black braid over shoulder, simple red gold headband, stern protective expression",
+      "aliases": [
+        "양만춘",
+        "안시성주 (양만춘)"
+      ]
+    },
+    {
+      "id": "samhan_noeumsin",
+      "name": "뇌음신",
+      "faction": "goguryeo",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/goguryeo-faces-v1.png",
+      "grid": 4,
+      "cell": 7,
+      "design": "spiky black short hair, red eyes, small cheek scar, fierce grin"
+    },
+    {
+      "id": "samhan_malgal",
+      "name": "말갈 추장",
+      "faction": "goguryeo",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/goguryeo-faces-v1.png",
+      "grid": 4,
+      "cell": 8,
+      "design": "dark brown tousled hair, fur headband with feather, bronzed skin, bold stare"
+    },
+    {
+      "id": "samhan_namsaeng",
+      "name": "연남생",
+      "faction": "goguryeo",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/goguryeo-faces-v1.png",
+      "grid": 4,
+      "cell": 9,
+      "design": "black high ponytail, cool red eyes, refined gold hair clasp, calculating expression"
+    },
+    {
+      "id": "samhan_namgeon",
+      "name": "연남건",
+      "faction": "goguryeo",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/goguryeo-faces-v1.png",
+      "grid": 4,
+      "cell": 10,
+      "design": "short black bob with red streak ribbon, thick sharp brows, fierce protective gaze"
+    },
+    {
+      "id": "samhan_namsan",
+      "name": "연남산",
+      "faction": "goguryeo",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/goguryeo-faces-v1.png",
+      "grid": 4,
+      "cell": 11,
+      "design": "soft black long hair, scholar gold pin, gentle narrow red brown eyes"
+    },
+    {
+      "id": "samhan_geommojam",
+      "name": "검모잠",
+      "faction": "goguryeo",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/goguryeo-faces-v1.png",
+      "grid": 4,
+      "cell": 12,
+      "design": "dark weathered complexion, rough black ponytail, determined eyes"
+    },
+    {
+      "id": "samhan_anseung",
+      "name": "안승",
+      "faction": "goguryeo",
+      "royal": true,
+      "female": true,
+      "src": "art/por/samhan/goguryeo-faces-v1.png",
+      "grid": 4,
+      "cell": 13,
+      "design": "silky black shoulder-length hair, small Goguryeo gold royal circlet, thoughtful young face"
+    },
+    {
+      "id": "samhan_taizong",
+      "name": "당 태종 이세민",
+      "faction": "tang",
+      "royal": true,
+      "female": true,
+      "src": "art/por/samhan/tang-faces-v1.png",
+      "grid": 4,
+      "cell": 0,
+      "design": "black imperial updo, Chinese imperial golden crown, imposing regal eyes",
+      "aliases": [
+        "이세민",
+        "당 태종",
+        "당태종"
+      ],
+      "crop": [
+        0,
+        175,
+        313.5,
+        465
+      ]
+    },
+    {
+      "id": "samhan_liji",
+      "name": "이적",
+      "faction": "tang",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/tang-faces-v1.png",
+      "grid": 4,
+      "cell": 1,
+      "design": "gray black high bun, dark heavy cavalry helmet with gold crest, calculating eyes",
+      "crop": [
+        313.5,
+        175,
+        313.5,
+        465
+      ]
+    },
+    {
+      "id": "samhan_zhangliang",
+      "name": "장량",
+      "faction": "tang",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/tang-faces-v1.png",
+      "grid": 4,
+      "cell": 2,
+      "design": "blue black topknot, Tang naval cap, stern weathered face",
+      "crop": [
+        627,
+        175,
+        313.5,
+        465
+      ]
+    },
+    {
+      "id": "samhan_sudingfang",
+      "name": "소정방",
+      "faction": "tang",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/tang-faces-v1.png",
+      "grid": 4,
+      "cell": 3,
+      "design": "black hair, dark heavy cavalry helmet red plume, cold forceful eyes",
+      "crop": [
+        940.5,
+        175,
+        313.5,
+        465
+      ]
+    },
+    {
+      "id": "samhan_xuerengui",
+      "name": "설인귀",
+      "faction": "tang",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/tang-faces-v1.png",
+      "grid": 4,
+      "cell": 4,
+      "design": "silver white high ponytail, white silver helmet, bright intense eyes",
+      "crop": [
+        0,
+        640,
+        313.5,
+        465
+      ]
+    },
+    {
+      "id": "samhan_pangxiaotai",
+      "name": "방효태",
+      "faction": "tang",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/tang-faces-v1.png",
+      "grid": 4,
+      "cell": 5,
+      "design": "brown short hair, heavy bronze helmet, broad aggressive face",
+      "crop": [
+        313.5,
+        640,
+        313.5,
+        465
+      ]
+    },
+    {
+      "id": "samhan_liurenyuan",
+      "name": "유인권",
+      "faction": "tang",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/tang-faces-v1.png",
+      "grid": 4,
+      "cell": 6,
+      "design": "black bun, dark blue naval commander cap, long narrow face",
+      "crop": [
+        627,
+        640,
+        313.5,
+        465
+      ]
+    },
+    {
+      "id": "samhan_ligeunhaeng",
+      "name": "이근행",
+      "faction": "tang",
+      "royal": false,
+      "female": true,
+      "src": "art/por/samhan/tang-faces-v1.png",
+      "grid": 4,
+      "cell": 7,
+      "design": "dark reddish brown wild hair, fur edged cavalry cap, bronze skin, confident predator gaze",
+      "crop": [
+        940.5,
+        640,
+        313.5,
+        465
+      ]
+    }
+  ]
+}

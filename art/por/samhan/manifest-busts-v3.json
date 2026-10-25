@@ -1,0 +1,1455 @@
+{
+  "version": 3,
+  "kind": "head-and-shoulders",
+  "tool": "built-in image_gen",
+  "transparent": true,
+  "sheets": {
+    "silla": {
+      "src": "art/por/samhan/silla-busts-v3.png",
+      "width": 1122,
+      "height": 1402,
+      "columns": 4,
+      "rows": 5,
+      "count": 17,
+      "transparentFraction": 0.5039
+    },
+    "baekje": {
+      "src": "art/por/samhan/baekje-busts-v3.png",
+      "width": 1254,
+      "height": 1254,
+      "columns": 4,
+      "rows": 4,
+      "count": 14,
+      "transparentFraction": 0.5407
+    },
+    "goguryeo": {
+      "src": "art/por/samhan/goguryeo-busts-v3.png",
+      "width": 1254,
+      "height": 1254,
+      "columns": 4,
+      "rows": 4,
+      "count": 15,
+      "transparentFraction": 0.5426
+    },
+    "tang": {
+      "src": "art/por/samhan/tang-busts-v3.png",
+      "width": 1774,
+      "height": 887,
+      "columns": 4,
+      "rows": 2,
+      "count": 8,
+      "transparentFraction": 0.5773
+    },
+    "wa": {
+      "src": "art/por/samhan/wa-busts-v3.png",
+      "width": 1774,
+      "height": 887,
+      "columns": 2,
+      "rows": 1,
+      "count": 2,
+      "transparentFraction": 0.6473
+    }
+  },
+  "entries": [
+    {
+      "id": "kim",
+      "name": "김유신",
+      "faction": "silla",
+      "src": "art/por/samhan/silla-busts-v3.png",
+      "cell": 0,
+      "grid": 4,
+      "cols": 4,
+      "rows": 5,
+      "atlasWidth": 1122,
+      "atlasHeight": 1402,
+      "bounds": [
+        27,
+        38,
+        233,
+        247
+      ],
+      "crop": [
+        14,
+        32,
+        259,
+        259
+      ],
+      "design": "heart-shaped lively face, bright golden round-almond eyes, cheek freckles and exuberant OPEN grin; chestnut HIGH PONYTAIL, fine gold branching hair ornament; golden lamellar armor, ivory underlayer and short bright yellow cape"
+    },
+    {
+      "id": "seohyeon",
+      "name": "김서현",
+      "faction": "silla",
+      "src": "art/por/samhan/silla-busts-v3.png",
+      "cell": 1,
+      "grid": 4,
+      "cols": 4,
+      "rows": 5,
+      "atlasWidth": 1122,
+      "atlasHeight": 1402,
+      "bounds": [
+        319,
+        57,
+        218,
+        227
+      ],
+      "crop": [
+        308,
+        51,
+        239,
+        239
+      ],
+      "design": "BROAD SOFT SQUARE mature face, kind firm downturned amber eyes, substantial straight brows, composed closed smile; chestnut braided UPDO; padded ivory standing collar over bronze-gold armor and ochre shoulder mantle"
+    },
+    {
+      "id": "heumsun",
+      "name": "김흠순",
+      "faction": "silla",
+      "src": "art/por/samhan/silla-busts-v3.png",
+      "cell": 2,
+      "grid": 4,
+      "cols": 4,
+      "rows": 5,
+      "atlasWidth": 1122,
+      "atlasHeight": 1402,
+      "bounds": [
+        597,
+        44,
+        206,
+        241
+      ],
+      "crop": [
+        574,
+        38,
+        253,
+        253
+      ],
+      "design": "ROUND athletic face, rounded nose and bold toothy sideways smile, thick lively brows; short spiky brown ponytail; warm brown leather shoulder guards, quilted yellow scarf, practical cavalry jacket"
+    },
+    {
+      "id": "chunchu",
+      "name": "김춘추",
+      "faction": "silla",
+      "src": "art/por/samhan/silla-busts-v3.png",
+      "cell": 3,
+      "grid": 4,
+      "cols": 4,
+      "rows": 5,
+      "atlasWidth": 1122,
+      "atlasHeight": 1402,
+      "bounds": [
+        865,
+        37,
+        225,
+        249
+      ],
+      "crop": [
+        847,
+        31,
+        261,
+        261
+      ],
+      "design": "LONG OVAL elegant face, narrower half-lidded amber eyes, shrewd asymmetric smile; long smooth chestnut hair with regal branching gold crown; lavish ivory and yellow-gold BROCADE royal robe and long collar"
+    },
+    {
+      "id": "pumil",
+      "name": "김품일",
+      "faction": "silla",
+      "src": "art/por/samhan/silla-busts-v3.png",
+      "cell": 4,
+      "grid": 4,
+      "cols": 4,
+      "rows": 5,
+      "atlasWidth": 1122,
+      "atlasHeight": 1402,
+      "bounds": [
+        22,
+        314,
+        239,
+        251
+      ],
+      "crop": [
+        10,
+        308,
+        263,
+        263
+      ],
+      "design": "WIDE RECTANGULAR face and strong jaw, heavy stern eyebrows, flat unsmiling lips; dark chestnut tidy HIGH BUN; heavy dark gold lamellar armor with LARGE OVERLAPPING SHOULDER PLATES"
+    },
+    {
+      "id": "alcheon",
+      "name": "알천",
+      "faction": "silla",
+      "src": "art/por/samhan/silla-busts-v3.png",
+      "cell": 5,
+      "grid": 4,
+      "cols": 4,
+      "rows": 5,
+      "atlasWidth": 1122,
+      "atlasHeight": 1402,
+      "bounds": [
+        300,
+        334,
+        243,
+        231
+      ],
+      "crop": [
+        294,
+        322,
+        255,
+        255
+      ],
+      "design": "LONG ANGULAR mature face, prominent cheek planes, subtle old cheek scar, narrowed battle-worn eyes and skeptical raised brow; silver-brown swept SHORT HAIR; ivory fur-edged gold shoulder armor and weathered buff cloak"
+    },
+    {
+      "id": "inmun",
+      "name": "김인문",
+      "faction": "silla",
+      "src": "art/por/samhan/silla-busts-v3.png",
+      "cell": 6,
+      "grid": 4,
+      "cols": 4,
+      "rows": 5,
+      "atlasWidth": 1122,
+      "atlasHeight": 1402,
+      "bounds": [
+        579,
+        327,
+        230,
+        239
+      ],
+      "crop": [
+        568,
+        321,
+        251,
+        251
+      ],
+      "design": "NARROW OVAL refined face, perceptive slim amber eyes, thin arched brows, small peaceful smile; silky honey-brown side-pinned waves and scholarly gold headpiece; soft scholarly cream robe, muted green inner collar and embroidered golden stole"
+    },
+    {
+      "id": "gwanchang",
+      "name": "관창",
+      "faction": "silla",
+      "src": "art/por/samhan/silla-busts-v3.png",
+      "cell": 7,
+      "grid": 4,
+      "cols": 4,
+      "rows": 5,
+      "atlasWidth": 1122,
+      "atlasHeight": 1402,
+      "bounds": [
+        875,
+        328,
+        216,
+        238
+      ],
+      "crop": [
+        858,
+        322,
+        250,
+        250
+      ],
+      "design": "youthful ROUND CHEEKS, large excited amber eyes and brave OPEN smile; short auburn tied ponytail with yellow ribbon; light brown leather armor and bright yellow neck-and-shoulder kerchief"
+    },
+    {
+      "id": "bangul",
+      "name": "반굴",
+      "faction": "silla",
+      "src": "art/por/samhan/silla-busts-v3.png",
+      "cell": 8,
+      "grid": 4,
+      "cols": 4,
+      "rows": 5,
+      "atlasWidth": 1122,
+      "atlasHeight": 1402,
+      "bounds": [
+        34,
+        620,
+        216,
+        222
+      ],
+      "crop": [
+        25,
+        614,
+        234,
+        234
+      ],
+      "design": "COMPACT SQUARE youthful face, straight low brows and intensely serious closed mouth; straight brown JAW-LENGTH BOB, yellow forehead band; simple flat gold-iron shoulder armor over pale cream tunic"
+    },
+    {
+      "id": "beopmin",
+      "name": "김법민",
+      "faction": "silla",
+      "src": "art/por/samhan/silla-busts-v3.png",
+      "cell": 9,
+      "grid": 4,
+      "cols": 4,
+      "rows": 5,
+      "atlasWidth": 1122,
+      "atlasHeight": 1402,
+      "bounds": [
+        306,
+        595,
+        238,
+        248
+      ],
+      "crop": [
+        295,
+        589,
+        260,
+        260
+      ],
+      "design": "LONG calm face, wide-set steady amber eyes, straight nose and quiet authoritative smile; long chestnut straight hair and restrained royal gold crown; ivory royal shoulder stole and formal yellow brocade robe"
+    },
+    {
+      "id": "yeolgi",
+      "name": "열기",
+      "faction": "silla",
+      "src": "art/por/samhan/silla-busts-v3.png",
+      "cell": 10,
+      "grid": 4,
+      "cols": 4,
+      "rows": 5,
+      "atlasWidth": 1122,
+      "atlasHeight": 1402,
+      "bounds": [
+        602,
+        616,
+        209,
+        226
+      ],
+      "crop": [
+        588,
+        610,
+        238,
+        238
+      ],
+      "design": "small TRIANGULAR face, alert wide eyes with smaller irises, raised uneven brows and surprised little O mouth; messy sandy SHORT HAIR and yellow ribbon; simple mustard quilted scout jacket with asymmetrical leather strap"
+    },
+    {
+      "id": "gugeun",
+      "name": "구근",
+      "faction": "silla",
+      "src": "art/por/samhan/silla-busts-v3.png",
+      "cell": 11,
+      "grid": 4,
+      "cols": 4,
+      "rows": 5,
+      "atlasWidth": 1122,
+      "atlasHeight": 1402,
+      "bounds": [
+        868,
+        601,
+        231,
+        243
+      ],
+      "crop": [
+        856,
+        595,
+        255,
+        255
+      ],
+      "design": "BROAD ROUND dependable face, full cheeks, thick brows, smiling crescent eyes and relaxed closed smile; brown BRAIDED BUN; earth-brown padded vest over ivory cotton and a gold-edged yellow shoulder sash"
+    },
+    {
+      "id": "wonsul",
+      "name": "김원술",
+      "faction": "silla",
+      "src": "art/por/samhan/silla-busts-v3.png",
+      "cell": 12,
+      "grid": 4,
+      "cols": 4,
+      "rows": 5,
+      "atlasWidth": 1122,
+      "atlasHeight": 1402,
+      "bounds": [
+        24,
+        871,
+        239,
+        245
+      ],
+      "crop": [
+        15,
+        865,
+        257,
+        257
+      ],
+      "design": "DIAMOND face, lifted inner brow ends, troubled determined amber eyes and pressed lips; auburn HIGH PONYTAIL with gold braid ties; russet and gold light cavalry armor with a high ivory shawl"
+    },
+    {
+      "id": "bidam",
+      "name": "비담",
+      "faction": "silla",
+      "src": "art/por/samhan/silla-busts-v3.png",
+      "cell": 13,
+      "grid": 4,
+      "cols": 4,
+      "rows": 5,
+      "atlasWidth": 1122,
+      "atlasHeight": 1402,
+      "bounds": [
+        302,
+        876,
+        239,
+        240
+      ],
+      "crop": [
+        296,
+        870,
+        252,
+        252
+      ],
+      "design": "SHARP LONG DIAMOND face, narrow upward-tilted amber eyes, angled brows, ambitious one-sided smirk; BLACK-BROWN ASYMMETRIC swept hair and angular gold diadem; dark brown-black lamellar armor and a black fur-trimmed shoulder cloak"
+    },
+    {
+      "id": "jinpyeong",
+      "name": "진평왕",
+      "faction": "silla",
+      "src": "art/por/samhan/silla-busts-v3.png",
+      "cell": 14,
+      "grid": 4,
+      "cols": 4,
+      "rows": 5,
+      "atlasWidth": 1122,
+      "atlasHeight": 1402,
+      "bounds": [
+        579,
+        856,
+        242,
+        260
+      ],
+      "crop": [
+        564,
+        850,
+        272,
+        272
+      ],
+      "design": "BROAD SOFT SQUARE mature matriarch face, generous jaw and gentle wide-set downturned AMBER eyes, substantial brows, composed small smile with smile creases; chestnut HIGH BRAIDED CROWN UPDO, branching gold Silla crown and jade earrings; full ivory/yellow embroidered royal shoulder robe"
+    },
+    {
+      "id": "seondeok",
+      "name": "선덕여왕",
+      "faction": "silla",
+      "src": "art/por/samhan/silla-busts-v3.png",
+      "cell": 15,
+      "grid": 4,
+      "cols": 4,
+      "rows": 5,
+      "atlasWidth": 1122,
+      "atlasHeight": 1402,
+      "bounds": [
+        858,
+        875,
+        243,
+        243
+      ],
+      "crop": [
+        852,
+        869,
+        255,
+        255
+      ],
+      "design": "HEART-SHAPED face, high wide cheeks and softly rounded small chin, wide-set gold almond eyes with curious inner corners, slender curved brows, BEAUTY MARK beside lower lip and knowing CLOSED asymmetric smile; chestnut SHOULDER-LENGTH WAVY SIDE-PART, slim branching crown and jade; flowing ivory royal robe and warm golden brocade shoulder wrap"
+    },
+    {
+      "id": "yangdo",
+      "name": "김양도",
+      "faction": "silla",
+      "src": "art/por/samhan/silla-busts-v3.png",
+      "cell": 16,
+      "grid": 4,
+      "cols": 4,
+      "rows": 5,
+      "atlasWidth": 1122,
+      "atlasHeight": 1402,
+      "bounds": [
+        32,
+        1145,
+        237,
+        230
+      ],
+      "crop": [
+        26,
+        1136,
+        249,
+        249
+      ],
+      "design": "SOFT PLUMP OVAL face, politely puzzled amber eyes, one brow slightly lifted and a gentle questioning smile; medium brown low side ponytail with ONE SMALL SIDE BRAID; cream scholar-warrior jacket, restrained gold shoulder fittings and loosely draped yellow scarf"
+    },
+    {
+      "id": "gye",
+      "name": "계백",
+      "faction": "baekje",
+      "src": "art/por/samhan/baekje-busts-v3.png",
+      "cell": 0,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        47,
+        113,
+        244,
+        236
+      ],
+      "crop": [
+        41,
+        103,
+        256,
+        256
+      ],
+      "design": "SOFT ROUND gentle face, large violet eyes, warm reassuring closed smile; navy TWO LONG BRAIDS with blue bows and gold LOTUS pin; richly engraved blue-gold lamellar armor with full curved shoulder plates and ivory sleeves"
+    },
+    {
+      "id": "yunchung",
+      "name": "윤충",
+      "faction": "baekje",
+      "src": "art/por/samhan/baekje-busts-v3.png",
+      "cell": 1,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        348,
+        68,
+        256,
+        282
+      ],
+      "crop": [
+        329,
+        62,
+        294,
+        294
+      ],
+      "design": "LONG ATHLETIC face, fierce blue upturned eyes and strong angled brows, confident tight smile; cobalt HIGH PONYTAIL; blue cavalry armor with layered narrower shoulder guards and a dark cobalt cloak"
+    },
+    {
+      "id": "uija",
+      "name": "의자왕",
+      "faction": "baekje",
+      "src": "art/por/samhan/baekje-busts-v3.png",
+      "cell": 2,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        651,
+        93,
+        252,
+        258
+      ],
+      "crop": [
+        642,
+        87,
+        270,
+        270
+      ],
+      "design": "LONG TRIANGULAR face with narrow chin, sensual HALF-LIDDED LAVENDER eyes, very long thin arched brows and FULLER LIPS in a sly sideways smile; LONG WAVY INDIGO hair gathered on one side with curved forehead lock, gold low floral diadem; luxurious royal navy-and-gold brocade robe over ivory collar"
+    },
+    {
+      "id": "seongchung",
+      "name": "성충",
+      "faction": "baekje",
+      "src": "art/por/samhan/baekje-busts-v3.png",
+      "cell": 3,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        960,
+        76,
+        255,
+        274
+      ],
+      "crop": [
+        944,
+        70,
+        286,
+        286
+      ],
+      "design": "NARROW LONG OVAL face, fine wise eyes, raised thoughtful brow and small solemn mouth; LONG ASH-BLUE hair and scholar cap; high pale collar and flowing layered blue scholar robe with embroidered shoulder stole"
+    },
+    {
+      "id": "eunsang",
+      "name": "은상",
+      "faction": "baekje",
+      "src": "art/por/samhan/baekje-busts-v3.png",
+      "cell": 4,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        35,
+        410,
+        255,
+        240
+      ],
+      "crop": [
+        29,
+        396,
+        267,
+        267
+      ],
+      "design": "BROAD ROUND face, fuller cheeks and grumpy determined small mouth, thick rounded brows and bright blue eyes; SHORT NAVY WAVY BOB; sturdy dark blue infantry breastplate with wide rounded gold shoulder guards"
+    },
+    {
+      "id": "uijik",
+      "name": "의직",
+      "faction": "baekje",
+      "src": "art/por/samhan/baekje-busts-v3.png",
+      "cell": 5,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        343,
+        386,
+        260,
+        265
+      ],
+      "crop": [
+        334,
+        380,
+        277,
+        277
+      ],
+      "design": "ANGULAR SQUARE face, eyebrow scar, raised bold brows, fiery TOOTHY grin; swept blue-black hair tied back with tiny braid; blue scale cavalry armor, asymmetrical leather strap and short ivory shoulder cape"
+    },
+    {
+      "id": "chungsang",
+      "name": "충상",
+      "faction": "baekje",
+      "src": "art/por/samhan/baekje-busts-v3.png",
+      "cell": 6,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        651,
+        404,
+        262,
+        252
+      ],
+      "crop": [
+        645,
+        393,
+        274,
+        274
+      ],
+      "design": "NARROW HEART face, attentive gray-green eyes and calm closed lips; TEAL STRAIGHT long hair and blue-gold archer headband; light blue leather archer vest, ivory padded sleeve shoulders and narrow gold collar"
+    },
+    {
+      "id": "sangyeong",
+      "name": "상영",
+      "faction": "baekje",
+      "src": "art/por/samhan/baekje-busts-v3.png",
+      "cell": 7,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        973,
+        406,
+        248,
+        248
+      ],
+      "crop": [
+        967,
+        400,
+        260,
+        260
+      ],
+      "design": "RECTANGULAR face, squared jaw and stoic dark eyes with flat brows, unsmiling mouth; dark-blue LOW BUN with two straight temple strands; practical flat blue-iron infantry shoulder plates and high ivory fabric collar"
+    },
+    {
+      "id": "heungsu",
+      "name": "흥수",
+      "faction": "baekje",
+      "src": "art/por/samhan/baekje-busts-v3.png",
+      "cell": 8,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        41,
+        678,
+        270,
+        277
+      ],
+      "crop": [
+        25,
+        672,
+        289,
+        289
+      ],
+      "design": "LONG OVAL mature face, thin calm downturned violet eyes and faint reflective smile; SILVER-BLUE long hair and simple scholar cap; loose ivory and pale-blue scholar robes with wide soft sleeves and dark blue patterned stole"
+    },
+    {
+      "id": "heukchi",
+      "name": "흑치상지",
+      "faction": "baekje",
+      "src": "art/por/samhan/baekje-busts-v3.png",
+      "cell": 9,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        337,
+        681,
+        276,
+        272
+      ],
+      "crop": [
+        331,
+        673,
+        288,
+        288
+      ],
+      "design": "DEEP BRONZE skin, STRONG DIAMOND face, gold eyes, confident broad OPEN laugh and a small cheek scar; wild ink-blue HIGH PONYTAIL, gold hoops; dark cobalt leather-and-lamellar armor with broad ivory fur shoulder trim"
+    },
+    {
+      "id": "boksin",
+      "name": "복신",
+      "faction": "baekje",
+      "src": "art/por/samhan/baekje-busts-v3.png",
+      "cell": 10,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        657,
+        719,
+        263,
+        236
+      ],
+      "crop": [
+        651,
+        700,
+        275,
+        275
+      ],
+      "design": "BROAD ANGULAR face, strong cheekbones and thick low brows, stern defiant pout; SHORT DARK INDIGO tousled hair; heavy overlapping navy shoulder armor with gold rivets and a rough blue cloak"
+    },
+    {
+      "id": "dochim",
+      "name": "도침",
+      "faction": "baekje",
+      "src": "art/por/samhan/baekje-busts-v3.png",
+      "cell": 11,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        974,
+        717,
+        243,
+        243
+      ],
+      "crop": [
+        968,
+        711,
+        255,
+        255
+      ],
+      "design": "COMPACT ROUND peaceful face, softly lidded amber-brown eyes and warm small smile; SHORT DARK NAVY SIDE-PARTED HAIR, NEVER bald; modest brown-and-blue Buddhist scholar robe, visible complete shoulder drape and prayer beads across upper chest"
+    },
+    {
+      "id": "buyeopung",
+      "name": "부여풍",
+      "faction": "baekje",
+      "src": "art/por/samhan/baekje-busts-v3.png",
+      "cell": 12,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        43,
+        982,
+        258,
+        239
+      ],
+      "crop": [
+        37,
+        969,
+        270,
+        270
+      ],
+      "design": "youthful SOFT OVAL face, violet wide-set eyes and a cautious reserved smile; blue-black long flowing half-up hair, small gold lotus royal crown; refined ivory-and-cobalt ceremonial robe with gold shoulder embroidery"
+    },
+    {
+      "id": "mu",
+      "name": "무왕",
+      "faction": "baekje",
+      "src": "art/por/samhan/baekje-busts-v3.png",
+      "cell": 13,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        363,
+        985,
+        242,
+        236
+      ],
+      "crop": [
+        357,
+        976,
+        254,
+        254
+      ],
+      "design": "WIDE ROUND mature face, full cheeks, small upturned nose, FRECKLES, crescent smiling blue eyes and BIG OPEN TOOTHY GRIN with cheek dimple; navy WAVY CHIN-LENGTH BOB and small half-up knot, low gold flower crown; blue/ivory royal robe with visibly broad informal embroidered shoulder folds"
+    },
+    {
+      "id": "yeon",
+      "name": "연개소문",
+      "faction": "goguryeo",
+      "src": "art/por/samhan/goguryeo-busts-v3.png",
+      "cell": 0,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        65,
+        82,
+        229,
+        236
+      ],
+      "crop": [
+        56,
+        76,
+        248,
+        248
+      ],
+      "design": "SHARP HEART/DIAMOND face, red almond eyes, tiny beauty mark and proud sly CLOSED smile; sleek JET-BLACK BLUNT BOB, gold bird pin and red ribbon; crimson-black-gold lamellar commander armor with sculpted bird shoulder plates, ivory sleeve and red cape"
+    },
+    {
+      "id": "jeongto",
+      "name": "연정토",
+      "faction": "goguryeo",
+      "src": "art/por/samhan/goguryeo-busts-v3.png",
+      "cell": 1,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        364,
+        67,
+        250,
+        253
+      ],
+      "crop": [
+        356,
+        61,
+        265,
+        265
+      ],
+      "design": "BROAD SOFT SQUARE face, kind firm red-brown eyes and steady gentle smile; black LOW PONYTAIL, red cloth band; red-brown infantry armor and a practical warm fur-edged mantle"
+    },
+    {
+      "id": "bojang",
+      "name": "보장왕",
+      "faction": "goguryeo",
+      "src": "art/por/samhan/goguryeo-busts-v3.png",
+      "cell": 2,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        662,
+        72,
+        244,
+        248
+      ],
+      "crop": [
+        654,
+        66,
+        260,
+        260
+      ],
+      "design": "LONG REFINED OVAL pale face, slightly anxious drooping red-brown eyes, lifted inner brows and small uncertain mouth; LONG BLACK straight hair and gold feather crown; crimson royal robe over ivory high collar with fine gold feather shoulder embroidery"
+    },
+    {
+      "id": "gojeongui",
+      "name": "고정의",
+      "faction": "goguryeo",
+      "src": "art/por/samhan/goguryeo-busts-v3.png",
+      "cell": 3,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        969,
+        75,
+        236,
+        246
+      ],
+      "crop": [
+        958,
+        69,
+        258,
+        258
+      ],
+      "design": "LONG RECTANGULAR mature lined face, narrow wise warm-brown eyes, substantial eyebrows and reflective compressed lips; SILVER-GRAY LONG hair and black scholar cap; black-red scholarly outer robe, broad square ivory collar and muted gold shoulder trim"
+    },
+    {
+      "id": "goyeonsu",
+      "name": "고연수",
+      "faction": "goguryeo",
+      "src": "art/por/samhan/goguryeo-busts-v3.png",
+      "cell": 4,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        45,
+        346,
+        264,
+        265
+      ],
+      "crop": [
+        37,
+        340,
+        277,
+        277
+      ],
+      "design": "BROAD SQUARE strong face, proud straight brows and cool red eyes, firm closed smirk; black HIGH BUN and crimson headband; heavy crimson lamellar cavalry armor and broad black-edged shoulder plates"
+    },
+    {
+      "id": "gohyejin",
+      "name": "고혜진",
+      "faction": "goguryeo",
+      "src": "art/por/samhan/goguryeo-busts-v3.png",
+      "cell": 5,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        376,
+        369,
+        232,
+        243
+      ],
+      "crop": [
+        364,
+        363,
+        255,
+        255
+      ],
+      "design": "NARROW LONG face, calculating half-lidded red eyes, one thin raised brow and subtle ironic smile; SHORT WINE-BLACK WAVY hair; wine-red leather cavalry coat with narrower curved gold shoulder pieces and ivory scarf"
+    },
+    {
+      "id": "ansi",
+      "name": "양만춘",
+      "faction": "goguryeo",
+      "src": "art/por/samhan/goguryeo-busts-v3.png",
+      "cell": 6,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        664,
+        373,
+        236,
+        239
+      ],
+      "crop": [
+        656,
+        367,
+        251,
+        251
+      ],
+      "design": "COMPACT RECTANGULAR face, stern protective red-brown eyes and flat mouth; single BLACK BRAID over shoulder, simple red-gold headband; light crimson archer armor with dark leather shoulder tabs and pale fur collar"
+    },
+    {
+      "id": "noeumsin",
+      "name": "뇌음신",
+      "faction": "goguryeo",
+      "src": "art/por/samhan/goguryeo-busts-v3.png",
+      "cell": 7,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        981,
+        369,
+        235,
+        243
+      ],
+      "crop": [
+        971,
+        363,
+        255,
+        255
+      ],
+      "design": "SHARP TRIANGULAR face, red eyes, CHEEK SCAR and fierce OPEN TOOTHY GRIN, uneven bold brows; SPIKY SHORT BLACK hair and red ribbon; dark red cavalry armor with asymmetrical shoulder guard and gold ring earring"
+    },
+    {
+      "id": "malgal",
+      "name": "흑수돌",
+      "faction": "goguryeo",
+      "src": "art/por/samhan/goguryeo-busts-v3.png",
+      "cell": 8,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        34,
+        646,
+        280,
+        261
+      ],
+      "crop": [
+        22,
+        629,
+        292,
+        292
+      ],
+      "design": "BRONZED skin, BROAD ROUND powerful face, golden eyes and a bold open laugh, fuller nose and cheek planes; tousled DARK BROWN hair, FUR HEADBAND WITH ONE FEATHER; textured heavy brown fur shoulder mantle over crimson leather"
+    },
+    {
+      "id": "namsaeng",
+      "name": "연남생",
+      "faction": "goguryeo",
+      "src": "art/por/samhan/goguryeo-busts-v3.png",
+      "cell": 9,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        363,
+        638,
+        239,
+        266
+      ],
+      "crop": [
+        344,
+        632,
+        278,
+        278
+      ],
+      "design": "LONG DIAMOND refined face, narrow cool red eyes, sharply arched brows and calculating one-sided smile; black HIGH PONYTAIL with refined gold clasp; polished red-black lamellar armor and a neat high standing gold collar"
+    },
+    {
+      "id": "namgeon",
+      "name": "연남건",
+      "faction": "goguryeo",
+      "src": "art/por/samhan/goguryeo-busts-v3.png",
+      "cell": 10,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        667,
+        672,
+        247,
+        231
+      ],
+      "crop": [
+        661,
+        655,
+        259,
+        259
+      ],
+      "design": "SQUARE SHORT firm face, thick sharp brows and fiercely protective red eyes, determined pout; SHORT BLACK BOB with RED RIBBON streak; solid crimson infantry armor and broad black-gold shoulder guards"
+    },
+    {
+      "id": "namsan",
+      "name": "연남산",
+      "faction": "goguryeo",
+      "src": "art/por/samhan/goguryeo-busts-v3.png",
+      "cell": 11,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        974,
+        663,
+        247,
+        242
+      ],
+      "crop": [
+        968,
+        654,
+        259,
+        259
+      ],
+      "design": "SOFT HEART face, gentle narrow red-brown eyes and quiet warm CLOSED smile, fine brows; LONG SOFT BLACK hair and small gold scholar pin; ivory/red silk scholar robe and loose asymmetric dark-red shoulder shawl"
+    },
+    {
+      "id": "geommojam",
+      "name": "검모잠",
+      "faction": "goguryeo",
+      "src": "art/por/samhan/goguryeo-busts-v3.png",
+      "cell": 12,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        49,
+        936,
+        265,
+        254
+      ],
+      "crop": [
+        37,
+        924,
+        277,
+        277
+      ],
+      "design": "DARK WEATHERED BRONZE complexion, BROAD ANGULAR face, visible mature cheek creases, determined gold-brown eyes and tight mouth; rough BLACK PONYTAIL; practical crimson cloth-and-leather armor and coarse short fur shoulder cape"
+    },
+    {
+      "id": "anseung",
+      "name": "안승",
+      "faction": "goguryeo",
+      "src": "art/por/samhan/goguryeo-busts-v3.png",
+      "cell": 13,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        314,
+        934,
+        305,
+        256
+      ],
+      "crop": [
+        314,
+        919,
+        313,
+        313
+      ],
+      "design": "youthful SOFT OVAL face, thoughtful red-brown eyes and a hesitant CLOSED smile; SILKY BLACK SHOULDER-LENGTH hair, small gold royal circlet with red jewel; soft ivory royal collar and restrained crimson embroidered shoulder robe"
+    },
+    {
+      "id": "yeongnyu",
+      "name": "영류왕",
+      "faction": "goguryeo",
+      "src": "art/por/samhan/goguryeo-busts-v3.png",
+      "cell": 14,
+      "grid": 4,
+      "cols": 4,
+      "rows": 4,
+      "atlasWidth": 1254,
+      "atlasHeight": 1254,
+      "bounds": [
+        666,
+        925,
+        269,
+        265
+      ],
+      "crop": [
+        659,
+        917,
+        281,
+        281
+      ],
+      "design": "LONG RECTANGULAR mature face, broad forehead, long straight nose bridge, narrow deep-set downward-tilted red eyes with SMALL IRISES, THICK STRAIGHT brows, thin compressed worried lips; black smooth SIDE-PART exposing forehead and LOW BOUND KNOT with two straight temple strands; modest gold feather crown, red-black layered Korean royal robe with broad formal shoulders"
+    },
+    {
+      "id": "taizong",
+      "name": "당 태종 이세민",
+      "faction": "tang",
+      "src": "art/por/samhan/tang-busts-v3.png",
+      "cell": 0,
+      "grid": 4,
+      "cols": 4,
+      "rows": 2,
+      "atlasWidth": 1774,
+      "atlasHeight": 887,
+      "bounds": [
+        72,
+        98,
+        335,
+        342
+      ],
+      "crop": [
+        62,
+        92,
+        354,
+        354
+      ],
+      "design": "SHARP DIAMOND mature face, strong cheekbones, defined straight nose, narrow upward-slanted deep-hazel eyes, high angled assertive brows and asymmetrical TOOTH-REVEALING SMIRK, warm tan complexion; SHORT SWEPT-BACK BLACK pixie cut with tiny knot and horizontal black-gold imperial headpiece with red tassels; dark jade and burgundy Tang royal brocade with strong angular gold-embroidered shoulders"
+    },
+    {
+      "id": "liji",
+      "name": "이적",
+      "faction": "tang",
+      "src": "art/por/samhan/tang-busts-v3.png",
+      "cell": 1,
+      "grid": 4,
+      "cols": 4,
+      "rows": 2,
+      "atlasWidth": 1774,
+      "atlasHeight": 887,
+      "bounds": [
+        500,
+        74,
+        346,
+        366
+      ],
+      "crop": [
+        484,
+        68,
+        378,
+        378
+      ],
+      "design": "LONG NARROW mature face, small calculating deep-set dark eyes, straight gray brows, thin compressed lips; GRAY-BLACK HIGH BUN under dark heavy-cavalry helmet with gold crest; dark jade heavy armor with squared gold-edged shoulder plates"
+    },
+    {
+      "id": "zhangliang",
+      "name": "장량",
+      "faction": "tang",
+      "src": "art/por/samhan/tang-busts-v3.png",
+      "cell": 2,
+      "grid": 4,
+      "cols": 4,
+      "rows": 2,
+      "atlasWidth": 1774,
+      "atlasHeight": 887,
+      "bounds": [
+        939,
+        95,
+        335,
+        344
+      ],
+      "crop": [
+        928,
+        89,
+        356,
+        356
+      ],
+      "design": "BROAD SQUARE weathered face, medium rounded navy eyes, thick horizontal brows and tired skeptical downturned mouth; blue-black TOPKNOT and Tang NAVAL CAP; dark blue quilted naval coat with burgundy collar and broad fabric shoulders"
+    },
+    {
+      "id": "sudingfang",
+      "name": "소정방",
+      "faction": "tang",
+      "src": "art/por/samhan/tang-busts-v3.png",
+      "cell": 3,
+      "grid": 4,
+      "cols": 4,
+      "rows": 2,
+      "atlasWidth": 1774,
+      "atlasHeight": 887,
+      "bounds": [
+        1379,
+        87,
+        338,
+        354
+      ],
+      "crop": [
+        1365,
+        81,
+        366,
+        366
+      ],
+      "design": "SHARP WEDGE-SHAPED face, narrow cold red-brown eyes, low angled brows and forceful unsmiling mouth; black hair beneath dark gold cavalry helmet and red plume; black-burgundy heavy armor with pointed layered shoulder guards"
+    },
+    {
+      "id": "xuerengui",
+      "name": "설인귀",
+      "faction": "tang",
+      "src": "art/por/samhan/tang-busts-v3.png",
+      "cell": 4,
+      "grid": 4,
+      "cols": 4,
+      "rows": 2,
+      "atlasWidth": 1774,
+      "atlasHeight": 887,
+      "bounds": [
+        48,
+        487,
+        352,
+        355
+      ],
+      "crop": [
+        40,
+        481,
+        367,
+        367
+      ],
+      "design": "HEART-SHAPED youthful face, bright intense pale-blue eyes, thin raised brows and restrained brave smile; SILVER-WHITE HIGH PONYTAIL and white-silver helmet; pale silver-and-white cavalry shoulder armor with cool blue cloth underlayer"
+    },
+    {
+      "id": "pangxiaotai",
+      "name": "방효태",
+      "faction": "tang",
+      "src": "art/por/samhan/tang-busts-v3.png",
+      "cell": 5,
+      "grid": 4,
+      "cols": 4,
+      "rows": 2,
+      "atlasWidth": 1774,
+      "atlasHeight": 887,
+      "bounds": [
+        488,
+        495,
+        361,
+        348
+      ],
+      "crop": [
+        482,
+        482,
+        373,
+        373
+      ],
+      "design": "BROAD ROUND strong-jawed face, large nose, thick sharply raised brows, amber eyes and aggressive OPEN TOOTHY grin; SHORT BROWN hair beneath heavy BRONZE helmet and burgundy plume; bulky bronze heavy infantry shoulder armor and burgundy padding"
+    },
+    {
+      "id": "liurenyuan",
+      "name": "유인권",
+      "faction": "tang",
+      "src": "art/por/samhan/tang-busts-v3.png",
+      "cell": 6,
+      "grid": 4,
+      "cols": 4,
+      "rows": 2,
+      "atlasWidth": 1774,
+      "atlasHeight": 887,
+      "bounds": [
+        934,
+        487,
+        347,
+        355
+      ],
+      "crop": [
+        924,
+        481,
+        367,
+        367
+      ],
+      "design": "VERY LONG RECTANGULAR face, small narrow horizontally set dark-blue eyes, thin straight brows and long flat closed lips; neat black BUN and tall DARK BLUE NAVAL COMMANDER CAP; layered dark-blue silk naval robe and a very broad cream rectangular collar"
+    },
+    {
+      "id": "ligeunhaeng",
+      "name": "이근행",
+      "faction": "tang",
+      "src": "art/por/samhan/tang-busts-v3.png",
+      "cell": 7,
+      "grid": 4,
+      "cols": 4,
+      "rows": 2,
+      "atlasWidth": 1774,
+      "atlasHeight": 887,
+      "bounds": [
+        1367,
+        495,
+        360,
+        346
+      ],
+      "crop": [
+        1361,
+        482,
+        372,
+        372
+      ],
+      "design": "BRONZE complexion, ANGULAR FOX-LIKE face, sharp upward golden eyes and confident broad sideways laugh; wild DARK REDDISH-BROWN hair and fur-edged cavalry cap; dark leather cavalry jacket, reddish fur shoulder trim and jade-green scarf"
+    },
+    {
+      "id": "jomei",
+      "name": "조메이",
+      "faction": "wa",
+      "src": "art/por/samhan/wa-busts-v3.png",
+      "cell": 0,
+      "grid": 2,
+      "cols": 2,
+      "rows": 1,
+      "atlasWidth": 1774,
+      "atlasHeight": 887,
+      "bounds": [
+        144,
+        165,
+        637,
+        613
+      ],
+      "crop": [
+        138,
+        147,
+        649,
+        649
+      ],
+      "design": "NARROW LONG OVAL face with high forehead, subtle flat nose bridge, LONG HORIZONTAL MONOLID dark-plum eyes, very THIN STRAIGHT brows and reserved small closed lips; ink-black rigid HIME BOB to jaw with short blunt fringe, simple gold circlet with vertical pendant; early-Asuka-inspired ivory/plum formal robe, complete softly folded shoulders and layered high collar; quiet meticulous solemn expression"
+    },
+    {
+      "id": "kogyoku",
+      "name": "고교쿠",
+      "faction": "wa",
+      "src": "art/por/samhan/wa-busts-v3.png",
+      "cell": 1,
+      "grid": 2,
+      "cols": 2,
+      "rows": 1,
+      "atlasWidth": 1774,
+      "atlasHeight": 887,
+      "bounds": [
+        969,
+        133,
+        696,
+        656
+      ],
+      "crop": [
+        963,
+        107,
+        708,
+        708
+      ],
+      "design": "COMPACT PENTAGONAL mature face, firm cheekbones and STRONG SHORT chin, smaller intense gray eyes with flat upper lids, SHORT THICK BLUNT brows and firmly set unsmiling mouth; dark-plum hair with SILVER TEMPLE STREAK, TWO SCULPTURAL SIDE BUNS and short straight fringe; Asuka-inspired plum-black/ivory formal robe with structured wide shoulders and distinct architectural gold head ornament"
+    }
+  ]
+}

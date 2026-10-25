@@ -1,0 +1,116 @@
+{
+  "generator": "built-in image_gen",
+  "date": "2026-10-25",
+  "assets": [
+    {
+      "id": "race-background",
+      "prompt": "Hand-painted Korean historical SD anime game, warm crisp brown outlines, rich watercolor textures, detailed timber pavilions and soft mountains, polished 2D illustration, not 3D. Wide 2:1 landscape. Sunny fortress horse racecourse. Horizon and spectators in upper 35%, broad empty sandy track in lower 65%, four parallel horizontal lanes lightly marked. Foreground rail only at very bottom edge. No riders, no obstacles, no writing, no HUD.",
+      "reference": "D:/99.Work/Samhan_Girls/art/minigames/play-v2/reference-race.png",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-249784ee-40a6-4fd0-92a8-b0dfb0301ff5.png",
+      "file": "race-background.png"
+    },
+    {
+      "id": "zombies-background",
+      "prompt": "Hand-painted Korean historical SD anime game, warm crisp brown outlines, rich watercolor textures, detailed timber pavilions and soft mountains, polished 2D illustration, not 3D. Wide 2:1 landscape. Overhead stone fortress dungeon arena. Large unobstructed rectangular worn grey-brown tiled floor occupies lower 80%. Top-center tall golden glowing escape archway, stone perimeter walls with orange braziers at edges. Empty floor, no crates, spikes, actors or writing. Top-down playable floor.",
+      "reference": "D:/99.Work/Samhan_Girls/art/minigames/play-v2/reference-zombies.png",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-a28010ed-3c86-403f-93ed-49f035da3c66.png",
+      "file": "zombies-background.png"
+    },
+    {
+      "id": "tetris-background",
+      "prompt": "Hand-painted Korean historical SD anime game, warm crisp brown outlines, rich watercolor textures, detailed timber pavilions and soft mountains, polished 2D illustration, not 3D. Wide 2:1 landscape. Nighttime Korean palace lantern festival courtyard with blooming cherry branches, distant pagoda centered, warm lantern light against deep blue sky. Empty central and side foreground for two game boards and characters. No blocks, UI, people or writing.",
+      "reference": "D:/99.Work/Samhan_Girls/art/minigames/play-v2/reference-tetris.png",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-a08b47b2-7ab8-416a-b9fc-9a917eb37e33.png",
+      "file": "tetris-background.png"
+    },
+    {
+      "id": "tuho-background",
+      "prompt": "Hand-painted Korean historical SD anime game, warm crisp brown outlines, rich watercolor textures, detailed timber pavilions and soft mountains, polished 2D illustration, not 3D. Wide 2:1 landscape. Sunny autumn Korean palace training courtyard. Distant tiled roof pavilions, red and blue blank banners, mountains. Broad empty sandy court in lower 65%, timber foreground corners. No people, vessels, targets or interface or writing.",
+      "reference": "D:/99.Work/Samhan_Girls/art/minigames/play-v2/reference-tuho.png",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-6984b068-c9cb-4b6b-be66-7d6cb7f55bfc.png",
+      "file": "tuho-background.png"
+    },
+    {
+      "id": "ssireum-background",
+      "prompt": "Hand-painted Korean historical SD anime game, warm crisp brown outlines, rich watercolor textures, detailed timber pavilions and soft mountains, polished 2D illustration, not 3D. Wide 2:1 landscape. Sunny Korean traditional wrestling ring in timber pavilion, seated tiny background spectators behind low fence at middle horizon. Large empty circular sandy wrestling ring lower 65%, mountains and tiled buildings in background, framing posts at far edges. No foreground wrestlers, HUD or writing.",
+      "reference": "D:/99.Work/Samhan_Girls/art/minigames/play-v2/reference-ssireum.png",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-bb3fe30e-c968-4ca7-b3c0-d151c540f6da.png",
+      "file": "ssireum-background.png"
+    },
+    {
+      "id": "kim-rider",
+      "reference": "D:/99.Work/Samhan_Girls/art/ui/hero-identity-v4/samhan_kim-reference.png",
+      "prompt": "Create a single transparent game sprite, hand-painted SD anime 3-head-tall female Korean heroine. Exact face, hair, accessories and costume colors from attached portrait reference: chestnut high ponytail, amber eyes, white and golden yellow armor accents. Full body fully inside canvas, ample transparent padding, warm crisp brown outlines, detailed 2D painted shading, no words, no background or ground. Side view facing RIGHT, energetic horseback racing gallop, leaning forward holding reins, riding a WHITE horse, no bow or weapon, entire horse and tail and rider visible.",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-5e2aa31c-cdb1-4828-9306-a7c30dcf3446.png",
+      "file": "kim-rider.png"
+    },
+    {
+      "id": "kim-wrestler",
+      "reference": "D:/99.Work/Samhan_Girls/art/ui/hero-identity-v4/samhan_kim-reference.png",
+      "prompt": "Create a single transparent game sprite, hand-painted SD anime 3-head-tall female Korean heroine. Exact face, hair, accessories and costume colors from attached portrait reference: chestnut high ponytail, amber eyes, white and golden yellow armor accents. Full body fully inside canvas, ample transparent padding, warm crisp brown outlines, detailed 2D painted shading, no words, no background or ground. On foot, unarmed traditional wrestling practice pose, knees bent, arms reaching forward to grip an opponent, facing right in three-quarter view. Wearing layered historical training tunic and trousers with tied blue or red satba belt, preserve hair, face, colored cloth and golden hair ornaments. No horse, sword, shield, spear or armor weapons. One character only.",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-271dd59f-07cc-4bcc-aab6-85cce650747f.png",
+      "file": "kim-wrestler.png"
+    },
+    {
+      "id": "kim-thrower",
+      "reference": "D:/99.Work/Samhan_Girls/art/ui/hero-identity-v4/samhan_kim-reference.png",
+      "prompt": "Create a single transparent game sprite, hand-painted SD anime 3-head-tall female Korean heroine. Exact face, hair, accessories and costume colors from attached portrait reference: chestnut high ponytail, amber eyes, white and golden yellow armor accents. Full body fully inside canvas, ample transparent padding, warm crisp brown outlines, detailed 2D painted shading, no words, no background or ground. On foot facing RIGHT, throwing one slender red-fletched tuho arrow forward with right arm, lively concentrated smile, ornate historical costume from portrait, no horse, no sword or shield. Entire body and arrow visible.",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-893bea78-37e6-4a0b-a2ea-8860445b3557.png",
+      "file": "kim-thrower.png"
+    },
+    {
+      "id": "gye-rider",
+      "reference": "D:/99.Work/Samhan_Girls/art/ui/hero-identity-v4/samhan_gye-reference.png",
+      "prompt": "Create a single transparent game sprite, hand-painted SD anime 3-head-tall female Korean heroine. Exact face, hair, accessories and costume colors from attached portrait reference: two long navy-purple braided pigtails, violet eyes, navy blue and golden armor accents. Full body fully inside canvas, ample transparent padding, warm crisp brown outlines, detailed 2D painted shading, no words, no background or ground. Side view facing RIGHT, energetic horseback racing gallop, leaning forward holding reins, riding a WHITE horse, no bow or weapon, entire horse and tail and rider visible.",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-3cd83396-0524-45a7-9d6e-63b2a4ea480d.png",
+      "file": "gye-rider.png"
+    },
+    {
+      "id": "gye-wrestler",
+      "reference": "D:/99.Work/Samhan_Girls/art/ui/hero-identity-v4/samhan_gye-reference.png",
+      "prompt": "Create a single transparent game sprite, hand-painted SD anime 3-head-tall female Korean heroine. Exact face, hair, accessories and costume colors from attached portrait reference: two long navy-purple braided pigtails, violet eyes, navy blue and golden armor accents. Full body fully inside canvas, ample transparent padding, warm crisp brown outlines, detailed 2D painted shading, no words, no background or ground. On foot, unarmed traditional wrestling practice pose, knees bent, arms reaching forward to grip an opponent, facing right in three-quarter view. Wearing layered historical training tunic and trousers with tied blue or red satba belt, preserve hair, face, colored cloth and golden hair ornaments. No horse, sword, shield, spear or armor weapons. One character only.",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-c3ae9c34-dadb-459b-ae45-db6c628a31e9.png",
+      "file": "gye-wrestler.png"
+    },
+    {
+      "id": "gye-thrower",
+      "reference": "D:/99.Work/Samhan_Girls/art/ui/hero-identity-v4/samhan_gye-reference.png",
+      "prompt": "Create a single transparent game sprite, hand-painted SD anime 3-head-tall female Korean heroine. Exact face, hair, accessories and costume colors from attached portrait reference: two long navy-purple braided pigtails, violet eyes, navy blue and golden armor accents. Full body fully inside canvas, ample transparent padding, warm crisp brown outlines, detailed 2D painted shading, no words, no background or ground. On foot facing RIGHT, throwing one slender red-fletched tuho arrow forward with right arm, lively concentrated smile, ornate historical costume from portrait, no horse, no sword or shield. Entire body and arrow visible.",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-5bd2f7cb-dd8b-4615-848c-e22052f7f55c.png",
+      "file": "gye-thrower.png"
+    },
+    {
+      "id": "yeon-rider",
+      "reference": "D:/99.Work/Samhan_Girls/art/ui/hero-identity-v4/samhan_yeon-reference.png",
+      "prompt": "Create a single transparent game sprite, hand-painted SD anime 3-head-tall female Korean heroine. Exact face, hair, accessories and costume colors from attached portrait reference: short black bob haircut, red eyes, black and red and gold armor accents. Full body fully inside canvas, ample transparent padding, warm crisp brown outlines, detailed 2D painted shading, no words, no background or ground. Side view facing RIGHT, energetic horseback racing gallop, leaning forward holding reins, riding a WHITE horse, no bow or weapon, entire horse and tail and rider visible.",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-94e0935b-1cd1-42ed-af57-906d034540ba.png",
+      "file": "yeon-rider.png"
+    },
+    {
+      "id": "yeon-wrestler",
+      "reference": "D:/99.Work/Samhan_Girls/art/ui/hero-identity-v4/samhan_yeon-reference.png",
+      "prompt": "Create a single transparent game sprite, hand-painted SD anime 3-head-tall female Korean heroine. Exact face, hair, accessories and costume colors from attached portrait reference: short black bob haircut, red eyes, black and red and gold armor accents. Full body fully inside canvas, ample transparent padding, warm crisp brown outlines, detailed 2D painted shading, no words, no background or ground. On foot, unarmed traditional wrestling practice pose, knees bent, arms reaching forward to grip an opponent, facing right in three-quarter view. Wearing layered historical training tunic and trousers with tied blue or red satba belt, preserve hair, face, colored cloth and golden hair ornaments. No horse, sword, shield, spear or armor weapons. One character only.",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-b4cb1a57-266f-4958-9bf9-6dbc9a3cb64a.png",
+      "file": "yeon-wrestler.png"
+    },
+    {
+      "id": "yeon-thrower",
+      "reference": "D:/99.Work/Samhan_Girls/art/ui/hero-identity-v4/samhan_yeon-reference.png",
+      "prompt": "Create a single transparent game sprite, hand-painted SD anime 3-head-tall female Korean heroine. Exact face, hair, accessories and costume colors from attached portrait reference: short black bob haircut, red eyes, black and red and gold armor accents. Full body fully inside canvas, ample transparent padding, warm crisp brown outlines, detailed 2D painted shading, no words, no background or ground. On foot facing RIGHT, throwing one slender red-fletched tuho arrow forward with right arm, lively concentrated smile, ornate historical costume from portrait, no horse, no sword or shield. Entire body and arrow visible.",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-ae4f96b1-bd4d-4315-8ca9-a1932fdcb9bb.png",
+      "file": "yeon-thrower.png"
+    },
+    {
+      "id": "zombie",
+      "prompt": "Single cute small green zombie sprite for Korean historical SD anime game. Front three-quarter view shambling, tattered brown tunic, big dark eyes, no gore. Full body with ample transparent padding, warm crisp brown linework rich hand-painted 2D texture, matching cute chibi heroines, transparent background, no text.",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-4c6a83cc-eff1-4004-a547-60e093946f9e.png",
+      "file": "zombie.png"
+    },
+    {
+      "id": "vessel",
+      "prompt": "One ornate bronze Korean tuho arrow-throwing pot game sprite. Broad dark bronze round body decorated with fine golden floral motifs, narrow open neck with clear elliptical dark mouth, two curled side handles. Seen from slightly above, front view, warm crisp brown line art and rich hand-painted 2D anime texture, antique golden trim. Whole pot fully visible with ample transparent padding, no text, no background.",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-2d01b38a-1075-43b8-bf46-aa3d8ba82749.png",
+      "file": "vessel.png"
+    }
+  ]
+}

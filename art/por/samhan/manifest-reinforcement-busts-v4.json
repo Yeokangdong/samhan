@@ -1,0 +1,412 @@
+{
+  "version": 4,
+  "kind": "head-and-shoulders",
+  "tool": "built-in image_gen",
+  "transparent": true,
+  "sheets": {
+    "silla": {
+      "src": "art/por/samhan/silla-reinforcement-busts-v4.png",
+      "width": 1536,
+      "height": 1024,
+      "columns": 3,
+      "rows": 2,
+      "count": 5,
+      "transparentFraction": 0.6835
+    },
+    "baekje": {
+      "src": "art/por/samhan/baekje-reinforcement-busts-v4.png",
+      "width": 1536,
+      "height": 1024,
+      "columns": 3,
+      "rows": 2,
+      "count": 5,
+      "transparentFraction": 0.6808
+    },
+    "goguryeo": {
+      "src": "art/por/samhan/goguryeo-reinforcement-busts-v4.png",
+      "width": 1536,
+      "height": 1024,
+      "columns": 3,
+      "rows": 2,
+      "count": 5,
+      "transparentFraction": 0.7004
+    }
+  },
+  "entries": [
+    {
+      "id": "sora",
+      "name": "김정술",
+      "faction": "silla",
+      "src": "art/por/samhan/silla-reinforcement-busts-v4.png",
+      "cell": 0,
+      "grid": 3,
+      "cols": 3,
+      "rows": 2,
+      "atlasWidth": 1536,
+      "atlasHeight": 1024,
+      "bounds": [
+        75,
+        88,
+        379,
+        360
+      ],
+      "crop": [
+        69,
+        63,
+        391,
+        391
+      ],
+      "design": "궁병; 먼저 듣고 정확히 쏘는 침착한 관찰가; no glasses; full shoulders"
+    },
+    {
+      "id": "wolryeong",
+      "name": "박월령",
+      "faction": "silla",
+      "src": "art/por/samhan/silla-reinforcement-busts-v4.png",
+      "cell": 1,
+      "grid": 3,
+      "cols": 3,
+      "rows": 2,
+      "atlasWidth": 1536,
+      "atlasHeight": 1024,
+      "bounds": [
+        594,
+        111,
+        348,
+        337
+      ],
+      "crop": [
+        588,
+        94,
+        360,
+        360
+      ],
+      "design": "경기병; 긴장을 장난으로 풀어내는 재빠른 정찰가; no glasses; full shoulders"
+    },
+    {
+      "id": "doyun",
+      "name": "석도겸",
+      "faction": "silla",
+      "src": "art/por/samhan/silla-reinforcement-busts-v4.png",
+      "cell": 2,
+      "grid": 3,
+      "cols": 3,
+      "rows": 2,
+      "atlasWidth": 1536,
+      "atlasHeight": 1024,
+      "bounds": [
+        1093,
+        110,
+        363,
+        338
+      ],
+      "crop": [
+        1087,
+        79,
+        375,
+        375
+      ],
+      "design": "책사; 답을 찾을 때까지 차분히 묻는 계산가; no glasses; full shoulders"
+    },
+    {
+      "id": "haesol",
+      "name": "김무찬",
+      "faction": "silla",
+      "src": "art/por/samhan/silla-reinforcement-busts-v4.png",
+      "cell": 3,
+      "grid": 3,
+      "cols": 3,
+      "rows": 2,
+      "atlasWidth": 1536,
+      "atlasHeight": 1024,
+      "bounds": [
+        77,
+        581,
+        381,
+        347
+      ],
+      "crop": [
+        71,
+        541,
+        393,
+        393
+      ],
+      "design": "보병; 웃으며 맨뒤를 지키는 든든한 보호자; no glasses; full shoulders"
+    },
+    {
+      "id": "arang",
+      "name": "아랑",
+      "faction": "silla",
+      "src": "art/por/samhan/silla-reinforcement-busts-v4.png",
+      "cell": 4,
+      "grid": 3,
+      "cols": 3,
+      "rows": 2,
+      "atlasWidth": 1536,
+      "atlasHeight": 1024,
+      "bounds": [
+        585,
+        569,
+        396,
+        359
+      ],
+      "crop": [
+        579,
+        526,
+        408,
+        408
+      ],
+      "design": "경기병; 지고 나면 다시 연습하는 당찬 도전자; no glasses; full shoulders"
+    },
+    {
+      "id": "seorin",
+      "name": "귀실집사",
+      "faction": "baekje",
+      "src": "art/por/samhan/baekje-reinforcement-busts-v4.png",
+      "cell": 0,
+      "grid": 3,
+      "cols": 3,
+      "rows": 2,
+      "atlasWidth": 1536,
+      "atlasHeight": 1024,
+      "bounds": [
+        97,
+        146,
+        341,
+        342
+      ],
+      "crop": [
+        90,
+        140,
+        354,
+        354
+      ],
+      "design": "책사; 붕대와 말투를 똑같이 다듬는 꼼꼼한 치료가; no glasses; full shoulders"
+    },
+    {
+      "id": "garam",
+      "name": "사타상여",
+      "faction": "baekje",
+      "src": "art/por/samhan/baekje-reinforcement-busts-v4.png",
+      "cell": 1,
+      "grid": 3,
+      "cols": 3,
+      "rows": 2,
+      "atlasWidth": 1536,
+      "atlasHeight": 1024,
+      "bounds": [
+        565,
+        105,
+        391,
+        383
+      ],
+      "crop": [
+        559,
+        91,
+        403,
+        403
+      ],
+      "design": "경기병; 막힌 길에서도 웃음을 찾는 대범한 현장가; no glasses; full shoulders"
+    },
+    {
+      "id": "yeoul",
+      "name": "억례복류",
+      "faction": "baekje",
+      "src": "art/por/samhan/baekje-reinforcement-busts-v4.png",
+      "cell": 2,
+      "grid": 3,
+      "cols": 3,
+      "rows": 2,
+      "atlasWidth": 1536,
+      "atlasHeight": 1024,
+      "bounds": [
+        1060,
+        111,
+        368,
+        377
+      ],
+      "crop": [
+        1050,
+        105,
+        389,
+        389
+      ],
+      "design": "책사; 좋은 소식부터 의심하는 예리한 분석가; no glasses; full shoulders"
+    },
+    {
+      "id": "dallae",
+      "name": "목소귀자",
+      "faction": "baekje",
+      "src": "art/por/samhan/baekje-reinforcement-busts-v4.png",
+      "cell": 3,
+      "grid": 3,
+      "cols": 3,
+      "rows": 2,
+      "atlasWidth": 1536,
+      "atlasHeight": 1024,
+      "bounds": [
+        90,
+        578,
+        381,
+        334
+      ],
+      "crop": [
+        84,
+        525,
+        393,
+        393
+      ],
+      "design": "궁병; 작은 변화를 크게 기뻐하는 호기심 많은 궁수; no glasses; full shoulders"
+    },
+    {
+      "id": "soha",
+      "name": "여자신",
+      "faction": "baekje",
+      "src": "art/por/samhan/baekje-reinforcement-busts-v4.png",
+      "cell": 4,
+      "grid": 3,
+      "cols": 3,
+      "rows": 2,
+      "atlasWidth": 1536,
+      "atlasHeight": 1024,
+      "bounds": [
+        583,
+        574,
+        404,
+        338
+      ],
+      "crop": [
+        577,
+        502,
+        416,
+        416
+      ],
+      "design": "보병; 말은 짧아도 오래 곁을 지키는 수호자; no glasses; full shoulders"
+    },
+    {
+      "id": "seollan",
+      "name": "두방루",
+      "faction": "goguryeo",
+      "src": "art/por/samhan/goguryeo-reinforcement-busts-v4.png",
+      "cell": 0,
+      "grid": 3,
+      "cols": 3,
+      "rows": 2,
+      "atlasWidth": 1536,
+      "atlasHeight": 1024,
+      "bounds": [
+        112,
+        130,
+        376,
+        348
+      ],
+      "crop": [
+        106,
+        96,
+        388,
+        388
+      ],
+      "design": "궁병; 냉정한 표정 뒤에 호기심이 많은 사냥꾼; no glasses; full shoulders"
+    },
+    {
+      "id": "haryeong",
+      "name": "온사문",
+      "faction": "goguryeo",
+      "src": "art/por/samhan/goguryeo-reinforcement-busts-v4.png",
+      "cell": 1,
+      "grid": 3,
+      "cols": 3,
+      "rows": 2,
+      "atlasWidth": 1536,
+      "atlasHeight": 1024,
+      "bounds": [
+        591,
+        132,
+        367,
+        346
+      ],
+      "crop": [
+        585,
+        105,
+        379,
+        379
+      ],
+      "design": "경기병; 화를 먼저 내고 먼저 도와주는 돌격가; no glasses; full shoulders"
+    },
+    {
+      "id": "muyeong",
+      "name": "고연무",
+      "faction": "goguryeo",
+      "src": "art/por/samhan/goguryeo-reinforcement-busts-v4.png",
+      "cell": 2,
+      "grid": 3,
+      "cols": 3,
+      "rows": 2,
+      "atlasWidth": 1536,
+      "atlasHeight": 1024,
+      "bounds": [
+        1070,
+        118,
+        358,
+        360
+      ],
+      "crop": [
+        1063,
+        112,
+        372,
+        372
+      ],
+      "design": "책사; 소란 속에서도 정확히 듣는 조용한 기록가; no glasses; full shoulders"
+    },
+    {
+      "id": "sowol",
+      "name": "을지문덕",
+      "faction": "goguryeo",
+      "src": "art/por/samhan/goguryeo-reinforcement-busts-v4.png",
+      "cell": 3,
+      "grid": 3,
+      "cols": 3,
+      "rows": 2,
+      "atlasWidth": 1536,
+      "atlasHeight": 1024,
+      "bounds": [
+        129,
+        580,
+        385,
+        327
+      ],
+      "crop": [
+        123,
+        516,
+        397,
+        397
+      ],
+      "design": "보병; 농담으로 낯선 사람을 묶는 넉넉한 고참; no glasses; full shoulders"
+    },
+    {
+      "id": "haeon",
+      "name": "선도해",
+      "faction": "goguryeo",
+      "src": "art/por/samhan/goguryeo-reinforcement-busts-v4.png",
+      "cell": 4,
+      "grid": 3,
+      "cols": 3,
+      "rows": 2,
+      "atlasWidth": 1536,
+      "atlasHeight": 1024,
+      "bounds": [
+        606,
+        591,
+        374,
+        316
+      ],
+      "crop": [
+        600,
+        527,
+        386,
+        386
+      ],
+      "design": "책사; 걱정을 준비로 바꾸는 조심스러운 치료가; no glasses; full shoulders"
+    }
+  ]
+}

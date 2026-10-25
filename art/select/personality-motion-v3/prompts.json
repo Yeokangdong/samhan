@@ -1,0 +1,144 @@
+{
+  "mode": "built-in image_gen",
+  "purpose": "54 selected additional drawings interleaved with v2 for108 total frames",
+  "specs": [
+    {
+      "id": "kim",
+      "key": "encourage",
+      "name": "힘찬 독려",
+      "end": "Her empty left hand becomes an encouraging fist beside her shoulder, smiling brightly with an open mouth. Keep the right hand holding her original sword lowered diagonally, as in reference1.",
+      "prompt": "Use case: identity-preserve. Asset type: IN-BETWEEN animation drawings inserted between six existing consecutive frames.\nInput image1 is the authoritative SIX-FRAME motion strip for the same character. Input image2 is the approved original identity. Match image1's exact same face, costume, palette, weapons, brown linework, camera, body scale and feet. Do not redesign or reinterpret.\nDraw SIX NEW interpolation frames for the kim / encourage gesture: Her empty left hand becomes an encouraging fist beside her shoulder, smiling brightly with an open mouth. Keep the right hand holding her original sword lowered diagonally, as in reference1.\nThe six cells of reference1 read top row left to right (A0,A1,A2), then bottom row left to right (A3,A4,A5). The new output cells must be:\nB0 exactly HALFWAY between A0 and A1, with only half the wrist/elbow/facial change;\nB1 halfway between A1 and A2;\nB2 halfway between A2 and A3;\nB3 halfway between A3 and A4;\nB4 halfway between A4 and A5;\nB5 the A5 ending pose settling very subtly, hair/ribbons relax by a few pixels, torso/boots fixed.\nThese new B drawings will be interleaved A0 B0 A1 B1 A2 B2 A3 B3 A4 B4 A5 B5, so every B must genuinely bridge its two neighbors, NOT be a new independent pose or repeat an endpoint. Natural anatomical elbow/wrist paths, subtle eyelid and mouth movement; no extra limbs. Keep head shape/center, torso, legs, boot positions, sword/shield and anatomy fixed except exactly the moving parts in reference1. Original character identity is critical.\nOutput one SQUARE transparent RGBA sheet, exactly 3 COLUMNS x 2 ROWS in this reading order. Cell aspect2:3. Full-body figures same scale and fixed camera. Complete silhouettes including every hair tip, sword, shield, cape and boot inside their own cells; LARGE fully transparent margins/gutters around all six figures. No words, borders, frame numbers, scenery, shadow floor or glow. True alpha background. Highest practical detail, no blur. Render smooth incremental 2D anime drawings, not whole-figure translations or zooms."
+    },
+    {
+      "id": "kim",
+      "key": "greet",
+      "name": "밝은 인사",
+      "end": "Her empty left hand rises gradually from her hip into a friendly open-palm greeting beside her shoulder, eyes brighten and then one eye winks softly. Right hand keeps original sword lowered.",
+      "prompt": "Use case: identity-preserve. Asset type: IN-BETWEEN animation drawings inserted between six existing consecutive frames.\nInput image1 is the authoritative SIX-FRAME motion strip for the same character. Input image2 is the approved original identity. Match image1's exact same face, costume, palette, weapons, brown linework, camera, body scale and feet. Do not redesign or reinterpret.\nDraw SIX NEW interpolation frames for the kim / greet gesture: Her empty left hand rises gradually from her hip into a friendly open-palm greeting beside her shoulder, eyes brighten and then one eye winks softly. Right hand keeps original sword lowered.\nThe six cells of reference1 read top row left to right (A0,A1,A2), then bottom row left to right (A3,A4,A5). The new output cells must be:\nB0 exactly HALFWAY between A0 and A1, with only half the wrist/elbow/facial change;\nB1 halfway between A1 and A2;\nB2 halfway between A2 and A3;\nB3 halfway between A3 and A4;\nB4 halfway between A4 and A5;\nB5 the A5 ending pose settling very subtly, hair/ribbons relax by a few pixels, torso/boots fixed.\nThese new B drawings will be interleaved A0 B0 A1 B1 A2 B2 A3 B3 A4 B4 A5 B5, so every B must genuinely bridge its two neighbors, NOT be a new independent pose or repeat an endpoint. Natural anatomical elbow/wrist paths, subtle eyelid and mouth movement; no extra limbs. Keep head shape/center, torso, legs, boot positions, sword/shield and anatomy fixed except exactly the moving parts in reference1. Original character identity is critical.\nOutput one SQUARE transparent RGBA sheet, exactly 3 COLUMNS x 2 ROWS in this reading order. Cell aspect2:3. Full-body figures same scale and fixed camera. Complete silhouettes including every hair tip, sword, shield, cape and boot inside their own cells; LARGE fully transparent margins/gutters around all six figures. No words, borders, frame numbers, scenery, shadow floor or glow. True alpha background. Highest practical detail, no blur. Render smooth incremental 2D anime drawings, not whole-figure translations or zooms."
+    },
+    {
+      "id": "kim",
+      "key": "sheepish",
+      "name": "머쓱한 웃음",
+      "end": "Her empty left hand slowly lifts from hip to behind her head for a sheepish little scratch, smile becomes bashfully closed-eye with a slight blush. Right hand keeps original sword lowered.",
+      "prompt": "Use case: identity-preserve. Asset type: IN-BETWEEN animation drawings inserted between six existing consecutive frames.\nInput image1 is the authoritative SIX-FRAME motion strip for the same character. Input image2 is the approved original identity. Match image1's exact same face, costume, palette, weapons, brown linework, camera, body scale and feet. Do not redesign or reinterpret.\nDraw SIX NEW interpolation frames for the kim / sheepish gesture: Her empty left hand slowly lifts from hip to behind her head for a sheepish little scratch, smile becomes bashfully closed-eye with a slight blush. Right hand keeps original sword lowered.\nThe six cells of reference1 read top row left to right (A0,A1,A2), then bottom row left to right (A3,A4,A5). The new output cells must be:\nB0 exactly HALFWAY between A0 and A1, with only half the wrist/elbow/facial change;\nB1 halfway between A1 and A2;\nB2 halfway between A2 and A3;\nB3 halfway between A3 and A4;\nB4 halfway between A4 and A5;\nB5 the A5 ending pose settling very subtly, hair/ribbons relax by a few pixels, torso/boots fixed.\nThese new B drawings will be interleaved A0 B0 A1 B1 A2 B2 A3 B3 A4 B4 A5 B5, so every B must genuinely bridge its two neighbors, NOT be a new independent pose or repeat an endpoint. Natural anatomical elbow/wrist paths, subtle eyelid and mouth movement; no extra limbs. Keep head shape/center, torso, legs, boot positions, sword/shield and anatomy fixed except exactly the moving parts in reference1. Original character identity is critical.\nOutput one SQUARE transparent RGBA sheet, exactly 3 COLUMNS x 2 ROWS in this reading order. Cell aspect2:3. Full-body figures same scale and fixed camera. Complete silhouettes including every hair tip, sword, shield, cape and boot inside their own cells; LARGE fully transparent margins/gutters around all six figures. No words, borders, frame numbers, scenery, shadow floor or glow. True alpha background. Highest practical detail, no blur. Render smooth incremental 2D anime drawings, not whole-figure translations or zooms."
+    },
+    {
+      "id": "gye",
+      "key": "welcome",
+      "name": "다정한 환영",
+      "end": "Her free left hand leaves the sword hilt and slowly opens toward the viewer at waist height in a warm welcoming gesture, her eyes gradually smile closed. Her round lotus shield on right arm remains at her side.",
+      "prompt": "Use case: identity-preserve. Asset type: IN-BETWEEN animation drawings inserted between six existing consecutive frames.\nInput image1 is the authoritative SIX-FRAME motion strip for the same character. Input image2 is the approved original identity. Match image1's exact same face, costume, palette, weapons, brown linework, camera, body scale and feet. Do not redesign or reinterpret.\nDraw SIX NEW interpolation frames for the gye / welcome gesture: Her free left hand leaves the sword hilt and slowly opens toward the viewer at waist height in a warm welcoming gesture, her eyes gradually smile closed. Her round lotus shield on right arm remains at her side.\nThe six cells of reference1 read top row left to right (A0,A1,A2), then bottom row left to right (A3,A4,A5). The new output cells must be:\nB0 exactly HALFWAY between A0 and A1, with only half the wrist/elbow/facial change;\nB1 halfway between A1 and A2;\nB2 halfway between A2 and A3;\nB3 halfway between A3 and A4;\nB4 halfway between A4 and A5;\nB5 the A5 ending pose settling very subtly, hair/ribbons relax by a few pixels, torso/boots fixed.\nThese new B drawings will be interleaved A0 B0 A1 B1 A2 B2 A3 B3 A4 B4 A5 B5, so every B must genuinely bridge its two neighbors, NOT be a new independent pose or repeat an endpoint. Natural anatomical elbow/wrist paths, subtle eyelid and mouth movement; no extra limbs. Keep head shape/center, torso, legs, boot positions, sword/shield and anatomy fixed except exactly the moving parts in reference1. Original character identity is critical.\nOutput one SQUARE transparent RGBA sheet, exactly 3 COLUMNS x 2 ROWS in this reading order. Cell aspect2:3. Full-body figures same scale and fixed camera. Complete silhouettes including every hair tip, sword, shield, cape and boot inside their own cells; LARGE fully transparent margins/gutters around all six figures. No words, borders, frame numbers, scenery, shadow floor or glow. True alpha background. Highest practical detail, no blur. Render smooth incremental 2D anime drawings, not whole-figure translations or zooms."
+    },
+    {
+      "id": "gye",
+      "key": "protect",
+      "name": "단단한 수호",
+      "end": "She gently but firmly raises her original right-arm lotus shield from side to front of torso, with increasingly determined yet kind eyes. Free left hand remains by the sheathed sword. No attack or jump.",
+      "prompt": "Use case: identity-preserve. Asset type: IN-BETWEEN animation drawings inserted between six existing consecutive frames.\nInput image1 is the authoritative SIX-FRAME motion strip for the same character. Input image2 is the approved original identity. Match image1's exact same face, costume, palette, weapons, brown linework, camera, body scale and feet. Do not redesign or reinterpret.\nDraw SIX NEW interpolation frames for the gye / protect gesture: She gently but firmly raises her original right-arm lotus shield from side to front of torso, with increasingly determined yet kind eyes. Free left hand remains by the sheathed sword. No attack or jump.\nThe six cells of reference1 read top row left to right (A0,A1,A2), then bottom row left to right (A3,A4,A5). The new output cells must be:\nB0 exactly HALFWAY between A0 and A1, with only half the wrist/elbow/facial change;\nB1 halfway between A1 and A2;\nB2 halfway between A2 and A3;\nB3 halfway between A3 and A4;\nB4 halfway between A4 and A5;\nB5 the A5 ending pose settling very subtly, hair/ribbons relax by a few pixels, torso/boots fixed.\nThese new B drawings will be interleaved A0 B0 A1 B1 A2 B2 A3 B3 A4 B4 A5 B5, so every B must genuinely bridge its two neighbors, NOT be a new independent pose or repeat an endpoint. Natural anatomical elbow/wrist paths, subtle eyelid and mouth movement; no extra limbs. Keep head shape/center, torso, legs, boot positions, sword/shield and anatomy fixed except exactly the moving parts in reference1. Original character identity is critical.\nOutput one SQUARE transparent RGBA sheet, exactly 3 COLUMNS x 2 ROWS in this reading order. Cell aspect2:3. Full-body figures same scale and fixed camera. Complete silhouettes including every hair tip, sword, shield, cape and boot inside their own cells; LARGE fully transparent margins/gutters around all six figures. No words, borders, frame numbers, scenery, shadow floor or glow. True alpha background. Highest practical detail, no blur. Render smooth incremental 2D anime drawings, not whole-figure translations or zooms."
+    },
+    {
+      "id": "gye",
+      "key": "reassure",
+      "name": "동료 안심시키기",
+      "end": "Her free left hand leaves the sword hilt, comes briefly near her heart, and opens slightly forward toward a worried friend at chest level; expression softly reassuring, head only a very slight tilt. Right-arm shield stays at side.",
+      "prompt": "Use case: identity-preserve. Asset type: IN-BETWEEN animation drawings inserted between six existing consecutive frames.\nInput image1 is the authoritative SIX-FRAME motion strip for the same character. Input image2 is the approved original identity. Match image1's exact same face, costume, palette, weapons, brown linework, camera, body scale and feet. Do not redesign or reinterpret.\nDraw SIX NEW interpolation frames for the gye / reassure gesture: Her free left hand leaves the sword hilt, comes briefly near her heart, and opens slightly forward toward a worried friend at chest level; expression softly reassuring, head only a very slight tilt. Right-arm shield stays at side.\nThe six cells of reference1 read top row left to right (A0,A1,A2), then bottom row left to right (A3,A4,A5). The new output cells must be:\nB0 exactly HALFWAY between A0 and A1, with only half the wrist/elbow/facial change;\nB1 halfway between A1 and A2;\nB2 halfway between A2 and A3;\nB3 halfway between A3 and A4;\nB4 halfway between A4 and A5;\nB5 the A5 ending pose settling very subtly, hair/ribbons relax by a few pixels, torso/boots fixed.\nThese new B drawings will be interleaved A0 B0 A1 B1 A2 B2 A3 B3 A4 B4 A5 B5, so every B must genuinely bridge its two neighbors, NOT be a new independent pose or repeat an endpoint. Natural anatomical elbow/wrist paths, subtle eyelid and mouth movement; no extra limbs. Keep head shape/center, torso, legs, boot positions, sword/shield and anatomy fixed except exactly the moving parts in reference1. Original character identity is critical.\nOutput one SQUARE transparent RGBA sheet, exactly 3 COLUMNS x 2 ROWS in this reading order. Cell aspect2:3. Full-body figures same scale and fixed camera. Complete silhouettes including every hair tip, sword, shield, cape and boot inside their own cells; LARGE fully transparent margins/gutters around all six figures. No words, borders, frame numbers, scenery, shadow floor or glow. True alpha background. Highest practical detail, no blur. Render smooth incremental 2D anime drawings, not whole-figure translations or zooms."
+    },
+    {
+      "id": "yeon",
+      "key": "arms-crossed",
+      "name": "도도한 팔짱",
+      "end": "She gradually withdraws her originally extended left hand and releases sword pommel with right hand to cross both arms tightly over her chest. Chin lifts only slightly, a small proud knowing smirk, composed not angry. The sword stays sheathed and fixed at her hip.",
+      "prompt": "Use case: identity-preserve. Asset type: IN-BETWEEN animation drawings inserted between six existing consecutive frames.\nInput image1 is the authoritative SIX-FRAME motion strip for the same character. Input image2 is the approved original identity. Match image1's exact same face, costume, palette, weapons, brown linework, camera, body scale and feet. Do not redesign or reinterpret.\nDraw SIX NEW interpolation frames for the yeon / arms-crossed gesture: She gradually withdraws her originally extended left hand and releases sword pommel with right hand to cross both arms tightly over her chest. Chin lifts only slightly, a small proud knowing smirk, composed not angry. The sword stays sheathed and fixed at her hip.\nThe six cells of reference1 read top row left to right (A0,A1,A2), then bottom row left to right (A3,A4,A5). The new output cells must be:\nB0 exactly HALFWAY between A0 and A1, with only half the wrist/elbow/facial change;\nB1 halfway between A1 and A2;\nB2 halfway between A2 and A3;\nB3 halfway between A3 and A4;\nB4 halfway between A4 and A5;\nB5 the A5 ending pose settling very subtly, hair/ribbons relax by a few pixels, torso/boots fixed.\nThese new B drawings will be interleaved A0 B0 A1 B1 A2 B2 A3 B3 A4 B4 A5 B5, so every B must genuinely bridge its two neighbors, NOT be a new independent pose or repeat an endpoint. Natural anatomical elbow/wrist paths, subtle eyelid and mouth movement; no extra limbs. Keep head shape/center, torso, legs, boot positions, sword/shield and anatomy fixed except exactly the moving parts in reference1. Original character identity is critical.\nOutput one SQUARE transparent RGBA sheet, exactly 3 COLUMNS x 2 ROWS in this reading order. Cell aspect2:3. Full-body figures same scale and fixed camera. Complete silhouettes including every hair tip, sword, shield, cape and boot inside their own cells; LARGE fully transparent margins/gutters around all six figures. No words, borders, frame numbers, scenery, shadow floor or glow. True alpha background. Highest practical detail, no blur. Render smooth incremental 2D anime drawings, not whole-figure translations or zooms."
+    },
+    {
+      "id": "yeon",
+      "key": "command",
+      "name": "짧은 지휘",
+      "end": "Her originally extended left hand slowly retracts toward chest then gives a concise palm-down command forward; right hand rests on her sword pommel, eyes serious and focused. Restraint, no theatrical flailing.",
+      "prompt": "Use case: identity-preserve. Asset type: IN-BETWEEN animation drawings inserted between six existing consecutive frames.\nInput image1 is the authoritative SIX-FRAME motion strip for the same character. Input image2 is the approved original identity. Match image1's exact same face, costume, palette, weapons, brown linework, camera, body scale and feet. Do not redesign or reinterpret.\nDraw SIX NEW interpolation frames for the yeon / command gesture: Her originally extended left hand slowly retracts toward chest then gives a concise palm-down command forward; right hand rests on her sword pommel, eyes serious and focused. Restraint, no theatrical flailing.\nThe six cells of reference1 read top row left to right (A0,A1,A2), then bottom row left to right (A3,A4,A5). The new output cells must be:\nB0 exactly HALFWAY between A0 and A1, with only half the wrist/elbow/facial change;\nB1 halfway between A1 and A2;\nB2 halfway between A2 and A3;\nB3 halfway between A3 and A4;\nB4 halfway between A4 and A5;\nB5 the A5 ending pose settling very subtly, hair/ribbons relax by a few pixels, torso/boots fixed.\nThese new B drawings will be interleaved A0 B0 A1 B1 A2 B2 A3 B3 A4 B4 A5 B5, so every B must genuinely bridge its two neighbors, NOT be a new independent pose or repeat an endpoint. Natural anatomical elbow/wrist paths, subtle eyelid and mouth movement; no extra limbs. Keep head shape/center, torso, legs, boot positions, sword/shield and anatomy fixed except exactly the moving parts in reference1. Original character identity is critical.\nOutput one SQUARE transparent RGBA sheet, exactly 3 COLUMNS x 2 ROWS in this reading order. Cell aspect2:3. Full-body figures same scale and fixed camera. Complete silhouettes including every hair tip, sword, shield, cape and boot inside their own cells; LARGE fully transparent margins/gutters around all six figures. No words, borders, frame numbers, scenery, shadow floor or glow. True alpha background. Highest practical detail, no blur. Render smooth incremental 2D anime drawings, not whole-figure translations or zooms."
+    },
+    {
+      "id": "yeon",
+      "key": "hidden-gratitude",
+      "name": "숨기는 고마움",
+      "end": "She gradually draws her left hand toward cape fastening at collar with fingertips briefly adjusting it, then lowers that hand slightly to her chest, looking a little aside with a tiny appreciative blush and a restrained proud smile. Right hand stays by sword pommel.",
+      "prompt": "Use case: identity-preserve. Asset type: IN-BETWEEN animation drawings inserted between six existing consecutive frames.\nInput image1 is the authoritative SIX-FRAME motion strip for the same character. Input image2 is the approved original identity. Match image1's exact same face, costume, palette, weapons, brown linework, camera, body scale and feet. Do not redesign or reinterpret.\nDraw SIX NEW interpolation frames for the yeon / hidden-gratitude gesture: She gradually draws her left hand toward cape fastening at collar with fingertips briefly adjusting it, then lowers that hand slightly to her chest, looking a little aside with a tiny appreciative blush and a restrained proud smile. Right hand stays by sword pommel.\nThe six cells of reference1 read top row left to right (A0,A1,A2), then bottom row left to right (A3,A4,A5). The new output cells must be:\nB0 exactly HALFWAY between A0 and A1, with only half the wrist/elbow/facial change;\nB1 halfway between A1 and A2;\nB2 halfway between A2 and A3;\nB3 halfway between A3 and A4;\nB4 halfway between A4 and A5;\nB5 the A5 ending pose settling very subtly, hair/ribbons relax by a few pixels, torso/boots fixed.\nThese new B drawings will be interleaved A0 B0 A1 B1 A2 B2 A3 B3 A4 B4 A5 B5, so every B must genuinely bridge its two neighbors, NOT be a new independent pose or repeat an endpoint. Natural anatomical elbow/wrist paths, subtle eyelid and mouth movement; no extra limbs. Keep head shape/center, torso, legs, boot positions, sword/shield and anatomy fixed except exactly the moving parts in reference1. Original character identity is critical.\nOutput one SQUARE transparent RGBA sheet, exactly 3 COLUMNS x 2 ROWS in this reading order. Cell aspect2:3. Full-body figures same scale and fixed camera. Complete silhouettes including every hair tip, sword, shield, cape and boot inside their own cells; LARGE fully transparent margins/gutters around all six figures. No words, borders, frame numbers, scenery, shadow floor or glow. True alpha background. Highest practical detail, no blur. Render smooth incremental 2D anime drawings, not whole-figure translations or zooms."
+    }
+  ],
+  "repairs": [
+    {
+      "id": "gye",
+      "key": "welcome",
+      "name": "다정한 환영",
+      "end": "Her free left hand leaves the sword hilt and slowly opens toward the viewer at waist height in a warm welcoming gesture, her eyes gradually smile closed. Her round lotus shield on right arm remains at her side.",
+      "prompt": "Repair the attached six-frame Gyebaek in-between sheet. Reference1 is the edit target; reference2 is the correct complete-body neighboring frame sheet. Preserve exactly these intermediate hand gestures, facial expressions, braid identity, violet eyes, lotus shield, blue/gold/white costume and warm brown anime linework. Change only sprite packing and restore any missing boot soles from reference2.\nCRITICAL: In the target's bottom row, the boots meet or get cropped by the image edge. Redraw/repack so ALL SIX FIGURES have COMPLETE boots/soles, complete cape and hair, and a LARGE transparent margin BELOW and ABOVE every figure. Same full leg lengths and head-to-body proportions as reference2; do NOT shorten legs to fit. Keep fixed leg stance identical across all six. Make figures smaller if necessary.\nONE SQUARE image with strict 3 columns x2 rows, each logical cell aspect2:3. Place each complete figure inside central70 percent of cell height, with at least15 percent EMPTY transparent padding above hair and BELOW boot soles. Each silhouette fits fully inside its own cell, no touching neighbor or edge. No backgrounds, painted glow, gradients, words, frame labels or borders. Truly transparent RGBA. Preserve exact six gesture phases in original order. This is a technical sprite packing and complete-feet repair, not a new character or redesigned pose."
+    },
+    {
+      "id": "gye",
+      "key": "reassure",
+      "name": "동료 안심시키기",
+      "end": "Her free left hand leaves the sword hilt, comes briefly near her heart, and opens slightly forward toward a worried friend at chest level; expression softly reassuring, head only a very slight tilt. Right-arm shield stays at side.",
+      "prompt": "Repair the attached six-frame Gyebaek in-between sheet. Reference1 is the edit target; reference2 is the correct complete-body neighboring frame sheet. Preserve exactly these intermediate hand gestures, facial expressions, braid identity, violet eyes, lotus shield, blue/gold/white costume and warm brown anime linework. Change only sprite packing and restore any missing boot soles from reference2.\nCRITICAL: In the target's bottom row, the boots meet or get cropped by the image edge. Redraw/repack so ALL SIX FIGURES have COMPLETE boots/soles, complete cape and hair, and a LARGE transparent margin BELOW and ABOVE every figure. Same full leg lengths and head-to-body proportions as reference2; do NOT shorten legs to fit. Keep fixed leg stance identical across all six. Make figures smaller if necessary.\nONE SQUARE image with strict 3 columns x2 rows, each logical cell aspect2:3. Place each complete figure inside central70 percent of cell height, with at least15 percent EMPTY transparent padding above hair and BELOW boot soles. Each silhouette fits fully inside its own cell, no touching neighbor or edge. No backgrounds, painted glow, gradients, words, frame labels or borders. Truly transparent RGBA. Preserve exact six gesture phases in original order. This is a technical sprite packing and complete-feet repair, not a new character or redesigned pose."
+    }
+  ],
+  "sources": [
+    {
+      "id": "kim",
+      "key": "encourage",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a171c5-2103-7371-b7c7-5f352d671787\\exec-b4f7afd7-77a3-41b1-94f4-12f8c44ba0ad.png"
+    },
+    {
+      "id": "kim",
+      "key": "greet",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a171c5-2103-7371-b7c7-5f352d671787\\exec-d641e265-34c3-4286-94dc-b4f3f56e0c14.png"
+    },
+    {
+      "id": "kim",
+      "key": "sheepish",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a171c5-2103-7371-b7c7-5f352d671787\\exec-73bef614-2edf-42c8-aa65-b5d50efa18da.png"
+    },
+    {
+      "id": "gye",
+      "key": "welcome",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a171c5-2103-7371-b7c7-5f352d671787\\exec-b3b08d4d-ad9e-43d8-9cd0-95056b99f944.png"
+    },
+    {
+      "id": "gye",
+      "key": "protect",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a171c5-2103-7371-b7c7-5f352d671787\\exec-e388c374-4085-4740-a3f7-ac20e2446656.png"
+    },
+    {
+      "id": "gye",
+      "key": "reassure",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a171c5-2103-7371-b7c7-5f352d671787\\exec-69be1ad2-b996-4122-9718-60a69f840acc.png"
+    },
+    {
+      "id": "yeon",
+      "key": "arms-crossed",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a171c5-2103-7371-b7c7-5f352d671787\\exec-ceffb76b-246c-4c4e-be11-47497a946ba9.png"
+    },
+    {
+      "id": "yeon",
+      "key": "command",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a171c5-2103-7371-b7c7-5f352d671787\\exec-fb777b17-977e-4f2b-81bd-56db0ae49ff4.png"
+    },
+    {
+      "id": "yeon",
+      "key": "hidden-gratitude",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a171c5-2103-7371-b7c7-5f352d671787\\exec-82857375-a7dc-44d7-873d-28c6d3174ed1.png"
+    }
+  ],
+  "repairSources": [
+    {
+      "id": "gye",
+      "key": "welcome",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a171c5-2103-7371-b7c7-5f352d671787\\exec-0fb03199-5d9f-42d2-ad9a-3ba89b039415.png"
+    },
+    {
+      "id": "gye",
+      "key": "reassure",
+      "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a171c5-2103-7371-b7c7-5f352d671787\\exec-06e470fb-7941-4177-8411-1a5a72c7a583.png"
+    }
+  ]
+}

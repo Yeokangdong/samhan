@@ -1,0 +1,30 @@
+{
+  "generator": "built-in image_gen",
+  "date": "2026-10-25",
+  "assets": [
+    {
+      "id": "unification-background",
+      "reference": [
+        "D:/99.Work/Samhan_Girls/art/minigames/play-v2/reference-unification.png"
+      ],
+      "prompt": "Create a wide 2:1 hand-painted Korean historical SD anime game background, taking ONLY architecture, festive mood, colors and framing from attached reference. Sunny Korean fortress palace arena above a coastal harbor with distant ships, mountains and soft clouds, spectators at far sides, warm gold and red and blue fabric, braziers, detailed timber pavilions. The bottom 75% is an EMPTY large sandy terrace for an interactive board. NO board, tiles, dice, foreground characters, panels, titles, coins, icons, writing, Chinese flags or symbols. Warm brown detailed line art and painted texture, polished Korean fantasy 2D illustration, not 3D.",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-ff613932-8fce-4a38-8378-d76cc315fcab.png"
+    },
+    {
+      "id": "unification-trio",
+      "reference": [
+        "D:/99.Work/Samhan_Girls/art/ui/hero-identity-v4/samhan_kim-reference.png",
+        "D:/99.Work/Samhan_Girls/art/ui/hero-identity-v4/samhan_gye-reference.png",
+        "D:/99.Work/Samhan_Girls/art/ui/hero-identity-v4/samhan_yeon-reference.png"
+      ],
+      "prompt": "Wide landscape 3:2 menu card illustration for Korean historical SD anime boardgame. Three FEMALE heroines from the three portrait references sit around an ornate ancient Korean territory board with tiny palace pieces, small golden coins and two ivory dice. Hero 1 high chestnut ponytail amber eyes white gold yellow costume; hero 2 TWO navy-purple braided pigtails violet eyes bluegold costume; hero 3 short BLACK BOB red eyes red black gold costume. All three heads fully visible, cheerful rivalry rolling dice. Background traditional Korean pavilion and sunny palace. Warm brown outlined rich hand-painted 2D, three-head chibi proportions. No writing, no interface, no tetris blocks, no male heroes.",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-c8d89993-a5c4-4f47-a123-a78fee975bbf.png"
+    },
+    {
+      "id": "palace-piece",
+      "reference": [],
+      "prompt": "One miniature Korean traditional fortress palace boardgame piece, ornate blue tiled pagoda roof and golden brown timber structure on square stone base. 3/4 view slightly from above, whole piece fully inside image, ample transparent padding. Rich detailed warm brown outline, hand-painted SD anime 2D illustration. No words, no people, no background. Transparent background.",
+      "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16d32-46ef-77a3-ae8d-e7a2b7d21aa4\\exec-91a1b1d2-9367-4bf3-971c-1db965336221.png"
+    }
+  ]
+}

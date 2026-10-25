@@ -1,0 +1,306 @@
+{
+  "version": 3,
+  "date": "2026-10-25",
+  "generator": "built-in image_gen",
+  "currentGames": [
+    "archery",
+    "race",
+    "zombies",
+    "unification",
+    "tuho",
+    "ssireum"
+  ],
+  "references": [
+    "art/minigames/play-v2/PROMPTS.json",
+    "art/minigames/play-v2/UNIFICATION_PROMPTS.json",
+    "art/minigames/quality-v3/PROMPTS.json"
+  ],
+  "assets": [
+    {
+      "id": "gye-rider",
+      "file": "art/minigames/play-v2/gye-rider.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "status": "active",
+      "sha256": "4319670dc9691825cb5fb14f8f6473d7877b54aef3a53d60f8a92657b2cdfa3b"
+    },
+    {
+      "id": "gye-thrower",
+      "file": "art/minigames/play-v2/gye-thrower.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "status": "history",
+      "sha256": "7048ddd80ac2b849cb5a8b4e483948998d5fb6d18bcc99741ddd44bce6997e60"
+    },
+    {
+      "id": "gye-wrestler",
+      "file": "art/minigames/play-v2/gye-wrestler.png",
+      "size": [
+        1199,
+        1312
+      ],
+      "mode": "RGBA",
+      "status": "active",
+      "sha256": "8b3b8c7a95b5c9acd703f3d8186bb130d5b735b9f1410837ceca7c4af4135cd1"
+    },
+    {
+      "id": "kim-rider",
+      "file": "art/minigames/play-v2/kim-rider.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "status": "active",
+      "sha256": "a243e77e7310d234560697bcb5310b024f0e417533056a9275bfe0936fccd011"
+    },
+    {
+      "id": "kim-thrower",
+      "file": "art/minigames/play-v2/kim-thrower.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "status": "history",
+      "sha256": "7cbd4d300f263a7b9a8ad6962be5f83a84c597284a118e61327df01d5ddb47f9"
+    },
+    {
+      "id": "kim-wrestler",
+      "file": "art/minigames/play-v2/kim-wrestler.png",
+      "size": [
+        1230,
+        1278
+      ],
+      "mode": "RGBA",
+      "status": "active",
+      "sha256": "0a10e83160a1b7bbc36f821ae6bdc7c189cc55eb40b4017e8d3bb3e648733dc1"
+    },
+    {
+      "id": "palace-piece",
+      "file": "art/minigames/play-v2/palace-piece.png",
+      "size": [
+        1275,
+        1234
+      ],
+      "mode": "RGBA",
+      "status": "active",
+      "sha256": "84c0c628391254c451d6798e49872c28941db7f4db9652674cdd2796010af5bb"
+    },
+    {
+      "id": "race-background",
+      "file": "art/minigames/play-v2/race-background.png",
+      "size": [
+        1780,
+        883
+      ],
+      "mode": "RGB",
+      "status": "active",
+      "sha256": "83acce7bc0e862be1681bbe7e70a9498af89ecd148a3683420a6dd760a81645a"
+    },
+    {
+      "id": "ssireum-background",
+      "file": "art/minigames/play-v2/ssireum-background.png",
+      "size": [
+        1774,
+        887
+      ],
+      "mode": "RGB",
+      "status": "active",
+      "sha256": "8368ef82aa1e8d71cb247d911e7ff0aab314c82cc6eed7e29ae230f35637471c"
+    },
+    {
+      "id": "tetris-background",
+      "file": "art/minigames/play-v2/tetris-background.png",
+      "size": [
+        1774,
+        887
+      ],
+      "mode": "RGB",
+      "status": "history",
+      "sha256": "72cac17729a6ef63b8d706f94d0a1afb815ab1d51e183afd1acedee19545eb66"
+    },
+    {
+      "id": "tuho-background",
+      "file": "art/minigames/play-v2/tuho-background.png",
+      "size": [
+        1780,
+        884
+      ],
+      "mode": "RGB",
+      "status": "active",
+      "sha256": "ea35fc534ae5ba33331a14dd403a447c6b17660ca967b272dd2d57096cc0f26f"
+    },
+    {
+      "id": "unification-background",
+      "file": "art/minigames/play-v2/unification-background.png",
+      "size": [
+        1780,
+        884
+      ],
+      "mode": "RGB",
+      "status": "active",
+      "sha256": "a6723df82172d54677f021e6630b9264194f8bec9d314a9f198f6f39f4eb754d"
+    },
+    {
+      "id": "unification-trio",
+      "file": "art/minigames/play-v2/unification-trio.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "status": "active",
+      "sha256": "284752318be7ef2cba2b666d3b92e92ac2c50bd5d939ddfb46be2f1de1a7a7a4"
+    },
+    {
+      "id": "vessel",
+      "file": "art/minigames/play-v2/vessel.png",
+      "size": [
+        1312,
+        1199
+      ],
+      "mode": "RGBA",
+      "status": "active",
+      "sha256": "da22e29221ecc67f2b630767e140ef1b3a0fd69272f92b46ad46133f1d8899d5"
+    },
+    {
+      "id": "yeon-rider",
+      "file": "art/minigames/play-v2/yeon-rider.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "status": "active",
+      "sha256": "19f815320a3fcb8d083de0e3fac612a62bb1836aeaf86febeb8c0c620aa50dd1"
+    },
+    {
+      "id": "yeon-thrower",
+      "file": "art/minigames/play-v2/yeon-thrower.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "status": "history",
+      "sha256": "84610ca91138d98c1b8cb33c0920b16c111bede32818ef9da7326e03f45791db"
+    },
+    {
+      "id": "yeon-wrestler",
+      "file": "art/minigames/play-v2/yeon-wrestler.png",
+      "size": [
+        1230,
+        1278
+      ],
+      "mode": "RGBA",
+      "status": "active",
+      "sha256": "297b8fe44837c0c63db56b3f659b32677f838e45b53cc76dff44e990119b9af9"
+    },
+    {
+      "id": "zombie",
+      "file": "art/minigames/play-v2/zombie.png",
+      "size": [
+        1216,
+        1294
+      ],
+      "mode": "RGBA",
+      "status": "active",
+      "sha256": "d915d22c042067bb5c5d3f8275668652336a1f2f42e02a349866749270150247"
+    },
+    {
+      "id": "zombies-background",
+      "file": "art/minigames/play-v2/zombies-background.png",
+      "size": [
+        1774,
+        887
+      ],
+      "mode": "RGB",
+      "status": "active",
+      "sha256": "5d927ed3723685e8b82b692bb7d72847ccfe9f922e645e683b62b492769e8cbe"
+    },
+    {
+      "id": "barrel",
+      "file": "art/minigames/quality-v3/barrel.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "status": "active",
+      "sha256": "8e86613c9a32d8ced2493ae9bab8249a90d5b30887cbfd11b62de24b5dfb5572"
+    },
+    {
+      "id": "crate",
+      "file": "art/minigames/quality-v3/crate.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "status": "active",
+      "sha256": "e9df13d25592837cef03752ebb81eb99f7f3cbb375992e5669da844c40a61c61"
+    },
+    {
+      "id": "gye-thrower",
+      "file": "art/minigames/quality-v3/gye-thrower.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "status": "active",
+      "sha256": "1e014ea7bcd8ef9e89e0e909aa3cfd125a68c867fa85b05f313fdc8f4a297700"
+    },
+    {
+      "id": "heumsun-rider",
+      "file": "art/minigames/quality-v3/heumsun-rider.png",
+      "size": [
+        1402,
+        1122
+      ],
+      "mode": "RGBA",
+      "status": "active",
+      "sha256": "585046ca226ac821f9360e15c500dca75f7dc7e9f27f07f8518a0386c126c0cc"
+    },
+    {
+      "id": "kim-thrower",
+      "file": "art/minigames/quality-v3/kim-thrower.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "status": "active",
+      "sha256": "d55f3e345c532596cf5049b62a5b49f782a1b4487e9df9bc453ecec9f0ceec4c"
+    },
+    {
+      "id": "rocks",
+      "file": "art/minigames/quality-v3/rocks.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "status": "active",
+      "sha256": "66efdc263419ddca34e30455c2d58922acde3a5f7f09ae30d02919da78160f73"
+    },
+    {
+      "id": "yeon-thrower",
+      "file": "art/minigames/quality-v3/yeon-thrower.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "status": "active",
+      "sha256": "935b53aee9c3c27cd51e24bd2bebe63d436d9c1cda37b3102798833e3343615d"
+    }
+  ]
+}
