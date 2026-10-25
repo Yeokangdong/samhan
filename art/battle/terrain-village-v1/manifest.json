@@ -1,0 +1,956 @@
+{
+  "version": 1,
+  "projection": {
+    "tileWidth": 96,
+    "tileHeight": 48,
+    "light": "upper-left",
+    "elevationUnit": "screen-pixel"
+  },
+  "scope": "16x16 prototype only",
+  "generator": "built-in image_gen; deterministic alpha component extraction",
+  "license": "project-generated art plus existing project assets; no new external downloads",
+  "missing": [
+    "verified NE/NW architecture entrance geometry",
+    "additional mountain directional connectors",
+    "country architecture sets",
+    "closed gate painted variant"
+  ],
+  "entries": [
+    {
+      "id": "wall-A",
+      "file": "wall-A.png",
+      "width": 306,
+      "height": 277,
+      "reusedFrom": "art/maps/iso-objects-v2/clean/camp.png",
+      "sourceRect": [
+        1127,
+        1653,
+        306,
+        277
+      ],
+      "rotation": 0,
+      "sha256": "890069ff133dc19c352660b72c94d49fea5b19b2ff663f2fb8934873bf441c40"
+    },
+    {
+      "id": "wall-B",
+      "file": "wall-B.png",
+      "width": 277,
+      "height": 259,
+      "reusedFrom": "art/maps/iso-objects-v2/clean/camp.png",
+      "sourceRect": [
+        1653,
+        1662,
+        277,
+        259
+      ],
+      "rotation": 0,
+      "sha256": "c18a5b0a8a677d3224b46d903c499ece24b0560bbb7d9f2f36175c45ec0631be"
+    },
+    {
+      "id": "tower-A",
+      "file": "tower-A.png",
+      "width": 451,
+      "height": 611,
+      "reusedFrom": "art/maps/iso-objects-v2/clean/fort.png",
+      "sourceRect": [
+        286,
+        206,
+        451,
+        611
+      ],
+      "rotation": 0,
+      "sha256": "e785f2d1e0fb95db186abf8bb2abefc0bdf54125f1e1bdf64fced08bbfeecdbf"
+    },
+    {
+      "id": "tower-B",
+      "file": "tower-B.png",
+      "width": 450,
+      "height": 610,
+      "reusedFrom": "art/maps/iso-objects-v2/clean/fort.png",
+      "sourceRect": [
+        1311,
+        207,
+        450,
+        610
+      ],
+      "rotation": 0,
+      "sha256": "90e67005eec84fe478d4e5ad3847acaca8105a0122bae7b233722cca484d095c"
+    },
+    {
+      "id": "well",
+      "file": "well.png",
+      "width": 277,
+      "height": 288,
+      "reusedFrom": "art/maps/iso-objects-v2/clean/town-a.png",
+      "sourceRect": [
+        117,
+        1648,
+        277,
+        288
+      ],
+      "rotation": 0,
+      "sha256": "34f7a35f782a855239cdfe0a572473ab66a343be71f1d0be2f24748c30a82afa"
+    },
+    {
+      "id": "cart",
+      "file": "cart.png",
+      "width": 321,
+      "height": 217,
+      "reusedFrom": "art/maps/iso-objects-v2/clean/town-a.png",
+      "sourceRect": [
+        1119,
+        1683,
+        321,
+        217
+      ],
+      "rotation": 0,
+      "sha256": "54abeca839153caec0718c3bf0615d122cacf731797d696169492b30315ed807"
+    },
+    {
+      "id": "jars",
+      "file": "jars.png",
+      "width": 290,
+      "height": 218,
+      "reusedFrom": "art/maps/iso-objects-v2/clean/supplement-a.png",
+      "sourceRect": [
+        1135,
+        1171,
+        290,
+        218
+      ],
+      "rotation": 0,
+      "sha256": "4a4b9d4bc117a62abf57ae5ade445bb10749b60f29f154f49a6a899fefe75c65"
+    },
+    {
+      "id": "boulder",
+      "file": "boulder.png",
+      "width": 317,
+      "height": 278,
+      "reusedFrom": "art/maps/iso-objects-v2/clean/nature-a.png",
+      "sourceRect": [
+        97,
+        629,
+        317,
+        278
+      ],
+      "rotation": 0,
+      "sha256": "7a51ea6bafd826982336b54111ab56d2c879ea21ce7673d085ad1bfab9e71b9b"
+    },
+    {
+      "id": "strata",
+      "file": "strata.png",
+      "width": 300,
+      "height": 295,
+      "reusedFrom": "art/maps/iso-objects-v2/clean/nature-a.png",
+      "sourceRect": [
+        618,
+        620,
+        300,
+        295
+      ],
+      "rotation": 0,
+      "sha256": "5f16b65665d47b2819b66b09698c2deef12c8e80787e77ab37db7d0a8ed23c73"
+    },
+    {
+      "id": "shrubs",
+      "file": "shrubs.png",
+      "width": 292,
+      "height": 281,
+      "reusedFrom": "art/maps/iso-objects-v2/clean/nature-a.png",
+      "sourceRect": [
+        622,
+        1139,
+        292,
+        281
+      ],
+      "rotation": 0,
+      "sha256": "5c5df0b35acd4803a4bb49054a7d9c9e74c005bf6195253b0f056413288f59e5"
+    },
+    {
+      "id": "pebbles",
+      "file": "pebbles.png",
+      "width": 275,
+      "height": 294,
+      "reusedFrom": "art/maps/iso-objects-v2/clean/nature-a.png",
+      "sourceRect": [
+        1654,
+        1133,
+        275,
+        294
+      ],
+      "rotation": 0,
+      "sha256": "2c68df04187c23eab4256844509074a99020cc97857f062ff0a5f911f5b8438d"
+    },
+    {
+      "id": "foothill",
+      "file": "foothill.png",
+      "width": 394,
+      "height": 282,
+      "source": "source-mountains.png",
+      "sourceRect": {
+        "left": 9,
+        "top": 61,
+        "width": 370,
+        "height": 258
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "101bc80bccc0344a2a079ac76f6498932a5e1a2fee76785743bdf531bf447b62"
+    },
+    {
+      "id": "low-hill",
+      "file": "low-hill.png",
+      "width": 392,
+      "height": 285,
+      "source": "source-mountains.png",
+      "sourceRect": {
+        "left": 391,
+        "top": 58,
+        "width": 368,
+        "height": 261
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "33d928700abc728346b9dbba6dfb5505ed76b7ae48e736441b27d0848d0f8117"
+    },
+    {
+      "id": "high-hill",
+      "file": "high-hill.png",
+      "width": 401,
+      "height": 344,
+      "source": "source-mountains.png",
+      "sourceRect": {
+        "left": 769,
+        "top": 20,
+        "width": 377,
+        "height": 320
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "e13a21f74c59f5ddbe9e5260f2244755ca672e9421152607d719730983d9ffe2"
+    },
+    {
+      "id": "rocky-mountain",
+      "file": "rocky-mountain.png",
+      "width": 393,
+      "height": 332,
+      "source": "source-mountains.png",
+      "sourceRect": {
+        "left": 1158,
+        "top": 17,
+        "width": 369,
+        "height": 308
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "f34148c9b35a5b7ec71380f075295b9be2ed742d6ac63eeee259d10fa4a0179e"
+    },
+    {
+      "id": "cliff",
+      "file": "cliff.png",
+      "width": 397,
+      "height": 348,
+      "source": "source-mountains.png",
+      "sourceRect": {
+        "left": 7,
+        "top": 331,
+        "width": 373,
+        "height": 324
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "dbc7229a3a8f32d7a4a1bc4df9bd4fd8c27d9f9223e2ad3658a96ceebc425717"
+    },
+    {
+      "id": "summit",
+      "file": "summit.png",
+      "width": 429,
+      "height": 321,
+      "source": "source-mountains.png",
+      "sourceRect": {
+        "left": 391,
+        "top": 366,
+        "width": 405,
+        "height": 297
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "e1179cc325505c19227305ff68547403708a3d581690e6b9f997e16b8fad9c5e"
+    },
+    {
+      "id": "ridge",
+      "file": "ridge.png",
+      "width": 388,
+      "height": 349,
+      "source": "source-mountains.png",
+      "sourceRect": {
+        "left": 780,
+        "top": 351,
+        "width": 364,
+        "height": 325
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "4e2d69fef418b8b551a767179f20af253c926da355401d1e63c37bb2ee645371"
+    },
+    {
+      "id": "gorge",
+      "file": "gorge.png",
+      "width": 401,
+      "height": 330,
+      "source": "source-mountains.png",
+      "sourceRect": {
+        "left": 1153,
+        "top": 351,
+        "width": 377,
+        "height": 306
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "546ba796d32b575538b5d147b5069d45d544a80ad0a5129df7b43b134c98601c"
+    },
+    {
+      "id": "mountain-path",
+      "file": "mountain-path.png",
+      "width": 417,
+      "height": 360,
+      "source": "source-mountains.png",
+      "sourceRect": {
+        "left": 7,
+        "top": 666,
+        "width": 393,
+        "height": 336
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "bcc5321c61d879d161e1a135e4a713c3693acb781fafe0b2e0ba0db80079af0f"
+    },
+    {
+      "id": "corner",
+      "file": "corner.png",
+      "width": 376,
+      "height": 344,
+      "source": "source-mountains.png",
+      "sourceRect": {
+        "left": 412,
+        "top": 682,
+        "width": 352,
+        "height": 320
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "e89975b1b7b9fd02dc1faee83fc414affde6dfadbd544e980b5a41ed8872b87a"
+    },
+    {
+      "id": "slope",
+      "file": "slope.png",
+      "width": 405,
+      "height": 353,
+      "source": "source-mountains.png",
+      "sourceRect": {
+        "left": 769,
+        "top": 675,
+        "width": 381,
+        "height": 329
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "b3618cf2a1509b7aaa4ea6edf4a6bedf028dd237e11bd6f9645e8119b6260e72"
+    },
+    {
+      "id": "riverbank",
+      "file": "riverbank.png",
+      "width": 398,
+      "height": 344,
+      "source": "source-mountains.png",
+      "sourceRect": {
+        "left": 1153,
+        "top": 675,
+        "width": 374,
+        "height": 320
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "b856302f67a2f87c2ff4164065a2cd48bc6434763da23a21a2f9dbcb602cd552"
+    },
+    {
+      "id": "gate-SE",
+      "file": "gate-SE.png",
+      "width": 401,
+      "height": 344,
+      "source": "source-buildings.png",
+      "sourceRect": {
+        "left": 18,
+        "top": 16,
+        "width": 377,
+        "height": 320
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "cbfd6caf148048cb08ef3255f12f2cc30051e6611a0519d7538d756c74b9b821"
+    },
+    {
+      "id": "gate-SW",
+      "file": "gate-SW.png",
+      "width": 358,
+      "height": 327,
+      "source": "source-buildings.png",
+      "sourceRect": {
+        "left": 422,
+        "top": 23,
+        "width": 334,
+        "height": 303
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "f44fc6281f5f2702eeeb5336cddaa8d9800987a8b0be6d8a8bcbe98e4e4da5cb"
+    },
+    {
+      "id": "gate-SE-variant",
+      "file": "gate-SE-variant.png",
+      "width": 357,
+      "height": 333,
+      "source": "source-buildings.png",
+      "sourceRect": {
+        "left": 784,
+        "top": 15,
+        "width": 333,
+        "height": 309
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "unused-variant",
+      "rotation": 0,
+      "sha256": "2574c99850194a03b059e082b27d12e0a1feb59ab0e469e5e7f3a5d34aae92a2"
+    },
+    {
+      "id": "gate-SW-variant",
+      "file": "gate-SW-variant.png",
+      "width": 397,
+      "height": 345,
+      "source": "source-buildings.png",
+      "sourceRect": {
+        "left": 1147,
+        "top": 15,
+        "width": 373,
+        "height": 321
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "unused-variant",
+      "rotation": 0,
+      "sha256": "aa7626efb3cb175e95ceca0dea0ad17eae990b75a29bca5767e2a07aa217ea4d"
+    },
+    {
+      "id": "thatch-SE",
+      "file": "thatch-SE.png",
+      "width": 366,
+      "height": 311,
+      "source": "source-buildings.png",
+      "sourceRect": {
+        "left": 20,
+        "top": 356,
+        "width": 342,
+        "height": 287
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "4c014b7a959256e09d8acd202708e3079133d446b3f96190f4a7f368b538bb1d"
+    },
+    {
+      "id": "thatch-SW",
+      "file": "thatch-SW.png",
+      "width": 359,
+      "height": 310,
+      "source": "source-buildings.png",
+      "sourceRect": {
+        "left": 419,
+        "top": 356,
+        "width": 335,
+        "height": 286
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "9d26b159869d4810fccb3938784a2c8c02eae1dd890fff5cd2f8745e994a3522"
+    },
+    {
+      "id": "thatch-SE-variant",
+      "file": "thatch-SE-variant.png",
+      "width": 358,
+      "height": 312,
+      "source": "source-buildings.png",
+      "sourceRect": {
+        "left": 785,
+        "top": 355,
+        "width": 334,
+        "height": 288
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "unused-variant",
+      "rotation": 0,
+      "sha256": "4baa2dd8bf83a16fb979053b0beba5556bf171bd84c572b397081120ff0c4285"
+    },
+    {
+      "id": "thatch-SW-variant",
+      "file": "thatch-SW-variant.png",
+      "width": 364,
+      "height": 311,
+      "source": "source-buildings.png",
+      "sourceRect": {
+        "left": 1177,
+        "top": 356,
+        "width": 340,
+        "height": 287
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "unused-variant",
+      "rotation": 0,
+      "sha256": "a986fd6284b9f401c90298c1714e30faf06c981dfb13337c9b2d928b26e05f43"
+    },
+    {
+      "id": "tile-SE",
+      "file": "tile-SE.png",
+      "width": 384,
+      "height": 344,
+      "source": "source-buildings.png",
+      "sourceRect": {
+        "left": 21,
+        "top": 656,
+        "width": 360,
+        "height": 320
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "5a98c11fbabca39869ead85101566d6b10953eafd7d0fdfa1e2bcfbcd17962f7"
+    },
+    {
+      "id": "tile-SW",
+      "file": "tile-SW.png",
+      "width": 355,
+      "height": 339,
+      "source": "source-buildings.png",
+      "sourceRect": {
+        "left": 418,
+        "top": 662,
+        "width": 331,
+        "height": 315
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "67007d30b595570f55f9528c0c278b1183de81cc0c1561d4e8c306e6d27fbfae"
+    },
+    {
+      "id": "tile-SE-variant",
+      "file": "tile-SE-variant.png",
+      "width": 361,
+      "height": 345,
+      "source": "source-buildings.png",
+      "sourceRect": {
+        "left": 785,
+        "top": 658,
+        "width": 337,
+        "height": 321
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "unused-variant",
+      "rotation": 0,
+      "sha256": "7ed2365f5022eb0cc33da86482d599686e3f47333c66d2900192500ad39ff5be"
+    },
+    {
+      "id": "tile-SW-variant",
+      "file": "tile-SW-variant.png",
+      "width": 375,
+      "height": 344,
+      "source": "source-buildings.png",
+      "sourceRect": {
+        "left": 1168,
+        "top": 655,
+        "width": 351,
+        "height": 320
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "unused-variant",
+      "rotation": 0,
+      "sha256": "e9edb7c3bcd96b0b3e873ee0a64f35262a62fa9aa8afb95a0d7d96e483dd32ff"
+    },
+    {
+      "id": "bedrock",
+      "file": "bedrock.png",
+      "width": 525,
+      "height": 373,
+      "source": "source-rocks.png",
+      "sourceRect": {
+        "left": 17,
+        "top": 85,
+        "width": 501,
+        "height": 349
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "b4e534a6fa81a701583d0f4b257c460fa7fff65b284b9b190122285dd8443913"
+    },
+    {
+      "id": "round-boulder",
+      "file": "round-boulder.png",
+      "width": 362,
+      "height": 300,
+      "source": "source-rocks.png",
+      "sourceRect": {
+        "left": 539,
+        "top": 123,
+        "width": 338,
+        "height": 276
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "0be87c8da58b8d95d7d0ef912c5cc34aaf847f8cffdc68c5468b5fb7668b18ed"
+    },
+    {
+      "id": "small-stones",
+      "file": "small-stones.png",
+      "width": 368,
+      "height": 282,
+      "source": "source-rocks.png",
+      "sourceRect": {
+        "left": 939,
+        "top": 156,
+        "width": 344,
+        "height": 258
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "4b271b352ae1cbd90c0f62de7ac1db45ba26e4e0668545479c2884db4a2d11c1"
+    },
+    {
+      "id": "flat-slab",
+      "file": "flat-slab.png",
+      "width": 452,
+      "height": 251,
+      "source": "source-rocks.png",
+      "sourceRect": {
+        "left": 1325,
+        "top": 181,
+        "width": 428,
+        "height": 227
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "5660e367f8d8726ba776927f2535a70a66385332cfbd4cdefc0999bcb750cc27"
+    },
+    {
+      "id": "moss-rock",
+      "file": "moss-rock.png",
+      "width": 447,
+      "height": 363,
+      "source": "source-rocks.png",
+      "sourceRect": {
+        "left": 26,
+        "top": 491,
+        "width": 423,
+        "height": 339
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "365ec675ead49547e0b7f748b7d7f4a450fb67452a971f1ff01deb768071a4e4"
+    },
+    {
+      "id": "overhang",
+      "file": "overhang.png",
+      "width": 417,
+      "height": 384,
+      "source": "source-rocks.png",
+      "sourceRect": {
+        "left": 489,
+        "top": 462,
+        "width": 393,
+        "height": 360
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "4a664abe84af4a0288829db8437f1f47738102775f77e96dd5a6423965b2fc03"
+    },
+    {
+      "id": "river-rock",
+      "file": "river-rock.png",
+      "width": 470,
+      "height": 315,
+      "source": "source-rocks.png",
+      "sourceRect": {
+        "left": 915,
+        "top": 527,
+        "width": 446,
+        "height": 291
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "833f9f5b8d021463615d65e429817e531c57dc292a45614ec06723d65c78ff59"
+    },
+    {
+      "id": "rock-cluster",
+      "file": "rock-cluster.png",
+      "width": 402,
+      "height": 358,
+      "source": "source-rocks.png",
+      "sourceRect": {
+        "left": 1378,
+        "top": 480,
+        "width": 378,
+        "height": 334
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "prototype",
+      "rotation": 0,
+      "sha256": "7d1f465cc733a3a8b328c88c568e71efdfed760f55cbafdd6a34232ec6f035b9"
+    },
+    {
+      "id": "gate-NE-candidate",
+      "file": "gate-NE-candidate.png",
+      "width": 478,
+      "height": 444,
+      "source": "source-buildings-rear.png",
+      "sourceRect": {
+        "left": 33,
+        "top": 80,
+        "width": 454,
+        "height": 420
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "unverified-rear-orientation",
+      "rotation": 0,
+      "sha256": "ba5c0667705e58b7ef8ef5907d4bab52bc267d1a7c381d6df097d5fd6e3ff61d"
+    },
+    {
+      "id": "gate-NW-candidate",
+      "file": "gate-NW-candidate.png",
+      "width": 461,
+      "height": 441,
+      "source": "source-buildings-rear.png",
+      "sourceRect": {
+        "left": 554,
+        "top": 80,
+        "width": 437,
+        "height": 417
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "unverified-rear-orientation",
+      "rotation": 0,
+      "sha256": "65438397fd5f3076cfb15149d5469185d104e8f2f2dbf0d2f70b28323a7b57c8"
+    },
+    {
+      "id": "thatch-NE-candidate",
+      "file": "thatch-NE-candidate.png",
+      "width": 503,
+      "height": 423,
+      "source": "source-buildings-rear.png",
+      "sourceRect": {
+        "left": 16,
+        "top": 543,
+        "width": 479,
+        "height": 399
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "unverified-rear-orientation",
+      "rotation": 0,
+      "sha256": "8282f3bf6938f32f4c360f497d163fc0dc6c34a53bbcf377343f74275c346329"
+    },
+    {
+      "id": "thatch-NW-candidate",
+      "file": "thatch-NW-candidate.png",
+      "width": 501,
+      "height": 423,
+      "source": "source-buildings-rear.png",
+      "sourceRect": {
+        "left": 531,
+        "top": 543,
+        "width": 477,
+        "height": 399
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "unverified-rear-orientation",
+      "rotation": 0,
+      "sha256": "7ab02b1c27f2349b6bd9b3af564f82143858104083798dc96e55ceb812777889"
+    },
+    {
+      "id": "tile-NE-candidate",
+      "file": "tile-NE-candidate.png",
+      "width": 509,
+      "height": 461,
+      "source": "source-buildings-rear.png",
+      "sourceRect": {
+        "left": 7,
+        "top": 1011,
+        "width": 485,
+        "height": 437
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "unverified-rear-orientation",
+      "rotation": 0,
+      "sha256": "d078217cdb028436321aa6c9aa9cf0e97cbbad45162717be3c396985b6461c91"
+    },
+    {
+      "id": "tile-NW-candidate",
+      "file": "tile-NW-candidate.png",
+      "width": 512,
+      "height": 463,
+      "source": "source-buildings-rear.png",
+      "sourceRect": {
+        "left": 531,
+        "top": 1009,
+        "width": 488,
+        "height": 439
+      },
+      "anchorNormalized": [
+        0.5,
+        0.92
+      ],
+      "status": "unverified-rear-orientation",
+      "rotation": 0,
+      "sha256": "49c18c26ef88aa2f25f2fb5d2c127910a2262b758d2446e4c5310d044339737b"
+    },
+    {
+      "id": "mountain-flank",
+      "file": "mountain-flank.png",
+      "width": 1774,
+      "height": 887,
+      "status": "prototype-impassable",
+      "source": "built-in image_gen 2026-10-25 latest user correction",
+      "mask": "mountain-flank-mask.json",
+      "rotation": 0,
+      "sha256": "8e80994a7c7f133674c3ecc9b7b1162ca53e21d4c2aed4eb286e6e1b39d3e20a"
+    }
+  ]
+}

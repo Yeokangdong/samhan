@@ -1,0 +1,388 @@
+{
+  "version": 1,
+  "selected": [
+    "kim",
+    "seohyeon",
+    "heumsun",
+    "alcheon",
+    "pumil",
+    "jinpyeong",
+    "chunchu",
+    "inmun",
+    "gwanchang",
+    "wolryeong"
+  ],
+  "entries": [
+    {
+      "id": "kim",
+      "name": "김유신",
+      "role": "대장군",
+      "kind": "영웅",
+      "personality": "겁이 나도 먼저 웃는 행동파",
+      "manifest": "kim/manifest.json",
+      "logicalFrameSlots": 312,
+      "uniqueFramesByDirection": {
+        "SE": 75,
+        "SW": 75,
+        "NE": 75,
+        "NW": 76
+      },
+      "atlasSize": [
+        4096,
+        2048
+      ],
+      "uniqueGaitFrames": {
+        "SE": {
+          "walk": 8,
+          "run": 12
+        },
+        "SW": {
+          "walk": 8,
+          "run": 12
+        },
+        "NE": {
+          "walk": 8,
+          "run": 12
+        },
+        "NW": {
+          "walk": 8,
+          "run": 12
+        }
+      }
+    },
+    {
+      "id": "seohyeon",
+      "name": "김서현",
+      "role": "경기병",
+      "kind": "기병",
+      "personality": "조용히 실수를 수습하는 현실형 지휘관",
+      "manifest": "seohyeon/manifest.json",
+      "logicalFrameSlots": 312,
+      "uniqueFramesByDirection": {
+        "SE": 75,
+        "SW": 66,
+        "NE": 76,
+        "NW": 75
+      },
+      "atlasSize": [
+        4096,
+        1976
+      ],
+      "uniqueGaitFrames": {
+        "SE": {
+          "walk": 8,
+          "run": 12
+        },
+        "SW": {
+          "walk": 8,
+          "run": 12
+        },
+        "NE": {
+          "walk": 8,
+          "run": 12
+        },
+        "NW": {
+          "walk": 8,
+          "run": 12
+        }
+      }
+    },
+    {
+      "id": "heumsun",
+      "name": "김흠순",
+      "role": "경기병",
+      "kind": "기병",
+      "personality": "먹는 이야기로 긴장을 푸는 잔정 많은 낙천가",
+      "manifest": "heumsun/manifest.json",
+      "logicalFrameSlots": 312,
+      "uniqueFramesByDirection": {
+        "SE": 66,
+        "SW": 75,
+        "NE": 66,
+        "NW": 75
+      },
+      "atlasSize": [
+        4096,
+        2172
+      ],
+      "uniqueGaitFrames": {
+        "SE": {
+          "walk": 8,
+          "run": 12
+        },
+        "SW": {
+          "walk": 8,
+          "run": 12
+        },
+        "NE": {
+          "walk": 8,
+          "run": 12
+        },
+        "NW": {
+          "walk": 8,
+          "run": 12
+        }
+      }
+    },
+    {
+      "id": "chunchu",
+      "name": "김춘추",
+      "role": "책사",
+      "kind": "책사",
+      "personality": "분위기를 웃음으로 쥐는 협상가",
+      "manifest": "chunchu/manifest.json",
+      "logicalFrameSlots": 312,
+      "uniqueFramesByDirection": {
+        "SE": 66,
+        "SW": 65,
+        "NE": 65,
+        "NW": 75
+      },
+      "atlasSize": [
+        4096,
+        1436
+      ],
+      "uniqueGaitFrames": {
+        "SE": {
+          "walk": 8,
+          "run": 12
+        },
+        "SW": {
+          "walk": 8,
+          "run": 12
+        },
+        "NE": {
+          "walk": 8,
+          "run": 12
+        },
+        "NW": {
+          "walk": 8,
+          "run": 12
+        }
+      }
+    },
+    {
+      "id": "pumil",
+      "name": "김품일",
+      "role": "경보병",
+      "kind": "보병",
+      "personality": "빠짐없이 챙기려다 사람도 숫자로 세는 점검가",
+      "manifest": "pumil/manifest.json",
+      "logicalFrameSlots": 312,
+      "uniqueFramesByDirection": {
+        "SE": 65,
+        "SW": 66,
+        "NE": 65,
+        "NW": 66
+      },
+      "atlasSize": [
+        4096,
+        1452
+      ],
+      "uniqueGaitFrames": {
+        "SE": {
+          "walk": 8,
+          "run": 12
+        },
+        "SW": {
+          "walk": 8,
+          "run": 12
+        },
+        "NE": {
+          "walk": 8,
+          "run": 12
+        },
+        "NW": {
+          "walk": 8,
+          "run": 12
+        }
+      }
+    },
+    {
+      "id": "alcheon",
+      "name": "알천",
+      "role": "경보병",
+      "kind": "보병",
+      "personality": "무표정한 얼굴로 사람을 챙기는 고참",
+      "manifest": "alcheon/manifest.json",
+      "logicalFrameSlots": 312,
+      "uniqueFramesByDirection": {
+        "SE": 75,
+        "SW": 75,
+        "NE": 75,
+        "NW": 76
+      },
+      "atlasSize": [
+        4096,
+        1516
+      ],
+      "uniqueGaitFrames": {
+        "SE": {
+          "walk": 8,
+          "run": 12
+        },
+        "SW": {
+          "walk": 8,
+          "run": 12
+        },
+        "NE": {
+          "walk": 8,
+          "run": 12
+        },
+        "NW": {
+          "walk": 8,
+          "run": 12
+        }
+      }
+    },
+    {
+      "id": "inmun",
+      "name": "김인문",
+      "role": "책사",
+      "kind": "책사",
+      "personality": "격식을 사랑하지만 현장에는 약한 문화인",
+      "manifest": "inmun/manifest.json",
+      "logicalFrameSlots": 312,
+      "uniqueFramesByDirection": {
+        "SE": 65,
+        "SW": 66,
+        "NE": 75,
+        "NW": 65
+      },
+      "atlasSize": [
+        4096,
+        1412
+      ],
+      "uniqueGaitFrames": {
+        "SE": {
+          "walk": 8,
+          "run": 12
+        },
+        "SW": {
+          "walk": 8,
+          "run": 12
+        },
+        "NE": {
+          "walk": 8,
+          "run": 12
+        },
+        "NW": {
+          "walk": 8,
+          "run": 12
+        }
+      }
+    },
+    {
+      "id": "gwanchang",
+      "name": "관창",
+      "role": "경궁병",
+      "kind": "궁병",
+      "personality": "칭찬을 갈망하는 솔직한 도전자",
+      "manifest": "gwanchang/manifest.json",
+      "logicalFrameSlots": 312,
+      "uniqueFramesByDirection": {
+        "SE": 75,
+        "SW": 75,
+        "NE": 66,
+        "NW": 75
+      },
+      "atlasSize": [
+        4096,
+        1364
+      ],
+      "uniqueGaitFrames": {
+        "SE": {
+          "walk": 8,
+          "run": 12
+        },
+        "SW": {
+          "walk": 8,
+          "run": 12
+        },
+        "NE": {
+          "walk": 8,
+          "run": 12
+        },
+        "NW": {
+          "walk": 8,
+          "run": 12
+        }
+      }
+    },
+    {
+      "id": "jinpyeong",
+      "name": "진평왕",
+      "role": "군주",
+      "kind": "군주",
+      "personality": "서두르는 사람을 질문으로 붙잡는 여유로운 군주",
+      "manifest": "jinpyeong/manifest.json",
+      "logicalFrameSlots": 312,
+      "uniqueFramesByDirection": {
+        "SE": 73,
+        "SW": 66,
+        "NE": 73,
+        "NW": 73
+      },
+      "atlasSize": [
+        4096,
+        1992
+      ],
+      "uniqueGaitFrames": {
+        "SE": {
+          "walk": 8,
+          "run": 12
+        },
+        "SW": {
+          "walk": 8,
+          "run": 12
+        },
+        "NE": {
+          "walk": 8,
+          "run": 12
+        },
+        "NW": {
+          "walk": 8,
+          "run": 12
+        }
+      }
+    },
+    {
+      "id": "wolryeong",
+      "name": "문훈",
+      "role": "경궁병",
+      "kind": "궁병",
+      "personality": "긴장을 장난으로 풀어내는 재빠른 정찰가",
+      "manifest": "wolryeong/manifest.json",
+      "logicalFrameSlots": 312,
+      "uniqueFramesByDirection": {
+        "SE": 66,
+        "SW": 75,
+        "NE": 65,
+        "NW": 65
+      },
+      "atlasSize": [
+        4096,
+        1412
+      ],
+      "uniqueGaitFrames": {
+        "SE": {
+          "walk": 8,
+          "run": 12
+        },
+        "SW": {
+          "walk": 8,
+          "run": 12
+        },
+        "NE": {
+          "walk": 8,
+          "run": 12
+        },
+        "NW": {
+          "walk": 8,
+          "run": 12
+        }
+      }
+    }
+  ],
+  "scope": "Selected ten only. Pilot stages may contain fewer until validated."
+}

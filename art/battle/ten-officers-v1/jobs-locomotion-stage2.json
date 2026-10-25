@@ -1,0 +1,366 @@
+[
+  {
+    "id": "seohyeon",
+    "direction": "SE",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v5/individual/seohyeon-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/seohyeon/reference-SE.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Kim Seohyeon, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female silver-haired cavalry, bob and low braid, orange eyes and gold flower. Gold armor and cape, long SPEAR held in right hand, BROWN horse dark mane and single dark tail.\nALL20 frames fixed camera: Front-right quarter view: faces down and toward SCREEN RIGHT. Horse head at screen RIGHT of rump; see face/chest. Shield usually visible near screen RIGHT. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nHorse and rider in EVERY cell, genuine four-legged walk and gallop with flight phases. Same spear held steady, no attacks or rider gestures. Anatomical single tail.\n\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "SE"
+  },
+  {
+    "id": "seohyeon",
+    "direction": "SW",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v5/individual/seohyeon-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/seohyeon/reference-SW.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Kim Seohyeon, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female silver-haired cavalry, bob and low braid, orange eyes and gold flower. Gold armor and cape, long SPEAR held in right hand, BROWN horse dark mane and single dark tail.\nALL20 frames fixed camera: Front-left quarter view: faces down and toward SCREEN LEFT. Horse head at screen LEFT of rump; see face/chest. Keep anatomical weapon hands. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nHorse and rider in EVERY cell, genuine four-legged walk and gallop with flight phases. Same spear held steady, no attacks or rider gestures. Anatomical single tail.\n\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "SW"
+  },
+  {
+    "id": "seohyeon",
+    "direction": "NE",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v5/individual/seohyeon-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/seohyeon/reference-NE.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Kim Seohyeon, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female silver-haired cavalry, bob and low braid, orange eyes and gold flower. Gold armor and cape, long SPEAR held in right hand, BROWN horse dark mane and single dark tail.\nALL20 frames fixed camera: REAR-RIGHT quarter view: faces away and toward SCREEN RIGHT. See BACK of head, cape and back armor, and horse rump. Horse head is farther RIGHT and farther UP than rump. Do not turn head toward viewer. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nHorse and rider in EVERY cell, genuine four-legged walk and gallop with flight phases. Same spear held steady, no attacks or rider gestures. Anatomical single tail.\n\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "NE"
+  },
+  {
+    "id": "seohyeon",
+    "direction": "NW",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v5/individual/seohyeon-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/seohyeon/reference-NW.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Kim Seohyeon, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female silver-haired cavalry, bob and low braid, orange eyes and gold flower. Gold armor and cape, long SPEAR held in right hand, BROWN horse dark mane and single dark tail.\nALL20 frames fixed camera: REAR-LEFT quarter view: faces away and toward SCREEN LEFT. See BACK of head, cape and back armor, and horse rump. Horse head farther LEFT and UP than rump. Do not show frontal face. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nHorse and rider in EVERY cell, genuine four-legged walk and gallop with flight phases. Same spear held steady, no attacks or rider gestures. Anatomical single tail.\n\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "NW"
+  },
+  {
+    "id": "heumsun",
+    "direction": "SE",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v5/individual/heumsun-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/heumsun/reference-SE.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Kim Heumsun, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female cavalry, long BLACK high ponytail and gold flowers, warm eyes and gold armor/cape, long SPEAR right hand, BROWN horse dark mane and single dark tail.\nALL20 frames fixed camera: Front-right quarter view: faces down and toward SCREEN RIGHT. Horse head at screen RIGHT of rump; see face/chest. Shield usually visible near screen RIGHT. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nHorse and rider in EVERY cell, genuine four-legged walk and gallop with flight phases. Same spear held steady, no attacks or rider gestures. Anatomical single tail.\n\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "SE"
+  },
+  {
+    "id": "heumsun",
+    "direction": "SW",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v5/individual/heumsun-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/heumsun/reference-SW.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Kim Heumsun, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female cavalry, long BLACK high ponytail and gold flowers, warm eyes and gold armor/cape, long SPEAR right hand, BROWN horse dark mane and single dark tail.\nALL20 frames fixed camera: Front-left quarter view: faces down and toward SCREEN LEFT. Horse head at screen LEFT of rump; see face/chest. Keep anatomical weapon hands. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nHorse and rider in EVERY cell, genuine four-legged walk and gallop with flight phases. Same spear held steady, no attacks or rider gestures. Anatomical single tail.\n\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "SW"
+  },
+  {
+    "id": "heumsun",
+    "direction": "NE",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v5/individual/heumsun-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/heumsun/reference-NE.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Kim Heumsun, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female cavalry, long BLACK high ponytail and gold flowers, warm eyes and gold armor/cape, long SPEAR right hand, BROWN horse dark mane and single dark tail.\nALL20 frames fixed camera: REAR-RIGHT quarter view: faces away and toward SCREEN RIGHT. See BACK of head, cape and back armor, and horse rump. Horse head is farther RIGHT and farther UP than rump. Do not turn head toward viewer. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nHorse and rider in EVERY cell, genuine four-legged walk and gallop with flight phases. Same spear held steady, no attacks or rider gestures. Anatomical single tail.\n\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "NE"
+  },
+  {
+    "id": "heumsun",
+    "direction": "NW",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v5/individual/heumsun-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/heumsun/reference-NW.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Kim Heumsun, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female cavalry, long BLACK high ponytail and gold flowers, warm eyes and gold armor/cape, long SPEAR right hand, BROWN horse dark mane and single dark tail.\nALL20 frames fixed camera: REAR-LEFT quarter view: faces away and toward SCREEN LEFT. See BACK of head, cape and back armor, and horse rump. Horse head farther LEFT and UP than rump. Do not show frontal face. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nHorse and rider in EVERY cell, genuine four-legged walk and gallop with flight phases. Same spear held steady, no attacks or rider gestures. Anatomical single tail.\n\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "NW"
+  },
+  {
+    "id": "pumil",
+    "direction": "SE",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v5/individual/pumil-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/pumil/reference-SE.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Kim Pumil, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female infantry, tousled short AUBURN red hair and orange eyes, gold armor/cape. SWORD in RIGHT hand, round gold sun shield LEFT arm. ON FOOT.\nALL20 frames fixed camera: Front-right quarter view: faces down and toward SCREEN RIGHT. Horse head at screen RIGHT of rump; see face/chest. Shield usually visible near screen RIGHT. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nGenuine alternating legs and foot contacts, no attack/aim gestures. Run is forward leaning with larger stride and flight. Keep weapon held safely.\n\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "SE"
+  },
+  {
+    "id": "pumil",
+    "direction": "SW",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v5/individual/pumil-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/pumil/reference-SW.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Kim Pumil, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female infantry, tousled short AUBURN red hair and orange eyes, gold armor/cape. SWORD in RIGHT hand, round gold sun shield LEFT arm. ON FOOT.\nALL20 frames fixed camera: Front-left quarter view: faces down and toward SCREEN LEFT. Horse head at screen LEFT of rump; see face/chest. Keep anatomical weapon hands. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nGenuine alternating legs and foot contacts, no attack/aim gestures. Run is forward leaning with larger stride and flight. Keep weapon held safely.\n\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "SW"
+  },
+  {
+    "id": "pumil",
+    "direction": "NE",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v5/individual/pumil-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/pumil/reference-NE.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Kim Pumil, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female infantry, tousled short AUBURN red hair and orange eyes, gold armor/cape. SWORD in RIGHT hand, round gold sun shield LEFT arm. ON FOOT.\nALL20 frames fixed camera: REAR-RIGHT quarter view: faces away and toward SCREEN RIGHT. See BACK of head, cape and back armor, and horse rump. Horse head is farther RIGHT and farther UP than rump. Do not turn head toward viewer. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nGenuine alternating legs and foot contacts, no attack/aim gestures. Run is forward leaning with larger stride and flight. Keep weapon held safely.\n\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "NE"
+  },
+  {
+    "id": "pumil",
+    "direction": "NW",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v5/individual/pumil-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/pumil/reference-NW.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Kim Pumil, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female infantry, tousled short AUBURN red hair and orange eyes, gold armor/cape. SWORD in RIGHT hand, round gold sun shield LEFT arm. ON FOOT.\nALL20 frames fixed camera: REAR-LEFT quarter view: faces away and toward SCREEN LEFT. See BACK of head, cape and back armor, and horse rump. Horse head farther LEFT and UP than rump. Do not show frontal face. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nGenuine alternating legs and foot contacts, no attack/aim gestures. Run is forward leaning with larger stride and flight. Keep weapon held safely.\n\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "NW"
+  },
+  {
+    "id": "chunchu",
+    "direction": "SE",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v5/individual/chunchu-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/chunchu/reference-SE.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Kim Chunchu, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female strategist with honey-blonde center parted hair and TWO LONG BRAIDS tied with gold flowers. Golden and ivory SCHOLAR ROBES, BOOK in left hand and white FAN in right hand. ON FOOT, NO sword, shield or horse.\nALL20 frames fixed camera: Front-right quarter view: faces down and toward SCREEN RIGHT. Horse head at screen RIGHT of rump; see face/chest. Shield usually visible near screen RIGHT. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nGenuine alternating legs and foot contacts, no attack/aim gestures. Run is forward leaning with larger stride and flight. Keep weapon held safely.\nLong robe hem must reveal changing foot positions, keep book and fan.\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "SE"
+  },
+  {
+    "id": "chunchu",
+    "direction": "SW",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v5/individual/chunchu-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/chunchu/reference-SW.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Kim Chunchu, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female strategist with honey-blonde center parted hair and TWO LONG BRAIDS tied with gold flowers. Golden and ivory SCHOLAR ROBES, BOOK in left hand and white FAN in right hand. ON FOOT, NO sword, shield or horse.\nALL20 frames fixed camera: Front-left quarter view: faces down and toward SCREEN LEFT. Horse head at screen LEFT of rump; see face/chest. Keep anatomical weapon hands. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nGenuine alternating legs and foot contacts, no attack/aim gestures. Run is forward leaning with larger stride and flight. Keep weapon held safely.\nLong robe hem must reveal changing foot positions, keep book and fan.\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "SW"
+  },
+  {
+    "id": "chunchu",
+    "direction": "NE",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v5/individual/chunchu-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/chunchu/reference-NE.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Kim Chunchu, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female strategist with honey-blonde center parted hair and TWO LONG BRAIDS tied with gold flowers. Golden and ivory SCHOLAR ROBES, BOOK in left hand and white FAN in right hand. ON FOOT, NO sword, shield or horse.\nALL20 frames fixed camera: REAR-RIGHT quarter view: faces away and toward SCREEN RIGHT. See BACK of head, cape and back armor, and horse rump. Horse head is farther RIGHT and farther UP than rump. Do not turn head toward viewer. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nGenuine alternating legs and foot contacts, no attack/aim gestures. Run is forward leaning with larger stride and flight. Keep weapon held safely.\nLong robe hem must reveal changing foot positions, keep book and fan.\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "NE"
+  },
+  {
+    "id": "chunchu",
+    "direction": "NW",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v5/individual/chunchu-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/chunchu/reference-NW.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Kim Chunchu, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female strategist with honey-blonde center parted hair and TWO LONG BRAIDS tied with gold flowers. Golden and ivory SCHOLAR ROBES, BOOK in left hand and white FAN in right hand. ON FOOT, NO sword, shield or horse.\nALL20 frames fixed camera: REAR-LEFT quarter view: faces away and toward SCREEN LEFT. See BACK of head, cape and back armor, and horse rump. Horse head farther LEFT and UP than rump. Do not show frontal face. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nGenuine alternating legs and foot contacts, no attack/aim gestures. Run is forward leaning with larger stride and flight. Keep weapon held safely.\nLong robe hem must reveal changing foot positions, keep book and fan.\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "NW"
+  },
+  {
+    "id": "inmun",
+    "direction": "SE",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v5/individual/inmun-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/inmun/reference-SE.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Kim Inmun, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female strategist with warm BROWN long hair swept to one side and gold flower, orange eyes. Golden-ivory scholar robes, BOOK left hand, FAN right hand. ON FOOT, NO sword, shield or horse.\nALL20 frames fixed camera: Front-right quarter view: faces down and toward SCREEN RIGHT. Horse head at screen RIGHT of rump; see face/chest. Shield usually visible near screen RIGHT. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nGenuine alternating legs and foot contacts, no attack/aim gestures. Run is forward leaning with larger stride and flight. Keep weapon held safely.\nLong robe hem must reveal changing foot positions, keep book and fan.\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "SE"
+  },
+  {
+    "id": "inmun",
+    "direction": "SW",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v5/individual/inmun-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/inmun/reference-SW.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Kim Inmun, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female strategist with warm BROWN long hair swept to one side and gold flower, orange eyes. Golden-ivory scholar robes, BOOK left hand, FAN right hand. ON FOOT, NO sword, shield or horse.\nALL20 frames fixed camera: Front-left quarter view: faces down and toward SCREEN LEFT. Horse head at screen LEFT of rump; see face/chest. Keep anatomical weapon hands. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nGenuine alternating legs and foot contacts, no attack/aim gestures. Run is forward leaning with larger stride and flight. Keep weapon held safely.\nLong robe hem must reveal changing foot positions, keep book and fan.\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "SW"
+  },
+  {
+    "id": "inmun",
+    "direction": "NE",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v5/individual/inmun-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/inmun/reference-NE.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Kim Inmun, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female strategist with warm BROWN long hair swept to one side and gold flower, orange eyes. Golden-ivory scholar robes, BOOK left hand, FAN right hand. ON FOOT, NO sword, shield or horse.\nALL20 frames fixed camera: REAR-RIGHT quarter view: faces away and toward SCREEN RIGHT. See BACK of head, cape and back armor, and horse rump. Horse head is farther RIGHT and farther UP than rump. Do not turn head toward viewer. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nGenuine alternating legs and foot contacts, no attack/aim gestures. Run is forward leaning with larger stride and flight. Keep weapon held safely.\nLong robe hem must reveal changing foot positions, keep book and fan.\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "NE"
+  },
+  {
+    "id": "inmun",
+    "direction": "NW",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v5/individual/inmun-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/inmun/reference-NW.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Kim Inmun, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female strategist with warm BROWN long hair swept to one side and gold flower, orange eyes. Golden-ivory scholar robes, BOOK left hand, FAN right hand. ON FOOT, NO sword, shield or horse.\nALL20 frames fixed camera: REAR-LEFT quarter view: faces away and toward SCREEN LEFT. See BACK of head, cape and back armor, and horse rump. Horse head farther LEFT and UP than rump. Do not show frontal face. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nGenuine alternating legs and foot contacts, no attack/aim gestures. Run is forward leaning with larger stride and flight. Keep weapon held safely.\nLong robe hem must reveal changing foot positions, keep book and fan.\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "NW"
+  },
+  {
+    "id": "gwanchang",
+    "direction": "SE",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v6/individual/gwanchang-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/gwanchang/reference-SE.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Gwanchang, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female archer with short SPIKY SILVER hair, alert narrow orange eyes and gold earrings. Golden armor with ivory sash, recurved BOW in left hand, ARROWS and back QUIVER. ON FOOT, no shield or horse.\nALL20 frames fixed camera: Front-right quarter view: faces down and toward SCREEN RIGHT. Horse head at screen RIGHT of rump; see face/chest. Shield usually visible near screen RIGHT. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nGenuine alternating legs and foot contacts, no attack/aim gestures. Run is forward leaning with larger stride and flight. Keep weapon held safely.\nCarry bow lowered safely while moving; arrows stay in quiver, do not aim or fire.\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "SE"
+  },
+  {
+    "id": "gwanchang",
+    "direction": "SW",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v6/individual/gwanchang-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/gwanchang/reference-SW.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Gwanchang, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female archer with short SPIKY SILVER hair, alert narrow orange eyes and gold earrings. Golden armor with ivory sash, recurved BOW in left hand, ARROWS and back QUIVER. ON FOOT, no shield or horse.\nALL20 frames fixed camera: Front-left quarter view: faces down and toward SCREEN LEFT. Horse head at screen LEFT of rump; see face/chest. Keep anatomical weapon hands. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nGenuine alternating legs and foot contacts, no attack/aim gestures. Run is forward leaning with larger stride and flight. Keep weapon held safely.\nCarry bow lowered safely while moving; arrows stay in quiver, do not aim or fire.\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "SW"
+  },
+  {
+    "id": "gwanchang",
+    "direction": "NE",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v6/individual/gwanchang-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/gwanchang/reference-NE.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Gwanchang, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female archer with short SPIKY SILVER hair, alert narrow orange eyes and gold earrings. Golden armor with ivory sash, recurved BOW in left hand, ARROWS and back QUIVER. ON FOOT, no shield or horse.\nALL20 frames fixed camera: REAR-RIGHT quarter view: faces away and toward SCREEN RIGHT. See BACK of head, cape and back armor, and horse rump. Horse head is farther RIGHT and farther UP than rump. Do not turn head toward viewer. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nGenuine alternating legs and foot contacts, no attack/aim gestures. Run is forward leaning with larger stride and flight. Keep weapon held safely.\nCarry bow lowered safely while moving; arrows stay in quiver, do not aim or fire.\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "NE"
+  },
+  {
+    "id": "gwanchang",
+    "direction": "NW",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v6/individual/gwanchang-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/gwanchang/reference-NW.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Gwanchang, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female archer with short SPIKY SILVER hair, alert narrow orange eyes and gold earrings. Golden armor with ivory sash, recurved BOW in left hand, ARROWS and back QUIVER. ON FOOT, no shield or horse.\nALL20 frames fixed camera: REAR-LEFT quarter view: faces away and toward SCREEN LEFT. See BACK of head, cape and back armor, and horse rump. Horse head farther LEFT and UP than rump. Do not show frontal face. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nGenuine alternating legs and foot contacts, no attack/aim gestures. Run is forward leaning with larger stride and flight. Keep weapon held safely.\nCarry bow lowered safely while moving; arrows stay in quiver, do not aim or fire.\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "NW"
+  },
+  {
+    "id": "wolryeong",
+    "direction": "SE",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v6/individual/wolryeong-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/wolryeong/reference-SE.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Munhun, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female archer with DARK BROWN asymmetrical swept fringe and ONE LONG LOW BRAID, gold earrings and orange eyes. Golden armor and ivory sash, recurved BOW left hand, arrows and back QUIVER. ON FOOT, no shield or horse.\nALL20 frames fixed camera: Front-right quarter view: faces down and toward SCREEN RIGHT. Horse head at screen RIGHT of rump; see face/chest. Shield usually visible near screen RIGHT. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nGenuine alternating legs and foot contacts, no attack/aim gestures. Run is forward leaning with larger stride and flight. Keep weapon held safely.\nCarry bow lowered safely while moving; arrows stay in quiver, do not aim or fire.\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "SE"
+  },
+  {
+    "id": "wolryeong",
+    "direction": "SW",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v6/individual/wolryeong-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/wolryeong/reference-SW.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Munhun, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female archer with DARK BROWN asymmetrical swept fringe and ONE LONG LOW BRAID, gold earrings and orange eyes. Golden armor and ivory sash, recurved BOW left hand, arrows and back QUIVER. ON FOOT, no shield or horse.\nALL20 frames fixed camera: Front-left quarter view: faces down and toward SCREEN LEFT. Horse head at screen LEFT of rump; see face/chest. Keep anatomical weapon hands. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nGenuine alternating legs and foot contacts, no attack/aim gestures. Run is forward leaning with larger stride and flight. Keep weapon held safely.\nCarry bow lowered safely while moving; arrows stay in quiver, do not aim or fire.\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "SW"
+  },
+  {
+    "id": "wolryeong",
+    "direction": "NE",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v6/individual/wolryeong-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/wolryeong/reference-NE.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Munhun, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female archer with DARK BROWN asymmetrical swept fringe and ONE LONG LOW BRAID, gold earrings and orange eyes. Golden armor and ivory sash, recurved BOW left hand, arrows and back QUIVER. ON FOOT, no shield or horse.\nALL20 frames fixed camera: REAR-RIGHT quarter view: faces away and toward SCREEN RIGHT. See BACK of head, cape and back armor, and horse rump. Horse head is farther RIGHT and farther UP than rump. Do not turn head toward viewer. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nGenuine alternating legs and foot contacts, no attack/aim gestures. Run is forward leaning with larger stride and flight. Keep weapon held safely.\nCarry bow lowered safely while moving; arrows stay in quiver, do not aim or fire.\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "NE"
+  },
+  {
+    "id": "wolryeong",
+    "direction": "NW",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/revision-v6/individual/wolryeong-information.png",
+    "directionRef": "D:/99.Work/Samhan_Girls/art/battle/ten-officers-v1/wolryeong/reference-NW.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Munhun, EXACTLY20 complete drawings in FOUR columns x FIVE rows, transparent background and generous gutters. Direction reference defines the facing; identity reference defines character. Female archer with DARK BROWN asymmetrical swept fringe and ONE LONG LOW BRAID, gold earrings and orange eyes. Golden armor and ivory sash, recurved BOW left hand, arrows and back QUIVER. ON FOOT, no shield or horse.\nALL20 frames fixed camera: REAR-LEFT quarter view: faces away and toward SCREEN LEFT. See BACK of head, cape and back armor, and horse rump. Horse head farther LEFT and UP than rump. Do not show frontal face. Match supplied direction reference. Walk frames0..7 in reading order: left lift, left swing, left contact, weight transfer, right lift, right swing, right contact, weight transfer. Run frames8..19: gather, push, flight extended, flight tuck, landing, compression, opposite gather/push/flight extended/flight tuck/landing/compression.\nGenuine alternating legs and foot contacts, no attack/aim gestures. Run is forward leaning with larger stride and flight. Keep weapon held safely.\nCarry bow lowered safely while moving; arrows stay in quiver, do not aim or fire.\nUse actual distinct gait poses, not duplicated pictures or shifted standing poses. Same head/body scale across20cells, ground baseline consistent. Entire weapon/horse/feet/hair/tail inside eachcell and at least12% transparent gutters. Warm brown outlines, rich gold/ivory 2D SD Korean anime painting matching reference, 2.5head human proportion, no pixels/3D, no text/numbers/grid/shadow/scenery/UI. Four columns, five rows, 20 figures.",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "NW"
+  }
+]

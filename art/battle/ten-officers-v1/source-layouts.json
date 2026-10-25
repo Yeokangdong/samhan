@@ -1,0 +1,282 @@
+{
+  "alcheon/source-NE.png": {
+    "columns": 8,
+    "rows": 7,
+    "offsetY": 9,
+    "stepY": 162.71428571428572,
+    "score": 0.0058
+  },
+  "alcheon/source-NW.png": {
+    "columns": 8,
+    "rows": 7,
+    "offsetY": 18,
+    "stepY": 167.28571428571428,
+    "score": 0.0411
+  },
+  "alcheon/source-SE.png": {
+    "columns": 8,
+    "rows": 7,
+    "offsetY": 15,
+    "stepY": 166.71428571428572,
+    "score": 0.1832
+  },
+  "alcheon/source-SW.png": {
+    "columns": 8,
+    "rows": 8,
+    "offsetY": 24,
+    "stepY": 160.5,
+    "score": 0.2466
+  },
+  "chunchu/source-NE.png": {
+    "columns": 8,
+    "rows": 6,
+    "offsetY": 0,
+    "stepY": 193.83333333333334,
+    "score": 0.0
+  },
+  "chunchu/source-NW.png": {
+    "columns": 8,
+    "rows": 7,
+    "offsetY": 0,
+    "stepY": 170.14285714285714,
+    "score": 0.0514
+  },
+  "chunchu/source-SE.png": {
+    "columns": 8,
+    "rows": 6,
+    "offsetY": 0,
+    "stepY": 192.5,
+    "score": 0.02
+  },
+  "chunchu/source-SW.png": {
+    "columns": 8,
+    "rows": 6,
+    "offsetY": 15,
+    "stepY": 193.16666666666666,
+    "score": 0.0079
+  },
+  "gwanchang/source-NE.png": {
+    "columns": 8,
+    "rows": 6,
+    "offsetY": 12,
+    "stepY": 193.16666666666666,
+    "score": 0.0079
+  },
+  "gwanchang/source-NW.png": {
+    "columns": 8,
+    "rows": 7,
+    "offsetY": 15,
+    "stepY": 166.14285714285714,
+    "score": 0.0127
+  },
+  "gwanchang/source-SE.png": {
+    "columns": 8,
+    "rows": 7,
+    "offsetY": 21,
+    "stepY": 174.14285714285714,
+    "score": 0.2458
+  },
+  "gwanchang/source-SW.png": {
+    "columns": 8,
+    "rows": 7,
+    "offsetY": 24,
+    "stepY": 171.28571428571428,
+    "score": 0.1175
+  },
+  "heumsun/source-NE.png": {
+    "columns": 8,
+    "rows": 6,
+    "offsetY": 9,
+    "stepY": 189.0,
+    "score": 0.0034
+  },
+  "heumsun/source-NW.png": {
+    "columns": 8,
+    "rows": 7,
+    "offsetY": 9,
+    "stepY": 167.14285714285714,
+    "score": 0.0365
+  },
+  "heumsun/source-SE.png": {
+    "columns": 8,
+    "rows": 6,
+    "offsetY": -9,
+    "stepY": 190.5,
+    "score": 0.0244
+  },
+  "heumsun/source-SW.png": {
+    "columns": 8,
+    "rows": 7,
+    "offsetY": 12,
+    "stepY": 172.42857142857142,
+    "score": 0.1864
+  },
+  "inmun/source-NE.png": {
+    "columns": 8,
+    "rows": 7,
+    "offsetY": 15,
+    "stepY": 168.28571428571428,
+    "score": 0.0711
+  },
+  "inmun/source-NW.png": {
+    "columns": 8,
+    "rows": 6,
+    "offsetY": 9,
+    "stepY": 185.16666666666666,
+    "score": 0.0
+  },
+  "inmun/source-SE.png": {
+    "columns": 8,
+    "rows": 6,
+    "offsetY": 6,
+    "stepY": 193.66666666666666,
+    "score": 0.003
+  },
+  "inmun/source-SW.png": {
+    "columns": 8,
+    "rows": 6,
+    "offsetY": 3,
+    "stepY": 183.16666666666666,
+    "score": 0.084
+  },
+  "jinpyeong/source-NE.png": {
+    "columns": 8,
+    "rows": 7,
+    "offsetY": 12,
+    "stepY": 172.42857142857142,
+    "score": 0.1081
+  },
+  "jinpyeong/source-NW.png": {
+    "columns": 8,
+    "rows": 7,
+    "offsetY": 9,
+    "stepY": 165.57142857142858,
+    "score": 0.0052
+  },
+  "jinpyeong/source-SE.png": {
+    "columns": 8,
+    "rows": 7,
+    "offsetY": 3,
+    "stepY": 180.0,
+    "score": 0.0388
+  },
+  "jinpyeong/source-SW.png": {
+    "columns": 8,
+    "rows": 6,
+    "offsetY": -6,
+    "stepY": 188.33333333333334,
+    "score": 0.0279
+  },
+  "kim/source-NE.png": {
+    "columns": 8,
+    "rows": 7,
+    "offsetY": 9,
+    "stepY": 166.14285714285714,
+    "score": 0.0197
+  },
+  "kim/source-NW.png": {
+    "columns": 8,
+    "rows": 7,
+    "offsetY": 12,
+    "stepY": 166.71428571428572,
+    "score": 0.0189
+  },
+  "kim/source-SE.png": {
+    "columns": 8,
+    "rows": 7,
+    "offsetY": 15,
+    "stepY": 169.0,
+    "score": 0.1039
+  },
+  "kim/source-SW.png": {
+    "columns": 8,
+    "rows": 7,
+    "offsetY": -12,
+    "stepY": 176.0,
+    "score": 0.1091
+  },
+  "pumil/source-NE.png": {
+    "columns": 8,
+    "rows": 6,
+    "offsetY": 6,
+    "stepY": 186.5,
+    "score": 0.0064
+  },
+  "pumil/source-NW.png": {
+    "columns": 8,
+    "rows": 6,
+    "offsetY": 0,
+    "stepY": 185.83333333333334,
+    "score": 0.0533
+  },
+  "pumil/source-SE.png": {
+    "columns": 8,
+    "rows": 6,
+    "offsetY": 0,
+    "stepY": 188.33333333333334,
+    "score": 0.0504
+  },
+  "pumil/source-SW.png": {
+    "columns": 8,
+    "rows": 6,
+    "offsetY": 15,
+    "stepY": 174.33333333333334,
+    "score": 0.0382
+  },
+  "seohyeon/source-NE.png": {
+    "columns": 8,
+    "rows": 7,
+    "offsetY": 21,
+    "stepY": 167.85714285714286,
+    "score": 0.0541
+  },
+  "seohyeon/source-NW.png": {
+    "columns": 8,
+    "rows": 7,
+    "offsetY": 24,
+    "stepY": 172.42857142857142,
+    "score": 0.186
+  },
+  "seohyeon/source-SE.png": {
+    "columns": 8,
+    "rows": 7,
+    "offsetY": 21,
+    "stepY": 162.57142857142858,
+    "score": 0.0998
+  },
+  "seohyeon/source-SW.png": {
+    "columns": 8,
+    "rows": 6,
+    "offsetY": -3,
+    "stepY": 197.16666666666666,
+    "score": 0.0409
+  },
+  "wolryeong/source-NE.png": {
+    "columns": 8,
+    "rows": 6,
+    "offsetY": 9,
+    "stepY": 191.16666666666666,
+    "score": 0.0059
+  },
+  "wolryeong/source-NW.png": {
+    "columns": 8,
+    "rows": 6,
+    "offsetY": 3,
+    "stepY": 186.5,
+    "score": 0.0581
+  },
+  "wolryeong/source-SE.png": {
+    "columns": 8,
+    "rows": 6,
+    "offsetY": 15,
+    "stepY": 193.16666666666666,
+    "score": 0.0017
+  },
+  "wolryeong/source-SW.png": {
+    "columns": 8,
+    "rows": 7,
+    "offsetY": 18,
+    "stepY": 173.57142857142858,
+    "score": 0.2689
+  }
+}

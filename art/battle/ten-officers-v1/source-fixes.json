@@ -1,0 +1,15 @@
+[
+  {
+    "id": "kim",
+    "direction": "SE",
+    "kind": "locomotion",
+    "ref": "D:/99.Work/Samhan_Girls/art/characters/horse-corrections-v1/individual/kim-information.png",
+    "prompt": "Create ONLY a locomotion sprite sheet of Kim Yushin, energetic heroine, exactly TWENTY separately drawn full-body frames, FOUR COLUMNS by FIVE ROWS on transparent background, wide gutters, no labels or frame lines. Match reference EXACTLY: Female hero with long chestnut high ponytail, small gold floral crown and ribbons, gilded armor and cream-gold cape. WHITE horse with pale mane and one tapered tail, sword in right hand and gold round shield on left arm.\nFixed camera in ALL cells: Front-right quarter view: faces down and toward SCREEN RIGHT. Horse head at screen RIGHT of rump; see face/chest. Shield usually visible near screen RIGHT. Elevated tactical view30deg. One direction ONLY. All heads face along travel direction; never look at viewer in rear views.\nFrames in strict reading order: 0 left limb lift,1 left limb swing,2 left contact,3 weight transfer,4 right lift,5 right swing,6 right contact,7 weight transfer (WALK8); 8 gallop gather,9 push off,10 flight extended,11 flight tuck,12 landing,13 compression,14 opposite gather,15 opposite push,16 opposite flight extended,17 opposite flight tuck,18 opposite landing,19 opposite compression (RUN12).\nThe FULL HORSE and RIDER in EVERY frame; four real horse legs and all hooves, rider face/hair/clothing unchanged. Actual walk/gallop horse footfall changes, no standing horse copies with changing rider arms. One normal anatomical tail from rump, never cloud mane.\nNo gestures, attack, effects, fan flourishes or victory; ONLY walk8 and run12. Same body and head scale, shared ground baseline, entire figure and weapon inside each cell with at least15% transparent gutters. Rich 2D Korean anime SD golden paint, warm brown contours, 2.5head proportions; not 3D or pixels. Real transparent RGBA, no ground shadow, no text. 4 columns x5 rows EXACTLY, total20 figures.\nCAMERA OVERRIDE: the supplied small direction reference is the correct facing. Horse nose MUST be at SCREEN RIGHT of horse rump in ALL20 cells. Do NOT use the front-left direction. Preserve sword/shield hands correctly and draw new walking/galloping leg poses. Four columns FIVE rows.",
+    "path": "C:\\Users\\Administrator\\.codex\\generated_images\\01a16f49-4113-7ca2-a348-e554d1776f23\\exec-01fb8d4b-315d-4f28-b4b8-0c3b548de965.png",
+    "grid": [
+      4,
+      5
+    ],
+    "facing": "SE"
+  }
+]
