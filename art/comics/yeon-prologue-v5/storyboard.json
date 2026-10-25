@@ -1,0 +1,1162 @@
+{
+  "version": 5,
+  "hero": "yeon",
+  "title": "끊어진 길을 잇는 사람들",
+  "chapterTitle": "천리장성의 아침",
+  "description": "642년 북방 축성지. 군량 수레가 돌아오지 않고 일꾼들이 귀환하지 못하자 다섯 장군이 회수와 호위를 준비한다. 사건·초기 참여·대사·자매 호칭·지형 세부는 게임 각색.",
+  "cast": [
+    {
+      "id": "yeon",
+      "name": "연개소문",
+      "role": "대막리지"
+    },
+    {
+      "id": "jeongto",
+      "name": "연정토",
+      "role": "장군"
+    },
+    {
+      "id": "gojeongui",
+      "name": "고정의",
+      "role": "장군"
+    },
+    {
+      "id": "goyeonsu",
+      "name": "고연수",
+      "role": "장군"
+    },
+    {
+      "id": "gohyejin",
+      "name": "고혜진",
+      "role": "장군"
+    },
+    {
+      "id": "yeongnyu",
+      "name": "영류왕",
+      "role": "군주"
+    }
+  ],
+  "pages": [
+    {
+      "number": 1,
+      "title": "돌아오지 않은 수레",
+      "presentation": "illustrated",
+      "visible": [
+        "yeon",
+        "jeongto"
+      ],
+      "scene": "Northern construction camp at dawn, silent incomplete wall in background, Jeongto reports to Yeon beside empty wagon bay.",
+      "image": "art/comics/yeon-prologue-v5/sheet-01.png",
+      "panel": 0,
+      "dialogue": [
+        {
+          "speaker": "연정토",
+          "text": "언니, 어제 들어와야 할 군량 수레가 아직 안 왔수다. 북쪽 작업조도 돌아오지 못했수다."
+        },
+        {
+          "speaker": "연개소문",
+          "text": "수레와 사람이 같이 늦었다는 말이구마. 마지막으로 확인된 곳부터 말해 보라우."
+        },
+        {
+          "speaker": "연정토",
+          "text": "작은 개울 건너 운반 길이오. 그 뒤로는 전갈이 없수다."
+        },
+        {
+          "speaker": "연개소문",
+          "text": "전하께서 북방으로 보내며 하신 말씀이 떠오르는구마."
+        }
+      ],
+      "speaker": "연정토",
+      "text": "연정토 · 언니, 어제 들어와야 할 군량 수레가 아직 안 왔수다. 북쪽 작업조도 돌아오지 못했수다.\n연개소문 · 수레와 사람이 같이 늦었다는 말이구마. 마지막으로 확인된 곳부터 말해 보라우.\n연정토 · 작은 개울 건너 운반 길이오. 그 뒤로는 전갈이 없수다.\n연개소문 · 전하께서 북방으로 보내며 하신 말씀이 떠오르는구마.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "연개소문",
+            "box": [
+              13,
+              29,
+              41,
+              69
+            ]
+          },
+          {
+            "speaker": "연정토",
+            "box": [
+              51,
+              21,
+              79,
+              61
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 2,
+      "title": "왕의 명령을 떠올리다",
+      "presentation": "illustrated",
+      "visible": [
+        "yeongnyu",
+        "yeon"
+      ],
+      "scene": "Brief earlier palace audience, Yeongnyu in distinct dark hair feather crown gives Yeon assignment, no teleport implied; quiet memory scene.",
+      "image": "art/comics/yeon-prologue-v5/sheet-01.png",
+      "panel": 1,
+      "dialogue": [
+        {
+          "speaker": "영류왕",
+          "text": "북방의 길을 살피라우. 성을 쌓으려면 군량도 사람도 무사히 오가야 하지 않겠소."
+        },
+        {
+          "speaker": "연개소문",
+          "text": "길이 막히면 일꾼부터 돌아오게 하겠수다."
+        },
+        {
+          "speaker": "영류왕",
+          "text": "그 약속을 지키라우. 공사 진도보다 사람이 먼저요."
+        }
+      ],
+      "speaker": "영류왕",
+      "text": "영류왕 · 북방의 길을 살피라우. 성을 쌓으려면 군량도 사람도 무사히 오가야 하지 않겠소.\n연개소문 · 길이 막히면 일꾼부터 돌아오게 하겠수다.\n영류왕 · 그 약속을 지키라우. 공사 진도보다 사람이 먼저요.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "영류왕",
+            "box": [
+              12,
+              17,
+              40,
+              57
+            ]
+          },
+          {
+            "speaker": "연개소문",
+            "box": [
+              62,
+              28,
+              90,
+              68
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 3,
+      "title": "다섯 장군이 모이다",
+      "presentation": "illustrated",
+      "visible": [
+        "yeon",
+        "jeongto",
+        "gojeongui",
+        "goyeonsu",
+        "gohyejin"
+      ],
+      "scene": "Return to northern camp present, five generals around modest field map with empty cart bay behind.",
+      "image": "art/comics/yeon-prologue-v5/sheet-01.png",
+      "panel": 2,
+      "dialogue": [
+        {
+          "speaker": "연개소문",
+          "text": "전하 명대로 사람과 군량 길부터 살핀다. 정토는 호위, 정의는 경로 확인을 맡으라우. 연수와 혜진도 준비하라우."
+        },
+        {
+          "speaker": "고정의",
+          "text": "수레가 늦었다는 것과 습격당했다는 것은 다른 말이오. 흔적을 보고 판단하겠수다."
+        },
+        {
+          "speaker": "연개소문",
+          "text": "옳소. 모르는 것을 안다고 보고하지는 말라우."
+        }
+      ],
+      "speaker": "연개소문",
+      "text": "연개소문 · 전하 명대로 사람과 군량 길부터 살핀다. 정토는 호위, 정의는 경로 확인을 맡으라우. 연수와 혜진도 준비하라우.\n고정의 · 수레가 늦었다는 것과 습격당했다는 것은 다른 말이오. 흔적을 보고 판단하겠수다.\n연개소문 · 옳소. 모르는 것을 안다고 보고하지는 말라우.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "연개소문",
+            "box": [
+              4,
+              37,
+              20,
+              69
+            ]
+          },
+          {
+            "speaker": "연정토",
+            "box": [
+              22,
+              36,
+              38,
+              68
+            ]
+          },
+          {
+            "speaker": "고정의",
+            "box": [
+              44,
+              34,
+              60,
+              66
+            ]
+          },
+          {
+            "speaker": "고연수",
+            "box": [
+              64,
+              35,
+              80,
+              67
+            ]
+          },
+          {
+            "speaker": "고혜진",
+            "box": [
+              83,
+              40,
+              99,
+              72
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 4,
+      "title": "확인된 흔적",
+      "presentation": "illustrated",
+      "visible": [
+        "gojeongui",
+        "jeongto"
+      ],
+      "scene": "Two generals at camp perimeter inspect broken wagon peg and mud wheel track, distinguish physical evidence.",
+      "image": "art/comics/yeon-prologue-v5/sheet-01.png",
+      "panel": 3,
+      "dialogue": [
+        {
+          "speaker": "고정의",
+          "text": "개울 남쪽 길에 바퀴 자국과 부러진 수레 못이 있었수다. 돌아온 자국은 없었소."
+        },
+        {
+          "speaker": "연정토",
+          "text": "그라면 그 길을 따라가면 작업조를 찾을 수 있겠구마."
+        },
+        {
+          "speaker": "고정의",
+          "text": "그럴 가능성이 있소. 아직 못 본 갈림길까지 확인하고 움직여야 하오."
+        }
+      ],
+      "speaker": "고정의",
+      "text": "고정의 · 개울 남쪽 길에 바퀴 자국과 부러진 수레 못이 있었수다. 돌아온 자국은 없었소.\n연정토 · 그라면 그 길을 따라가면 작업조를 찾을 수 있겠구마.\n고정의 · 그럴 가능성이 있소. 아직 못 본 갈림길까지 확인하고 움직여야 하오.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "고정의",
+            "box": [
+              18,
+              25,
+              46,
+              65
+            ]
+          },
+          {
+            "speaker": "연정토",
+            "box": [
+              62,
+              28,
+              90,
+              68
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 5,
+      "title": "너무 든든한 짐",
+      "presentation": "illustrated",
+      "visible": [
+        "gohyejin",
+        "goyeonsu"
+      ],
+      "scene": "Hyejin with comically overpacked tool bag containing coiled rope, bells, spare locks, Yeonsu looks impressed and puzzled. No new characters.",
+      "image": "art/comics/yeon-prologue-v5/sheet-02.png",
+      "panel": 0,
+      "dialogue": [
+        {
+          "speaker": "고혜진",
+          "text": "예비 밧줄, 못, 자물쇠까지 준비했수다. 하나가 고장 나도 또 있소."
+        },
+        {
+          "speaker": "고연수",
+          "text": "수레를 찾으러 가는데 수레 한 대를 등에 지고 가겠구마."
+        },
+        {
+          "speaker": "고혜진",
+          "text": "돌아올 때 쓸 물건이 없으면 곤란하지 않겠소."
+        }
+      ],
+      "speaker": "고혜진",
+      "text": "고혜진 · 예비 밧줄, 못, 자물쇠까지 준비했수다. 하나가 고장 나도 또 있소.\n고연수 · 수레를 찾으러 가는데 수레 한 대를 등에 지고 가겠구마.\n고혜진 · 돌아올 때 쓸 물건이 없으면 곤란하지 않겠소.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "고혜진",
+            "box": [
+              18,
+              27,
+              46,
+              67
+            ]
+          },
+          {
+            "speaker": "고연수",
+            "box": [
+              61,
+              26,
+              89,
+              66
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 6,
+      "title": "소리부터 출발하다",
+      "presentation": "illustrated",
+      "visible": [
+        "gohyejin",
+        "yeon"
+      ],
+      "scene": "Hyejin takes one step and loose metal tools clang, Yeon raises hand to pause; camp test only, humorous awkward expressions.",
+      "image": "art/comics/yeon-prologue-v5/sheet-02.png",
+      "panel": 1,
+      "dialogue": [
+        {
+          "speaker": "고혜진",
+          "text": "준비됐수다. 인제 조용히 이동… 아, 이 소리는."
+        },
+        {
+          "speaker": "연개소문",
+          "text": "네 짐이 벌써 출발을 알리고 있구마. 수레 못과 방울을 같이 넣었소?"
+        },
+        {
+          "speaker": "고혜진",
+          "text": "정리한 뒤에 다시 걸어 보겠수다."
+        }
+      ],
+      "speaker": "고혜진",
+      "text": "고혜진 · 준비됐수다. 인제 조용히 이동… 아, 이 소리는.\n연개소문 · 네 짐이 벌써 출발을 알리고 있구마. 수레 못과 방울을 같이 넣었소?\n고혜진 · 정리한 뒤에 다시 걸어 보겠수다.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "고혜진",
+            "box": [
+              21,
+              14,
+              49,
+              54
+            ]
+          },
+          {
+            "speaker": "연개소문",
+            "box": [
+              61,
+              23,
+              89,
+              63
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 7,
+      "title": "준비를 임무에 맞춘다",
+      "presentation": "illustrated",
+      "visible": [
+        "jeongto",
+        "gohyejin",
+        "gojeongui"
+      ],
+      "scene": "Jeongto wraps loose iron tools in cloth, Gojeongui selects rope and useful pegs from bag, practical teamwork.",
+      "image": "art/comics/yeon-prologue-v5/sheet-02.png",
+      "panel": 2,
+      "dialogue": [
+        {
+          "speaker": "연정토",
+          "text": "쇠붙이는 천으로 싸고, 밧줄은 바로 꺼낼 수 있게 위에 놓읍시다."
+        },
+        {
+          "speaker": "고정의",
+          "text": "자물쇠 셋은 진영에 두어도 되겠소. 지금 필요한 것은 길을 고칠 도구요."
+        },
+        {
+          "speaker": "고혜진",
+          "text": "덜 챙기는 것도 준비라는 말이구마. 알겠수다."
+        }
+      ],
+      "speaker": "연정토",
+      "text": "연정토 · 쇠붙이는 천으로 싸고, 밧줄은 바로 꺼낼 수 있게 위에 놓읍시다.\n고정의 · 자물쇠 셋은 진영에 두어도 되겠소. 지금 필요한 것은 길을 고칠 도구요.\n고혜진 · 덜 챙기는 것도 준비라는 말이구마. 알겠수다.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "연정토",
+            "box": [
+              6,
+              19,
+              30,
+              59
+            ]
+          },
+          {
+            "speaker": "고혜진",
+            "box": [
+              37,
+              23,
+              61,
+              63
+            ]
+          },
+          {
+            "speaker": "고정의",
+            "box": [
+              67,
+              19,
+              91,
+              59
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 8,
+      "title": "연수의 장담",
+      "presentation": "illustrated",
+      "visible": [
+        "goyeonsu",
+        "gojeongui"
+      ],
+      "scene": "Yeonsu confidently points at blank fork diagram then pauses, Gojeongui points to a different verified route mark.",
+      "image": "art/comics/yeon-prologue-v5/sheet-02.png",
+      "panel": 3,
+      "dialogue": [
+        {
+          "speaker": "고연수",
+          "text": "그 개울이라면 내래 잘 알지비. 곧장 가면… 갈림길이 하나 더 있었던가?"
+        },
+        {
+          "speaker": "고정의",
+          "text": "직접 확인한 길은 이쪽이오. 모르는 곳에서는 같이 보고 정합시다."
+        },
+        {
+          "speaker": "고연수",
+          "text": "좋소. 이번에는 아는 만큼만 앞장서겠수다."
+        }
+      ],
+      "speaker": "고연수",
+      "text": "고연수 · 그 개울이라면 내래 잘 알지비. 곧장 가면… 갈림길이 하나 더 있었던가?\n고정의 · 직접 확인한 길은 이쪽이오. 모르는 곳에서는 같이 보고 정합시다.\n고연수 · 좋소. 이번에는 아는 만큼만 앞장서겠수다.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "고연수",
+            "box": [
+              12,
+              23,
+              40,
+              63
+            ]
+          },
+          {
+            "speaker": "고정의",
+            "box": [
+              62,
+              23,
+              90,
+              63
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 9,
+      "title": "사람이 머물 곳",
+      "presentation": "illustrated",
+      "visible": [
+        "jeongto",
+        "yeon"
+      ],
+      "scene": "Jeongto and Yeon prepare warm cloaks and a rest tent near camp return path, people unseen, human stakes.",
+      "image": "art/comics/yeon-prologue-v5/sheet-03.png",
+      "panel": 0,
+      "dialogue": [
+        {
+          "speaker": "연정토",
+          "text": "돌아오는 일꾼들은 이 천막에서 쉬게 하겠수다. 몸이 식었을 테니 담요도 꺼내 놓았소."
+        },
+        {
+          "speaker": "연개소문",
+          "text": "물도 데워 두라우. 걸을 수 없는 사람을 실을 빈 수레도 남겨야겠구마."
+        },
+        {
+          "speaker": "연정토",
+          "text": "언니가 길을 열면 내가 한 사람씩 데려오겠수다."
+        }
+      ],
+      "speaker": "연정토",
+      "text": "연정토 · 돌아오는 일꾼들은 이 천막에서 쉬게 하겠수다. 몸이 식었을 테니 담요도 꺼내 놓았소.\n연개소문 · 물도 데워 두라우. 걸을 수 없는 사람을 실을 빈 수레도 남겨야겠구마.\n연정토 · 언니가 길을 열면 내가 한 사람씩 데려오겠수다.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "연정토",
+            "box": [
+              14,
+              24,
+              42,
+              64
+            ]
+          },
+          {
+            "speaker": "연개소문",
+            "box": [
+              54,
+              24,
+              82,
+              64
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 10,
+      "title": "위험한 길이라는 증거",
+      "presentation": "illustrated",
+      "visible": [
+        "gojeongui",
+        "yeon"
+      ],
+      "scene": "At camp watch ridge, Gojeongui indicates cut rope and distant unlit beacon, Yeon listens with stern focus.",
+      "image": "art/comics/yeon-prologue-v5/sheet-03.png",
+      "panel": 1,
+      "dialogue": [
+        {
+          "speaker": "고정의",
+          "text": "길가에서 끊어진 밧줄도 찾았소. 낡아서 끊긴 모양은 아니었수다."
+        },
+        {
+          "speaker": "연개소문",
+          "text": "누군가 수레를 막았을 수 있겠구마. 그라면 무리해서 흩어지지 말라우."
+        },
+        {
+          "speaker": "고정의",
+          "text": "봉화가 꺼진 구간부터 살피겠수다. 사람은 아직 발견하지 못했소."
+        }
+      ],
+      "speaker": "고정의",
+      "text": "고정의 · 길가에서 끊어진 밧줄도 찾았소. 낡아서 끊긴 모양은 아니었수다.\n연개소문 · 누군가 수레를 막았을 수 있겠구마. 그라면 무리해서 흩어지지 말라우.\n고정의 · 봉화가 꺼진 구간부터 살피겠수다. 사람은 아직 발견하지 못했소.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "고정의",
+            "box": [
+              14,
+              19,
+              42,
+              59
+            ]
+          },
+          {
+            "speaker": "연개소문",
+            "box": [
+              63,
+              25,
+              91,
+              65
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 11,
+      "title": "회수와 호위는 다르다",
+      "presentation": "illustrated",
+      "visible": [
+        "yeon",
+        "jeongto",
+        "goyeonsu"
+      ],
+      "scene": "Map briefing, Yeon separates cart recovery route and protected return lane with pebbles, others follow.",
+      "image": "art/comics/yeon-prologue-v5/sheet-03.png",
+      "panel": 2,
+      "dialogue": [
+        {
+          "speaker": "연개소문",
+          "text": "수레를 찾는 사람과 일꾼을 데려오는 사람이 같이 달려들면 안 되오."
+        },
+        {
+          "speaker": "연정토",
+          "text": "나는 돌아올 길을 지키고, 연수 장군이 대열을 모아 주시면 되겠수다."
+        },
+        {
+          "speaker": "고연수",
+          "text": "알겠소. 수레를 봐도 사람부터 흩어지지 않게 하겠수다."
+        }
+      ],
+      "speaker": "연개소문",
+      "text": "연개소문 · 수레를 찾는 사람과 일꾼을 데려오는 사람이 같이 달려들면 안 되오.\n연정토 · 나는 돌아올 길을 지키고, 연수 장군이 대열을 모아 주시면 되겠수다.\n고연수 · 알겠소. 수레를 봐도 사람부터 흩어지지 않게 하겠수다.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "연개소문",
+            "box": [
+              2,
+              23,
+              26,
+              63
+            ]
+          },
+          {
+            "speaker": "연정토",
+            "box": [
+              34,
+              27,
+              58,
+              67
+            ]
+          },
+          {
+            "speaker": "고연수",
+            "box": [
+              66,
+              19,
+              90,
+              59
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 12,
+      "title": "필요할 때 바로 쓰는 짐",
+      "presentation": "illustrated",
+      "visible": [
+        "gohyejin",
+        "gojeongui"
+      ],
+      "scene": "Hyejin opens reorganized compact bag, useful rope is neatly on top, Gojeongui checks one spare peg.",
+      "image": "art/comics/yeon-prologue-v5/sheet-03.png",
+      "panel": 3,
+      "dialogue": [
+        {
+          "speaker": "고혜진",
+          "text": "밧줄은 위, 못은 천 안에 넣었소. 아까보다 가볍고 조용하오."
+        },
+        {
+          "speaker": "고정의",
+          "text": "좋소. 꺼내는 순서도 맞구마. 이번에는 수레를 고칠 때 헤매지 않겠소."
+        },
+        {
+          "speaker": "고혜진",
+          "text": "자물쇠는… 하나만 남겨도 되겠소?"
+        },
+        {
+          "speaker": "고정의",
+          "text": "그것은 돌아와서 창고에 쓰시오."
+        }
+      ],
+      "speaker": "고혜진",
+      "text": "고혜진 · 밧줄은 위, 못은 천 안에 넣었소. 아까보다 가볍고 조용하오.\n고정의 · 좋소. 꺼내는 순서도 맞구마. 이번에는 수레를 고칠 때 헤매지 않겠소.\n고혜진 · 자물쇠는… 하나만 남겨도 되겠소?\n고정의 · 그것은 돌아와서 창고에 쓰시오.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "고혜진",
+            "box": [
+              15,
+              23,
+              43,
+              63
+            ]
+          },
+          {
+            "speaker": "고정의",
+            "box": [
+              62,
+              20,
+              90,
+              60
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 13,
+      "title": "언니도 같은 약속을",
+      "presentation": "illustrated",
+      "visible": [
+        "jeongto",
+        "yeon"
+      ],
+      "scene": "Quiet sister conversation beside camp gate, Jeongto tightens Yeon cloak clasp, no slapstick.",
+      "image": "art/comics/yeon-prologue-v5/sheet-04.png",
+      "panel": 0,
+      "dialogue": [
+        {
+          "speaker": "연정토",
+          "text": "언니, 위험하면 먼저 신호하라우. 혼자 다 막으려 들지는 말고."
+        },
+        {
+          "speaker": "연개소문",
+          "text": "너도 사람을 찾았다고 혼자 데려오지 말라우. 호위부터 붙여야 하오."
+        },
+        {
+          "speaker": "연정토",
+          "text": "그 약속, 언니도 지키는 것으로 알겠수다."
+        }
+      ],
+      "speaker": "연정토",
+      "text": "연정토 · 언니, 위험하면 먼저 신호하라우. 혼자 다 막으려 들지는 말고.\n연개소문 · 너도 사람을 찾았다고 혼자 데려오지 말라우. 호위부터 붙여야 하오.\n연정토 · 그 약속, 언니도 지키는 것으로 알겠수다.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "연정토",
+            "box": [
+              16,
+              25,
+              44,
+              65
+            ]
+          },
+          {
+            "speaker": "연개소문",
+            "box": [
+              54,
+              25,
+              82,
+              65
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 14,
+      "title": "돌아올 길의 준비",
+      "presentation": "illustrated",
+      "visible": [
+        "goyeonsu",
+        "gohyejin"
+      ],
+      "scene": "Yeonsu and Hyejin position empty rescue cart and ropes at safe fork near camp, clearly practical preparation.",
+      "image": "art/comics/yeon-prologue-v5/sheet-04.png",
+      "panel": 1,
+      "dialogue": [
+        {
+          "speaker": "고연수",
+          "text": "빈 수레는 여기 두겠소. 다친 사람이 있으면 이 길로 바로 돌아갈 수 있소."
+        },
+        {
+          "speaker": "고혜진",
+          "text": "밧줄은 수레에 싣고 나머지 도구는 내가 들겠수다."
+        },
+        {
+          "speaker": "고연수",
+          "text": "이제는 네 짐도 진군 소리를 안 내겠구마."
+        }
+      ],
+      "speaker": "고연수",
+      "text": "고연수 · 빈 수레는 여기 두겠소. 다친 사람이 있으면 이 길로 바로 돌아갈 수 있소.\n고혜진 · 밧줄은 수레에 싣고 나머지 도구는 내가 들겠수다.\n고연수 · 이제는 네 짐도 진군 소리를 안 내겠구마.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "고연수",
+            "box": [
+              13,
+              23,
+              41,
+              63
+            ]
+          },
+          {
+            "speaker": "고혜진",
+            "box": [
+              63,
+              26,
+              91,
+              66
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 15,
+      "title": "진영에 남기는 약속",
+      "presentation": "illustrated",
+      "visible": [
+        "yeon",
+        "jeongto",
+        "gohyejin"
+      ],
+      "scene": "Three generals look back at lit return tent and empty wagon space before leaving.",
+      "image": "art/comics/yeon-prologue-v5/sheet-04.png",
+      "panel": 2,
+      "dialogue": [
+        {
+          "speaker": "연개소문",
+          "text": "우리가 나간 뒤에도 귀환 길은 비워 두라우. 수레가 돌아오면 사람부터 내려 쉬게 해야 하오."
+        },
+        {
+          "speaker": "연정토",
+          "text": "천막과 담요, 빈 수레까지 확인했수다. 돌아오기만 하면 되오."
+        },
+        {
+          "speaker": "고혜진",
+          "text": "돌아온 사람 이름도 하나씩 확인하겠수다."
+        }
+      ],
+      "speaker": "연개소문",
+      "text": "연개소문 · 우리가 나간 뒤에도 귀환 길은 비워 두라우. 수레가 돌아오면 사람부터 내려 쉬게 해야 하오.\n연정토 · 천막과 담요, 빈 수레까지 확인했수다. 돌아오기만 하면 되오.\n고혜진 · 돌아온 사람 이름도 하나씩 확인하겠수다.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "연개소문",
+            "box": [
+              0,
+              25,
+              24,
+              65
+            ]
+          },
+          {
+            "speaker": "연정토",
+            "box": [
+              35,
+              21,
+              59,
+              61
+            ]
+          },
+          {
+            "speaker": "고혜진",
+            "box": [
+              65,
+              23,
+              89,
+              63
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 16,
+      "title": "다섯 사람의 출발",
+      "presentation": "illustrated",
+      "visible": [
+        "yeon",
+        "jeongto",
+        "gojeongui",
+        "goyeonsu",
+        "gohyejin"
+      ],
+      "scene": "All five leave northern camp into wooded work road, ordered traveling group, no extra soldiers in closeup.",
+      "image": "art/comics/yeon-prologue-v5/sheet-04.png",
+      "panel": 3,
+      "dialogue": [
+        {
+          "speaker": "고정의",
+          "text": "확인한 바퀴 자국은 여기서 북쪽으로 이어지오. 갈림길에서는 다시 멈추겠수다."
+        },
+        {
+          "speaker": "연개소문",
+          "text": "좋소. 정의가 앞을 보고, 연수와 혜진이 뒤를 받치라우."
+        },
+        {
+          "speaker": "연정토",
+          "text": "나는 언니 옆에서 귀환 길을 살피겠수다."
+        }
+      ],
+      "speaker": "고정의",
+      "text": "고정의 · 확인한 바퀴 자국은 여기서 북쪽으로 이어지오. 갈림길에서는 다시 멈추겠수다.\n연개소문 · 좋소. 정의가 앞을 보고, 연수와 혜진이 뒤를 받치라우.\n연정토 · 나는 언니 옆에서 귀환 길을 살피겠수다.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "연개소문",
+            "box": [
+              3,
+              29,
+              19,
+              61
+            ]
+          },
+          {
+            "speaker": "연정토",
+            "box": [
+              24,
+              31,
+              40,
+              63
+            ]
+          },
+          {
+            "speaker": "고정의",
+            "box": [
+              46,
+              27,
+              62,
+              59
+            ]
+          },
+          {
+            "speaker": "고연수",
+            "box": [
+              67,
+              29,
+              83,
+              61
+            ]
+          },
+          {
+            "speaker": "고혜진",
+            "box": [
+              85,
+              29,
+              100,
+              61
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 17,
+      "title": "길을 함께 확인하다",
+      "presentation": "illustrated",
+      "visible": [
+        "gojeongui",
+        "goyeonsu"
+      ],
+      "scene": "At forest fork, both generals crouch at wheel rut, one road blocked with fallen branch, clear discovery.",
+      "image": "art/comics/yeon-prologue-v5/sheet-05.png",
+      "panel": 0,
+      "dialogue": [
+        {
+          "speaker": "고연수",
+          "text": "이쪽에도 자국이 있수다. 둘 다 수레길처럼 보이는데?"
+        },
+        {
+          "speaker": "고정의",
+          "text": "오른쪽 자국은 오래됐소. 어제 젖은 흙을 밟은 자국은 왼쪽이오."
+        },
+        {
+          "speaker": "고연수",
+          "text": "직접 보고 나니 구별되겠구마. 이 길로 대열을 붙이겠수다."
+        }
+      ],
+      "speaker": "고연수",
+      "text": "고연수 · 이쪽에도 자국이 있수다. 둘 다 수레길처럼 보이는데?\n고정의 · 오른쪽 자국은 오래됐소. 어제 젖은 흙을 밟은 자국은 왼쪽이오.\n고연수 · 직접 보고 나니 구별되겠구마. 이 길로 대열을 붙이겠수다.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "고정의",
+            "box": [
+              13,
+              26,
+              41,
+              66
+            ]
+          },
+          {
+            "speaker": "고연수",
+            "box": [
+              62,
+              29,
+              90,
+              69
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 18,
+      "title": "마지막으로 듣는 소리",
+      "presentation": "illustrated",
+      "visible": [
+        "gohyejin",
+        "jeongto"
+      ],
+      "scene": "Hyejin takes careful silent step with compact wrapped bag, Jeongto smiles and listens near forest trail.",
+      "image": "art/comics/yeon-prologue-v5/sheet-05.png",
+      "panel": 1,
+      "dialogue": [
+        {
+          "speaker": "고혜진",
+          "text": "이번에는 아무 소리도 안 나지비?"
+        },
+        {
+          "speaker": "연정토",
+          "text": "이제 됐소. 아까는 수레를 찾기 전에 네 짐부터 찾을 뻔했구마."
+        },
+        {
+          "speaker": "고혜진",
+          "text": "돌아올 때는 수레 소리만 들리게 하겠수다."
+        }
+      ],
+      "speaker": "고혜진",
+      "text": "고혜진 · 이번에는 아무 소리도 안 나지비?\n연정토 · 이제 됐소. 아까는 수레를 찾기 전에 네 짐부터 찾을 뻔했구마.\n고혜진 · 돌아올 때는 수레 소리만 들리게 하겠수다.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "고혜진",
+            "box": [
+              14,
+              29,
+              42,
+              69
+            ]
+          },
+          {
+            "speaker": "연정토",
+            "box": [
+              62,
+              26,
+              90,
+              66
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 19,
+      "title": "봉화 아래의 흔적",
+      "presentation": "illustrated",
+      "visible": [
+        "yeon",
+        "gojeongui"
+      ],
+      "scene": "Distant unlit beacon and abandoned cart ruts at small creek approach, Yeon and Gojeongui stop before entering danger, no rescue already completed.",
+      "image": "art/comics/yeon-prologue-v5/sheet-05.png",
+      "panel": 2,
+      "dialogue": [
+        {
+          "speaker": "고정의",
+          "text": "저 개울에 수레가 멈춰 있소. 일꾼들은 보이지 않으니 주변부터 살펴야 하오."
+        },
+        {
+          "speaker": "연개소문",
+          "text": "여기서부터는 앞을 살피고 움직이오. 사람을 찾으면 정토에게 먼저 신호하라우."
+        },
+        {
+          "speaker": "고정의",
+          "text": "확인했소. 성급히 따라 들어가지는 않겠수다."
+        }
+      ],
+      "speaker": "고정의",
+      "text": "고정의 · 저 개울에 수레가 멈춰 있소. 일꾼들은 보이지 않으니 주변부터 살펴야 하오.\n연개소문 · 여기서부터는 앞을 살피고 움직이오. 사람을 찾으면 정토에게 먼저 신호하라우.\n고정의 · 확인했소. 성급히 따라 들어가지는 않겠수다.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "연개소문",
+            "box": [
+              13,
+              30,
+              41,
+              70
+            ]
+          },
+          {
+            "speaker": "고정의",
+            "box": [
+              64,
+              25,
+              92,
+              65
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 20,
+      "title": "천리장성의 아침",
+      "presentation": "illustrated",
+      "visible": [
+        "yeon",
+        "jeongto"
+      ],
+      "scene": "Sisters at first-chapter starting point by construction road, dark distant beacon, companions remain behind out of view, decisive mission handoff.",
+      "image": "art/comics/yeon-prologue-v5/sheet-05.png",
+      "panel": 3,
+      "dialogue": [
+        {
+          "speaker": "연정토",
+          "text": "언니, 준비됐수다. 일꾼들을 데려올 길도 비워 두었소."
+        },
+        {
+          "speaker": "연개소문",
+          "text": "좋소. 이제 수레를 되찾고, 돌아오지 못한 사람들을 데려오자우."
+        },
+        {
+          "speaker": "연개소문",
+          "text": "성벽은 기다릴 수 있어도 사람은 기다리게 둘 수 없지비. 내가 길을 열겠수다."
+        }
+      ],
+      "speaker": "연정토",
+      "text": "연정토 · 언니, 준비됐수다. 일꾼들을 데려올 길도 비워 두었소.\n연개소문 · 좋소. 이제 수레를 되찾고, 돌아오지 못한 사람들을 데려오자우.\n연개소문 · 성벽은 기다릴 수 있어도 사람은 기다리게 둘 수 없지비. 내가 길을 열겠수다.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "연개소문",
+            "box": [
+              16,
+              28,
+              44,
+              68
+            ]
+          },
+          {
+            "speaker": "연정토",
+            "box": [
+              63,
+              28,
+              91,
+              68
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "mode": "built-in image_gen",
+  "storySource": "src/stories/prologues-v5.json",
+  "humor": "고혜진의 과도한 예비 장비와 점검이 소음을 만들고, 동료들이 실제 임무에 맞게 정리하는 과정"
+}

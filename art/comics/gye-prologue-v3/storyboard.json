@@ -1,0 +1,1163 @@
+{
+  "version": 5,
+  "hero": "gye",
+  "title": "깃발보다 먼저 챙길 것",
+  "chapterTitle": "솥뚜껑과 출정 명령",
+  "description": "642년. 대야성 방면 진군을 앞둔 백제 전진 진영에서 다섯 장군이 출정 대열과 보급 준비를 나눈다. 사건·초기 참여·대사·자매 호칭·지형 세부는 게임 각색.",
+  "cast": [
+    {
+      "id": "gye",
+      "name": "계백",
+      "role": "달솔"
+    },
+    {
+      "id": "yunchung",
+      "name": "윤충",
+      "role": "장군"
+    },
+    {
+      "id": "heukchi",
+      "name": "흑치상지",
+      "role": "장군"
+    },
+    {
+      "id": "boksin",
+      "name": "복신",
+      "role": "장군"
+    },
+    {
+      "id": "chungsang",
+      "name": "충상",
+      "role": "장군"
+    },
+    {
+      "id": "uija",
+      "name": "의자왕",
+      "role": "군주"
+    }
+  ],
+  "pages": [
+    {
+      "number": 1,
+      "title": "대야성으로 향하는 명령",
+      "presentation": "illustrated",
+      "visible": [
+        "uija",
+        "gye",
+        "yunchung"
+      ],
+      "scene": "Baekje royal palace briefing, Uija seated before route map, Gyebaek and Yunchung receive mission.",
+      "image": "art/comics/gye-prologue-v5/sheet-01.png",
+      "panel": 0,
+      "dialogue": [
+        {
+          "speaker": "의자왕",
+          "text": "동쪽 대야성 방면으로 군사를 보낼 것이여. 길이 길응께 보급이 끊기면 안 되겄제."
+        },
+        {
+          "speaker": "윤충",
+          "text": "선봉 진형과 집결 지점은 제가 정리허겄습니다."
+        },
+        {
+          "speaker": "계백",
+          "text": "저는 뒤따르는 사람들하고 군량을 살피겄습니다. 사람까지 닿아야 진군한 것이제라."
+        }
+      ],
+      "speaker": "의자왕",
+      "text": "의자왕 · 동쪽 대야성 방면으로 군사를 보낼 것이여. 길이 길응께 보급이 끊기면 안 되겄제.\n윤충 · 선봉 진형과 집결 지점은 제가 정리허겄습니다.\n계백 · 저는 뒤따르는 사람들하고 군량을 살피겄습니다. 사람까지 닿아야 진군한 것이제라.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "의자왕",
+            "box": [
+              13,
+              26,
+              37,
+              66
+            ]
+          },
+          {
+            "speaker": "계백",
+            "box": [
+              39,
+              29,
+              63,
+              69
+            ]
+          },
+          {
+            "speaker": "윤충",
+            "box": [
+              66,
+              23,
+              90,
+              63
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 2,
+      "title": "왕이 기다리는 보고",
+      "presentation": "illustrated",
+      "visible": [
+        "uija",
+        "gye"
+      ],
+      "scene": "Same royal palace, ruler puts down tea and asks seriously, Gyebaek responds firmly.",
+      "image": "art/comics/gye-prologue-v5/sheet-01.png",
+      "panel": 1,
+      "dialogue": [
+        {
+          "speaker": "의자왕",
+          "text": "계백, 출정 준비가 끝나면 보고혀라. 앞줄만 번듯하고 뒤가 비어 있으면 곤란허제."
+        },
+        {
+          "speaker": "계백",
+          "text": "윤충·흑치상지·복신·충상과 나눠 맡겄습니다. 빠진 사람이 없는지 확인하고 나서겄습니다."
+        },
+        {
+          "speaker": "의자왕",
+          "text": "좋다. 멋진 보고보다 틀림없는 보고를 기다리겄다."
+        }
+      ],
+      "speaker": "의자왕",
+      "text": "의자왕 · 계백, 출정 준비가 끝나면 보고혀라. 앞줄만 번듯하고 뒤가 비어 있으면 곤란허제.\n계백 · 윤충·흑치상지·복신·충상과 나눠 맡겄습니다. 빠진 사람이 없는지 확인하고 나서겄습니다.\n의자왕 · 좋다. 멋진 보고보다 틀림없는 보고를 기다리겄다.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "의자왕",
+            "box": [
+              10,
+              25,
+              38,
+              65
+            ]
+          },
+          {
+            "speaker": "계백",
+            "box": [
+              63,
+              23,
+              91,
+              63
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 3,
+      "title": "며칠 뒤, 전진 진영",
+      "presentation": "illustrated",
+      "visible": [
+        "gye",
+        "yunchung",
+        "heukchi",
+        "boksin",
+        "chungsang"
+      ],
+      "scene": "Blue-banner forward camp, five generals beside packed supply wagons, Yunchung gestures to open assembly ground.",
+      "image": "art/comics/gye-prologue-v5/sheet-01.png",
+      "panel": 2,
+      "dialogue": [
+        {
+          "speaker": "윤충",
+          "text": "전하 명을 받고 전진 진영까지 왔구먼. 여기서 출정 대열을 세우겄소. 앞줄은 깃발, 가운데는 수레, 뒤에는 호위요."
+        },
+        {
+          "speaker": "계백",
+          "text": "그 배치면 쉬는 사람하고 늦게 오는 사람은 어디로 붙이면 되겄소?"
+        },
+        {
+          "speaker": "충상",
+          "text": "제가 오른쪽 빈터에서 모아 안내허겄습니다. 길이 둘로 갈리지는 않게요."
+        }
+      ],
+      "speaker": "윤충",
+      "text": "윤충 · 전하 명을 받고 전진 진영까지 왔구먼. 여기서 출정 대열을 세우겄소. 앞줄은 깃발, 가운데는 수레, 뒤에는 호위요.\n계백 · 그 배치면 쉬는 사람하고 늦게 오는 사람은 어디로 붙이면 되겄소?\n충상 · 제가 오른쪽 빈터에서 모아 안내허겄습니다. 길이 둘로 갈리지는 않게요.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "계백",
+            "box": [
+              5,
+              37,
+              21,
+              69
+            ]
+          },
+          {
+            "speaker": "윤충",
+            "box": [
+              25,
+              33,
+              41,
+              65
+            ]
+          },
+          {
+            "speaker": "흑치상지",
+            "box": [
+              46,
+              36,
+              62,
+              68
+            ]
+          },
+          {
+            "speaker": "복신",
+            "box": [
+              66,
+              37,
+              82,
+              69
+            ]
+          },
+          {
+            "speaker": "충상",
+            "box": [
+              85,
+              39,
+              100,
+              71
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 4,
+      "title": "출정사는 준비됐는데",
+      "presentation": "illustrated",
+      "visible": [
+        "yunchung",
+        "boksin"
+      ],
+      "scene": "Yunchung rehearses dignified speech to Boksin carrying large blue flag, gust covers Yunchung face with cloth. Friendly physical comedy.",
+      "image": "art/comics/gye-prologue-v5/sheet-01.png",
+      "panel": 3,
+      "dialogue": [
+        {
+          "speaker": "윤충",
+          "text": "오늘 우리의 깃발이 동쪽 하늘을… 읍!"
+        },
+        {
+          "speaker": "복신",
+          "text": "바람이 장군 말씀을 먼저 듣고 싶었나 보요. 깃발이 얼굴로 가 버렸네."
+        },
+        {
+          "speaker": "윤충",
+          "text": "…출정사보다 깃대 자리부터 바꾸겄소."
+        }
+      ],
+      "speaker": "윤충",
+      "text": "윤충 · 오늘 우리의 깃발이 동쪽 하늘을… 읍!\n복신 · 바람이 장군 말씀을 먼저 듣고 싶었나 보요. 깃발이 얼굴로 가 버렸네.\n윤충 · …출정사보다 깃대 자리부터 바꾸겄소.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "윤충",
+            "box": [
+              15,
+              30,
+              43,
+              70
+            ]
+          },
+          {
+            "speaker": "복신",
+            "box": [
+              58,
+              29,
+              86,
+              69
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 5,
+      "title": "바람도 준비에 넣는다",
+      "presentation": "illustrated",
+      "visible": [
+        "chungsang",
+        "yunchung",
+        "boksin"
+      ],
+      "scene": "Chungsang points at wind direction, flag now tied and moved away from faces, Yunchung makes practical adjustment.",
+      "image": "art/comics/gye-prologue-v5/sheet-02.png",
+      "panel": 0,
+      "dialogue": [
+        {
+          "speaker": "충상",
+          "text": "깃대를 이쪽으로 옮기면 바람이 뒤로 불겄는디요."
+        },
+        {
+          "speaker": "윤충",
+          "text": "그라제. 대열도 바람을 등지고 세우면 먼지가 덜 들어오겄소."
+        },
+        {
+          "speaker": "복신",
+          "text": "이제 깃발도 장군 말 끊지는 않겄구먼."
+        }
+      ],
+      "speaker": "충상",
+      "text": "충상 · 깃대를 이쪽으로 옮기면 바람이 뒤로 불겄는디요.\n윤충 · 그라제. 대열도 바람을 등지고 세우면 먼지가 덜 들어오겄소.\n복신 · 이제 깃발도 장군 말 끊지는 않겄구먼.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "충상",
+            "box": [
+              6,
+              25,
+              30,
+              65
+            ]
+          },
+          {
+            "speaker": "윤충",
+            "box": [
+              40,
+              21,
+              64,
+              61
+            ]
+          },
+          {
+            "speaker": "복신",
+            "box": [
+              70,
+              33,
+              94,
+              73
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 6,
+      "title": "멈춘 수레 바퀴",
+      "presentation": "illustrated",
+      "visible": [
+        "heukchi",
+        "gye"
+      ],
+      "scene": "Heukchi crouches at wobbling wagon wheel, Gyebaek holds wagon steady, split axle peg clearly visible.",
+      "image": "art/comics/gye-prologue-v5/sheet-02.png",
+      "panel": 1,
+      "dialogue": [
+        {
+          "speaker": "흑치상지",
+          "text": "이 수레가 출정하기 싫다고 버티는구먼. 바퀴 못이 헐거워졌소."
+        },
+        {
+          "speaker": "계백",
+          "text": "짐부터 내려 놓읍시다. 사람 손 다치기 전에 고쳐야제라."
+        },
+        {
+          "speaker": "흑치상지",
+          "text": "옳소. 달래는 건 내가 허고, 짐은 같이 내려 주시오."
+        }
+      ],
+      "speaker": "흑치상지",
+      "text": "흑치상지 · 이 수레가 출정하기 싫다고 버티는구먼. 바퀴 못이 헐거워졌소.\n계백 · 짐부터 내려 놓읍시다. 사람 손 다치기 전에 고쳐야제라.\n흑치상지 · 옳소. 달래는 건 내가 허고, 짐은 같이 내려 주시오.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "흑치상지",
+            "box": [
+              10,
+              21,
+              38,
+              61
+            ]
+          },
+          {
+            "speaker": "계백",
+            "box": [
+              67,
+              23,
+              95,
+              63
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 7,
+      "title": "혼자 맡으면 늦어진다",
+      "presentation": "illustrated",
+      "visible": [
+        "boksin",
+        "chungsang"
+      ],
+      "scene": "Boksin overloaded with flag pole, rope and several folded blankets, Chungsang offers to take supplies.",
+      "image": "art/comics/gye-prologue-v5/sheet-02.png",
+      "panel": 2,
+      "dialogue": [
+        {
+          "speaker": "복신",
+          "text": "깃발도 내가, 수레 짐도 내가 옮기겄소!"
+        },
+        {
+          "speaker": "충상",
+          "text": "두 팔로 세 가지를 들면 하나는 떨어지겄는디요. 담요는 제가 맡을까요?"
+        },
+        {
+          "speaker": "복신",
+          "text": "…좋소. 같이 맡는 것도 맡는 것이제."
+        }
+      ],
+      "speaker": "복신",
+      "text": "복신 · 깃발도 내가, 수레 짐도 내가 옮기겄소!\n충상 · 두 팔로 세 가지를 들면 하나는 떨어지겄는디요. 담요는 제가 맡을까요?\n복신 · …좋소. 같이 맡는 것도 맡는 것이제.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "복신",
+            "box": [
+              14,
+              27,
+              42,
+              67
+            ]
+          },
+          {
+            "speaker": "충상",
+            "box": [
+              64,
+              28,
+              92,
+              68
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 8,
+      "title": "행군 준비는 사람부터",
+      "presentation": "illustrated",
+      "visible": [
+        "gye",
+        "chungsang"
+      ],
+      "scene": "Gyebaek and Chungsang inspect camp assembly entrance, water jar and small first aid bundles ready, no unnamed speaking characters.",
+      "image": "art/comics/gye-prologue-v5/sheet-02.png",
+      "panel": 3,
+      "dialogue": [
+        {
+          "speaker": "충상",
+          "text": "늦게 합류한 보급 인원은 아직 장부 대조를 못 했습니다."
+        },
+        {
+          "speaker": "계백",
+          "text": "그분들까지 확인해야 출발허제라. 이름 올릴 자리부터 마련합시다."
+        },
+        {
+          "speaker": "충상",
+          "text": "빈터에 쉬는 자리도 같이 내놓겄습니다."
+        }
+      ],
+      "speaker": "충상",
+      "text": "충상 · 늦게 합류한 보급 인원은 아직 장부 대조를 못 했습니다.\n계백 · 그분들까지 확인해야 출발허제라. 이름 올릴 자리부터 마련합시다.\n충상 · 빈터에 쉬는 자리도 같이 내놓겄습니다.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "계백",
+            "box": [
+              13,
+              26,
+              41,
+              66
+            ]
+          },
+          {
+            "speaker": "충상",
+            "box": [
+              62,
+              27,
+              90,
+              67
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 9,
+      "title": "앞서가는 계획과 뒤처진 현실",
+      "presentation": "illustrated",
+      "visible": [
+        "yunchung",
+        "gye"
+      ],
+      "scene": "Route table in forward tent, Yunchung looks at perfect formation model, Gyebaek points to real wagon being repaired outside.",
+      "image": "art/comics/gye-prologue-v5/sheet-03.png",
+      "panel": 0,
+      "dialogue": [
+        {
+          "speaker": "윤충",
+          "text": "계획대로면 지금쯤 출정 나팔이 울려야 허는디."
+        },
+        {
+          "speaker": "계백",
+          "text": "장군 계획이 틀린 게 아니여라. 수레 고치는 시간도 계획에 넣으면 되제요."
+        },
+        {
+          "speaker": "윤충",
+          "text": "그라믄 준비 완료 신호를 받고 나팔을 불겄소."
+        }
+      ],
+      "speaker": "윤충",
+      "text": "윤충 · 계획대로면 지금쯤 출정 나팔이 울려야 허는디.\n계백 · 장군 계획이 틀린 게 아니여라. 수레 고치는 시간도 계획에 넣으면 되제요.\n윤충 · 그라믄 준비 완료 신호를 받고 나팔을 불겄소.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "윤충",
+            "box": [
+              12,
+              25,
+              40,
+              65
+            ]
+          },
+          {
+            "speaker": "계백",
+            "box": [
+              49,
+              26,
+              77,
+              66
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 10,
+      "title": "예비 부품이 제 몫을 한다",
+      "presentation": "illustrated",
+      "visible": [
+        "heukchi",
+        "boksin"
+      ],
+      "scene": "Heukchi replaces axle peg while Boksin holds wheel and rope, repaired wooden wagon ready, satisfied smiles.",
+      "image": "art/comics/gye-prologue-v5/sheet-03.png",
+      "panel": 1,
+      "dialogue": [
+        {
+          "speaker": "흑치상지",
+          "text": "됐소. 이 못 하나 바꿨응께 행군 중에 바퀴 빠질 일은 없겄구먼."
+        },
+        {
+          "speaker": "복신",
+          "text": "작은 부품 하나가 큰 대열을 붙잡고 있었네."
+        },
+        {
+          "speaker": "흑치상지",
+          "text": "그래서 고장 난 놈도 함부로 버리면 안 되는 것이여. 고치면 같이 가제."
+        }
+      ],
+      "speaker": "흑치상지",
+      "text": "흑치상지 · 됐소. 이 못 하나 바꿨응께 행군 중에 바퀴 빠질 일은 없겄구먼.\n복신 · 작은 부품 하나가 큰 대열을 붙잡고 있었네.\n흑치상지 · 그래서 고장 난 놈도 함부로 버리면 안 되는 것이여. 고치면 같이 가제.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "흑치상지",
+            "box": [
+              15,
+              21,
+              43,
+              61
+            ]
+          },
+          {
+            "speaker": "복신",
+            "box": [
+              69,
+              24,
+              97,
+              64
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 11,
+      "title": "신호는 짧고 분명하게",
+      "presentation": "illustrated",
+      "visible": [
+        "yunchung",
+        "chungsang"
+      ],
+      "scene": "Yunchung demonstrates plain flag signals, Chungsang repeats them carefully before a route map.",
+      "image": "art/comics/gye-prologue-v5/sheet-03.png",
+      "panel": 2,
+      "dialogue": [
+        {
+          "speaker": "윤충",
+          "text": "깃발을 올리면 집결, 옆으로 내리면 대기요. 급하다고 동시에 흔들지는 마시오."
+        },
+        {
+          "speaker": "충상",
+          "text": "알겄습니다. 장군님 긴 출정사도 깃발 두 번이면 되겄네요?"
+        },
+        {
+          "speaker": "윤충",
+          "text": "…그 말이 맞아서 더 할 말이 없구먼."
+        }
+      ],
+      "speaker": "윤충",
+      "text": "윤충 · 깃발을 올리면 집결, 옆으로 내리면 대기요. 급하다고 동시에 흔들지는 마시오.\n충상 · 알겄습니다. 장군님 긴 출정사도 깃발 두 번이면 되겄네요?\n윤충 · …그 말이 맞아서 더 할 말이 없구먼.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "윤충",
+            "box": [
+              12,
+              28,
+              40,
+              68
+            ]
+          },
+          {
+            "speaker": "충상",
+            "box": [
+              56,
+              28,
+              84,
+              68
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 12,
+      "title": "계백의 빈자리",
+      "presentation": "illustrated",
+      "visible": [
+        "gye",
+        "chungsang"
+      ],
+      "scene": "Gyebaek has given her own rest cushion and water to waiting area, Chungsang points at her empty seat, gentle interpersonal beat.",
+      "image": "art/comics/gye-prologue-v5/sheet-03.png",
+      "panel": 3,
+      "dialogue": [
+        {
+          "speaker": "충상",
+          "text": "계백 장군 자리까지 남한테 주셨소? 장군도 쉬어야 허는디요."
+        },
+        {
+          "speaker": "계백",
+          "text": "마지막 인원 확인허고 앉을라요. 아직 빈 이름칸이 있응께."
+        },
+        {
+          "speaker": "충상",
+          "text": "그라믄 제가 반을 확인허겄소. 혼자 서 계실 일은 아니제라."
+        }
+      ],
+      "speaker": "충상",
+      "text": "충상 · 계백 장군 자리까지 남한테 주셨소? 장군도 쉬어야 허는디요.\n계백 · 마지막 인원 확인허고 앉을라요. 아직 빈 이름칸이 있응께.\n충상 · 그라믄 제가 반을 확인허겄소. 혼자 서 계실 일은 아니제라.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "계백",
+            "box": [
+              16,
+              28,
+              44,
+              68
+            ]
+          },
+          {
+            "speaker": "충상",
+            "box": [
+              63,
+              26,
+              91,
+              66
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 13,
+      "title": "서두를 이유와 멈출 이유",
+      "presentation": "illustrated",
+      "visible": [
+        "gye",
+        "yunchung"
+      ],
+      "scene": "Two commanders discuss eastward route at camp edge, clear tension then agreement, no confrontation or combat.",
+      "image": "art/comics/gye-prologue-v5/sheet-04.png",
+      "panel": 0,
+      "dialogue": [
+        {
+          "speaker": "윤충",
+          "text": "동쪽 길은 해 지기 전에 넘어야 혀요. 너무 늦어지면 대열이 더 힘들어질 것이오."
+        },
+        {
+          "speaker": "계백",
+          "text": "알고 있제라. 그래서 지금 빠진 사람을 찾자는 것이여라. 길 위에서 찾으면 더 늦어져요."
+        },
+        {
+          "speaker": "윤충",
+          "text": "좋소. 앞줄은 제가 준비하고, 마지막 점검은 장군에게 맡기겄소."
+        }
+      ],
+      "speaker": "윤충",
+      "text": "윤충 · 동쪽 길은 해 지기 전에 넘어야 혀요. 너무 늦어지면 대열이 더 힘들어질 것이오.\n계백 · 알고 있제라. 그래서 지금 빠진 사람을 찾자는 것이여라. 길 위에서 찾으면 더 늦어져요.\n윤충 · 좋소. 앞줄은 제가 준비하고, 마지막 점검은 장군에게 맡기겄소.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "계백",
+            "box": [
+              12,
+              25,
+              40,
+              65
+            ]
+          },
+          {
+            "speaker": "윤충",
+            "box": [
+              54,
+              25,
+              82,
+              65
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 14,
+      "title": "다섯 사람이 나눠 맡는다",
+      "presentation": "illustrated",
+      "visible": [
+        "gye",
+        "yunchung",
+        "heukchi",
+        "boksin",
+        "chungsang"
+      ],
+      "scene": "Five around wagon, clear practical final assignment, blue flags flutter in stable direction.",
+      "image": "art/comics/gye-prologue-v5/sheet-04.png",
+      "panel": 1,
+      "dialogue": [
+        {
+          "speaker": "윤충",
+          "text": "나는 선발대와 진군로, 흑치상지는 수레 상태를 맡으시오."
+        },
+        {
+          "speaker": "복신",
+          "text": "나는 깃발과 후속 대열을 맡겄소. 충상 장군은 합류하는 사람들을 안내허시오."
+        },
+        {
+          "speaker": "계백",
+          "text": "좋습니다. 저는 식량하고 인원 점검을 마치고 출정 보고를 올리겄습니다."
+        }
+      ],
+      "speaker": "윤충",
+      "text": "윤충 · 나는 선발대와 진군로, 흑치상지는 수레 상태를 맡으시오.\n복신 · 나는 깃발과 후속 대열을 맡겄소. 충상 장군은 합류하는 사람들을 안내허시오.\n계백 · 좋습니다. 저는 식량하고 인원 점검을 마치고 출정 보고를 올리겄습니다.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "계백",
+            "box": [
+              2,
+              36,
+              18,
+              68
+            ]
+          },
+          {
+            "speaker": "윤충",
+            "box": [
+              22,
+              32,
+              38,
+              64
+            ]
+          },
+          {
+            "speaker": "흑치상지",
+            "box": [
+              42,
+              35,
+              58,
+              67
+            ]
+          },
+          {
+            "speaker": "복신",
+            "box": [
+              63,
+              36,
+              79,
+              68
+            ]
+          },
+          {
+            "speaker": "충상",
+            "box": [
+              83,
+              37,
+              99,
+              69
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 15,
+      "title": "요란한 출정보다",
+      "presentation": "illustrated",
+      "visible": [
+        "yunchung",
+        "boksin"
+      ],
+      "scene": "Yunchung folds elaborate ceremonial speech scroll blank, Boksin holds stable blue flag and smiles.",
+      "image": "art/comics/gye-prologue-v5/sheet-04.png",
+      "panel": 2,
+      "dialogue": [
+        {
+          "speaker": "복신",
+          "text": "아까 준비한 긴 말씀은 언제 허실 것이오?"
+        },
+        {
+          "speaker": "윤충",
+          "text": "군사들이 다 모인 뒤에 한마디만 허겄소. 앞을 보고 같이 가자고."
+        },
+        {
+          "speaker": "복신",
+          "text": "그라믄 이번에는 깃발도 끝까지 듣고 있겄네."
+        }
+      ],
+      "speaker": "복신",
+      "text": "복신 · 아까 준비한 긴 말씀은 언제 허실 것이오?\n윤충 · 군사들이 다 모인 뒤에 한마디만 허겄소. 앞을 보고 같이 가자고.\n복신 · 그라믄 이번에는 깃발도 끝까지 듣고 있겄네.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "윤충",
+            "box": [
+              13,
+              25,
+              41,
+              65
+            ]
+          },
+          {
+            "speaker": "복신",
+            "box": [
+              58,
+              25,
+              86,
+              65
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 16,
+      "title": "고친 바퀴의 시험",
+      "presentation": "illustrated",
+      "visible": [
+        "heukchi",
+        "chungsang"
+      ],
+      "scene": "Two generals gently roll repaired wagon a short distance through camp, wheels straight and clear, not yet departure.",
+      "image": "art/comics/gye-prologue-v5/sheet-04.png",
+      "panel": 3,
+      "dialogue": [
+        {
+          "speaker": "흑치상지",
+          "text": "빈 수레부터 굴려 봤소. 이제 짐 싣고 한 번 더 확인하면 되겄소."
+        },
+        {
+          "speaker": "충상",
+          "text": "길도 이쪽으로 정리됐습니다. 늦게 오는 사람들과 부딪치지는 않겄어요."
+        },
+        {
+          "speaker": "흑치상지",
+          "text": "좋소. 오늘은 수레랑 말다툼도 끝났구먼."
+        }
+      ],
+      "speaker": "흑치상지",
+      "text": "흑치상지 · 빈 수레부터 굴려 봤소. 이제 짐 싣고 한 번 더 확인하면 되겄소.\n충상 · 길도 이쪽으로 정리됐습니다. 늦게 오는 사람들과 부딪치지는 않겄어요.\n흑치상지 · 좋소. 오늘은 수레랑 말다툼도 끝났구먼.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "흑치상지",
+            "box": [
+              14,
+              26,
+              42,
+              66
+            ]
+          },
+          {
+            "speaker": "충상",
+            "box": [
+              62,
+              26,
+              90,
+              66
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 17,
+      "title": "아직 오지 않은 사람들",
+      "presentation": "illustrated",
+      "visible": [
+        "chungsang",
+        "gye"
+      ],
+      "scene": "Chungsang brings a small blank roster strip to Gyebaek by supply tent, entrance still open for late arrivals.",
+      "image": "art/comics/gye-prologue-v5/sheet-05.png",
+      "panel": 0,
+      "dialogue": [
+        {
+          "speaker": "충상",
+          "text": "보급 인원 일부가 뒤쪽 취사장에 남아 있다 허네요. 장부에는 아직 표시가 안 됐습니다."
+        },
+        {
+          "speaker": "계백",
+          "text": "그라믄 출발 나팔은 잠깐 기다립시다. 제가 가서 왜 남았는지 들어 보겄습니다."
+        },
+        {
+          "speaker": "충상",
+          "text": "저는 길목을 비워 두겄습니다. 찾으시면 이쪽으로 데려오시지요."
+        }
+      ],
+      "speaker": "충상",
+      "text": "충상 · 보급 인원 일부가 뒤쪽 취사장에 남아 있다 허네요. 장부에는 아직 표시가 안 됐습니다.\n계백 · 그라믄 출발 나팔은 잠깐 기다립시다. 제가 가서 왜 남았는지 들어 보겄습니다.\n충상 · 저는 길목을 비워 두겄습니다. 찾으시면 이쪽으로 데려오시지요.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "충상",
+            "box": [
+              13,
+              27,
+              41,
+              67
+            ]
+          },
+          {
+            "speaker": "계백",
+            "box": [
+              55,
+              28,
+              83,
+              68
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 18,
+      "title": "준비가 끝났다는 말",
+      "presentation": "illustrated",
+      "visible": [
+        "gye",
+        "yunchung"
+      ],
+      "scene": "Gyebaek tells Yunchung to hold signal flag low, both agree, repaired wagon and assembled front rank behind.",
+      "image": "art/comics/gye-prologue-v5/sheet-05.png",
+      "panel": 1,
+      "dialogue": [
+        {
+          "speaker": "윤충",
+          "text": "선발대는 모였소. 나팔은 아직 울리지 않았고요."
+        },
+        {
+          "speaker": "계백",
+          "text": "고맙습니다. 마지막 사람 확인하고 오겄습니다. 빠진 이름이 있으면 끝난 게 아니제라."
+        },
+        {
+          "speaker": "윤충",
+          "text": "다 확인되면 짧게 알려 주시오. 이제 그 신호만 기다리겄소."
+        }
+      ],
+      "speaker": "윤충",
+      "text": "윤충 · 선발대는 모였소. 나팔은 아직 울리지 않았고요.\n계백 · 고맙습니다. 마지막 사람 확인하고 오겄습니다. 빠진 이름이 있으면 끝난 게 아니제라.\n윤충 · 다 확인되면 짧게 알려 주시오. 이제 그 신호만 기다리겄소.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "계백",
+            "box": [
+              14,
+              28,
+              42,
+              68
+            ]
+          },
+          {
+            "speaker": "윤충",
+            "box": [
+              61,
+              25,
+              89,
+              65
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 19,
+      "title": "각자의 확인을 마치며",
+      "presentation": "illustrated",
+      "visible": [
+        "heukchi",
+        "boksin",
+        "chungsang"
+      ],
+      "scene": "Three generals keep wagon, flag and arrival lane ready while Gyebaek walks toward supply tent in distance.",
+      "image": "art/comics/gye-prologue-v5/sheet-05.png",
+      "panel": 2,
+      "dialogue": [
+        {
+          "speaker": "흑치상지",
+          "text": "수레는 준비됐소. 급하게 끌고 나가지만 않으면 되겄소."
+        },
+        {
+          "speaker": "복신",
+          "text": "깃발도 제자리에 섰소. 이번에는 얼굴로 안 가요."
+        },
+        {
+          "speaker": "충상",
+          "text": "그라믄 사람들 들어올 길은 제가 지키고 있겄습니다."
+        }
+      ],
+      "speaker": "흑치상지",
+      "text": "흑치상지 · 수레는 준비됐소. 급하게 끌고 나가지만 않으면 되겄소.\n복신 · 깃발도 제자리에 섰소. 이번에는 얼굴로 안 가요.\n충상 · 그라믄 사람들 들어올 길은 제가 지키고 있겄습니다.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "흑치상지",
+            "box": [
+              1,
+              28,
+              25,
+              68
+            ]
+          },
+          {
+            "speaker": "복신",
+            "box": [
+              37,
+              34,
+              61,
+              74
+            ]
+          },
+          {
+            "speaker": "충상",
+            "box": [
+              71,
+              34,
+              95,
+              74
+            ]
+          },
+          {
+            "speaker": "계백",
+            "box": [
+              46,
+              23,
+              56,
+              40
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 20,
+      "title": "솥뚜껑과 출정 명령",
+      "presentation": "illustrated",
+      "visible": [
+        "gye",
+        "chungsang"
+      ],
+      "scene": "Gyebaek and Chungsang at supply tent entrance with cooking steam beyond and a blank roster, final unresolved inspection before chapter1, no victory.",
+      "image": "art/comics/gye-prologue-v5/sheet-05.png",
+      "panel": 3,
+      "dialogue": [
+        {
+          "speaker": "계백",
+          "text": "식량은 쌓여 있는디 사람 이름이 안 맞는구먼. 자, 남아 있는 분들부터 만나 봅시다."
+        },
+        {
+          "speaker": "충상",
+          "text": "왜 늦었는지 먼저 물어보면 되겄지요?"
+        },
+        {
+          "speaker": "계백",
+          "text": "그라제. 다 먹었는지, 다 모였는지 확인하고 출정 보고를 올리는 것이여라."
+        }
+      ],
+      "speaker": "계백",
+      "text": "계백 · 식량은 쌓여 있는디 사람 이름이 안 맞는구먼. 자, 남아 있는 분들부터 만나 봅시다.\n충상 · 왜 늦었는지 먼저 물어보면 되겄지요?\n계백 · 그라제. 다 먹었는지, 다 모였는지 확인하고 출정 보고를 올리는 것이여라.",
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "계백",
+            "box": [
+              17,
+              26,
+              45,
+              66
+            ]
+          },
+          {
+            "speaker": "충상",
+            "box": [
+              62,
+              27,
+              90,
+              67
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "mode": "built-in image_gen",
+  "storySource": "src/stories/prologues-v5.json",
+  "humor": "윤충의 거창한 출정 연출과 바람·깃발·수레 같은 현장의 실무가 어긋나는 상황"
+}

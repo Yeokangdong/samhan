@@ -1,0 +1,275 @@
+{
+  "tool": "built-in image_gen",
+  "artworks": [
+    {
+      "id": "relic_kim_06",
+      "file": "art/items/relic-codex-v1/relic_kim_06.png",
+      "size": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        496,
+        512
+      ],
+      "source": "art/items/relic-codex-v1/kim-relics.png"
+    },
+    {
+      "id": "relic_kim_12",
+      "file": "art/items/relic-codex-v1/relic_kim_12.png",
+      "size": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        1,
+        14,
+        490,
+        512
+      ],
+      "source": "art/items/relic-codex-v1/kim-relics.png"
+    },
+    {
+      "id": "relic_kim_14",
+      "file": "art/items/relic-codex-v1/relic_kim_14.png",
+      "size": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        5,
+        55,
+        489,
+        512
+      ],
+      "source": "art/items/relic-codex-v1/kim-relics.png"
+    },
+    {
+      "id": "relic_kim_24",
+      "file": "art/items/relic-codex-v1/relic_kim_24.png",
+      "size": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        512,
+        496
+      ],
+      "source": "art/items/relic-codex-v1/kim-relics.png"
+    },
+    {
+      "id": "relic_kim_27",
+      "file": "art/items/relic-codex-v1/relic_kim_27.png",
+      "size": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        499,
+        494
+      ],
+      "source": "art/items/relic-codex-v1/kim-relics.png"
+    },
+    {
+      "id": "relic_kim_28",
+      "file": "art/items/relic-codex-v1/relic_kim_28.png",
+      "size": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        13,
+        0,
+        503,
+        512
+      ],
+      "source": "art/items/relic-codex-v1/kim-relics.png"
+    },
+    {
+      "id": "relic_gye_06",
+      "file": "art/items/relic-codex-v1/relic_gye_06.png",
+      "size": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "source": "art/items/relic-codex-v1/gye-relics.png"
+    },
+    {
+      "id": "relic_gye_10",
+      "file": "art/items/relic-codex-v1/relic_gye_10.png",
+      "size": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        5,
+        16,
+        512,
+        512
+      ],
+      "source": "art/items/relic-codex-v1/gye-relics.png"
+    },
+    {
+      "id": "relic_gye_14",
+      "file": "art/items/relic-codex-v1/relic_gye_14.png",
+      "size": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        0,
+        11,
+        498,
+        512
+      ],
+      "source": "art/items/relic-codex-v1/gye-relics.png"
+    },
+    {
+      "id": "relic_gye_18",
+      "file": "art/items/relic-codex-v1/relic_gye_18.png",
+      "size": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        512,
+        498
+      ],
+      "source": "art/items/relic-codex-v1/gye-relics.png"
+    },
+    {
+      "id": "relic_gye_24",
+      "file": "art/items/relic-codex-v1/relic_gye_24.png",
+      "size": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "source": "art/items/relic-codex-v1/gye-relics.png"
+    },
+    {
+      "id": "relic_gye_28",
+      "file": "art/items/relic-codex-v1/relic_gye_28.png",
+      "size": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        501,
+        496
+      ],
+      "source": "art/items/relic-codex-v1/gye-relics.png"
+    },
+    {
+      "id": "relic_yeon_06",
+      "file": "art/items/relic-codex-v1/relic_yeon_06.png",
+      "size": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        0,
+        65,
+        512,
+        512
+      ],
+      "source": "art/items/relic-codex-v1/yeon-relics.png"
+    },
+    {
+      "id": "relic_yeon_08",
+      "file": "art/items/relic-codex-v1/relic_yeon_08.png",
+      "size": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        0,
+        23,
+        512,
+        512
+      ],
+      "source": "art/items/relic-codex-v1/yeon-relics.png"
+    },
+    {
+      "id": "relic_yeon_12",
+      "file": "art/items/relic-codex-v1/relic_yeon_12.png",
+      "size": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        1,
+        21,
+        501,
+        512
+      ],
+      "source": "art/items/relic-codex-v1/yeon-relics.png"
+    },
+    {
+      "id": "relic_yeon_20",
+      "file": "art/items/relic-codex-v1/relic_yeon_20.png",
+      "size": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        31,
+        0,
+        512,
+        482
+      ],
+      "source": "art/items/relic-codex-v1/yeon-relics.png"
+    },
+    {
+      "id": "relic_yeon_24",
+      "file": "art/items/relic-codex-v1/relic_yeon_24.png",
+      "size": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        508,
+        476
+      ],
+      "source": "art/items/relic-codex-v1/yeon-relics.png"
+    },
+    {
+      "id": "relic_yeon_28",
+      "file": "art/items/relic-codex-v1/relic_yeon_28.png",
+      "size": [
+        512,
+        512
+      ],
+      "alphaBounds": [
+        9,
+        1,
+        497,
+        512
+      ],
+      "source": "art/items/relic-codex-v1/yeon-relics.png"
+    }
+  ]
+}

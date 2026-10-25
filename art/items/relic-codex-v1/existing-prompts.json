@@ -1,0 +1,42 @@
+[
+  {
+    "file": "existing-special-1.png",
+    "cols": 3,
+    "rows": 2,
+    "ids": [
+      "chiljido",
+      "taewang_sword",
+      "sak",
+      "horn_bow",
+      "star_chart",
+      "gaema_armor"
+    ],
+    "objects": [
+      "seven-branched ceremonial silver sword AND round blue gold lotus shield together as one set",
+      "royal straight silver sword AND red black gold round shield together, ancient Korean three-legged-bird game emblem",
+      "a single long cavalry lance, silver leaf head dark wood and red ribbon",
+      "a recurved composite horn bow with quiver of arrows, horn ivory and dark brown, gold details",
+      "an opened astronomy star map scroll with golden abstract constellations, dark blue silk gold scroll ends, no legible words",
+      "a standalone complete dark iron lamellar armor cuirass and matching horse neck armor as one set, no people or animal"
+    ],
+    "prompt": "Create a transparent game inventory atlas with exactly 3 columns and 2 rows, equally sized square cells. 6 equipment illustrations. The reference is STYLE ONLY: warm brown outlines, rich hand-painted anime 2D game equipment matching existing art. Ancient Korean fantasy adaptation. Objects completely inside cells with generous15% TRANSPARENT padding, don't touch edges or each other. No labels, text, UI, opaque background, ground, people, or glow beyond objects. Read left to right top row then bottom row: CELL1: seven-branched ceremonial silver sword AND round blue gold lotus shield together as one set; CELL2: royal straight silver sword AND red black gold round shield together, ancient Korean three-legged-bird game emblem; CELL3: a single long cavalry lance, silver leaf head dark wood and red ribbon; CELL4: a recurved composite horn bow with quiver of arrows, horn ivory and dark brown, gold details; CELL5: an opened astronomy star map scroll with golden abstract constellations, dark blue silk gold scroll ends, no legible words; CELL6: a standalone complete dark iron lamellar armor cuirass and matching horse neck armor as one set, no people or animal. Detailed gold silver leather silk and wood materials, clearly distinct silhouettes."
+  },
+  {
+    "file": "existing-special-2.png",
+    "cols": 2,
+    "rows": 2,
+    "ids": [
+      "gold_crown",
+      "samjogo",
+      "fast_horse",
+      "silk"
+    ],
+    "objects": [
+      "ancient Silla golden branching crown with green jade drops, distinctive upright tree-like ornaments",
+      "a small red silk battlefield standard with golden three-legged bird motif, pole base completely visible",
+      "a beautiful brown swift horse with dark mane and tail, gold Korean fantasy harness, entire animal legs ears tail visible, no rider",
+      "five folded shimmering silk fabric lengths in red yellow blue green ivory as one bundle, ornate embroidered edges"
+    ],
+    "prompt": "Create a transparent game inventory atlas with exactly 2 columns and 2 rows, equally sized square cells. 4 equipment illustrations. The reference is STYLE ONLY: warm brown outlines, rich hand-painted anime 2D game equipment matching existing art. Ancient Korean fantasy adaptation. Objects completely inside cells with generous15% TRANSPARENT padding, don't touch edges or each other. No labels, text, UI, opaque background, ground, people, or glow beyond objects. Read left to right top row then bottom row: CELL1: ancient Silla golden branching crown with green jade drops, distinctive upright tree-like ornaments; CELL2: a small red silk battlefield standard with golden three-legged bird motif, pole base completely visible; CELL3: a beautiful brown swift horse with dark mane and tail, gold Korean fantasy harness, entire animal legs ears tail visible, no rider; CELL4: five folded shimmering silk fabric lengths in red yellow blue green ivory as one bundle, ornate embroidered edges. Detailed gold silver leather silk and wood materials, clearly distinct silhouettes."
+  }
+]

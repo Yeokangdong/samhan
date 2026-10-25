@@ -1,0 +1,17 @@
+{
+  "tool": "built-in image_gen",
+  "prompts": [
+    [
+      "class-equipment-v1.png",
+      "Create a transparent PNG inventory sprite sheet, 3 columns by 2 rows, six separate Korean Three Kingdoms 2D hand-painted RPG item illustrations. Warm brown outlines, rich anime shading, matching golden antique inventory artwork. Each item entirely inside its equal square cell with at least 15 percent transparent padding on ALL sides, generous clear gutters. Top row left to right: basic small rolled herbal talisman scroll with plain wood rod; premium folded cream talisman tied with sage green silk and jade bead; ornate golden ritual talisman scroll with red cord. Bottom row left to right: small basic wooden stone-thrower siege cart; reinforced wooden stone catapult with iron bands; ornate heavy wooden catapult with bronze fittings. Siege engines are inventory miniatures, not scenery. All six objects fully visible, no clipping, no letters or text or numbers, transparent background, no shadows crossing cells. No staffs, no weapons from neighboring cells."
+    ],
+    [
+      "catalog-missing-v1.png",
+      "Create transparent PNG inventory sprite sheet 2 columns by 2 rows, four separate Korean Three Kingdoms 2D hand-painted RPG inventory items, brown outlines anime shading same antique equipment art. Each fully inside own equal square cell with 15 percent transparent padding on all sides, wide empty gutters. Top left: antique wooden crossbow with bronze trigger, no arrows projecting outside cell. Top right: cream scholar crane-feather robe with dark trim, no wearer. Bottom left: traditional Korean jeolpung folded dark brown pointed cloth cap with small white feather. Bottom right: folded orange tiger hide with dark stripes, no head or animal body. No text, no numbers, no letters, no labels, no background. Four whole objects, nothing cropped."
+    ],
+    [
+      "ginseng-v1.png",
+      "Transparent PNG of a single wild Korean ginseng root, curled roots and two small green leaves tied with a muted red cord. Korean Three Kingdoms inventory item illustration, warm brown outlines, hand-painted anime shading, matches antique RPG herb icons. Entire isolated object centered with generous transparent padding, no text, no numbers, no scene, no other objects. All root tips fully visible."
+    ]
+  ]
+}

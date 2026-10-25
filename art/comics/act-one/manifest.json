@@ -1,0 +1,1052 @@
+[
+  {
+    "hero": "kim",
+    "number": 1,
+    "title": "낭비성, 첫 번째 발걸음",
+    "place": "낭비성 앞 신라 진영",
+    "objective": "위축된 아군을 모아 전진 경로를 확보한다.",
+    "image": "art/comics/act-one/kim-01.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "kim",
+    "number": 2,
+    "title": "돌아온 깃발의 무게",
+    "place": "낭비성 귀환길",
+    "objective": "후송대와 귀환 병사를 함께 왕경으로 데려온다.",
+    "image": "art/comics/act-one/kim-02.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "kim",
+    "number": 3,
+    "title": "두 장의 명령서",
+    "place": "서라벌 군의청",
+    "objective": "이중 명령의 경위를 밝히고 공동 군령 절차를 만든다.",
+    "image": "art/comics/act-one/kim-03.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "kim",
+    "number": 4,
+    "title": "진흙 위의 약속",
+    "place": "죽령 남쪽 길",
+    "objective": "피난 수레를 통과시키고 군량을 지킨다.",
+    "image": "art/comics/act-one/kim-04.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "kim",
+    "number": 5,
+    "title": "왕이 세운 빈 솥",
+    "place": "진평왕의 야전 진영",
+    "objective": "군량 부정을 조사하고 진평왕의 첫 야전 지휘를 보좌한다.",
+    "image": "art/comics/act-one/kim-05.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "kim",
+    "number": 6,
+    "title": "꺼진 봉화의 답장",
+    "place": "한강 상류 봉수대",
+    "objective": "봉수대와 본진을 함께 지키고 정찰 보고를 대조한다.",
+    "image": "art/comics/act-one/kim-06.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "kim",
+    "number": 7,
+    "title": "언니의 빈 일정표",
+    "place": "산성 보급소",
+    "objective": "교대 지휘를 나누고 보급소의 과로를 해소한다.",
+    "image": "art/comics/act-one/kim-07.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "kim",
+    "number": 8,
+    "title": "지워지지 않는 패전",
+    "place": "서쪽 변경 산성",
+    "objective": "유인전을 빠져나와 패전 원인을 공개한다.",
+    "image": "art/comics/act-one/kim-08.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "kim",
+    "number": 9,
+    "title": "새 왕의 오래된 빚",
+    "place": "서라벌 의정청",
+    "objective": "군비와 세금의 한계를 정하고 국경 사절을 보낸다.",
+    "image": "art/comics/act-one/kim-09.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "kim",
+    "number": 10,
+    "title": "장군들끼리의 전투",
+    "place": "대야성 외곽",
+    "objective": "공동 신호를 정하고 국경전의 피해를 줄인다.",
+    "image": "art/comics/act-one/kim-10.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "gye",
+    "number": 1,
+    "title": "솥뚜껑과 출정 명령",
+    "place": "백제 전진 진영",
+    "objective": "행군 준비와 보급 인원 점검을 마친다.",
+    "image": "art/comics/act-one/gye-01-v2.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "gye",
+    "number": 2,
+    "title": "식지 않은 명령",
+    "place": "백제 전진 진영",
+    "objective": "귀환 병력과 식량을 확인하고 군주의 야전 합류를 준비한다.",
+    "image": "art/comics/act-one/gye-02-v2.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "gye",
+    "number": 3,
+    "title": "다리 위의 첫 양보",
+    "place": "웅진 북쪽 나루",
+    "objective": "나루 다리를 수리하고 군민의 통행 순서를 정한다.",
+    "image": "art/comics/act-one/gye-03-v2.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "gye",
+    "number": 4,
+    "title": "사비로 올라온 반대",
+    "place": "사비 군의청",
+    "objective": "국경 피해를 공개하고 반대 의견을 군의에 남긴다.",
+    "image": "art/comics/act-one/gye-04-v2.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "gye",
+    "number": 5,
+    "title": "의자왕의 진흙 장화",
+    "place": "백강 야전 진영",
+    "objective": "왕의 진지를 안전한 곳으로 옮기고 범람을 막는다.",
+    "image": "art/comics/act-one/gye-05-v2.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "gye",
+    "number": 6,
+    "title": "이기는 사람의 계산",
+    "place": "신라 서쪽 변경",
+    "objective": "유인 추격을 중지하고 후미를 구출한다.",
+    "image": "art/comics/act-one/gye-06-v2.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "gye",
+    "number": 7,
+    "title": "불상 앞의 물음표",
+    "place": "금강 사찰 보급소",
+    "objective": "시주와 군량을 구분하고 주민 구호 창고를 세운다.",
+    "image": "art/comics/act-one/gye-07-v2.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "gye",
+    "number": 8,
+    "title": "돌아온 보고의 리본",
+    "place": "사비 장비청",
+    "objective": "장비 손상으로 적의 우회로를 찾는다.",
+    "image": "art/comics/act-one/gye-08-v2.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "gye",
+    "number": 9,
+    "title": "모르는 말을 묻는 왕족",
+    "place": "백제 귀환 사절 숙소",
+    "objective": "부여풍의 귀국을 맞고 배식과 외교 보고를 바로잡는다.",
+    "image": "art/comics/act-one/gye-09-v2.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "gye",
+    "number": 10,
+    "title": "쫓겨난 지도의 주인",
+    "place": "장흥 길목",
+    "objective": "흥수를 복귀시키고 동서 방어선을 연결한다.",
+    "image": "art/comics/act-one/gye-10-v2.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "yeon",
+    "number": 1,
+    "title": "천리장성의 아침",
+    "place": "북방 축성지",
+    "objective": "보급 수레를 되찾고 일꾼을 진영으로 호위한다.",
+    "image": "art/comics/act-one/yeon-01-v2.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "yeon",
+    "number": 2,
+    "title": "군령을 묻는 새 왕",
+    "place": "평양 공개 군의",
+    "objective": "왕위·군령의 공개 이양과 군주의 친정 준비를 마친다.",
+    "image": "art/comics/act-one/yeon-02-v2.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "yeon",
+    "number": 3,
+    "title": "성벽보다 낮은 창고",
+    "place": "천리장성 보급 초소",
+    "objective": "창고 인력을 돌려보내고 군량로를 지킨다.",
+    "image": "art/comics/act-one/yeon-03-v2.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "yeon",
+    "number": 4,
+    "title": "듣지 못한 마지막 명령",
+    "place": "요동 산길",
+    "objective": "무리한 추격을 멈추고 끊긴 정찰대를 구출한다.",
+    "image": "art/comics/act-one/yeon-04-v2.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "yeon",
+    "number": 5,
+    "title": "왕의 빈 침상",
+    "place": "보장왕의 야전 군영",
+    "objective": "군주의 친정 경계를 조정하고 전체 교대를 회복한다.",
+    "image": "art/comics/act-one/yeon-05-v2.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "yeon",
+    "number": 6,
+    "title": "뒤에서 오는 발소리",
+    "place": "압록 강변 수레길",
+    "objective": "수레길을 복구하고 후방의 철수 요청권을 세운다.",
+    "image": "art/comics/act-one/yeon-06-v2.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "yeon",
+    "number": 7,
+    "title": "첫째의 완벽한 보고",
+    "place": "국내성 연락청",
+    "objective": "거짓 군량 보고를 바로잡고 징발 피해를 돌려준다.",
+    "image": "art/comics/act-one/yeon-07-v2.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "yeon",
+    "number": 8,
+    "title": "안시성의 대답",
+    "place": "안시성 외곽",
+    "objective": "안시성의 현장 지휘와 중앙 구원군을 연결한다.",
+    "image": "art/comics/act-one/yeon-08-v2.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "yeon",
+    "number": 9,
+    "title": "동생들의 다른 약속",
+    "place": "평양 귀환 군의",
+    "objective": "자매들의 중복 약속을 조정하고 공개 반대 절차를 만든다.",
+    "image": "art/comics/act-one/yeon-09-v2.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  },
+  {
+    "hero": "yeon",
+    "number": 10,
+    "title": "모든 성의 이름",
+    "place": "고구려 합동 훈련장",
+    "objective": "부대별 신호를 조정하고 자국 장수들의 공동 군의를 연다.",
+    "image": "art/comics/act-one/yeon-10-v2.png",
+    "panels": [
+      {
+        "page": 1,
+        "col": 0,
+        "row": 0
+      },
+      {
+        "page": 2,
+        "col": 1,
+        "row": 0
+      },
+      {
+        "page": 3,
+        "col": 0,
+        "row": 1
+      },
+      {
+        "page": 4,
+        "col": 1,
+        "row": 1
+      },
+      {
+        "page": 5,
+        "col": 0,
+        "row": 2
+      }
+    ]
+  }
+]

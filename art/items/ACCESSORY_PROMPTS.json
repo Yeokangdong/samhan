@@ -1,0 +1,31 @@
+{
+  "mode": "built-in image_gen",
+  "reference": "art/items/equipment-v1.png",
+  "prompts": [
+    {
+      "file": "straw-shoes-v2.png",
+      "prompt": "Use case: stylized-concept. Asset: single Korean fantasy strategy RPG inventory illustration. Match the input equipment artwork's warm dark brown ink contours, richly hand-painted anime shading, textured materials and refined detail density exactly. Reference input is style only; do not draw the armors or jade. Subject: a matched pair of traditional Korean straw sandals (jipsin), intricately woven golden straw, braided ties, three-quarter view. Center entire subject in a square composition with generous 12% safe margins. Muted warm palette, soft highlights, readable small silhouette. Isolated on genuinely transparent background, no text, no UI, no frame, no ground, no gradient background, no pixel art, no 3D, no photorealism, no flat SVG look."
+    },
+    {
+      "file": "battle-banner-v2.png",
+      "prompt": "Use case: stylized-concept. Asset: single Korean fantasy strategy RPG inventory illustration. Match the input equipment artwork's warm dark brown ink contours, richly hand-painted anime shading, textured materials and refined detail density exactly. Reference input is style only; do not draw the armors or jade. Subject: one compact Korean marching war banner on a wooden pole, rich red silk flag with simple golden diamond emblem, small tassels, entire pole visible, no lettering. Center entire subject in a square composition with generous 12% safe margins. Muted warm palette, soft highlights, readable small silhouette. Isolated on genuinely transparent background, no text, no UI, no frame, no ground, no gradient background, no pixel art, no 3D, no photorealism, no flat SVG look."
+    },
+    {
+      "file": "candy-v1.png",
+      "prompt": "Use case: stylized-concept. Asset: single Korean fantasy strategy RPG inventory illustration. Match the input equipment artwork's warm dark brown ink contours, richly hand-painted anime shading, textured materials and refined detail density exactly. Reference input is style only; do not draw the armors or jade. Subject: a small cluster of three colorful wrapped hard candies, honey amber, soft red and jade green, twisted translucent wrappers, charming morale boosting game accessory. Center entire subject in a square composition with generous 12% safe margins. Muted warm palette, soft highlights, readable small silhouette. Isolated on genuinely transparent background, no text, no UI, no frame, no ground, no gradient background, no pixel art, no 3D, no photorealism, no flat SVG look."
+    },
+    {
+      "file": "rabbit-doll-v1.png",
+      "prompt": "Use case: stylized-concept. Asset: single Korean fantasy strategy RPG inventory illustration. Match the input equipment artwork's warm dark brown ink contours, richly hand-painted anime shading, textured materials and refined detail density exactly. Reference input is style only; do not draw the armors or jade. Subject: one adorable ivory cloth rabbit plush doll, long floppy ears, hand stitched seams, dark bead eyes, small red fabric bow, seated, charming morale boosting game accessory. Center entire subject in a square composition with generous 12% safe margins. Muted warm palette, soft highlights, readable small silhouette. Isolated on genuinely transparent background, no text, no UI, no frame, no ground, no gradient background, no pixel art, no 3D, no photorealism, no flat SVG look."
+    },
+    {
+      "file": "leather-shoes-v1.png",
+      "prompt": "Use case: stylized-concept. Asset: single Korean fantasy strategy RPG inventory illustration. Match the input equipment artwork's warm dark brown ink contours, richly hand-painted anime shading, textured materials and refined detail density exactly. Reference input is style only; do not draw the armors or jade. Subject: a matched pair of traditional low ankle Korean brown leather shoes, supple chestnut leather, stitched seams, cream lining, leather ties, three-quarter view. Center entire subject in a square composition with generous 12% safe margins. Muted warm palette, soft highlights, readable small silhouette. Isolated on genuinely transparent background, no text, no UI, no frame, no ground, no gradient background, no pixel art, no 3D, no photorealism, no flat SVG look."
+    },
+    {
+      "file": "angel-wings-v1.png",
+      "prompt": "Use case: stylized-concept. Asset: single Korean fantasy strategy RPG inventory illustration. Match the input equipment artwork's warm dark brown ink contours, richly hand-painted anime shading, textured materials and refined detail density exactly. Reference input is style only; do not draw the armors or jade. Subject: one symmetrical pair of small ivory feathered angel wings as a wearable fantasy accessory, layered soft feathers, tiny gold clasp connecting them, no person. Center entire subject in a square composition with generous 12% safe margins. Muted warm palette, soft highlights, readable small silhouette. Isolated on genuinely transparent background, no text, no UI, no frame, no ground, no gradient background, no pixel art, no 3D, no photorealism, no flat SVG look."
+    }
+  ],
+  "note": "straw-shoes-v2 is archive only; canonical straw_shoes is now leather shoes per concurrent latest user request."
+}

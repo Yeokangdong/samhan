@@ -1,0 +1,7 @@
+{
+  "mode": "built-in image_gen",
+  "input": "art/items/weapons-v2.png",
+  "output": "art/items/weapons-special-sword-shield-v1.png",
+  "transparentBackground": true,
+  "prompt": "Edit the supplied premium RPG weapon atlas. Retain EXACT 4 columns x 2 rows and landscape 2:1 aspect. Modify ONLY top row first TWO cells: each currently contains a magnificent long sword alone; change each to a LONG SWORD + ROUND SHIELD SET. Keep each existing jeweled bronze-gold sword identifiable, its hilt and full blade clearly readable. Add an elegant round dark lacquered wooden shield with embossed gold/bronze floral or sun boss, gold rim and small jade fittings matching that sword; second shield can use a phoenix motif. Compose sword diagonally behind and beside shield in its own square cell, full items visible, allow transparent margin and don't cross cell edges. The two spears in top cells 3/4 and all four lower-row items (bows, scroll, book) MUST remain unchanged in appearance and position. Keep original detailed anime hand-painted material style with warm dark outlines. TRUE transparent alpha background, no colored vignette, no backdrop, no text, no frames, no people. This is an atlas edit preserving all six other item cells, not a new layout."
+}

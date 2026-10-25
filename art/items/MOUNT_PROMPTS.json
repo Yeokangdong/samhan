@@ -1,0 +1,37 @@
+{
+  "mode": "built-in image_gen",
+  "references": [
+    "art/items/equipment-v1.png",
+    "art/items/leather-shoes-v1.png"
+  ],
+  "items": [
+    {
+      "id": "war_horse",
+      "name": "전투마",
+      "file": "war-horse-v1.png",
+      "subject": "one sturdy chestnut brown cavalry horse, dark brown mane and tail, alert calm expression, simple ancient Korean brown leather bridle, brown saddle and stirrups, muted red saddle blanket with understated bronze fittings. Full body in three-quarter side view facing left, all four legs visible, standing with one front hoof slightly lifted, strong compact slightly stylized proportions, no rider, no armor, no weapons",
+      "prompt": "Use case: stylized-concept. Asset: single inventory mount illustration for Samhan Korean fantasy strategy RPG. Reference images are STYLE ONLY: copy the existing inventory equipment's warm dark brown crisp outlines, rich hand-painted textures, anime cel shading, and warm muted colors. Render a horse in that same 2D hand-drawn art style, not a photo, not 3D, not pixel art, not flat vector. Subject: one sturdy chestnut brown cavalry horse, dark brown mane and tail, alert calm expression, simple ancient Korean brown leather bridle, brown saddle and stirrups, muted red saddle blanket with understated bronze fittings. Full body in three-quarter side view facing left, all four legs visible, standing with one front hoof slightly lifted, strong compact slightly stylized proportions, no rider, no armor, no weapons. One complete horse only centered in square image, entire head, ears, mane, tail and hooves inside generous 12% transparent padding. Clear readable silhouette at small icon size, moderately compact proportions. Genuine transparent background, no floor, no ground shadow, no landscape, no UI, no border, no numbers, no text, no watermark."
+    },
+    {
+      "id": "white_horse",
+      "name": "백마",
+      "file": "white-horse-v1.png",
+      "subject": "one elegant ivory white horse with silver grey mane and long tail, dignified calm expression, ancient Korean red leather bridle, refined dark saddle with small gold fittings, deep crimson and cream embroidered saddle cloth. Full body in three-quarter side view facing left, all four legs visible, proud standing pose with one front hoof slightly lifted, strong compact slightly stylized proportions, no rider, no crown, no wings, no weapons",
+      "prompt": "Use case: stylized-concept. Asset: single inventory mount illustration for Samhan Korean fantasy strategy RPG. Reference images are STYLE ONLY: copy the existing inventory equipment's warm dark brown crisp outlines, rich hand-painted textures, anime cel shading, and warm muted colors. Render a horse in that same 2D hand-drawn art style, not a photo, not 3D, not pixel art, not flat vector. Subject: one elegant ivory white horse with silver grey mane and long tail, dignified calm expression, ancient Korean red leather bridle, refined dark saddle with small gold fittings, deep crimson and cream embroidered saddle cloth. Full body in three-quarter side view facing left, all four legs visible, proud standing pose with one front hoof slightly lifted, strong compact slightly stylized proportions, no rider, no crown, no wings, no weapons. One complete horse only centered in square image, entire head, ears, mane, tail and hooves inside generous 12% transparent padding. Clear readable silhouette at small icon size, moderately compact proportions. Genuine transparent background, no floor, no ground shadow, no landscape, no UI, no border, no numbers, no text, no watermark."
+    },
+    {
+      "id": "swift_horse",
+      "name": "천리마",
+      "file": "swift-horse-v1.png",
+      "subject": "one exceptional swift black horse with subtle blue-grey sheen, flowing charcoal mane and long tail, alert elegant expression, refined ancient Korean dark leather bridle and saddle, teal blue saddle cloth with restrained bronze gold embroidery. Dynamic poised trotting stance in three-quarter side view facing left, all four legs separate and readable, full body, compact strong slightly stylized proportions. No rider, no wings, no horn, no fire, no landscape",
+      "prompt": "Use case: stylized-concept. Asset: single inventory mount illustration for Samhan Korean fantasy strategy RPG. Reference images are STYLE ONLY: copy the existing inventory equipment's warm dark brown crisp outlines, rich hand-painted textures, anime cel shading, and warm muted colors. Render a horse in that same 2D hand-drawn art style, not a photo, not 3D, not pixel art, not flat vector. Subject: one exceptional swift black horse with subtle blue-grey sheen, flowing charcoal mane and long tail, alert elegant expression, refined ancient Korean dark leather bridle and saddle, teal blue saddle cloth with restrained bronze gold embroidery. Dynamic poised trotting stance in three-quarter side view facing left, all four legs separate and readable, full body, compact strong slightly stylized proportions. No rider, no wings, no horn, no fire, no landscape. One complete horse only centered in square image, entire head, ears, mane, tail and hooves inside generous 12% transparent padding. Clear readable silhouette at small icon size, moderately compact proportions. Genuine transparent background, no floor, no ground shadow, no landscape, no UI, no border, no numbers, no text, no watermark."
+    },
+    {
+      "id": "armored_horse",
+      "name": "철갑 전마",
+      "file": "armored-horse-v1.png",
+      "subject": "one powerful dark bay cavalry horse wearing ancient Korean inspired segmented iron barding over neck, chest and flanks, small overlapping charcoal iron plates tied with dark red cords, a simple protective face plate leaving eyes visible, brown saddle and deep crimson saddle cloth with bronze trim. Dignified standing pose in three-quarter side view facing left, all four legs separate and readable, full body, compact strong slightly stylized proportions. No rider, no weapons, no European heraldry, no horn, no wings",
+      "prompt": "Use case: stylized-concept. Asset: single inventory mount illustration for Samhan Korean fantasy strategy RPG. Reference images are STYLE ONLY: copy the existing inventory equipment's warm dark brown crisp outlines, rich hand-painted textures, anime cel shading, and warm muted colors. Render a horse in that same 2D hand-drawn art style, not a photo, not 3D, not pixel art, not flat vector. Subject: one powerful dark bay cavalry horse wearing ancient Korean inspired segmented iron barding over neck, chest and flanks, small overlapping charcoal iron plates tied with dark red cords, a simple protective face plate leaving eyes visible, brown saddle and deep crimson saddle cloth with bronze trim. Dignified standing pose in three-quarter side view facing left, all four legs separate and readable, full body, compact strong slightly stylized proportions. No rider, no weapons, no European heraldry, no horn, no wings. One complete horse only centered in square image, entire head, ears, mane, tail and hooves inside generous 12% transparent padding. Clear readable silhouette at small icon size, moderately compact proportions. Genuine transparent background, no floor, no ground shadow, no landscape, no UI, no border, no numbers, no text, no watermark."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "tool": "built-in image_gen",
+  "source": "docs/design/아이템등급과시나리오유물.json",
+  "jobs": [
+    {
+      "campaign": "kim",
+      "file": "art/items/relic-codex-v1/kim-relics.png",
+      "items": [
+        {
+          "id": "relic_kim_06",
+          "name": "봉화왕명패",
+          "index": 0
+        },
+        {
+          "id": "relic_kim_12",
+          "name": "협곡호위갑",
+          "index": 1
+        },
+        {
+          "id": "relic_kim_14",
+          "name": "구휼청문서",
+          "index": 2
+        },
+        {
+          "id": "relic_kim_24",
+          "name": "철문파쇄포",
+          "index": 3
+        },
+        {
+          "id": "relic_kim_27",
+          "name": "단량연노",
+          "index": 4
+        },
+        {
+          "id": "relic_kim_28",
+          "name": "삼한천광검",
+          "index": 5
+        }
+      ],
+      "prompt": "Create a polished transparent game inventory atlas, exactly THREE columns and TWO rows of equally sized cells, landscape 3:2. Six distinct relic equipment illustrations, reading order left-to-right top row then bottom row. Reference image is STYLE ONLY: warm dark brown outlines, high quality hand-painted anime game equipment, tactile metal wood paper and fabric, 2D not photorealistic or 3D. Each object completely inside its cell with at least 15% empty TRANSPARENT padding on ALL four sides, never touch neighbors. No people, no labels, no text, no price, no UI, no background, no glows spreading beyond cells. Gold metal is relic quality, retain natural silver/wood/leather/paper colors. Ancient fantasy Korean game adaptation, not archaeological reconstruction. Item contents exactly: CELL 1: a golden royal command plaque shaped like a beacon tower, yellow cord and ivory jade; CELL 2: a complete silver lamellar infantry armor cuirass with golden yellow fabric and gold defensive shoulder guards, no person; CELL 3: a relief administration manuscript bundle, ivory paper scrolls, green herbal sprig, yellow binding and gold ends; CELL 4: a WOODEN stone-throwing catapult on wheels with iron reinforced gatebreaker arm, gold trim and yellow ribbons, no cannon or gun; CELL 5: a compact repeating CROSSBOW with a bolt magazine, dark wood and gold, yellow tassel; CELL 6: a magnificent Silla hero straight silver sword AND matching round shield together as one set, heavenly horse emblem, gold and yellow enamel. Keep fine details readable and all weapons/catapult wheels/shield edges fully visible."
+    },
+    {
+      "campaign": "gye",
+      "file": "art/items/relic-codex-v1/gye-relics.png",
+      "items": [
+        {
+          "id": "relic_gye_06",
+          "name": "봉수진혼부",
+          "index": 0
+        },
+        {
+          "id": "relic_gye_10",
+          "name": "사비군령인",
+          "index": 1
+        },
+        {
+          "id": "relic_gye_14",
+          "name": "구민청린갑",
+          "index": 2
+        },
+        {
+          "id": "relic_gye_18",
+          "name": "해문관통궁",
+          "index": 3
+        },
+        {
+          "id": "relic_gye_24",
+          "name": "철벽파진창",
+          "index": 4
+        },
+        {
+          "id": "relic_gye_28",
+          "name": "황산불퇴검",
+          "index": 5
+        }
+      ],
+      "prompt": "Create a polished transparent game inventory atlas, exactly THREE columns and TWO rows of equally sized cells, landscape 3:2. Six distinct relic equipment illustrations, reading order left-to-right top row then bottom row. Reference image is STYLE ONLY: warm dark brown outlines, high quality hand-painted anime game equipment, tactile metal wood paper and fabric, 2D not photorealistic or 3D. Each object completely inside its cell with at least 15% empty TRANSPARENT padding on ALL four sides, never touch neighbors. No people, no labels, no text, no price, no UI, no background, no glows spreading beyond cells. Gold metal is relic quality, retain natural silver/wood/leather/paper colors. Ancient fantasy Korean game adaptation, not archaeological reconstruction. Item contents exactly: CELL 1: a purification paper talisman with abstract unreadable ink seal, blue silk cord, jade and gold ritual frame; CELL 2: a royal square command seal with lotus-shaped gold handle, blue enamel base and blue tassel; CELL 3: a complete blue and silver scale infantry armor cuirass with lotus gold trim, no person; CELL 4: a magnificent recurved BOW and matching arrows in a quiver, blue and ivory with gold lotus details, no crossbow; CELL 5: a long cavalry spear with silver head blue pennant and golden lotus collar; CELL 6: a magnificent Baekje hero straight silver sword AND matching round shield together as one set, lotus emblem in deep blue and gold. Keep fine details readable and all weapons/catapult wheels/shield edges fully visible."
+    },
+    {
+      "campaign": "yeon",
+      "file": "art/items/relic-codex-v1/yeon-relics.png",
+      "items": [
+        {
+          "id": "relic_yeon_06",
+          "name": "장성수호부",
+          "index": 0
+        },
+        {
+          "id": "relic_yeon_08",
+          "name": "북방구휼병서",
+          "index": 1
+        },
+        {
+          "id": "relic_yeon_12",
+          "name": "산협질풍창",
+          "index": 2
+        },
+        {
+          "id": "relic_yeon_20",
+          "name": "평양군령인",
+          "index": 3
+        },
+        {
+          "id": "relic_yeon_24",
+          "name": "장성진천포",
+          "index": 4
+        },
+        {
+          "id": "relic_yeon_28",
+          "name": "오도천명검",
+          "index": 5
+        }
+      ],
+      "prompt": "Create a polished transparent game inventory atlas, exactly THREE columns and TWO rows of equally sized cells, landscape 3:2. Six distinct relic equipment illustrations, reading order left-to-right top row then bottom row. Reference image is STYLE ONLY: warm dark brown outlines, high quality hand-painted anime game equipment, tactile metal wood paper and fabric, 2D not photorealistic or 3D. Each object completely inside its cell with at least 15% empty TRANSPARENT padding on ALL four sides, never touch neighbors. No people, no labels, no text, no price, no UI, no background, no glows spreading beyond cells. Gold metal is relic quality, retain natural silver/wood/leather/paper colors. Ancient fantasy Korean game adaptation, not archaeological reconstruction. Item contents exactly: CELL 1: a fortress protection talisman, red folded fabric pouch, black and gold ritual fittings, tiny stone wall motif, no text; CELL 2: a northern relief military strategy book with ivory pages, black binding red silk and gold corners; CELL 3: a long cavalry spear silver blade red pennant and black gold fittings; CELL 4: a royal command seal with golden three-legged bird-inspired handle, black red enamel and red tassel; CELL 5: a WOODEN stone-throwing siege catapult on wheels, heavy iron fittings, red banner gold rim, no cannon or gun; CELL 6: a magnificent Goguryeo hero straight silver sword AND matching round shield together as one set, golden three-legged bird emblem, red black gold. Keep fine details readable and all weapons/catapult wheels/shield edges fully visible."
+    }
+  ]
+}

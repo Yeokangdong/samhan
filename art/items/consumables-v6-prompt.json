@@ -1,0 +1,5 @@
+{
+  "tool": "built-in image_gen",
+  "file": "art/items/consumables-v6.png",
+  "prompt": "Use case: stylized-concept. One Korean Three Kingdoms RPG consumables sprite atlas, exactly SIX separate inventory icons in a strict 3 columns by 2 rows grid. Reading order: 1 a small open hemp pouch filled with glossy chestnuts; 2 a small woven tray holding dried red jujubes; 3 a single open lotus leaf packet filled with cooked rice; 4 an ancient ceramic tea cup containing green pine needle tea with a tiny pine sprig beside it; 5 a small stoppered ceramic flask of green plum syrup with two plums beside it; 6 a tiny bamboo steamer holding a steamed mugwort herb bundle. Charming polished hand painted 2D anime game illustration, warm clean brown outlines, soft rich shading, simple complete silhouettes, consistent three-quarter view and lighting. Genuine transparent alpha background. Each entire object centered inside inner65% of its own cell, generous transparent margins and gaps. No text no labels no frames no UI no background or shadow clouds. Exact six objects no duplicates. Do not crop any object."
+}

@@ -1,0 +1,644 @@
+{
+  "version": 9,
+  "corrected": 75,
+  "groups": [
+    {
+      "key": "bows",
+      "cols": 3,
+      "rows": 2,
+      "ids": [
+        "short_bow",
+        "maek_bow",
+        "horn_bow",
+        "gold_bow",
+        "dark_horn_bow",
+        "relic_gye_18"
+      ],
+      "ref": "bow",
+      "design": "Exactly6 traditional Korean recurved BOW AND QUIVER pairs. Identical orientation and size: bow on RIGHT of cell, upper limb at upper LEFT and lower limb lower RIGHT, curve bulges RIGHT and taut string on LEFT. Each identical cylindrical leather quiver stands on LEFT of its bow, open top, exactly3 feathered arrows protruding, same height and angle; vary only material/color, never quiver construction. Simple wood bow; jade-green bow; ivory-tipped horn bow; red gold bow; black horn bow; Baekje blue-gold royal bow."
+    },
+    {
+      "key": "crossbows",
+      "cols": 2,
+      "rows": 2,
+      "ids": [
+        "crossbow",
+        "bronze_crossbow",
+        "heavy_crossbow",
+        "relic_kim_27"
+      ],
+      "ref": "bow",
+      "design": "Exactly4 ancient wooden CROSSBOWS WITH BOLT. All have the IDENTICAL three-quarter TOP view, projectile head toward upper RIGHT and wooden stock butt toward lower LEFT, horizontal bow limbs extend upper left and upper right, same angle and dimensions. A single thick wooden bolt on each central rail; no curved handbows or arrow quivers. iron darkwood; weathered bronze darkwood; heavy gold/red; Silla gold/ivory repeating-crossbow with a modest wooden bolt magazine but SAME orientation and overall footprint. Ancient trigger, no modern gun parts."
+    },
+    {
+      "key": "books",
+      "cols": 3,
+      "rows": 3,
+      "ids": [
+        "war_book",
+        "taigong",
+        "star_chart",
+        "march_codex",
+        "celestial_codex",
+        "relic_kim_14",
+        "relic_yeon_08"
+      ],
+      "ref": "book",
+      "design": "Exactly7 traditional Korean cloth-bound military BOOKS, in first7 grid cells; final2 cells completely empty. Identical CLOSED book silhouette, three-quarter front/top view, spine on LEFT, bottom page edges visible below, top edge slopes slightly upward to RIGHT, NEVER mirrored. Same thickness and size. Covers in order: ivory-green taegeuk; deep blue gold dragon; indigo constellation chart; red crossed spears; dark blue golden astronomy; ivory-red charitable relief ledger; black-green northern relief ledger. Gold corner fittings grow richer by rarity. NO bamboo on these7 books."
+    },
+    {
+      "key": "bamboo",
+      "cols": 3,
+      "rows": 1,
+      "ids": [
+        "bamboo",
+        "gilt_bamboo",
+        "formation_scroll"
+      ],
+      "ref": "book",
+      "design": "Exactly3 genuine ancient BAMBOO SLIP SCROLLS, NOT paper or Western books. Each is the SAME horizontally UNROLLED panel of12 narrow vertical bamboo slats connected by2 horizontal dark silk cords. Rolled bundle at LEFT and RIGHT edges, tied slats clearly readable. Identical three-quarter TOP/front view, long upper edge slopes slightly upward to RIGHT, equal size. Plain light brown bamboo and black cords; honey bamboo with jade-green ties and modest gold; dark green/brown tactical bamboo with red-gold bindings. NO hardback book cover, NO paper pages, NO invented text."
+    },
+    {
+      "key": "talismans",
+      "cols": 3,
+      "rows": 3,
+      "ids": [
+        "herb_scroll",
+        "jade_talisman",
+        "golden_talisman",
+        "sun_talisman",
+        "rain_talisman",
+        "wind_talisman",
+        "star_talisman",
+        "relic_gye_06",
+        "relic_yeon_06"
+      ],
+      "ref": "talisman",
+      "design": "Exactly9 Korean ritual paper TALISMANS. ALL face STRAIGHT FRONT, identical upright narrow rectangular silhouette, equal width/height, straight hanging yellow/ivory paper, small gold capped rod top and bottom, small identical cord and tassels. Same exact frontal angle, NO rolled tube lying sideways and NO landscape hanging painting. Rich ornamental abstract ritual ink symbols, no legible writing. Color accents ordered: green herb; jade green; gold protection; red sun; blue rain; green wind; purple star; Baekje deep blue/gold phoenix ward; Goguryeo red/black/gold fortress ward. Vary colors/ornament only."
+    },
+    {
+      "key": "siege",
+      "cols": 3,
+      "rows": 3,
+      "ids": [
+        "wooden_catapult",
+        "reinforced_catapult",
+        "bronze_catapult",
+        "light_catapult",
+        "torsion_catapult",
+        "traction_catapult",
+        "armored_catapult",
+        "relic_kim_24",
+        "relic_yeon_24"
+      ],
+      "ref": "siege",
+      "design": "Exactly9 matching ancient four-wheeled wooden spoon-arm TORSION CATAPULTS. IDENTICAL three-quarter front-left view, throwing bowl/arm raised toward UPPER LEFT, base points LOWER RIGHT, two near wheels visible and corresponding far wheels, same timber chassis and angle. NEVER mirrored, NEVER head-on, no cannons, no firearms. Reading order materials: plain pale wood; iron straps; bronze straps; light bare wood; dark reinforced torsion rope; iron traction fittings; gold armored; Silla ivory-gold siege; Goguryeo black-red siege. Cosmetically distinct, same overall bounding shape and size."
+    },
+    {
+      "key": "armor",
+      "cols": 4,
+      "rows": 4,
+      "ids": [
+        "hide_armor",
+        "scale_armor",
+        "plate_armor",
+        "bright_armor",
+        "gaema_armor",
+        "leather_lamellar",
+        "black_iron_armor",
+        "gilt_armor",
+        "bronze_lamellar",
+        "ring_mail",
+        "black_scale",
+        "red_lamellar",
+        "silver_plate",
+        "gold_general_armor",
+        "relic_kim_12",
+        "relic_gye_14"
+      ],
+      "ref": "armor",
+      "design": "Exactly16 empty Korean historical torso ARMOR suits. STRICT ORTHOGRAPHIC STRAIGHT FRONT: collar centered, two shoulders equal width, belt horizontal, visible front ONLY, NO turned side panel, NO three-quarter view. Same short sleeve shoulder guards and hip-length skirt silhouette; symmetric, whole, equal height. Materials in order: plain hide; iron scales; steel plate; bright silver; dark horse-warrior armor; brown leather lamellar; black iron; gold lamellar; bronze; iron rings; black scales; red leather; silver plate; ornate gold general; Silla ivory-gold relief armor; Baekje blue-green relief armor. No person, mannequin, head, helmet, weapons or shield."
+    },
+    {
+      "key": "robes",
+      "cols": 4,
+      "rows": 4,
+      "ids": [
+        "robe",
+        "silk_robe",
+        "crane_robe",
+        "quilted_coat",
+        "blue_battle_robe",
+        "embroidered_coat",
+        "hemp_robe",
+        "green_scholar_robe",
+        "navy_tao_robe",
+        "white_silk_coat",
+        "purple_coat",
+        "crimson_brocade",
+        "gold_ceremonial_robe"
+      ],
+      "ref": "robe",
+      "design": "Exactly13 empty traditional Korean ROBES in first13 cells, final3 cells fully empty. STRICT ORTHOGRAPHIC FRONT, shoulders level, two sleeves symmetric same width, sash horizontal, whole hip/knee-length coat silhouette, equal height. NO side view, NO turned shoulders, NO back view. Worn shape without a person, NOT folded cloth. Preserve overlapping collar construction but camera exactly centered. Ordered: plain white robe; ivory silk; white crane motifs; tan quilted; royal blue battle robe; green/gold embroidered; coarse tan hemp; scholar green; navy Taoist; pure white silk; purple; red/gold brocade; ceremonial gold. Subtle cloth differences, same pose."
+    },
+    {
+      "key": "bracelets",
+      "cols": 3,
+      "rows": 3,
+      "ids": [
+        "stone_bead_bracelet",
+        "silver_bracelet",
+        "bronze_band_bracelet",
+        "silver_vine_bracelet",
+        "amber_bead_bracelet",
+        "garnet_bead_bracelet",
+        "jade_bangle_bracelet",
+        "gold_dragon_bracelet"
+      ],
+      "ref": "armor",
+      "design": "Exactly8 small WRIST BRACELETS in first8 cells, last cell EMPTY. ALL share same three-quarter TOP-FRONT view with a horizontally elliptical opening (ellipse width1.45 times depth), same wrist-sized outer diameter and scale, sidewall visible on front lower half. Every bracelet is a complete closed loop, not a finger ring, not a necklace, not a cuff opened sideways. In order: gray stone bead bracelet with small cord knot; simple silver engraved bangle; bronze floral bangle; silver vine pearl bangle; amber bead bracelet; red garnet bead bracelet; solid jade bangle gold clasps; ornate gold dragon bangle. Bead bracelets form same ellipse and camera angle as metal bangles. NO loose long necklace string."
+    }
+  ],
+  "entries": {
+    "short_bow": {
+      "file": "consistency-v9/bows.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 0
+    },
+    "maek_bow": {
+      "file": "consistency-v9/bows.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 1
+    },
+    "horn_bow": {
+      "file": "consistency-v9/bows.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 2
+    },
+    "gold_bow": {
+      "file": "consistency-v9/bows.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 3
+    },
+    "dark_horn_bow": {
+      "file": "consistency-v9/bows.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 4
+    },
+    "relic_gye_18": {
+      "file": "consistency-v9/bows.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 5
+    },
+    "crossbow": {
+      "file": "consistency-v9/crossbows.png",
+      "cols": 2,
+      "rows": 2,
+      "index": 0
+    },
+    "bronze_crossbow": {
+      "file": "consistency-v9/crossbows.png",
+      "cols": 2,
+      "rows": 2,
+      "index": 1
+    },
+    "heavy_crossbow": {
+      "file": "consistency-v9/crossbows.png",
+      "cols": 2,
+      "rows": 2,
+      "index": 2
+    },
+    "relic_kim_27": {
+      "file": "consistency-v9/crossbows.png",
+      "cols": 2,
+      "rows": 2,
+      "index": 3
+    },
+    "war_book": {
+      "file": "consistency-v9/books.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 0
+    },
+    "taigong": {
+      "file": "consistency-v9/books.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 1
+    },
+    "star_chart": {
+      "file": "consistency-v9/books.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 2
+    },
+    "march_codex": {
+      "file": "consistency-v9/books.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 3
+    },
+    "celestial_codex": {
+      "file": "consistency-v9/books.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 4
+    },
+    "relic_kim_14": {
+      "file": "consistency-v9/books.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 5
+    },
+    "relic_yeon_08": {
+      "file": "consistency-v9/books.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 6
+    },
+    "bamboo": {
+      "file": "consistency-v9/bamboo.png",
+      "cols": 3,
+      "rows": 1,
+      "index": 0
+    },
+    "gilt_bamboo": {
+      "file": "consistency-v9/bamboo.png",
+      "cols": 3,
+      "rows": 1,
+      "index": 1
+    },
+    "formation_scroll": {
+      "file": "consistency-v9/bamboo.png",
+      "cols": 3,
+      "rows": 1,
+      "index": 2
+    },
+    "herb_scroll": {
+      "file": "consistency-v9/talismans.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 0
+    },
+    "jade_talisman": {
+      "file": "consistency-v9/talismans.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 1
+    },
+    "golden_talisman": {
+      "file": "consistency-v9/talismans.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 2
+    },
+    "sun_talisman": {
+      "file": "consistency-v9/talismans.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 3
+    },
+    "rain_talisman": {
+      "file": "consistency-v9/talismans.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 4
+    },
+    "wind_talisman": {
+      "file": "consistency-v9/talismans.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 5
+    },
+    "star_talisman": {
+      "file": "consistency-v9/talismans.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 6
+    },
+    "relic_gye_06": {
+      "file": "consistency-v9/talismans.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 7
+    },
+    "relic_yeon_06": {
+      "file": "consistency-v9/talismans.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 8
+    },
+    "wooden_catapult": {
+      "file": "consistency-v9/siege.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 0
+    },
+    "reinforced_catapult": {
+      "file": "consistency-v9/siege.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 1
+    },
+    "bronze_catapult": {
+      "file": "consistency-v9/siege.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 2
+    },
+    "light_catapult": {
+      "file": "consistency-v9/siege.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 3
+    },
+    "torsion_catapult": {
+      "file": "consistency-v9/siege.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 4
+    },
+    "traction_catapult": {
+      "file": "consistency-v9/siege.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 5
+    },
+    "armored_catapult": {
+      "file": "consistency-v9/siege.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 6
+    },
+    "relic_kim_24": {
+      "file": "consistency-v9/siege.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 7
+    },
+    "relic_yeon_24": {
+      "file": "consistency-v9/siege.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 8
+    },
+    "hide_armor": {
+      "file": "consistency-v9/armor.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 0
+    },
+    "scale_armor": {
+      "file": "consistency-v9/armor.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 1
+    },
+    "plate_armor": {
+      "file": "consistency-v9/armor.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 2
+    },
+    "bright_armor": {
+      "file": "consistency-v9/armor.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 3
+    },
+    "gaema_armor": {
+      "file": "consistency-v9/armor.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 4
+    },
+    "leather_lamellar": {
+      "file": "consistency-v9/armor.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 5
+    },
+    "black_iron_armor": {
+      "file": "consistency-v9/armor.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 6
+    },
+    "gilt_armor": {
+      "file": "consistency-v9/armor.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 7
+    },
+    "bronze_lamellar": {
+      "file": "consistency-v9/armor.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 8
+    },
+    "ring_mail": {
+      "file": "consistency-v9/armor.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 9
+    },
+    "black_scale": {
+      "file": "consistency-v9/armor.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 10
+    },
+    "red_lamellar": {
+      "file": "consistency-v9/armor.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 11
+    },
+    "silver_plate": {
+      "file": "consistency-v9/armor.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 12
+    },
+    "gold_general_armor": {
+      "file": "consistency-v9/armor.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 13
+    },
+    "relic_kim_12": {
+      "file": "consistency-v9/armor.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 14
+    },
+    "relic_gye_14": {
+      "file": "consistency-v9/armor.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 15
+    },
+    "robe": {
+      "file": "consistency-v9/robes.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 0
+    },
+    "silk_robe": {
+      "file": "consistency-v9/robes.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 1
+    },
+    "crane_robe": {
+      "file": "consistency-v9/robes.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 2
+    },
+    "quilted_coat": {
+      "file": "consistency-v9/robes.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 3
+    },
+    "blue_battle_robe": {
+      "file": "consistency-v9/robes.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 4
+    },
+    "embroidered_coat": {
+      "file": "consistency-v9/robes.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 5
+    },
+    "hemp_robe": {
+      "file": "consistency-v9/robes.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 6
+    },
+    "green_scholar_robe": {
+      "file": "consistency-v9/robes.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 7
+    },
+    "navy_tao_robe": {
+      "file": "consistency-v9/robes.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 8
+    },
+    "white_silk_coat": {
+      "file": "consistency-v9/robes.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 9
+    },
+    "purple_coat": {
+      "file": "consistency-v9/robes.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 10
+    },
+    "crimson_brocade": {
+      "file": "consistency-v9/robes.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 11
+    },
+    "gold_ceremonial_robe": {
+      "file": "consistency-v9/robes.png",
+      "cols": 4,
+      "rows": 4,
+      "index": 12
+    },
+    "stone_bead_bracelet": {
+      "file": "consistency-v9/bracelets.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 0
+    },
+    "silver_bracelet": {
+      "file": "consistency-v9/bracelets.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 1
+    },
+    "bronze_band_bracelet": {
+      "file": "consistency-v9/bracelets.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 2
+    },
+    "silver_vine_bracelet": {
+      "file": "consistency-v9/bracelets.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 3
+    },
+    "amber_bead_bracelet": {
+      "file": "consistency-v9/bracelets.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 4
+    },
+    "garnet_bead_bracelet": {
+      "file": "consistency-v9/bracelets.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 5
+    },
+    "jade_bangle_bracelet": {
+      "file": "consistency-v9/bracelets.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 6
+    },
+    "gold_dragon_bracelet": {
+      "file": "consistency-v9/bracelets.png",
+      "cols": 3,
+      "rows": 3,
+      "index": 7
+    },
+    "relic_kim_06": {
+      "file": "relic-codex-v1/relic_kim_06.png",
+      "cols": 1,
+      "rows": 1,
+      "index": 0
+    },
+    "relic_gye_10": {
+      "file": "relic-codex-v1/relic_gye_10.png",
+      "cols": 1,
+      "rows": 1,
+      "index": 0
+    },
+    "relic_yeon_20": {
+      "file": "relic-codex-v1/relic_yeon_20.png",
+      "cols": 1,
+      "rows": 1,
+      "index": 0
+    }
+  },
+  "sha256": {
+    "bows": "21131ce0e34dd401973ba42bda443d827c1265c8a78dd4f156c811b41c5a3e7f",
+    "crossbows": "abd7b8484cbafde0f2b00c7d267c290999970f2c6bb48a0002f8bccb19470571",
+    "books": "5a231f6e4ffc8de6c183e06f823759316bf1d9564b2659fbd5b74f95312e4efc",
+    "bamboo": "4aaa01270379324a7f68a062265368d60b1c38d100ebad4af7cb53a7e5f602ff",
+    "talismans": "2d302bfe2939945d670de49e2221af32182bae50972fbebd9e7e1ea16d731f27",
+    "siege": "98a0b1900dfb0c42282f26b6e177b814fa6891bff1554b4cbc6c57ea28d7a782",
+    "armor": "e7891217fc2a014d418264f04bf61f63e285623e66ad1356ad0464e348498e46",
+    "robes": "dfb5f2da5ea890f8d8b3b6a65f9e3e506559a78c96c81d0a86e9737b5696fc9f",
+    "bracelets": "b73e2bae27bf492212bfbaa0530cbeebb5777d11dfdca3ec0e093018dc1430d6"
+  },
+  "normalized": 186
+}

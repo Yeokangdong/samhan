@@ -1,0 +1,15 @@
+{
+  "tool": "built-in image_gen",
+  "transparent_background": true,
+  "usage": "Fictional game faction badges, gallery UI only",
+  "assets": [
+    {
+      "file": "tang-dragon-v1.png",
+      "prompt": "A single elegant Tang-inspired coiling dragon heraldic emblem for a Korean illustrated historical fantasy game faction badge. One unmistakable eastern dragon curled in a compact round composition, long whiskers, horns, flowing tail, simple strong silhouette readable at 48px. Warm flat golden yellow with subtle hand-painted paper grain, dark brown ink outlines, restrained two-dimensional animation art matching gold lotus and gold celestial-horse insignia. Not a historical flag reconstruction; fictional game faction decoration. No text, no letters, no shield, no coin, no surrounding frame, no background scene, no gradients into background, no 3D. Entire isolated symbol centered with generous 10% transparent margin, fully transparent background. Square image."
+    },
+    {
+      "file": "wa-sakura-v1.png",
+      "prompt": "A single elegant five-petal cherry blossom crest for the Wa faction of a Korean illustrated historical fantasy game. Five broad symmetrically arranged notched sakura petals, small five-point central floral stamen, bold clear silhouette readable at 48px, clearly distinct from a many-petal lotus. Warm flat golden yellow with subtle hand-painted paper grain, dark brown ink outlines, restrained two-dimensional animation art matching gold lotus and gold celestial-horse insignia. Fictional game decoration, no text, no letters, no seal characters, no shield, no coin, no surrounding frame, no branch, no background scene, no 3D. Entire isolated symbol centered with generous 10% transparent margin, fully transparent background. Square image."
+    }
+  ]
+}

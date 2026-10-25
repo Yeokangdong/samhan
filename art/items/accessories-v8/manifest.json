@@ -1,0 +1,77 @@
+{
+  "version": 8,
+  "entries": {
+    "bronze_hoop_earrings": {
+      "file": "accessories-v8/earring.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 0
+    },
+    "silver_moon_earrings": {
+      "file": "accessories-v8/earring.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 1
+    },
+    "amber_drop_earrings": {
+      "file": "accessories-v8/earring.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 2
+    },
+    "garnet_flower_earrings": {
+      "file": "accessories-v8/earring.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 3
+    },
+    "jade_curve_earrings": {
+      "file": "accessories-v8/earring.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 4
+    },
+    "gold_sun_earrings": {
+      "file": "accessories-v8/earring.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 5
+    },
+    "bronze_band_bracelet": {
+      "file": "accessories-v8/bracelet.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 0
+    },
+    "silver_vine_bracelet": {
+      "file": "accessories-v8/bracelet.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 1
+    },
+    "amber_bead_bracelet": {
+      "file": "accessories-v8/bracelet.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 2
+    },
+    "garnet_bead_bracelet": {
+      "file": "accessories-v8/bracelet.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 3
+    },
+    "jade_bangle_bracelet": {
+      "file": "accessories-v8/bracelet.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 4
+    },
+    "gold_dragon_bracelet": {
+      "file": "accessories-v8/bracelet.png",
+      "cols": 3,
+      "rows": 2,
+      "index": 5
+    }
+  }
+}

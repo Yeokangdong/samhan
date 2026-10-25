@@ -1,0 +1,66 @@
+{
+  "mode": "built-in image_gen",
+  "references": [
+    "art/items/equipment-v1.png",
+    "art/items/consumables-v1.png",
+    "art/items/weapons-sword-shield-v1.png"
+  ],
+  "items": [
+    {
+      "id": "oat_porridge",
+      "name": "귀리죽",
+      "file": "oat-porridge-v1.png",
+      "subject": "one rustic dark brown earthenware bowl filled with thick creamy beige oat porridge, visible soft oat flakes, a small wooden spoon resting across the rim, comforting simple meal, no garnish, not rice",
+      "prompt": "Use case: stylized-concept. Asset: a single inventory illustration for Samhan Korean fantasy strategy RPG. Use the reference images ONLY for style: warm dark brown crisp ink contours, richly textured hand-painted anime colors, detailed material shading, soft warm highlights, polished readable silhouette. Match the equipment and consumables reference artwork, not pixel art, not flat SVG, not photorealistic, not 3D. Subject: one rustic dark brown earthenware bowl filled with thick creamy beige oat porridge, visible soft oat flakes, a small wooden spoon resting across the rim, comforting simple meal, no garnish, not rice. Square composition, fully visible isolated object centered with 12% safe margins, large readable silhouette for small inventory icon. Genuinely transparent background and preserve alpha. No ground, no scene, no gradient background, no labels, no text, no border, no UI, no watermark."
+    },
+    {
+      "id": "barley_rice",
+      "name": "보리밥",
+      "file": "barley-rice-v1.png",
+      "subject": "one rustic brown earthenware bowl filled with a rounded mound of cooked barley grains, distinct plump tan and golden brown grains, no soup, no toppings, a simple nourishing meal",
+      "prompt": "Use case: stylized-concept. Asset: a single inventory illustration for Samhan Korean fantasy strategy RPG. Use the reference images ONLY for style: warm dark brown crisp ink contours, richly textured hand-painted anime colors, detailed material shading, soft warm highlights, polished readable silhouette. Match the equipment and consumables reference artwork, not pixel art, not flat SVG, not photorealistic, not 3D. Subject: one rustic brown earthenware bowl filled with a rounded mound of cooked barley grains, distinct plump tan and golden brown grains, no soup, no toppings, a simple nourishing meal. Square composition, fully visible isolated object centered with 12% safe margins, large readable silhouette for small inventory icon. Genuinely transparent background and preserve alpha. No ground, no scene, no gradient background, no labels, no text, no border, no UI, no watermark."
+    },
+    {
+      "id": "white_rice",
+      "name": "쌀밥",
+      "file": "white-rice-v1.png",
+      "subject": "one muted grey brown ancient Korean earthenware bowl filled with a rounded mound of glossy cooked white rice, individually visible fluffy ivory grains, no toppings, no side dishes",
+      "prompt": "Use case: stylized-concept. Asset: a single inventory illustration for Samhan Korean fantasy strategy RPG. Use the reference images ONLY for style: warm dark brown crisp ink contours, richly textured hand-painted anime colors, detailed material shading, soft warm highlights, polished readable silhouette. Match the equipment and consumables reference artwork, not pixel art, not flat SVG, not photorealistic, not 3D. Subject: one muted grey brown ancient Korean earthenware bowl filled with a rounded mound of glossy cooked white rice, individually visible fluffy ivory grains, no toppings, no side dishes. Square composition, fully visible isolated object centered with 12% safe margins, large readable silhouette for small inventory icon. Genuinely transparent background and preserve alpha. No ground, no scene, no gradient background, no labels, no text, no border, no UI, no watermark."
+    },
+    {
+      "id": "trilobed_sword",
+      "name": "삼엽환두대도",
+      "file": "trilobed-sword-shield-v1.png",
+      "subject": "one ancient Korean Three Kingdoms sword AND round shield inventory set: a slender straight single-edged iron blade, small minimal guard, dark cord wrapped grip, bronze circular ring pommel enclosing a visibly readable three-leaf trefoil motif. Full sword diagonally behind and alongside a dark wooden round shield with a warm bronze rim and bronze central boss. Both complete sword and complete round shield visible, whole sword tip and distinctive trefoil ring pommel visible, neither object clipped. No sheath, no European crossguard, no curved katana, no European heraldry.",
+      "prompt": "Use case: stylized-concept. Asset: a single inventory illustration for Samhan Korean fantasy strategy RPG. Use the reference images ONLY for style: warm dark brown crisp ink contours, richly textured hand-painted anime colors, detailed material shading, soft warm highlights, polished readable silhouette. Match the equipment and consumables reference artwork, not pixel art, not flat SVG, not photorealistic, not 3D. Subject: one ancient Korean Three Kingdoms sword AND round shield inventory set: a slender straight single-edged iron blade, small minimal guard, dark cord wrapped grip, bronze circular ring pommel enclosing a visibly readable three-leaf trefoil motif. Full sword diagonally behind and alongside a dark wooden round shield with a warm bronze rim and bronze central boss. Both complete sword and complete round shield visible, whole sword tip and distinctive trefoil ring pommel visible, neither object clipped. No sheath, no European crossguard, no curved katana, no European heraldry.. Square composition, fully visible isolated object centered with 12% safe margins, large readable silhouette for small inventory icon. Genuinely transparent background and preserve alpha. No ground, no scene, no gradient background, no labels, no text, no border, no UI, no watermark."
+    },
+    {
+      "id": "plate_armor",
+      "name": "판갑옷",
+      "file": "plate-armor-v1.png",
+      "subject": "one ancient Korean Three Kingdoms iron pan-gap plate cuirass, a rigid torso shell made of several broad curved dark iron plates riveted into horizontal bands, rusty charcoal metal and red leather binding, open neck and arm openings, no person, no legs, no sleeves, no European medieval breastplate, no small lamellar scales",
+      "prompt": "Use case: stylized-concept. Asset: a single inventory illustration for Samhan Korean fantasy strategy RPG. Use the reference images ONLY for style: warm dark brown crisp ink contours, richly textured hand-painted anime colors, detailed material shading, soft warm highlights, polished readable silhouette. Match the equipment and consumables reference artwork, not pixel art, not flat SVG, not photorealistic, not 3D. Subject: one ancient Korean Three Kingdoms iron pan-gap plate cuirass, a rigid torso shell made of several broad curved dark iron plates riveted into horizontal bands, rusty charcoal metal and red leather binding, open neck and arm openings, no person, no legs, no sleeves, no European medieval breastplate, no small lamellar scales. Square composition, fully visible isolated object centered with 12% safe margins, large readable silhouette for small inventory icon. Genuinely transparent background and preserve alpha. No ground, no scene, no gradient background, no labels, no text, no border, no UI, no watermark."
+    },
+    {
+      "id": "glass_necklace",
+      "name": "유리구슬 목걸이",
+      "file": "glass-necklace-v1.png",
+      "subject": "one ancient Korean Three Kingdoms glass bead necklace arranged in a graceful oval loop, translucent cobalt blue round beads interspersed with a few turquoise tubular beads, simple cord, modest small central blue bead, no gold, no diamonds, no jade comma pendant, no modern chain",
+      "prompt": "Use case: stylized-concept. Asset: a single inventory illustration for Samhan Korean fantasy strategy RPG. Use the reference images ONLY for style: warm dark brown crisp ink contours, richly textured hand-painted anime colors, detailed material shading, soft warm highlights, polished readable silhouette. Match the equipment and consumables reference artwork, not pixel art, not flat SVG, not photorealistic, not 3D. Subject: one ancient Korean Three Kingdoms glass bead necklace arranged in a graceful oval loop, translucent cobalt blue round beads interspersed with a few turquoise tubular beads, simple cord, modest small central blue bead, no gold, no diamonds, no jade comma pendant, no modern chain. Square composition, fully visible isolated object centered with 12% safe margins, large readable silhouette for small inventory icon. Genuinely transparent background and preserve alpha. No ground, no scene, no gradient background, no labels, no text, no border, no UI, no watermark."
+    },
+    {
+      "id": "silver_bracelet",
+      "name": "은팔찌",
+      "file": "silver-bracelet-v1.png",
+      "subject": "one ancient Korean Three Kingdoms silver bracelet, a thick solid silver circular hoop with a simple raised edge and subtle engraved geometric lines, warm silver highlights and darker oxidized recesses, three-quarter perspective, no gemstones, no watch, no gold, no chain",
+      "prompt": "Use case: stylized-concept. Asset: a single inventory illustration for Samhan Korean fantasy strategy RPG. Use the reference images ONLY for style: warm dark brown crisp ink contours, richly textured hand-painted anime colors, detailed material shading, soft warm highlights, polished readable silhouette. Match the equipment and consumables reference artwork, not pixel art, not flat SVG, not photorealistic, not 3D. Subject: one ancient Korean Three Kingdoms silver bracelet, a thick solid silver circular hoop with a simple raised edge and subtle engraved geometric lines, warm silver highlights and darker oxidized recesses, three-quarter perspective, no gemstones, no watch, no gold, no chain. Square composition, fully visible isolated object centered with 12% safe margins, large readable silhouette for small inventory icon. Genuinely transparent background and preserve alpha. No ground, no scene, no gradient background, no labels, no text, no border, no UI, no watermark."
+    },
+    {
+      "id": "bakkasu",
+      "name": "박카수",
+      "file": "bakkasu-v1.png",
+      "subject": "one tiny whimsical fantasy energy tonic bottle for an ancient Korean comedy RPG, squat amber brown glass bottle with short neck and blue stopper, blank cream paper label with a simple bold blue circular water-drop emblem, small red cord around neck, warm honey liquid subtly visible. Hand-painted cute game item, label contains absolutely no letters, no brand name, no real trademark, no medical symbol, not a modern photographic product",
+      "prompt": "Use case: stylized-concept. Asset: a single inventory illustration for Samhan Korean fantasy strategy RPG. Use the reference images ONLY for style: warm dark brown crisp ink contours, richly textured hand-painted anime colors, detailed material shading, soft warm highlights, polished readable silhouette. Match the equipment and consumables reference artwork, not pixel art, not flat SVG, not photorealistic, not 3D. Subject: one tiny whimsical fantasy energy tonic bottle for an ancient Korean comedy RPG, squat amber brown glass bottle with short neck and blue stopper, blank cream paper label with a simple bold blue circular water-drop emblem, small red cord around neck, warm honey liquid subtly visible. Hand-painted cute game item, label contains absolutely no letters, no brand name, no real trademark, no medical symbol, not a modern photographic product. Square composition, fully visible isolated object centered with 12% safe margins, large readable silhouette for small inventory icon. Genuinely transparent background and preserve alpha. No ground, no scene, no gradient background, no labels, no text, no border, no UI, no watermark."
+    }
+  ]
+}

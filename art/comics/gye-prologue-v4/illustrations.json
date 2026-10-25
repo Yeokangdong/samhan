@@ -1,0 +1,775 @@
+{
+  "version": 4,
+  "tool": "built-in image_gen",
+  "pages": [
+    {
+      "number": 1,
+      "presentation": "illustrated",
+      "image": "art/comics/gye-prologue-v4/sheet-01.png",
+      "panel": 0,
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "계백",
+            "box": [
+              13,
+              34,
+              37,
+              70
+            ]
+          },
+          {
+            "speaker": "윤충",
+            "box": [
+              56,
+              29,
+              82,
+              69
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 2,
+      "presentation": "illustrated",
+      "image": "art/comics/gye-prologue-v4/sheet-01.png",
+      "panel": 1,
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "윤충",
+            "box": [
+              25,
+              27,
+              51,
+              67
+            ]
+          },
+          {
+            "speaker": "계백",
+            "box": [
+              66,
+              38,
+              90,
+              72
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 3,
+      "presentation": "illustrated",
+      "image": "art/comics/gye-prologue-v4/sheet-01.png",
+      "panel": 2,
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "충상",
+            "box": [
+              2,
+              33,
+              18,
+              61
+            ]
+          },
+          {
+            "speaker": "복신",
+            "box": [
+              20,
+              33,
+              36,
+              61
+            ]
+          },
+          {
+            "speaker": "윤충",
+            "box": [
+              40,
+              22,
+              58,
+              52
+            ]
+          },
+          {
+            "speaker": "흑치상지",
+            "box": [
+              63,
+              33,
+              83,
+              61
+            ]
+          },
+          {
+            "speaker": "계백",
+            "box": [
+              82,
+              41,
+              98,
+              67
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 4,
+      "presentation": "illustrated",
+      "image": "art/comics/gye-prologue-v4/sheet-01.png",
+      "panel": 3,
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "흑치상지",
+            "box": [
+              29,
+              31,
+              55,
+              67
+            ]
+          },
+          {
+            "speaker": "계백",
+            "box": [
+              71,
+              36,
+              93,
+              70
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 5,
+      "presentation": "illustrated",
+      "image": "art/comics/gye-prologue-v4/sheet-02.png",
+      "panel": 0,
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "복신",
+            "box": [
+              21,
+              34,
+              47,
+              68
+            ]
+          },
+          {
+            "speaker": "충상",
+            "box": [
+              62,
+              34,
+              88,
+              68
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 6,
+      "presentation": "illustrated",
+      "image": "art/comics/gye-prologue-v4/sheet-02.png",
+      "panel": 1,
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "윤충",
+            "box": [
+              11,
+              31,
+              35,
+              65
+            ]
+          },
+          {
+            "speaker": "충상",
+            "box": [
+              40,
+              31,
+              64,
+              65
+            ]
+          },
+          {
+            "speaker": "계백",
+            "box": [
+              72,
+              34,
+              94,
+              68
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 7,
+      "presentation": "illustrated",
+      "image": "art/comics/gye-prologue-v4/sheet-02.png",
+      "panel": 2,
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "복신",
+            "box": [
+              2,
+              34,
+              22,
+              64
+            ]
+          },
+          {
+            "speaker": "흑치상지",
+            "box": [
+              41,
+              24,
+              65,
+              62
+            ]
+          },
+          {
+            "speaker": "계백",
+            "box": [
+              72,
+              36,
+              94,
+              68
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 8,
+      "presentation": "illustrated",
+      "image": "art/comics/gye-prologue-v4/sheet-02.png",
+      "panel": 3,
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "윤충",
+            "box": [
+              19,
+              36,
+              45,
+              74
+            ]
+          },
+          {
+            "speaker": "복신",
+            "box": [
+              58,
+              23,
+              84,
+              59
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 9,
+      "presentation": "illustrated",
+      "image": "art/comics/gye-prologue-v4/sheet-03.png",
+      "panel": 0,
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "의자왕",
+            "box": [
+              16,
+              18,
+              44,
+              56
+            ]
+          },
+          {
+            "speaker": "계백",
+            "box": [
+              63,
+              42,
+              87,
+              78
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 10,
+      "presentation": "illustrated",
+      "image": "art/comics/gye-prologue-v4/sheet-03.png",
+      "panel": 1,
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "계백",
+            "box": [
+              7,
+              36,
+              27,
+              68
+            ]
+          },
+          {
+            "speaker": "윤충",
+            "box": [
+              38,
+              22,
+              62,
+              58
+            ]
+          },
+          {
+            "speaker": "흑치상지",
+            "box": [
+              72,
+              30,
+              94,
+              66
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 11,
+      "presentation": "illustrated",
+      "image": "art/comics/gye-prologue-v4/sheet-03.png",
+      "panel": 2,
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "복신",
+            "box": [
+              16,
+              36,
+              42,
+              72
+            ]
+          },
+          {
+            "speaker": "계백",
+            "box": [
+              62,
+              30,
+              84,
+              64
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 12,
+      "presentation": "illustrated",
+      "image": "art/comics/gye-prologue-v4/sheet-03.png",
+      "panel": 3,
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "충상",
+            "box": [
+              11,
+              42,
+              37,
+              76
+            ]
+          },
+          {
+            "speaker": "복신",
+            "box": [
+              58,
+              36,
+              86,
+              74
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 13,
+      "presentation": "illustrated",
+      "image": "art/comics/gye-prologue-v4/sheet-04-corrected.png",
+      "panel": 0,
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "흑치상지",
+            "box": [
+              12,
+              34,
+              36,
+              70
+            ]
+          },
+          {
+            "speaker": "윤충",
+            "box": [
+              60,
+              21,
+              86,
+              61
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 14,
+      "presentation": "illustrated",
+      "image": "art/comics/gye-prologue-v4/sheet-04-corrected.png",
+      "panel": 1,
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "윤충",
+            "box": [
+              7,
+              44,
+              27,
+              72
+            ]
+          },
+          {
+            "speaker": "계백",
+            "box": [
+              35,
+              39,
+              55,
+              71
+            ]
+          },
+          {
+            "speaker": "흑치상지",
+            "box": [
+              18,
+              9,
+              38,
+              41
+            ]
+          },
+          {
+            "speaker": "복신",
+            "box": [
+              56,
+              24,
+              76,
+              56
+            ]
+          },
+          {
+            "speaker": "충상",
+            "box": [
+              77,
+              43,
+              97,
+              75
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 15,
+      "presentation": "illustrated",
+      "image": "art/comics/gye-prologue-v4/sheet-04-corrected.png",
+      "panel": 2,
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "흑치상지",
+            "box": [
+              3,
+              40,
+              21,
+              70
+            ]
+          },
+          {
+            "speaker": "계백",
+            "box": [
+              25,
+              46,
+              45,
+              78
+            ]
+          },
+          {
+            "speaker": "윤충",
+            "box": [
+              40,
+              17,
+              62,
+              51
+            ]
+          },
+          {
+            "speaker": "복신",
+            "box": [
+              60,
+              47,
+              78,
+              75
+            ]
+          },
+          {
+            "speaker": "충상",
+            "box": [
+              82,
+              50,
+              98,
+              80
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 16,
+      "presentation": "illustrated",
+      "image": "art/comics/gye-prologue-v4/sheet-04-corrected.png",
+      "panel": 3,
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "복신",
+            "box": [
+              6,
+              40,
+              28,
+              74
+            ]
+          },
+          {
+            "speaker": "계백",
+            "box": [
+              34,
+              41,
+              56,
+              75
+            ]
+          },
+          {
+            "speaker": "흑치상지",
+            "box": [
+              60,
+              32,
+              84,
+              68
+            ]
+          },
+          {
+            "speaker": "충상",
+            "box": [
+              86,
+              43,
+              100,
+              73
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 17,
+      "presentation": "illustrated",
+      "image": "art/comics/gye-prologue-v4/sheet-05.png",
+      "panel": 0,
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "충상",
+            "box": [
+              13,
+              34,
+              37,
+              70
+            ]
+          },
+          {
+            "speaker": "병사",
+            "box": [
+              41,
+              39,
+              65,
+              75
+            ]
+          },
+          {
+            "speaker": "계백",
+            "box": [
+              68,
+              36,
+              92,
+              72
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 18,
+      "presentation": "illustrated",
+      "image": "art/comics/gye-prologue-v4/sheet-05.png",
+      "panel": 1,
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "계백",
+            "box": [
+              5,
+              43,
+              23,
+              73
+            ]
+          },
+          {
+            "speaker": "충상",
+            "box": [
+              21,
+              46,
+              37,
+              76
+            ]
+          },
+          {
+            "speaker": "윤충",
+            "box": [
+              20,
+              17,
+              38,
+              49
+            ]
+          },
+          {
+            "speaker": "흑치상지",
+            "box": [
+              48,
+              34,
+              70,
+              68
+            ]
+          },
+          {
+            "speaker": "복신",
+            "box": [
+              72,
+              26,
+              92,
+              60
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 19,
+      "presentation": "illustrated",
+      "image": "art/comics/gye-prologue-v4/sheet-05.png",
+      "panel": 2,
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "계백",
+            "box": [
+              10,
+              41,
+              36,
+              77
+            ]
+          },
+          {
+            "speaker": "충상",
+            "box": [
+              51,
+              36,
+              77,
+              72
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "number": 20,
+      "presentation": "illustrated",
+      "image": "art/comics/gye-prologue-v4/sheet-05.png",
+      "panel": 3,
+      "layout": {
+        "coordinateSpace": "cropped-panel-percent",
+        "faces": [
+          {
+            "speaker": "계백",
+            "box": [
+              14,
+              47,
+              34,
+              77
+            ]
+          },
+          {
+            "speaker": "윤충",
+            "box": [
+              36,
+              24,
+              54,
+              50
+            ]
+          },
+          {
+            "speaker": "흑치상지",
+            "box": [
+              54,
+              33,
+              74,
+              63
+            ]
+          },
+          {
+            "speaker": "복신",
+            "box": [
+              75,
+              39,
+              91,
+              67
+            ]
+          },
+          {
+            "speaker": "충상",
+            "box": [
+              87,
+              42,
+              100,
+              66
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

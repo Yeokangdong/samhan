@@ -1,0 +1,476 @@
+{
+  "version": 3,
+  "status": "implemented_and_verified",
+  "items": [
+    {
+      "id": "gold_bow",
+      "name": "금각궁",
+      "slot": "w",
+      "kind": "bow",
+      "b": {
+        "atk": 19
+      },
+      "price": 820,
+      "desc": "금장 장식을 더한 상급 활. 공격 +19.",
+      "opt": {},
+      "atlas": "weapons-special-sword-shield-v1.png",
+      "index": 4
+    },
+    {
+      "id": "gilt_bamboo",
+      "name": "옥결 병법죽간",
+      "slot": "w",
+      "kind": "book",
+      "b": {
+        "spi": 20
+      },
+      "price": 780,
+      "desc": "옥 매듭으로 묶은 병법 죽간. 정신력 +20.",
+      "opt": {},
+      "atlas": "weapons-special-sword-shield-v1.png",
+      "index": 6
+    },
+    {
+      "id": "leather_lamellar",
+      "name": "가죽찰갑",
+      "slot": "a",
+      "kind": "armor",
+      "b": {
+        "def": 9
+      },
+      "price": 360,
+      "desc": "가죽 바탕에 작은 철편을 덧댄 갑옷. 방어 +9.",
+      "opt": {},
+      "atlas": "shop-armors-v3.png",
+      "index": 0
+    },
+    {
+      "id": "black_iron_armor",
+      "name": "흑철찰갑",
+      "slot": "a",
+      "kind": "armor",
+      "b": {
+        "def": 20,
+        "agi": -2
+      },
+      "price": 1350,
+      "desc": "검게 벼린 철편을 촘촘히 엮은 갑옷. 방어 +20, 순발 -2.",
+      "opt": {},
+      "atlas": "shop-armors-v3.png",
+      "index": 1
+    },
+    {
+      "id": "gilt_armor",
+      "name": "금동찰갑",
+      "slot": "a",
+      "kind": "armor",
+      "b": {
+        "def": 22
+      },
+      "price": 1700,
+      "desc": "금동 테두리로 보강한 상급 찰갑. 방어 +22.",
+      "opt": {},
+      "atlas": "shop-armors-v3.png",
+      "index": 2
+    },
+    {
+      "id": "quilted_coat",
+      "name": "누비전포",
+      "slot": "a",
+      "kind": "robe",
+      "b": {
+        "def": 8,
+        "spi": 4
+      },
+      "price": 420,
+      "desc": "두툼하게 누벼 바람을 막는 전포. 방어 +8, 정신력 +4.",
+      "opt": {},
+      "atlas": "shop-armors-v3.png",
+      "index": 3
+    },
+    {
+      "id": "blue_battle_robe",
+      "name": "청람전포",
+      "slot": "a",
+      "kind": "robe",
+      "b": {
+        "def": 13,
+        "spi": 12
+      },
+      "price": 1200,
+      "desc": "푸른 비단에 안감을 덧댄 전포. 방어 +13, 정신력 +12.",
+      "opt": {},
+      "atlas": "shop-armors-v3.png",
+      "index": 4
+    },
+    {
+      "id": "embroidered_coat",
+      "name": "금수전포",
+      "slot": "a",
+      "kind": "robe",
+      "b": {
+        "def": 16,
+        "spi": 18
+      },
+      "price": 1650,
+      "desc": "금실 무늬와 두꺼운 안감의 상급 전포. 방어 +16, 정신력 +18.",
+      "opt": {},
+      "atlas": "shop-armors-v3.png",
+      "index": 5
+    },
+    {
+      "id": "silver_guard",
+      "name": "은장 호심패",
+      "slot": "x",
+      "kind": "acc",
+      "b": {
+        "def": 6
+      },
+      "price": 450,
+      "desc": "은장 테두리를 두른 작은 호신 장식. 방어 +6.",
+      "opt": {},
+      "atlas": "shop-accessories-v3.png",
+      "index": 0
+    },
+    {
+      "id": "scent_pouch",
+      "name": "자수향낭",
+      "slot": "x",
+      "kind": "acc",
+      "b": {
+        "spi": 12
+      },
+      "price": 500,
+      "desc": "은은한 향초를 담은 자수 주머니. 정신력 +12.",
+      "opt": {},
+      "atlas": "shop-accessories-v3.png",
+      "index": 1
+    },
+    {
+      "id": "knotted_pendant",
+      "name": "매듭 노리개",
+      "slot": "x",
+      "kind": "acc",
+      "b": {
+        "mor": 12,
+        "agi": 3
+      },
+      "price": 600,
+      "desc": "여러 겹의 비단 매듭과 술 장식. 사기 +12, 순발 +3.",
+      "opt": {},
+      "atlas": "shop-accessories-v3.png",
+      "index": 2
+    },
+    {
+      "id": "blue_jade_ring",
+      "name": "청옥반지",
+      "slot": "x",
+      "kind": "acc",
+      "b": {
+        "spi": 8,
+        "agi": 4
+      },
+      "price": 450,
+      "desc": "작은 청옥을 세공한 반지. 정신력 +8, 순발 +4.",
+      "opt": {},
+      "atlas": "shop-accessories-v3.png",
+      "index": 3
+    },
+    {
+      "id": "rice_ball",
+      "name": "주먹밥",
+      "slot": "use",
+      "kind": "use",
+      "b": {},
+      "price": 50,
+      "desc": "손으로 뭉친 군량 주먹밥. 체력 100 회복.",
+      "opt": {
+        "hp": 100
+      },
+      "atlas": "shop-meals-v3.png",
+      "index": 0
+    },
+    {
+      "id": "foxtail_rice",
+      "name": "조밥",
+      "slot": "use",
+      "kind": "use",
+      "b": {},
+      "price": 80,
+      "desc": "노란 조를 섞어 지은 밥. 체력 160 회복.",
+      "opt": {
+        "hp": 160
+      },
+      "atlas": "shop-meals-v3.png",
+      "index": 1
+    },
+    {
+      "id": "millet_rice",
+      "name": "기장밥",
+      "slot": "use",
+      "kind": "use",
+      "b": {},
+      "price": 120,
+      "desc": "알알이 고소한 기장밥. 체력 240 회복.",
+      "opt": {
+        "hp": 240
+      },
+      "atlas": "shop-meals-v3.png",
+      "index": 2
+    },
+    {
+      "id": "ration_cake",
+      "name": "군량떡",
+      "slot": "use",
+      "kind": "use",
+      "b": {},
+      "price": 150,
+      "desc": "한입씩 먹기 좋게 썬 군량떡. 체력 300 회복.",
+      "opt": {
+        "hp": 300
+      },
+      "atlas": "shop-meals-v3.png",
+      "index": 3
+    },
+    {
+      "id": "dried_meat",
+      "name": "말린 고기",
+      "slot": "use",
+      "kind": "use",
+      "b": {},
+      "price": 200,
+      "desc": "오래 보관할 수 있는 육포 꾸러미. 체력 400 회복.",
+      "opt": {
+        "hp": 400
+      },
+      "atlas": "shop-meals-v3.png",
+      "index": 4
+    },
+    {
+      "id": "honey_preserves",
+      "name": "꿀절임",
+      "slot": "use",
+      "kind": "use",
+      "b": {},
+      "price": 140,
+      "desc": "꿀에 절인 과실. 체력 120과 MP 20 회복.",
+      "opt": {
+        "hp": 120,
+        "mp": 20
+      },
+      "atlas": "shop-meals-v3.png",
+      "index": 5
+    },
+    {
+      "id": "scorched_rice_water",
+      "name": "숭늉",
+      "slot": "use",
+      "kind": "use",
+      "b": {},
+      "price": 35,
+      "desc": "구수하게 우린 숭늉. MP 10 회복.",
+      "opt": {
+        "mp": 10
+      },
+      "atlas": "shop-drinks-v3.png",
+      "index": 0
+    },
+    {
+      "id": "barley_tea",
+      "name": "보리차",
+      "slot": "use",
+      "kind": "use",
+      "b": {},
+      "price": 75,
+      "desc": "볶은 보리로 우린 차. MP 25 회복.",
+      "opt": {
+        "mp": 25
+      },
+      "atlas": "shop-drinks-v3.png",
+      "index": 1
+    },
+    {
+      "id": "omija_drink",
+      "name": "오미자물",
+      "slot": "use",
+      "kind": "use",
+      "b": {},
+      "price": 105,
+      "desc": "붉게 우린 오미자물. MP 35 회복.",
+      "opt": {
+        "mp": 35
+      },
+      "atlas": "shop-drinks-v3.png",
+      "index": 2
+    },
+    {
+      "id": "jujube_tea",
+      "name": "대추차",
+      "slot": "use",
+      "kind": "use",
+      "b": {},
+      "price": 165,
+      "desc": "대추를 푹 달인 차. MP 55 회복.",
+      "opt": {
+        "mp": 55
+      },
+      "atlas": "shop-drinks-v3.png",
+      "index": 3
+    },
+    {
+      "id": "ginger_tea",
+      "name": "생강차",
+      "slot": "use",
+      "kind": "use",
+      "b": {},
+      "price": 210,
+      "desc": "따뜻하게 달인 생강차. MP 70 회복.",
+      "opt": {
+        "mp": 70
+      },
+      "atlas": "shop-drinks-v3.png",
+      "index": 4
+    },
+    {
+      "id": "mugwort_broth",
+      "name": "쑥탕",
+      "slot": "use",
+      "kind": "use",
+      "b": {},
+      "price": 90,
+      "desc": "약쑥을 달인 탕. 체력 80 회복, 혼란·독 해제.",
+      "opt": {
+        "hp": 80,
+        "cure": true
+      },
+      "atlas": "shop-drinks-v3.png",
+      "index": 5
+    },
+    {
+      "id": "breeze_horse",
+      "name": "청풍마",
+      "slot": "m",
+      "kind": "mount",
+      "b": {
+        "mov": 2,
+        "agi": 8
+      },
+      "price": 1250,
+      "desc": "특별한 말 · 승마 가능한 장군 전용. 이동력 +2, 순발 +8.",
+      "opt": {
+        "equipLines": [
+          "lord",
+          "cav",
+          "hcav"
+        ],
+        "special": true
+      },
+      "atlas": "shop-mounts-v3b.png",
+      "index": 0
+    },
+    {
+      "id": "guardian_horse",
+      "name": "호위마",
+      "slot": "m",
+      "kind": "mount",
+      "b": {
+        "mov": 1,
+        "def": 12,
+        "mor": 3
+      },
+      "price": 1400,
+      "desc": "특별한 말 · 승마 가능한 장군 전용. 이동력 +1, 방어 +12, 사기 +3.",
+      "opt": {
+        "equipLines": [
+          "lord",
+          "cav",
+          "hcav"
+        ],
+        "special": true
+      },
+      "atlas": "shop-mounts-v3b.png",
+      "index": 1
+    }
+  ],
+  "catalog": {
+    "w": [
+      "ring_sword",
+      "trilobed_sword",
+      "steel_sword",
+      "long_spear",
+      "cav_lance",
+      "maek_bow",
+      "gold_bow",
+      "war_book",
+      "gilt_bamboo",
+      "taigong"
+    ],
+    "a": [
+      "leather_lamellar",
+      "scale_armor",
+      "plate_armor",
+      "bright_armor",
+      "black_iron_armor",
+      "gilt_armor",
+      "quilted_coat",
+      "silk_robe",
+      "blue_battle_robe",
+      "embroidered_coat"
+    ],
+    "x": [
+      "candy",
+      "bakkasu",
+      "silver_bracelet",
+      "rabbit_doll",
+      "angel_wings",
+      "gilt_jade",
+      "silver_guard",
+      "scent_pouch",
+      "knotted_pendant",
+      "blue_jade_ring"
+    ],
+    "m": [
+      "armored_horse",
+      "swift_horse",
+      "breeze_horse",
+      "guardian_horse"
+    ],
+    "use": [
+      "bean",
+      "oat_porridge",
+      "rice_ball",
+      "barley_rice",
+      "white_rice",
+      "foxtail_rice",
+      "millet_rice",
+      "ration_cake",
+      "dried_meat",
+      "herb",
+      "honey_preserves",
+      "wine",
+      "honey",
+      "scorched_rice_water",
+      "barley_tea",
+      "omija_drink",
+      "jujube_tea",
+      "ginger_tea",
+      "antidote",
+      "mugwort_broth"
+    ]
+  },
+  "validation": {
+    "counts": {
+      "w": 10,
+      "a": 10,
+      "x": 10,
+      "use": 20,
+      "m": 4
+    },
+    "newDefinitions": 26,
+    "newOriginalArtItems": 24,
+    "purchaseTotal": 14350,
+    "browserCombinations": 9,
+    "artLoadChecks": 486,
+    "script": "tools/check-shop-expansion.cjs --art"
+  }
+}

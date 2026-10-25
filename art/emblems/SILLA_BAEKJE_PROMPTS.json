@@ -1,0 +1,10 @@
+{
+  "tool": "built-in image_gen",
+  "reference": "art/title/keyvisual-emblems-v3.png",
+  "kim": "Use case: background-extraction. Reference image: the supplied game title illustration. Create ONE isolated transparent faction emblem, matching the referenced emblem's exact silhouette, proportions, direction and internal detail. No redesign, no badge, no flag cloth, no pole, no text, no landscape, no rectangle. Fully transparent background and generous transparent padding. Flat heraldic ink art suitable at 80px. Extract/reconstruct ONLY the dark brown winged HORSE emblem on the LEFT YELLOW banner above 김유신. Horse faces RIGHT, rears/runs with lifted front legs, two hind legs angled down, long flowing tail to LEFT, tall sweeping feathered wing rising upper-left, flowing mane. Preserve the title emblem design faithfully. Render the emblem itself in warm pale GOLD (#f6d886) so it reads on the gold selection banner, with delicate darker gold internal feather lines.",
+  "gye": "Use case: background-extraction. Reference image: the supplied game title illustration. Create ONE isolated transparent faction emblem, matching the referenced emblem's exact silhouette, proportions, direction and internal detail. No redesign, no badge, no flag cloth, no pole, no text, no landscape, no rectangle. Fully transparent background and generous transparent padding. Flat heraldic ink art suitable at 80px. Extract/reconstruct ONLY the GOLD LOTUS emblem on the CENTRAL BLUE banner above 계백. Match that title lotus exactly: tall pointed central petal with nested inner outline, symmetrical pointed rising side petals, multiple outward spreading lower petals, thin dark blue negative-space separation lines, two small leaf-like lower ornaments. Warm pale gold silhouette, clean golden ink, intricate inside petal outlines. Do not substitute a simple five-petal lotus or realistic flower.",
+  "outputs": [
+    "art/emblems/silla-horse-v1.png",
+    "art/emblems/baekje-lotus-v1.png"
+  ]
+}
